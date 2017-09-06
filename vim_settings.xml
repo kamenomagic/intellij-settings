@@ -6,12 +6,20 @@
       <file name="/Dummy.txt" timestamp="1504426287030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" timestamp="1504661439375">
-        <mark key="'" line="119" column="4" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="150" column="61" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" timestamp="1504662746167">
+        <mark key="'" line="67" column="6" />
+        <mark key="[" line="56" column="28" />
+        <mark key="]" line="56" column="28" />
+        <mark key="." line="56" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/UserService.java" timestamp="1504662114698">
+        <mark key="'" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" timestamp="1504662713840">
+        <mark key="'" line="227" column="69" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" timestamp="1504426511039">
         <mark key="[" line="1" column="0" />
@@ -45,15 +53,21 @@
         <mark key="." line="93" column="81" />
         <mark key="^" line="93" column="81" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1504662124386">
+        <mark key="'" line="30" column="50" />
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="31" column="2" />
+        <mark key="^" line="31" column="2" />
+        <mark key="." line="31" column="2" />
+      </file>
       <file name="/fragment.java" timestamp="1504426287015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/MaintenanceActivity.java" timestamp="1504661433861">
-        <mark key="'" line="91" column="31" />
-        <mark key="[" line="95" column="2" />
-        <mark key="]" line="95" column="31" />
-        <mark key="." line="95" column="31" />
-        <mark key="^" line="95" column="31" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/MaintenanceActivity.java" timestamp="1504662056362">
+        <mark key="'" line="96" column="31" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/lookup/asset/MaintenancePeriod.java" timestamp="1504661318258">
         <mark key="[" line="14" column="4" />
@@ -111,66 +125,178 @@
       <jump line="76" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
       <jump line="119" column="4" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
       <jump line="91" column="31" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/MaintenanceActivity.java" />
+      <jump line="235" column="39" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
+      <jump line="244" column="28" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
+      <jump line="249" column="24" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
+      <jump line="231" column="69" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
+      <jump line="11" column="10" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="19" column="13" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="30" column="50" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/AuthenticationService.java" />
+      <jump line="19" column="4" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="93" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="94" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="124" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="133" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="134" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="165" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="201" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="249" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="290" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="306" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="102" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="132" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="142" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="173" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="209" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="257" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="298" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="314" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="316" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="317" column="63" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="46" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="47" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="48" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="49" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="50" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="51" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="52" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="53" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
+      <jump line="54" column="6" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRNYWludGVuYW5jZUFjdGl2aXR5LnNldE1haW50ZW5hbmNlQWN0aXZpdHlTdGF0dXMobWFpbnRlbmFuY2VBY3Rpdml0eS5nZXRNYWludGVuYW5jZUFjdGl2aXR5U3RhdHVzKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>dueDate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>status</text>
+        <text>currentAssetType</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIERhdGUgZHVlRGF0ZTsK</text>
+      <register name="0" type="4">
+        <text>Equipment</text>
       </register>
       <register name="q" type="4">
-        <text>Jxf,dt)xj0w</text>
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+        </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRNYWludGVuYW5jZUFjdGl2aXR5LnNldE1haW50ZW5hbmNlQWN0aXZpdHlTdGF0dXMobWFpbnRlbmFuY2VBY3Rpdml0eS5nZXRNYWludGVuYW5jZUFjdGl2aXR5U3RhdHVzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdDoKICAgICAgICBnZW5lcmF0ZU90aGVyVGVtcGxhdGUodXNlcik7CiAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2b2lkIGFkZE1haW50ZW5hbmNlQ3ljbGVzKCkgewogIH0K</text>
+        <text encoding="base64">ICAgICAgY2FzZSAiT3RoZXIiOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBATWFueVRvT25lCiAgQEpvaW5Db2x1bW4obmFtZSA9ICJtYWludGVuYW5jZV9zdGF0dXNfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpCiAgcHJpdmF0ZSBNYWludGVuYW5jZUFjdGl2aXR5U3RhdHVzIG1haW50ZW5hbmNlQWN0aXZpdHlTdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgY3VycmVudEFzc2V0VHlwZSA9IGFzc2V0VHlwZVJlcG9zaXRvcnkuZmluZEJ5TmFtZSgiT3RoZXIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHVibGljIE1haW50ZW5hbmNlQWN0aXZpdHlTdGF0dXMgZ2V0TWFpbnRlbmFuY2VBY3Rpdml0eVN0YXR1cygpIHsKICAgIHJldHVybiBtYWludGVuYW5jZUFjdGl2aXR5U3RhdHVzOwogIH0KCiAgcHVibGljIHZvaWQgc2V0TWFpbnRlbmFuY2VBY3Rpdml0eVN0YXR1cygKICAgICAgTWFpbnRlbmFuY2VBY3Rpdml0eVN0YXR1cyBtYWludGVuYW5jZUFjdGl2aXR5U3RhdHVzKSB7CiAgICB0aGlzLm1haW50ZW5hbmNlQWN0aXZpdHlTdGF0dXMgPSBtYWludGVuYW5jZUFjdGl2aXR5U3RhdHVzOwogIH0K</text>
+        <text encoding="base64">ICAgICAgbWFpbnRlbmFuY2VBY3Rpdml0aWVzLmFkZChuZXcgTWFpbnRlbmFuY2VBY3Rpdml0eSgiT3RoZXIiLCBjdXJyZW50QXNzZXRUeXBlKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIERhdGUgZGF0ZUNlcnRhaW47Cg==</text>
+        <text encoding="base64">ICAgICAgbWFpbnRlbmFuY2VBY3Rpdml0aWVzLmFkZChuZXcgTWFpbnRlbmFuY2VBY3Rpdml0eSgiT3RoZXIiLCBjdXJyZW50QXNzZXRUeXBlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1haW50ZW5hbmNlQ3ljbGVzLmFkZChuZXcgTWFpbnRlbmFuY2VDeWNsZSgiVGltZSIpKTsKICAgIG1haW50ZW5hbmNlQ3ljbGVzLmFkZChuZXcgTWFpbnRlbmFuY2VDeWNsZSgiRGlzdGFuY2UiKSk7CiAgICBtYWludGVuYW5jZUN5Y2xlcy5mb3JFYWNoKG1haW50ZW5hbmNlQ3ljbGVSZXBvc2l0b3J5OjpzYXZlKTsK</text>
+        <text encoding="base64">ICAgICAgbWFpbnRlbmFuY2VBY3Rpdml0aWVzLmFkZChuZXcgTWFpbnRlbmFuY2VBY3Rpdml0eSgiT3RoZXIiLCBjdXJyZW50QXNzZXRUeXBlKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFpbnRlbmFuY2VDeWNsZT4gbWFpbnRlbmFuY2VDeWNsZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFpbnRlbmFuY2VDeWNsZT4gbWFpbnRlbmFuY2VDeWNsZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIG1haW50ZW5hbmNlQ3ljbGVzLmFkZChuZXcgTWFpbnRlbmFuY2VDeWNsZSgiVGltZSIpKTsKICAgIG1haW50ZW5hbmNlQ3ljbGVzLmFkZChuZXcgTWFpbnRlbmFuY2VDeWNsZSgiRGlzdGFuY2UiKSk7CiAgICBtYWludGVuYW5jZUN5Y2xlcy5mb3JFYWNoKG1haW50ZW5hbmNlQ3ljbGVSZXBvc2l0b3J5OjpzYXZlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFkZE1haW50ZW5hbmNlQ3ljbGVzKCk7Cg==</text>
+        <text encoding="base64">ICAgIE1haW50ZW5hbmNlUGVyaW9kIG1pbGVzOwogICAgTWFpbnRlbmFuY2VQZXJpb2QgaG91cnM7CiAgICBNYWludGVuYW5jZVBlcmlvZCB3ZWVrczsKICAgIE1haW50ZW5hbmNlUGVyaW9kIG1vbnRoczsKICAgIE1haW50ZW5hbmNlUGVyaW9kIHllYXJzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>status</last-search>
+      <last-search>currentAssetType</last-search>
       <last-offset />
-      <last-pattern>status</last-pattern>
+      <last-pattern>currentAssetType</last-pattern>
+      <last-replace />
+      <last-substitute>Template</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>status</entry>
+        <entry>%s</entry>
+        <entry>Template</entry>
+        <entry>findByName</entry>
+        <entry>Other</entry>
+        <entry>currentAssetType</entry>
       </history-search>
       <history-cmd>
+        <entry>%s/Template//g</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
