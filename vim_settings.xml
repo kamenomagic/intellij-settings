@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1504426287030">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" timestamp="1504425954289">
         <mark key="'" line="67" column="50" />
         <mark key="[" line="39" column="89" />
@@ -10,8 +13,8 @@
         <mark key="." line="39" column="89" />
         <mark key="^" line="39" column="88" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504426287030">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" timestamp="1504659453785">
+        <mark key="'" line="92" column="26" />
       </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" timestamp="1504426511039">
         <mark key="[" line="1" column="0" />
@@ -26,11 +29,18 @@
         <mark key="^" line="35" column="82" />
         <mark key="." line="55" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/AssetService.java" timestamp="1504659056266">
+        <mark key="[" line="98" column="59" />
+        <mark key="]" line="98" column="90" />
+        <mark key="^" line="98" column="90" />
+        <mark key="." line="98" column="90" />
+      </file>
       <file name="/fragment.java" timestamp="1504426287015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/application.properties" timestamp="1504426623687" />
-      <file name="$USER_HOME$/dev/synchronicity/src/main/java/synchronicity/SynchronicityApplication.java" timestamp="1504419684641" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/MaintenanceActivity.java" timestamp="1504659742645">
+        <mark key="'" line="36" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="32" column="21" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
@@ -59,6 +69,8 @@
       <jump line="67" column="50" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" />
       <jump line="1" column="15" filename="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" />
+      <jump line="92" column="26" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
+      <jump line="36" column="18" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/MaintenanceActivity.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -91,7 +103,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -105,17 +117,12 @@
       <last-offset />
       <last-pattern>userCollectionAsset</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>collection</entry>
-        <entry>userCollectionAsset</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>ww</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -126,6 +133,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
