@@ -15,6 +15,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/controllers/lookup/ArchiveNoteSourceController.java" timestamp="1504740506114">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
       <file name="/a.dummy" timestamp="1504664259777">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,7 +293,7 @@
         <text encoding="base64">c2VydmVyLnBvcnQ9ODg5OApzZXJ2ZXIucm9vdD1odHRwOi8vZWMyLTUyLTM3LTIyMi0yNTQudXMtd2VzdC0yLmNvbXB1dGUuYW1hem9uYXdzLmNvbQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -321,8 +327,8 @@
         <entry>%s/User\ user\,\ AssetType\ assetType/Asset asset/g</entry>
         <entry>%s/user\,\ assetType/asset/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
