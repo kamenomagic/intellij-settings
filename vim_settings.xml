@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/project/ProjectService.java" timestamp="1504666099615">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/project/ProjectService.java" timestamp="1504761740215">
+        <mark key="[" line="83" column="91" />
+        <mark key="]" line="83" column="91" />
+        <mark key="." line="83" column="91" />
+        <mark key="^" line="83" column="89" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" timestamp="1504664186571">
         <mark key="'" line="259" column="0" />
@@ -79,12 +80,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="134" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/AssetService.java" timestamp="1504665264273">
-        <mark key="'" line="30" column="10" />
-        <mark key="[" line="107" column="71" />
-        <mark key="]" line="107" column="112" />
-        <mark key="." line="107" column="112" />
-        <mark key="^" line="107" column="112" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/AssetService.java" timestamp="1504761667461">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="140" column="43" />
+        <mark key="]" line="140" column="43" />
+        <mark key="." line="140" column="43" />
+        <mark key="^" line="140" column="43" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" timestamp="1504664044302">
         <mark key="[" line="53" column="0" />
@@ -121,8 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="60" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
-      <jump line="150" column="60" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
       <jump line="151" column="60" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
       <jump line="152" column="60" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
       <jump line="153" column="60" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityTemplateService.java" />
@@ -221,13 +220,15 @@
       <jump line="278" column="34" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityInitializer.java" />
       <jump line="107" column="4" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityInitializer.java" />
       <jump line="1" column="35" filename="$USER_HOME$/dev/java/restorat-backend/src/main/resources/application-default.properties" />
+      <jump line="100" column="53" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="151" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/AssetService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NldC5zZXRJZCgwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>savedAsset</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>assetType</text>
@@ -266,34 +267,34 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NldC5zZXRJZCgwKTsK</text>
+        <text encoding="base64">ICAgICAgQXNzZXQgc2F2ZWRBc3NldCA9IGdldEFzc2V0KGFzc2V0SWQpOwogICAgICBDb2xsZWN0aW9uIG5ld0NvbGxlY3Rpb24gPSBhc3NldC5nZXRDb2xsZWN0aW9uKCk7CiAgICAgIGlmKCFPYmplY3RzLmlzTnVsbChuZXdDb2xsZWN0aW9uKSAmJiB1c2VyQW5kQ29sbGVjdGlvbkFyZUNvbm5lY3RlZChuZXdDb2xsZWN0aW9uLmdldElkKCkpICYmCiAgICAgICAgICB1c2VyQW5kQ29sbGVjdGlvbkV4aXN0KG5ld0NvbGxlY3Rpb24uZ2V0SWQoKSkpIHsKICAgICAgICBzYXZlZEFzc2V0LnNldENvbGxlY3Rpb24obmV3Q29sbGVjdGlvbik7CiAgICAgIH0KICAgICAgc2F2ZWRBc3NldC5zZXRBc3NldEhpc3RvcnkoYXNzZXQuZ2V0QXNzZXRIaXN0b3J5KCkpOwogICAgICBzYXZlZEFzc2V0LnNldEFzc2V0U3RhdHVzKGFzc2V0LmdldEFzc2V0U3RhdHVzKCkpOwogICAgICBzYXZlZEFzc2V0LnNldEFzc2V0VHlwZShhc3NldC5nZXRBc3NldFR5cGUoKSk7CiAgICAgIHNhdmVkQXNzZXQuc2V0Q29uZGl0aW9uQ2xhc3MoYXNzZXQuZ2V0Q29uZGl0aW9uQ2xhc3MoKSk7CiAgICAgIHNhdmVkQXNzZXQuc2V0Q29uZGl0aW9uVHlwZShhc3NldC5nZXRDb25kaXRpb25UeXBlKCkpOwogICAgICBzYXZlZEFzc2V0LnNldERlc2NyaXB0aW9uKGFzc2V0LmdldERlc2NyaXB0aW9uKCkpOwogICAgICBzYXZlZEFzc2V0LnNldFByaW1hcnlQaG90byhhc3NldC5nZXRQcmltYXJ5UGhvdG8oKSk7CiAgICAgIHNhdmVkQXNzZXQuc2V0U2hvcnROYW1lKGFzc2V0LmdldFNob3J0TmFtZSgpKTsKICAgICAgc2F2ZWRBc3NldC5zZXRMb25nTmFtZShhc3NldC5nZXRMb25nTmFtZSgpKTsKICAgICAgc2F2ZWRBc3NldC5zZXRSZWNvcmRlZE1pbGVhZ2UoYXNzZXQuZ2V0UmVjb3JkZWRNaWxlYWdlKCkpOwogICAgICBzYXZlZEFzc2V0LnNldEhvdXJzKGFzc2V0LmdldEhvdXJzKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXQgPSBhc3NldFNlcnZpY2UuZ2V0QXNzZXRSZXBvc2l0b3J5KCkuc2F2ZShhc3NldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NldC5zZXRJZCgwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NldCA9IGFzc2V0U2VydmljZS5nZXRBc3NldFJlcG9zaXRvcnkoKS5zYXZlKGFzc2V0KTsK</text>
+        <text encoding="base64">ICAgICAgYXNzZXQgPSBhc3NldFNlcnZpY2UuZ2V0QXNzZXRSZXBvc2l0b3J5KCkuc2F2ZShhc3NldCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RvcmF0LnJlcG9zaXRvcmllcy5hc3NldC5Bc3NldFR5cGVSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NldCA9IGFzc2V0U2VydmljZS5nZXRBc3NldFJlcG9zaXRvcnkoKS5zYXZlKGFzc2V0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBBc3NldFR5cGVSZXBvc2l0b3J5IG1haW50ZW5hbmNlQWN0aXZpdHlSZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">aW1wb3J0IHJlc3RvcmF0LnJlcG9zaXRvcmllcy5hc3NldC5Bc3NldFR5cGVSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXQuc2V0QXNzZXRUeXBlKGFzc2V0VHlwKTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBBc3NldFR5cGVSZXBvc2l0b3J5IG1haW50ZW5hbmNlQWN0aXZpdHlSZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRBc3NldC5zZXRBc3NldFR5cAo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXQuc2V0QXNzZXRUeXBlKGFzc2V0VHlwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9yZXN0b3JhdD91c2VVbmljb2RlPXRydWUmdXNlSkRCQ0NvbXBsaWFudFRpbWV6b25lU2hpZnQ9dHJ1ZSZ1c2VMZWdhY3lEYXRldGltZUNvZGU9ZmFsc2Umc2VydmVyVGltZXpvbmU9VVRDCnNwcmluZy5kYXRhc291cmNlLnVzZXJuYW1lPXJlc3RvcmF0CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPXJhdApzZWNyZXQ9JHtyYW5kb20udmFsdWV9CnJlc2V0UGFzc3dvcmRMaW5rPSR7c2VydmVyLnJvb3R9OiR7c2VydmVyLnBvcnR9L3NldE5ld1Bhc3N3b3JkLmh0bWwKc210cC5ob3N0PWVtYWlsLXNtdHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20Kc210cC51c2VybmFtZT1BS0lBSURBWENQTVhZUFlKNkpPQQpzbXRwLnBhc3N3b3JkPUFncUZNOWxPajBuNUd2ekFmN3A1bzVmUlhiNVlKTDJCMGlCM0gzMXlYRWh6CnNtdHAuZnJvbT1zLmphY29iLnBvd2VsbEBnbWFpbC5jb20K</text>
+        <text encoding="base64">ICAgICAgc2F2ZWRBc3NldC5zZXRBc3NldFR5cAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9ODg5OApzZXJ2ZXIucm9vdD1odHRwOi8vZWMyLTUyLTM3LTIyMi0yNTQudXMtd2VzdC0yLmNvbXB1dGUuYW1hem9uYXdzLmNvbQo=</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9yZXN0b3JhdD91c2VVbmljb2RlPXRydWUmdXNlSkRCQ0NvbXBsaWFudFRpbWV6b25lU2hpZnQ9dHJ1ZSZ1c2VMZWdhY3lEYXRldGltZUNvZGU9ZmFsc2Umc2VydmVyVGltZXpvbmU9VVRDCnNwcmluZy5kYXRhc291cmNlLnVzZXJuYW1lPXJlc3RvcmF0CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPXJhdApzZWNyZXQ9JHtyYW5kb20udmFsdWV9CnJlc2V0UGFzc3dvcmRMaW5rPSR7c2VydmVyLnJvb3R9OiR7c2VydmVyLnBvcnR9L3NldE5ld1Bhc3N3b3JkLmh0bWwKc210cC5ob3N0PWVtYWlsLXNtdHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20Kc210cC51c2VybmFtZT1BS0lBSURBWENQTVhZUFlKNkpPQQpzbXRwLnBhc3N3b3JkPUFncUZNOWxPajBuNUd2ekFmN3A1bzVmUlhiNVlKTDJCMGlCM0gzMXlYRWh6CnNtdHAuZnJvbT1zLmphY29iLnBvd2VsbEBnbWFpbC5jb20K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -327,8 +328,8 @@
         <entry>%s/User\ user\,\ AssetType\ assetType/Asset asset/g</entry>
         <entry>%s/user\,\ assetType/asset/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
