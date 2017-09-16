@@ -3,14 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1504426287030">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Part.java" timestamp="1505528844805">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="188" column="28" />
+        <mark key="]" line="189" column="41" />
+        <mark key="^" line="189" column="41" />
+        <mark key="." line="189" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" timestamp="1505528201977">
+        <mark key="'" line="78" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/User.json" timestamp="1505528877199" />
+      <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" timestamp="1504427015068">
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" timestamp="1505528788251">
+        <mark key="'" line="63" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/project/ProjectService.java" timestamp="1504890763451">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="72" column="9" />
         <mark key="." line="70" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504426287030">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/testEntities/User.json" timestamp="1504891396044">
         <mark key="'" line="0" column="0" />
@@ -27,15 +47,6 @@
       <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/application.properties" timestamp="1504427010924">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" timestamp="1505528201977">
-        <mark key="'" line="78" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" timestamp="1504427015068">
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-        <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/controllers/general/ArchiveNoteController.java" timestamp="1504425535706">
         <mark key="'" line="25" column="2" />
@@ -82,6 +93,12 @@
       <jump line="22" column="0" filename="$USER_HOME$/dev/restorat-backend/src/main/resources/testEntities/User.json" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/restorat-backend/src/main/resources/testEntities/User.json" />
       <jump line="78" column="12" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" />
+      <jump line="58" column="26" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Part.java" />
+      <jump line="216" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" />
+      <jump line="63" column="18" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" />
+      <jump line="189" column="27" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Part.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Part.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -101,8 +118,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgaWYgKGFzc2V0LmdldFVzZXIoKS5nZXRJZCgpICE9IHVzZXJTZXJ2aWNlLmdldFVzZXIoKS5nZXRJZCgpKSB7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5LnN0YXR1cyhIdHRwU3RhdHVzLkJBRF9SRVFVRVNUKS5idWlsZCgpOwogICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJhZGRyZXNzMSI6ICJ0ZXN0YWRkcmVzczEiLAogICJhZGRyZXNzMiI6ICJ0ZXN0YWRkcmVzczIiLAogICJiaWxsUmF0ZSI6IDEyLAogICJiaXJ0aERhdGUiOiAiMjAxNy0wOC0xNlQwNDoyNzo0Ni40NzBaIiwKICAiY2l0eSI6ICJ0ZXN0Y2l0eSIsCiAgImNvc3RSYXRlIjogMTUsCiAgImNvdW50cnkiOiAidGVzdGNvdW50cnkiLAogICJlbWFpbCI6ICJ0ZXN0ZW1haWxAdGVzdGVtYWlsLmNvbSIsCiAgImZpcnN0TmFtZSI6ICJ0ZXN0Zmlyc3ROYW1lIiwKICAiZnVsbFppcCI6ICIxMjM0NS02Nzg5IiwKICAibGFzdE5hbWUiOiAidGVzdGxhc3ROYW1lIiwKICAibWlkZGxlTmFtZSI6ICJ0ZXN0bWlkZGxlTmFtZSIsCiAgIm5pY2tuYW1lIjogInRlc3RuaWNrbmFtZSIsCiAgInBhc3N3b3JkIjogInRlc3RwYXNzd29yZCIsCiAgInBob25lSG9tZSI6ICIxMjM0NTY3ODkwIiwKICAicGhvbmVNb2JpbGUiOiAiMDk4NzY1NDMyMSIsCiAgInByZWZpeCI6ICJ0ZXN0cHJlZml4IiwKICAic3RhdGUiOiAiVEVYQVMiLAogICJzdWZmaXgiOiAidGVzdHN1ZmZpeCIsCiAgInVzZXJuYW1lIjogInRlc3R1c2VybmFtZSIsCiAgInppcCI6ICIxMjM0NTYiCn0K</text>
+      <register name="&quot;" type="4">
+        <text>recurrin</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2VydmVyLnNzbC5lbmFibGVkPWZhbHNlCg==</text>
@@ -120,10 +137,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>recurrin</text>
       </register>
       <register name="/" type="4">
         <text>userCollectionAsset</text>
@@ -143,8 +160,8 @@
       </history-search>
       <history-cmd>
         <entry>ww</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
