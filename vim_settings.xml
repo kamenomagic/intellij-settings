@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset1/History1.json" timestamp="1505540279964">
+        <mark key="'" line="2" column="25" />
+        <mark key="[" line="4" column="126" />
+        <mark key="]" line="4" column="126" />
+        <mark key="^" line="2" column="840" />
+        <mark key="." line="4" column="126" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Part.java" timestamp="1505537707504">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="50" column="0" />
@@ -23,13 +30,11 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/application/Perform.java" timestamp="1505533991498" />
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset3/Condition3.json" timestamp="1505538563711">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset1/Condition1.json" timestamp="1505538452781" />
       <file name="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" timestamp="1504427015068">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
@@ -56,6 +61,22 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/repositories/asset/AssetRepository.java" timestamp="1505541245790">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset2/Title2.json" timestamp="1505540776862">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/Photo.java" timestamp="1505530454939">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="61" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/SecondaryUser1.json" timestamp="1505531904488">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="18" />
@@ -63,12 +84,23 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset5/Asset5.json" timestamp="1505541409451">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="5" column="39" />
+        <mark key="." line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/SecondaryUser4.json" timestamp="1505531887302">
         <mark key="'" line="9" column="20" />
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="22" />
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset5/Title5.json" timestamp="1505540786302">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" timestamp="1504890548616">
         <mark key="'" line="67" column="50" />
@@ -83,9 +115,15 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1505537825607" />
-      <file name="/dummy.sql" timestamp="1505538723483">
+      <file name="/dummy.sql" timestamp="1505541493263">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/History.java" timestamp="1505540295420">
+        <mark key="'" line="28" column="10" />
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1505533971976">
         <mark key="[" line="0" column="0" />
@@ -97,23 +135,37 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset4/Asset4.json" timestamp="1505538722198">
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset3/Title3.json" timestamp="1505540780094">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset4/Asset4.json" timestamp="1505541395956">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="3" />
         <mark key="]" line="14" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/DataLoader.java" timestamp="1505532208328">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/AssetService.java" timestamp="1505541313612">
+        <mark key="'" line="74" column="37" />
+        <mark key="[" line="75" column="49" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="75" column="130" />
+        <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/User.json" timestamp="1505530412456" />
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" timestamp="1505537705289">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="12" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" timestamp="1505540133558">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="23" />
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/project/ProjectService.java" timestamp="1504890763451">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="72" column="9" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/Collection.java" timestamp="1505537257690">
         <mark key="[" line="33" column="0" />
@@ -127,17 +179,23 @@
         <mark key="^" line="13" column="11" />
         <mark key="." line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/project/BudgetService.java" timestamp="1505529541252">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" timestamp="1505541467262">
+        <mark key="'" line="116" column="43" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" timestamp="1505538687585">
-        <mark key="'" line="89" column="47" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="140" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset1/Title1.json" timestamp="1505540770149">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="11" column="27" />
+        <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/EmailService.java" timestamp="1505533348180">
-        <mark key="'" line="58" column="31" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Title.java" timestamp="1505540666330">
+        <mark key="[" line="137" column="30" />
+        <mark key="]" line="137" column="35" />
+        <mark key="." line="137" column="35" />
+        <mark key="^" line="137" column="35" />
       </file>
       <file name="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/controllers/general/ArchiveNoteController.java" timestamp="1504425535706">
         <mark key="'" line="25" column="2" />
@@ -148,6 +206,11 @@
       </file>
       <file name="/fragment.java" timestamp="1504426287015">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset4/Title4.json" timestamp="1505540783502">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -224,72 +287,87 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset3/Asset3.json" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset4/Asset4.json" />
       <jump line="90" column="47" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="94" column="36" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="100" column="60" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="28" column="10" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/History.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" />
+      <jump line="2" column="25" filename="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset1/History1.json" />
+      <jump line="111" column="32" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="112" column="55" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="113" column="59" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="114" column="51" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="115" column="51" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="116" column="59" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="117" column="43" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="74" column="37" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/AssetService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,
-  &quot;assetType&quot; : {
-    &quot;id&quot; : 1
-  }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiJXMvTm90ZXMlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGopKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3VycmVudEFzc2V0IC0+IGFzc2V0U2VydmljZS5jcmVhdGVBc3NldFJlc3BvbnNlRW50aXR5KGN1cnJlbnRDb2xsZWN0aW9uSWQsIGN1cnJlbnRBc3NldCk=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>cur</text>
+        <text>%d</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-  &quot;assetType&quot; : {
-    &quot;id&quot; : 1
-  }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbG9uZyBjb2xsZWN0aW9uSWQgPSBjb2xsZWN0aW9ucy5nZXQoaSA8IDMgPyAwIDogMSkuZ2V0SWQoKTsKICAgICAgU2VydmljZUludm9rZXI8QXNzZXQ+IGFzc2V0U2VydmljZUludm9rZXIgPSBjdXJyZW50QXNzZXQgLT4gYXNzZXRTZXJ2aWNlLmNyZWF0ZUFzc2V0UmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBjdXJyZW50QXNzZXQpOwogICAgICBTdHJpbmcgcmVsYXRpdmVQYXRoUm9vdCA9IFN0cmluZy5mb3JtYXQoIkNvbGxlY3Rpb25zL0Fzc2V0JWQvIiwgaSk7CiAgICAgIEFzc2V0IGFzc2V0ID0gbG9hZE9iamVjdChBc3NldC5jbGFzcywgU3RyaW5nLmZvcm1hdCgiJXMvQXNzZXQlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkpLCBhc3NldFNlcnZpY2VJbnZva2VyKTsKICAgICAgbG9uZyBhc3NldElkID0gYXNzZXQuZ2V0SWQoKTsKICAgICAgbG9hZE9iamVjdChIaXN0b3J5LmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9IaXN0b3J5JWQiLCByZWxhdGl2ZVBhdGhSb290LCBpKSwgaGlzdG9yeSAtPiBoaXN0b3J5U2VydmljZS5jcmVhdGVIaXN0b3J5UmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCBoaXN0b3J5KSk7CiAgICAgIGxvYWRPYmplY3QoSW5zdXJhbmNlLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9JbnN1cmFuY2UlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkpLCBpbnN1cmFuY2UgLT4gaW5zdXJhbmNlU2VydmljZS5jcmVhdGVJbnN1cmFuY2VSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIGluc3VyYW5jZSkpOwogICAgICBsb2FkT2JqZWN0KE1vZGVsLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9Nb2RlbCVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSksIG1vZGVsIC0+IG1vZGVsU2VydmljZS5jcmVhdGVNb2RlbFJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgbW9kZWwpKTsKICAgICAgbG9hZE9iamVjdChUaXRsZS5jbGFzcywgU3RyaW5nLmZvcm1hdCgiJXMvVGl0bGUlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkpLCB0aXRsZSAtPiB0aXRsZVNlcnZpY2UuY3JlYXRlVGl0bGVSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIHRpdGxlKSk7CiAgICAgIGxvYWRPYmplY3QoVmFsdWF0aW9uLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9WYWx1YXRpb24lZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkpLCB2YWx1YXRpb24gLT4gdmFsdWF0aW9uU2VydmljZS5jcmVhdGVWYWx1YXRpb25SZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIHZhbHVhdGlvbikpOwogICAgICBmb3IoaW50IGogPSAwOyBqIDwgMjsgaisrKSB7CiAgICAgICAgbG9hZE9iamVjdChBY2NyZWRpdGF0aW9uLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9BY2NyZWRpdGF0aW9ucyVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSAqIDIgLSAxICsgaiksIGFjY3JlZGl0YXRpb24gLT4gYWNjcmVkaXRhdGlvblNlcnZpY2UuY3JlYXRlQWNjcmVkaXRhdGlvblJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgYWNjcmVkaXRhdGlvbikpOwogICAgICAgIGxvYWRPYmplY3QoQXdhcmQuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0F3YXJkJWQiLCByZWxhdGl2ZVBhdGhSb290LCBpICogMiAtIDEgKyBqKSwgYXdhcmQgLT4gYXdhcmRTZXJ2aWNlLmNyZWF0ZUF3YXJkUmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCBhd2FyZCkpOwogICAgICB9CiAgICAgIGludCBzdGFydE5vdGVJbmRleCA9IChpIC0gMSkgKiA0ICsgMTsKICAgICAgZm9yKGludCBqID0gc3RhcnROb3RlSW5kZXg7IGogPCBzdGFydE5vdGVJbmRleCArIDQ7IGorKykgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTdHJpbmcuZm9ybWF0KCIlcy9Ob3RlcyVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSAqIGkgLSAzICsgaikpOwogICAgICAgIGxvYWRPYmplY3QoQXJjaGl2ZU5vdGUuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL05vdGVzJWQiLCByZWxhdGl2ZVBhdGhSb290LCBpICogaSAtIDMgKyBqKSwgYXJjaGl2ZU5vdGUgLT4gYXJjaGl2ZU5vdGVTZXJ2aWNlLmNyZWF0ZUFyY2hpdmVOb3RlUmVzcG9uc2VFbnRpdHkoYXNzZXRJZCwgYXJjaGl2ZU5vdGUpKTsKICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="102" code="0" mods="0" />
-          <key char="67" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="110" code="0" mods="0" />
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNlcnZpY2VJbnZva2VyPEFzc2V0PiBhc3NldFNlcnZpY2VJbnZva2VyID0gY3VycmVudEFzc2V0IC0+IGFzc2V0U2VydmljZS5jcmVhdGVBc3NldFJlc3BvbnNlRW50aXR5KGN1cnJlbnRDb2xsZWN0aW9uSWQsIGN1cnJlbnRBc3NldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiJXMvTm90ZXMlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGopKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQXNzZXQgYXNzZXQgPSBkZXNlcmlhbGl6ZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXQuc2V0QXNzZXRUeXBlKGF1dG9tb2JpbGUpOwo=</text>
+        <text encoding="base64">ICAgIGludCBzdGFydE5vdGVJbmRleCA9IChpIC0gMSkgKiA0ICsgMTsKICAgIGZvcihpbnQgaiA9IHN0YXJ0Tm90ZUluZGV4OyBqIDwgc3RhcnROb3RlSW5kZXggKyA0OyBqKyspIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN0cmluZy5mb3JtYXQoIiVzL05vdGVzJWQiLCByZWxhdGl2ZVBhdGhSb290LCBpICogaSAtIDMgKyBqKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFzc2V0VHlwZSBhdXRvbW9iaWxlID0gYXNzZXRUeXBlUmVwb3NpdG9yeS5maW5kQnlOYW1lKCJBdXRvbW9iaWxlIik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBBc3NldFR5cGVSZXBvc2l0b3J5IGFzc2V0VHlwZVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgIGZvcihpbnQgaiA9IDA7IGogPCAyOyBqKyspIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBnZXRBc3NldHMoY29sbGVjdGlvbklkKS5zdHJlYW0oKQogICAgICAgIC5maWx0ZXIoYXNzZXQgLT4gYXNzZXQuZ2V0SWQoKSA9PSBhc3NldElkKS5maW5kQW55KCkuaXNQcmVzZW50KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJudW1iZXIiOiAzCg==</text>
+        <text encoding="base64">ICAgICAgbG9hZE9iamVjdChUaXRsZS5jbGFzcywgU3RyaW5nLmZvcm1hdCgiJXMvVGl0bGUlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkpLCB0aXRsZSAtPiB0aXRsZVNlcnZpY2UuY3JlYXRlVGl0bGVSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIHRpdGxlKSk7CiAgICAgIGxvYWRPYmplY3QoVmFsdWF0aW9uLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9WYWx1YXRpb24lZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkpLCB2YWx1YXRpb24gLT4gdmFsdWF0aW9uU2VydmljZS5jcmVhdGVWYWx1YXRpb25SZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIHZhbHVhdGlvbikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBmb3IoaW50IGogPSAwOyBqIDwgMjsgaisrKSB7Ci8vICAgICAgICBsb2FkT2JqZWN0KEFjY3JlZGl0YXRpb24uY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0FjY3JlZGl0YXRpb25zJWQiLCByZWxhdGl2ZVBhdGhSb290LCBpICogMiAtIDEgKyBqKSwgYWNjcmVkaXRhdGlvbiAtPiBhY2NyZWRpdGF0aW9uU2VydmljZS5jcmVhdGVBY2NyZWRpdGF0aW9uUmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCBhY2NyZWRpdGF0aW9uKSk7Ci8vICAgICAgICBsb2FkT2JqZWN0KEF3YXJkLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9Bd2FyZCVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSAqIDIgLSAxICsgaiksIGF3YXJkIC0+IGF3YXJkU2VydmljZS5jcmVhdGVBd2FyZFJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgYXdhcmQpKTsKLy8gICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJudW1iZXIiOiAzCg==</text>
+        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cur</last-search>
+      <last-search>%d</last-search>
       <last-offset />
-      <last-pattern>cur</last-pattern>
+      <last-pattern>%d</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -301,16 +379,20 @@
         <entry>secondary</entry>
         <entry>1</entry>
         <entry>cur</entry>
+        <entry>ass</entry>
+        <entry>History</entry>
+        <entry encoding="base64">XDxGb3JkXD4=</entry>
+        <entry>%d</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
         <entry>e</entry>
         <entry>ew</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>2</entry>
-        <entry>w</entry>
+        <entry>noh</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
