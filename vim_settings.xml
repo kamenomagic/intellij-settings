@@ -222,6 +222,12 @@
       <file name="/dummy.sql" timestamp="1505543758562">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/UserComponent.java" timestamp="1505715656745">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/History.java" timestamp="1505540295420">
         <mark key="'" line="28" column="10" />
         <mark key="[" line="30" column="17" />
@@ -393,10 +399,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICBASnNvblByb3BlcnR5KGFjY2VzcyA9IEFjY2Vzcy5XUklURV9PTkxZKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>badRequest</text>
+        <text>costMaterials</text>
       </register>
       <register name="/" type="4">
         <text>%d</text>
@@ -424,31 +430,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICBASnNvblByb3BlcnR5KGFjY2VzcyA9IEFjY2Vzcy5XUklURV9PTkxZKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASnNvbklnbm9yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hCg==</text>
+        <text encoding="base64">ICBASnNvbklnbm9yZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIE1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeSBtYWludGVuYW5jZVBlcmlvZFJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBNYWludGVuYW5jZVBlcmlvZCBkYXRlQ2VydGFpbiA9IG1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeS5maW5kQnlOYW1lKCIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJUaGFua3MgZm9yIGNob29zaW5nIFJlc3RvLVJhdDxicj48YnI+IiArCg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIE1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeSBtYWludGVuYW5jZVBlcmlvZFJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiVGhhbmtzIGZvciBjaG9vc2luZyBSZXN0by1SYXQuPGJyPjxicj4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBNYWludGVuYW5jZVBlcmlvZCBkYXRlQ2VydGFpbiA9IG1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeS5maW5kQnlOYW1lKCIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJUaGFua3MgZm9yIGNob29zaW5nIFJlc3RvLVJhdDxicj48YnI+IiArCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
