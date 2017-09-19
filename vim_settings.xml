@@ -105,11 +105,11 @@
         <mark key="]" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/ComponentService.java" timestamp="1505696139287">
-        <mark key="'" line="125" column="0" />
-        <mark key="[" line="103" column="60" />
-        <mark key="]" line="104" column="6" />
-        <mark key="." line="104" column="6" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/ComponentService.java" timestamp="1505789440790">
+        <mark key="'" line="78" column="4" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="6" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/User.json" timestamp="1505694828994">
@@ -296,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="65" column="69" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="72" column="4" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="82" column="6" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
@@ -396,10 +395,11 @@
       <jump line="35" column="13" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/Component.java" />
       <jump line="11" column="13" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/asset/MaintenanceActivityService.java" />
       <jump line="18" column="13" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/MaintenanceActivity.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/ComponentService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBASnNvblByb3BlcnR5KGFjY2VzcyA9IEFjY2Vzcy5XUklURV9PTkxZKQo=</text>
+        <text encoding="base64">ICAgICAgc2F2ZWRDb21wb25lbnQuc2V0UGFyZW50KGNvbXBvbmVudC5nZXRQYXJlbnQoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>costMaterials</text>
@@ -430,31 +430,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBASnNvblByb3BlcnR5KGFjY2VzcyA9IEFjY2Vzcy5XUklURV9PTkxZKQo=</text>
+        <text encoding="base64">ICAgICAgc2F2ZWRDb21wb25lbnQuc2V0UGFyZW50KGNvbXBvbmVudC5nZXRQYXJlbnQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBASnNvblByb3BlcnR5KGFjY2VzcyA9IEFjY2Vzcy5XUklURV9PTkxZKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBASnNvbklnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBASnNvbklnbm9yZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIE1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeSBtYWludGVuYW5jZVBlcmlvZFJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBNYWludGVuYW5jZVBlcmlvZCBkYXRlQ2VydGFpbiA9IG1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeS5maW5kQnlOYW1lKCIiKTsK</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIE1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeSBtYWludGVuYW5jZVBlcmlvZFJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICJUaGFua3MgZm9yIGNob29zaW5nIFJlc3RvLVJhdDxicj48YnI+IiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBNYWludGVuYW5jZVBlcmlvZCBkYXRlQ2VydGFpbiA9IG1haW50ZW5hbmNlUGVyaW9kUmVwb3NpdG9yeS5maW5kQnlOYW1lKCIiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
