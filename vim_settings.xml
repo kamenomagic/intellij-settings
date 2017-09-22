@@ -92,12 +92,6 @@
         <mark key="^" line="130" column="17" />
         <mark key="." line="130" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/Component.java" timestamp="1505696101943">
-        <mark key="'" line="34" column="13" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/SecondaryUser2.json" timestamp="1505531900086">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="18" />
@@ -112,11 +106,11 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/User1.json" timestamp="1506060625263">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="15" column="27" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="15" column="27" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/User1.json" timestamp="1506062290370">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/User.json" timestamp="1505694828994">
         <mark key="[" line="7" column="12" />
@@ -140,12 +134,8 @@
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/project/BudgetService.java" timestamp="1505529541252">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" timestamp="1505923277045">
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/TestDataLoader.java" timestamp="1506062380677">
         <mark key="'" line="120" column="4" />
-        <mark key="[" line="85" column="92" />
-        <mark key="]" line="85" column="93" />
-        <mark key="." line="85" column="93" />
-        <mark key="^" line="81" column="92" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/EmailService.java" timestamp="1505923598096">
         <mark key="'" line="39" column="2" />
@@ -232,11 +222,12 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/notifications/Weekly.java" timestamp="1505548725478">
-        <mark key="[" line="66" column="32" />
-        <mark key="]" line="66" column="60" />
-        <mark key="^" line="66" column="60" />
-        <mark key="." line="66" column="60" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/notifications/Weekly.java" timestamp="1506062770477">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="2" />
+        <mark key="]" line="49" column="8" />
+        <mark key="^" line="49" column="8" />
+        <mark key="." line="49" column="8" />
       </file>
       <file name="/dummy.sql" timestamp="1505921642180">
         <mark key="[" line="0" column="0" />
@@ -271,12 +262,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="75" column="130" />
         <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/project/ProjectService.java" timestamp="1504890763451">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="72" column="9" />
-        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/resources/testEntities/Collections/Asset1/Asset1.json" timestamp="1505538718173">
         <mark key="[" line="11" column="3" />
@@ -317,10 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="13" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
-      <jump line="47" column="20" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
-      <jump line="76" column="13" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
-      <jump line="78" column="20" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="98" column="13" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="100" column="20" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="107" column="0" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
@@ -417,13 +398,17 @@
       <jump line="97" column="47" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/AuthenticationService.java" />
       <jump line="33" column="12" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/Photo.java" />
       <jump line="47" column="11" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/UserComponent.java" />
+      <jump line="53" column="27" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/notifications/Weekly.java" />
+      <jump line="49" column="8" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/notifications/Weekly.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/notifications/Weekly.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/notifications/Weekly.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>%d</text>
@@ -451,31 +436,31 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdlZWtseS5zZW5kKGF1dGhlbnRpY2F0aW9uU2VydmljZS5nZXRVc2VyKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHdlZWtseS5zZW5kKGF1dGhlbnRpY2F0aW9uU2VydmljZS5nZXRVc2VyKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBASnNvbklnbm9yZVByb3BlcnRpZXMoIiIpCg==</text>
+        <text encoding="base64">ICAgIHdlZWtseS5zZW5kKGF1dGhlbnRpY2F0aW9uU2VydmljZS5nZXRVc2VyKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmVhcmVyICIgKyBhdXRoZW50aWNhdGlvblNlcnZpY2UubG9naW4oZGVzZXJpYWxpemUoVXNlci5jbGFzcywgIlVzZXIiKSkuZ2V0SGVhZGVycygpLmdldChIdHRwSGVhZGVycy5BVVRIT1JJWkFUSU9OKS5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5hcHBlbmQoU3RyaW5nLmZvcm1hdCgiJS0zMHM8YnI+JS0zMHM8YnI+JS0zMHM8YnI+IiwKICAgICAgICAgICAgYXNzZXQuZ2V0U2hvcnROYW1lKCkgPT0gbnVsbCA/ICJObyBOYW1lIEFzc2V0IiA6IGFzc2V0LmdldFNob3J0TmFtZSgpLAogICAgICAgICAgICAiUmVjb3JkZWQgTWlsZWFnZTogIiArIGFzc2V0LmdldFJlY29yZGVkTWlsZWFnZSgpLAogICAgICAgICAgICAiSG91cnM6ICIgKyBhc3NldC5nZXRIb3VycygpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmVhcmVyICIgKyBhdXRoZW50aWNhdGlvblNlcnZpY2UubG9naW4oZGVzZXJpYWxpemUoVXNlci5jbGFzcywgIlVzZXIiKSkuZ2V0SGVhZGVycygpLmdldChIdHRwSGVhZGVycy5BVVRIT1JJWkFUSU9OKS5nZXQoMCkpOwogICAgYXV0aGVudGljYXRpb24uc2V0TG9nZ2VkSW5Vc2VyKHVzZXIuZ2V0SWQoKSk7CiAgICBMaXN0PFNlY29uZGFyeVVzZXI+IHNlY29uZGFyeVVzZXJzID0gbG9hZE9iamVjdHMoU2Vjb25kYXJ5VXNlci5jbGFzcywgIlNlY29uZGFyeVVzZXIiLCA0LCBzZWNvbmRhcnlVc2VyU2VydmljZTo6YWRkU2Vjb25kYXJ5VXNlclJlc3BvbnNlRW50aXR5KTsKICAgIExpc3Q8VmVuZG9yPiB2ZW5kb3JzID0gbG9hZE9iamVjdHMoVmVuZG9yLmNsYXNzLCAiVmVuZG9yIiwgMywgdmVuZG9yU2VydmljZTo6Y3JlYXRlVmVuZG9yUmVzcG9uc2VFbnRpdHkpOwogICAgTGlzdDxDb2xsZWN0aW9uPiBjb2xsZWN0aW9ucyA9IGxvYWRPYmplY3RzKENvbGxlY3Rpb24uY2xhc3MsICJDb2xsZWN0aW9ucy9Db2xsZWN0aW9uIiwgMiwgY29sbGVjdGlvblNlcnZpY2U6OmNyZWF0ZUNvbGxlY3Rpb25SZXNwb25zZUVudGl0eSk7CiAgICBmb3IgKGludCBpID0gMTsgaSA8IDU7IGkrKykgewogICAgICBsb25nIGNvbGxlY3Rpb25JZCA9IGNvbGxlY3Rpb25zLmdldChpIDwgMyA/IDAgOiAxKS5nZXRJZCgpOwogICAgICBTZXJ2aWNlSW52b2tlcjxBc3NldD4gYXNzZXRTZXJ2aWNlSW52b2tlciA9IGN1cnJlbnRBc3NldCAtPiBhc3NldFNlcnZpY2UuY3JlYXRlQXNzZXRSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGN1cnJlbnRBc3NldCk7CiAgICAgIFN0cmluZyByZWxhdGl2ZVBhdGhSb290ID0gU3RyaW5nLmZvcm1hdCgiQ29sbGVjdGlvbnMvQXNzZXQlZC8iLCBpKTsKICAgICAgQXNzZXQgYXNzZXQgPSBsb2FkT2JqZWN0KEFzc2V0LmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9Bc3NldCVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSksIGFzc2V0U2VydmljZUludm9rZXIpOwogICAgICBsb25nIGFzc2V0SWQgPSBhc3NldC5nZXRJZCgpOwogICAgICBsb2FkT2JqZWN0KEhpc3RvcnkuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0hpc3RvcnklZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkpLCBoaXN0b3J5IC0+IGhpc3RvcnlTZXJ2aWNlLmNyZWF0ZUhpc3RvcnlSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIGhpc3RvcnkpKTsKICAgICAgbG9hZE9iamVjdChJbnN1cmFuY2UuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0luc3VyYW5jZSVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSksIGluc3VyYW5jZSAtPiBpbnN1cmFuY2VTZXJ2aWNlLmNyZWF0ZUluc3VyYW5jZVJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgaW5zdXJhbmNlKSk7CiAgICAgIGxvYWRPYmplY3QoTW9kZWwuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL01vZGVsJWQiLCByZWxhdGl2ZVBhdGhSb290LCBpKSwgbW9kZWwgLT4gbW9kZWxTZXJ2aWNlLmNyZWF0ZU1vZGVsUmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCBtb2RlbCkpOwogICAgICBsb2FkT2JqZWN0KFRpdGxlLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9UaXRsZSVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSksIHRpdGxlIC0+IHRpdGxlU2VydmljZS5jcmVhdGVUaXRsZVJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgdGl0bGUpKTsKICAgICAgbG9hZE9iamVjdChWYWx1YXRpb24uY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL1ZhbHVhdGlvbiVkIiwgcmVsYXRpdmVQYXRoUm9vdCwgaSksIHZhbHVhdGlvbiAtPiB2YWx1YXRpb25TZXJ2aWNlLmNyZWF0ZVZhbHVhdGlvblJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgdmFsdWF0aW9uKSk7CiAgICAgIGZvcihpbnQgaiA9IDA7IGogPCAyOyBqKyspIHsKICAgICAgICBsb2FkT2JqZWN0KEFjY3JlZGl0YXRpb24uY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0FjY3JlZGl0YXRpb25zJWQiLCByZWxhdGl2ZVBhdGhSb290LCBpICogMiAtIDEgKyBqKSwgYWNjcmVkaXRhdGlvbiAtPiBhY2NyZWRpdGF0aW9uU2VydmljZS5jcmVhdGVBY2NyZWRpdGF0aW9uUmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCBhY2NyZWRpdGF0aW9uKSk7CiAgICAgICAgbG9hZE9iamVjdChBd2FyZC5jbGFzcywgU3RyaW5nLmZvcm1hdCgiJXMvQXdhcmQlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGkgKiAyIC0gMSArIGopLCBhd2FyZCAtPiBhd2FyZFNlcnZpY2UuY3JlYXRlQXdhcmRSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIGF3YXJkKSk7CiAgICAgIH0KICAgICAgaW50IHN0YXJ0Tm90ZUluZGV4ID0gKGkgLSAxKSAqIDQgKyAxOwogICAgICBmb3IoaW50IGogPSBzdGFydE5vdGVJbmRleDsgaiA8IHN0YXJ0Tm90ZUluZGV4ICsgNDsgaisrKSB7CiAgICAgICAgbG9hZE9iamVjdChBcmNoaXZlTm90ZS5jbGFzcywgU3RyaW5nLmZvcm1hdCgiJXMvTm90ZXMlZCIsIHJlbGF0aXZlUGF0aFJvb3QsIGopLCBhcmNoaXZlTm90ZSAtPiBhcmNoaXZlTm90ZVNlcnZpY2UuY3JlYXRlQXJjaGl2ZU5vdGVSZXNwb25zZUVudGl0eShhc3NldElkLCBhcmNoaXZlTm90ZSkpOwogICAgICB9CiAgICB9CiAgICBsb25nIGNvbGxlY3Rpb25JZCA9IGNvbGxlY3Rpb25zLmdldCgxKS5nZXRJZCgpOwogICAgU2VydmljZUludm9rZXI8QXNzZXQ+IGFzc2V0U2VydmljZUludm9rZXIgPSBjdXJyZW50QXNzZXQgLT4gYXNzZXRTZXJ2aWNlLmNyZWF0ZUFzc2V0UmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBjdXJyZW50QXNzZXQpOwogICAgU3RyaW5nIHJlbGF0aXZlUGF0aFJvb3QgPSBTdHJpbmcuZm9ybWF0KCJDb2xsZWN0aW9ucy9Bc3NldDUvIik7CiAgICBBc3NldCBhc3NldCA9IGxvYWRPYmplY3QoQXNzZXQuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0Fzc2V0NSIsIHJlbGF0aXZlUGF0aFJvb3QpLCBhc3NldFNlcnZpY2VJbnZva2VyKTsKICAgIGxvbmcgYXNzZXRJZCA9IGFzc2V0LmdldElkKCk7CiAgICBsb2FkT2JqZWN0KEhpc3RvcnkuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0hpc3Rvcnk1IiwgcmVsYXRpdmVQYXRoUm9vdCksIGhpc3RvcnkgLT4gaGlzdG9yeVNlcnZpY2UuY3JlYXRlSGlzdG9yeVJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgaGlzdG9yeSkpOwogICAgbG9hZE9iamVjdChJbnN1cmFuY2UuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL0luc3VyYW5jZTUiLCByZWxhdGl2ZVBhdGhSb290KSwgaW5zdXJhbmNlIC0+IGluc3VyYW5jZVNlcnZpY2UuY3JlYXRlSW5zdXJhbmNlUmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCBpbnN1cmFuY2UpKTsKICAgIGxvYWRPYmplY3QoTW9kZWwuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL01vZGVsNSIsIHJlbGF0aXZlUGF0aFJvb3QpLCBtb2RlbCAtPiBtb2RlbFNlcnZpY2UuY3JlYXRlTW9kZWxSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQsIGFzc2V0SWQsIG1vZGVsKSk7CiAgICBsb2FkT2JqZWN0KFRpdGxlLmNsYXNzLCBTdHJpbmcuZm9ybWF0KCIlcy9UaXRsZTUiLCByZWxhdGl2ZVBhdGhSb290KSwgdGl0bGUgLT4gdGl0bGVTZXJ2aWNlLmNyZWF0ZVRpdGxlUmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCB0aXRsZSkpOwogICAgbG9hZE9iamVjdChWYWx1YXRpb24uY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL1ZhbHVhdGlvbjUiLCByZWxhdGl2ZVBhdGhSb290KSwgdmFsdWF0aW9uIC0+IHZhbHVhdGlvblNlcnZpY2UuY3JlYXRlVmFsdWF0aW9uUmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCB2YWx1YXRpb24pKTsKICAgIGxvYWRPYmplY3QoQWNjcmVkaXRhdGlvbi5jbGFzcywgU3RyaW5nLmZvcm1hdCgiJXMvQWNjcmVkaXRhdGlvbnM5IiwgcmVsYXRpdmVQYXRoUm9vdCksIGFjY3JlZGl0YXRpb24gLT4gYWNjcmVkaXRhdGlvblNlcnZpY2UuY3JlYXRlQWNjcmVkaXRhdGlvblJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgYWNjcmVkaXRhdGlvbikpOwogICAgbG9hZE9iamVjdChBd2FyZC5jbGFzcywgU3RyaW5nLmZvcm1hdCgiJXMvQXdhcmQ5IiwgcmVsYXRpdmVQYXRoUm9vdCksIGF3YXJkIC0+IGF3YXJkU2VydmljZS5jcmVhdGVBd2FyZFJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCwgYXdhcmQpKTsKICAgIGxvYWRPYmplY3QoQXJjaGl2ZU5vdGUuY2xhc3MsIFN0cmluZy5mb3JtYXQoIiVzL05vdGVzMTciLCByZWxhdGl2ZVBhdGhSb290KSwgYXJjaGl2ZU5vdGUgLT4gYXJjaGl2ZU5vdGVTZXJ2aWNlLmNyZWF0ZUFyY2hpdmVOb3RlUmVzcG9uc2VFbnRpdHkoYXNzZXRJZCwgYXJjaGl2ZU5vdGUpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGdyb292eWphcmphcmFudGxyLmNvbGxlY3Rpb25zLkxpc3Q7Cg==</text>
+        <text encoding="base64">ICBASnNvbklnbm9yZVByb3BlcnRpZXMoIiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZigpIHsKICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm5vdEZvdW5kKCkuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiQmVhcmVyICIgKyBhdXRoZW50aWNhdGlvblNlcnZpY2UubG9naW4oZGVzZXJpYWxpemUoVXNlci5jbGFzcywgIlVzZXIiKSkuZ2V0SGVhZGVycygpLmdldChIdHRwSGVhZGVycy5BVVRIT1JJWkFUSU9OKS5nZXQoMCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFZlbmRvciBzYXZlZFZlbmRvciA9IGdldFZlbmRvcih2ZW5kb3JJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -504,11 +489,11 @@
       <history-cmd>
         <entry>ww</entry>
         <entry>ew</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>e</entry>
         <entry>2</entry>
         <entry>qw</entry>
+        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
