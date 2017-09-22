@@ -124,12 +124,12 @@
         <mark key="." line="7" column="29" />
         <mark key="^" line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" timestamp="1506067233124">
-        <mark key="'" line="26" column="37" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="63" column="11" />
-        <mark key="^" line="63" column="11" />
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" timestamp="1506067861013">
+        <mark key="'" line="62" column="15" />
+        <mark key="[" line="189" column="23" />
+        <mark key="]" line="189" column="28" />
+        <mark key="." line="189" column="28" />
+        <mark key="^" line="189" column="28" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/Collection.java" timestamp="1505537257690">
         <mark key="[" line="33" column="0" />
@@ -315,7 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="95" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="67" column="50" filename="$USER_HOME$/dev/restorat-backend/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" />
       <jump line="1" column="15" filename="$USER_HOME$/dev/restorat-backend/src/main/resources/application-default.properties" />
@@ -415,13 +414,14 @@
       <jump line="100" column="44" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="71" column="51" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/project/BudgetService.java" />
       <jump line="26" column="37" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" />
+      <jump line="62" column="15" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/asset/Asset.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbCArPSBjb21wb25lbnQuZ2V0Q29zdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>project</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>%d</text>
