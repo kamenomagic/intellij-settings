@@ -9,6 +9,16 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1506127537406">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python/lab3.py" timestamp="1506128246131">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="30" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
@@ -17,31 +27,51 @@
       <jump line="5" column="4" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
       <jump line="43" column="31" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
+      <jump line="13" column="2" filename="$USER_HOME$/dev/python/lab3.py" />
+      <jump line="22" column="23" filename="$USER_HOME$/dev/python/lab3.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/dev/python/lab3.py" />
+      <jump line="19" column="11" filename="$USER_HOME$/dev/python/lab3.py" />
+      <jump line="32" column="24" filename="$USER_HOME$/dev/python/lab3.py" />
+      <jump line="20" column="17" filename="$USER_HOME$/dev/python/lab3.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHByaW50IHNjb3Jlc1swXS5zaGFwZQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>x</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50IHNjb3Jlcwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50IHNjb3Jlc1swXS5zaGFwZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiNwcmludCBnZXRfc2NvcmVzKFcsIGZlYXR1cmVzKQo=</text>
+        <text encoding="base64">ICAgIHggPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmZWF0dXJlcy5kb3QoVykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBucC5tYXRtdWwoVywgZmVhdHVyZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHNjb3Jlcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50IHNjb3Jlcwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50IHNjb3Jlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -54,6 +84,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>w;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
