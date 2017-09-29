@@ -47,12 +47,6 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1506693044672">
         <mark key="'" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/lab3/lab3.py" timestamp="1506125124836">
-        <mark key="'" line="47" column="31" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python/lab3.py" timestamp="1506140229083">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="11" column="19" />
@@ -60,18 +54,25 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1506671026474">
-        <mark key="'" line="13" column="41" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
-        <mark key="^" line="11" column="45" />
+      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1506720272079">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" timestamp="1506671352050">
-        <mark key="'" line="66" column="0" />
+      <file name="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" timestamp="1506710869226">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1506705283108">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" timestamp="1506691724484">
         <mark key="'" line="23" column="13" />
@@ -162,10 +163,7 @@
       <jump line="133" column="2" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
       <jump line="104" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
       <jump line="75" column="4" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="13" column="41" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="135" column="20" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
@@ -176,46 +174,72 @@
       <jump line="24" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
       <jump line="52" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
       <jump line="15" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="24" column="23" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="17" column="64" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
+      <jump line="24" column="26" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="3" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="16" column="15" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="54" column="88" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="48" column="5" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="33" column="34" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="31" column="20" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nLnNlcnZsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>Variable</text>
       </register>
       <register name="-" type="4">
-        <text>none</text>
+        <text>Variable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS5oaWJlcm5hdGUuZGRsLWF1dG89Y3JlYXRlCg==</text>
+        <text encoding="base64">ICAgIHRmLlZhcmlhYmxlKC4wMDUsICdsZWFybmluZ19yYXRlJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLnNlcnZsZQo=</text>
+        <text encoding="base64">Zm9yIF8gaW4gcmFuZ2UoMTAwKToKICAgIHggPSBzZXNzLnJ1bih4X2hhdCkKICAgIG5vaXNlID0gc2Vzcy5ydW4obm9pc2VfaGF0KQogICAgcHJpbnQoeFswXVswXSwgc2Vzcy5ydW4obm9pc3lfbGluZSwgZmVlZF9kaWN0PXt4X2hhdF9pbnB1dDogeCwgbm9pc2VfaGF0X2lucHV0OiBub2lzZX0pWzBdWzBdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJvamVjdFJlcG9zaXRvcnkuZGVsZXRlKHByb2plY3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UudXJsPWpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9yZXN0b3JhdD91c2VVbmljb2RlPXRydWUmdXNlSkRCQ0NvbXBsaWFudFRpbWV6b25lU2hpZnQ9dHJ1ZSZ1c2VMZWdhY3lEYXRldGltZUNvZGU9ZmFsc2Umc2VydmVyVGltZXpvbmU9VVRDCnNwcmluZy5kYXRhc291cmNlLnVzZXJuYW1lPXJlc3RvcmF0CnNwcmluZy5kYXRhc291cmNlLnBhc3N3b3JkPXJhdApzZWNyZXQ9JHtyYW5kb20udmFsdWV9CnJlc2V0UGFzc3dvcmRMaW5rPSR7c2VydmVyLnJvb3R9OiR7c2VydmVyLnBvcnR9L3NldE5ld1Bhc3N3b3JkLmh0bWwKc210cC5ob3N0PWVtYWlsLXNtdHAudXMtd2VzdC0yLmFtYXpvbmF3cy5jb20Kc210cC51c2VybmFtZT1BS0lBSURBWENQTVhZUFlKNkpPQQpzbXRwLnBhc3N3b3JkPUFncUZNOWxPajBuNUd2ekFmN3A1bzVmUlhiNVlKTDJCMGlCM0gzMXlYRWh6CnNtdHAuZnJvbT1pbmZvQHJlc3RvLXJhdC5jb20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9ODg5OApzZXJ2ZXIucm9vdD1odHRwOi8vZWMyLTUyLTM3LTIyMi0yNTQudXMtd2VzdC0yLmNvbXB1dGUuYW1hem9uYXdzLmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MQoyCjMKNAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUKMjYKMjcKMjgKMjkKMzAKMzEKMzIKMzMKMzQKMzUKMzYKMzcKMzgKMzkKNDAKNDEKNDIKNDMKNDQKNDUKNDYKNDcKNDgKNDkKNTAKNTEKNTIKNTMKNTQKNTUKNTYKNTcKNTgKNTkKNjAKNjEKNjIKNjMKNjQKNjUKNjYKNjcKNjgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGIuIFVuZGVyIHlvdXIgbWFpbiBsb29wLCBpbmNsdWRlOgo=</text>
+        <text encoding="base64">CgpyZWdyZXNpb25fbW9kZWwgPSBSZWdyZXNzaW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpkZWYgbWFpbigpOgogICAgZGF0YSA9IGdldF9jaWZhcigpCiAgICBXID0gbnAucmFuZG9tLnJhbmRuKDEwLCBkYXRhWzBdLnNoYXBlWzFdKQogICAgc3RlcF9zaXplID0gMC4wMQogICAgbG9zc2VzID0gW10KICAgIGFjY3VyYWNpZXMgPSBbXQogICAgZm9yIF8gaW4gcmFuZ2UoMTAwMCk6CiAgICAgICAgZ3JhZGllbnQsIGxvc3MsIGFjY3VyYWN5ID0gbnVtZXJpY2FsX2dyYWRpZW50KFcsIGRhdGEsIGdldF9zb2Z0bWF4X2xvc3MpCiAgICAgICAgVyA9IChXIC0gc3RlcF9zaXplKSAqIGdyYWRpZW50CiAgICAgICAgbG9zc2VzLmFwcGVuZChsb3NzKQogICAgICAgIGFjY3VyYWNpZXMuYXBwZW5kKGFjY3VyYWN5KQogICAgICAgIHByaW50ICd7MH0gICAgICB7MX0nLmZvcm1hdChsb3NzLCBhY2N1cmFjeSkKICAgIHBsdC5maWd1cmUoMSkKICAgIHBsdC5wbG90KGxvc3NlcykKICAgIHBsdC50aXRsZSgnTG9zcyBvdmVyIHRpbWUnKQogICAgcGx0LnhsYWJlbCgnRXBvY2hzJykKICAgIHBsdC55bGFiZWwoJ0xvc3MnKQogICAgcGx0LmZpZ3VyZSgyKQogICAgcGx0LnBsb3QoYWNjdXJhY2llcykKICAgIHBsdC50aXRsZSgnQWNjdXJhY3kgb3ZlciB0aW1lJykKICAgIHBsdC54bGFiZWwoJ0Vwb2NocycpCiAgICBwbHQueWxhYmVsKCdBY2N1cmFjeScpCiAgICBwbHQuc2hvdygpCgoKZGVmIG51bWVyaWNhbF9ncmFkaWVudChXLCBkYXRhLCBsb3NzX2Z1bmN0aW9uKToKICAgIGxvc3MgPSBsb3NzX2Z1bmN0aW9uKFcsIGRhdGEpCiAgICBkZWx0YSA9IDAuMDAwMDAxCiAgICBncmFkaWVudCA9IG5wLnplcm9zKFcuc2hhcGUpCiAgICBmb3Igcm93IGluIHJhbmdlKFcuc2hhcGVbMF0pOgogICAgICAgIGZvciBjb2x1bW4gaW4gcmFuZ2UoVy5zaGFwZVsxXSk6CiAgICAgICAgICAgIFdfY29weSA9IFcKICAgICAgICAgICAgV19jb3B5W3Jvd11bY29sdW1uXSArPSBkZWx0YQogICAgICAgICAgICBncmFkaWVudFtyb3ddW2NvbHVtbl0gPSAobG9zc19mdW5jdGlvbihXX2NvcHksIGRhdGEpIC0gbG9zcykgLyBkZWx0YQogICAgcmV0dXJuIGdyYWRpZW50LCBsb3NzLCBnZXRfYWNjdXJhY3koVywgZGF0YSkKCgpkZWYgZ2V0X2FjY3VyYWN5KFcsIGRhdGEpOgogICAgY291bnQgPSAwCiAgICBmZWF0dXJlcywgbGFiZWxzID0gZGF0YQogICAgZm9yIGZlYXR1cmUsIGxhYmVsIGluIHppcChmZWF0dXJlcywgbGFiZWxzKToKICAgICAgICBjb3VudCArPSAxIGlmIG5wLmFyZ21heChnZXRfc2NvcmUoVywgZmVhdHVyZSkpID09IGxhYmVsWzBdIGVsc2UgMAogICAgYWNjdXJhY3kgPSBmbG9hdChjb3VudCkgLyBmZWF0dXJlcy5zaGFwZVswXQogICAgcmV0dXJuIGFjY3VyYWN5CgoKZGVmIGdldF9zb2Z0bWF4X2xvc3Nlc19pKFcsIGZlYXR1cmUsIGxhYmVsKToKICAgIHNjb3JlcyA9IGdldF9zY29yZShXLCBmZWF0dXJlKQogICAgc2NvcmVzIC09IG5wLm1heChzY29yZXMpCiAgICByZXR1cm4gLW5wLmxvZyhucC5leHAoc2NvcmVzW2xhYmVsWzBdXSkgLyBucC5zdW0obnAuZXhwKHNjb3JlcykpKQoKCmRlZiBnZXRfc29mdG1heF9sb3NzZXMoVywgZGF0YSk6CiAgICByZXR1cm4gbnAuYXJyYXkoW2dldF9zb2Z0bWF4X2xvc3Nlc19pKFcsIGZlYXR1cmUsIGxhYmVsKSBmb3IgZmVhdHVyZSwgbGFiZWwgaW4gemlwKGRhdGFbMF0sIGRhdGFbMV0pXSkKCgpkZWYgZ2V0X3NvZnRtYXhfbG9zcyhXLCBkYXRhKToKICAgIHJldHVybiBucC5zdW0oZ2V0X3NvZnRtYXhfbG9zc2VzKFcsIGRhdGEpKSAvIGRhdGFbMF0uc2hhcGVbMF0KCgpkZWYgZ2V0X3Njb3JlKFcsIGZlYXR1cmUpOgogICAgcmV0dXJuIFcuZG90KGZlYXR1cmUpCgoKZGVmIGdldF9zY29yZXMoVywgZGF0YSk6CiAgICByZXR1cm4gbnAuYXJyYXkoW2dldF9zY29yZShXLCBmZWF0dXJlKSBmb3IgZmVhdHVyZSBpbiBkYXRhWzBdXSkKCgpkZWYgZ2V0X2NpZmFyKCk6CiAgICBpbXBvcnQgY1BpY2tsZQogICAgd2l0aCBvcGVuKCdjaWZhci0xMC1iYXRjaGVzLXB5L2RhdGFfYmF0Y2hfMScsICdyYicpIGFzIGZpbGU6CiAgICAgICAgZGF0YSA9IGNQaWNrbGUubG9hZChmaWxlKQogICAgICAgIE4gPSAxMDAwCiAgICAgICAgRCA9IDEwCiAgICAgICAgZmVhdHVyZXMgPSBkYXRhWydkYXRhJ11bMDpOLCA6XQogICAgICAgIGZlYXR1cmVzID0gbnAuZG90KGZlYXR1cmVzLCBucC5yYW5kb20ucmFuZG4oMzA3MiwgRCkpCiAgICAgICAgZmVhdHVyZXMgPSAoZmVhdHVyZXMgLSBucC5tZWFuKGZlYXR1cmVzLCBheGlzPTApKSAvIG5wLnN0ZChmZWF0dXJlcywgYXhpcz0wKQogICAgICAgIGxhYmVscyA9IG5wLmF0bGVhc3RfMmQoZGF0YVsnbGFiZWxzJ10pLlRbMDpOLCA6XQogICAgICAgIHJldHVybiAoZmVhdHVyZXMsIGxhYmVscykKCgptYWluKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">CgojIFJ1bgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUdHIC0+IEdHRwpDQUcgLT4gQUdHLEFHRwpHQUcgLT4gQUdHCkdHQSAtPiBHQUcKR0dHIC0+IEdHQSxHR0cK</text>
+        <text encoding="base64">ICAgIHhfaGF0ID0gbnAucmFuZG9tLnVuaWZvcm0oLTEwLCAxMCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -225,11 +249,11 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w;w</entry>
         <entry>vs</entry>
-        <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w;w</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
