@@ -9,6 +9,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1506632434767">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="3" column="8" />
+      </file>
       <file name="/Python Console" timestamp="1506140104503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -20,18 +26,41 @@
         <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/greedy.py" timestamp="1506624567506" />
-      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1506624754524">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="$USER_HOME$/dev/python/rosalind/reconstruct.py" timestamp="1506626681902">
+        <mark key="[" line="10" column="37" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/lex.py" timestamp="1506624955555">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="12" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1506632495708">
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/python/rosalind/lex.py" timestamp="1506626526402">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/python/rosalind/adjacent.py" timestamp="1506627710032">
+        <mark key="'" line="10" column="35" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+        <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/python/rosalind/debrujin.py" timestamp="1506632250608">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python/rosalind/right" timestamp="1506632524163">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -71,44 +100,51 @@
       <jump line="22" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="61" column="66" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="9" column="15" filename="$USER_HOME$/dev/python/lab3.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/rosalind/reconstruct.py" />
+      <jump line="10" column="35" filename="$USER_HOME$/dev/python/rosalind/adjacent.py" />
+      <jump line="17" column="4" filename="$USER_HOME$/dev/python/rosalind/debrujin.py" />
+      <jump line="16" column="19" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="12" column="23" filename="$USER_HOME$/dev/python/rosalind/debrujin.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/python/rosalind/debrujin.py" />
+      <jump line="18" column="10" filename="$USER_HOME$/dev/python/rosalind/debrujin.py" />
+      <jump line="6" column="3" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>kmers.sort()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QUdHIC0+IEdHRwpDQUcgLT4gQUdHLEFHRwpHQUcgLT4gQUdHCkdHQSAtPiBHQUcKR0dHIC0+IEdHQSxHR0cK</text>
       </register>
       <register name="-" type="4">
-        <text>rosalind_ba2d</text>
+        <text>lines</text>
       </register>
-      <register name="0" type="4">
-        <text>kmers.sort()</text>
+      <register name="0" type="2">
+        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UobGVuKGRuYSkgLSBrICsgMSk6CiAgICBrZXkgPSBkbmFbaTppICsgayAtIDFdCiAgICBpZiBrZXkgbm90IGluIGdyYXBoLmtleXMoKToKICAgICAgICBncmFwaFtrZXldID0gW10KICAgIGZvciBqIGluIHJhbmdlKGkgKyAxLCBsZW4oZG5hKSAtIGsgKyAxKToKICAgICAgICB2YWx1ZSA9IGRuYVtqOmogKyBrIC0gMV0KICAgICAgICBpZiBrZXlbMTpdID09IHZhbHVlWzotMV06CiAgICAgICAgICAgIGdyYXBoW2tleV0uYXBwZW5kKHZhbHVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zm9yIGxpbmUgaW4gbGluZXM6CiAgICBwcmludCBsaW5lCg==</text>
+        <text encoding="base64">QUdHIC0+IEdHRwpDQUcgLT4gQUdHLEFHRwpHQUcgLT4gQUdHCkdHQSAtPiBHQUcKR0dHIC0+IEdHQSxHR0cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OCA1IDEwMApDR0NDQ0NUQ1RDR0dHR0dUR1RUQ0FHVEFBQUNHR0NDQQpHR0dDR0FHR1RBVEdUR1RBQUdUR0NDQUFHR1RHQ0NBRwpUQUdUQUNDR0FHQUNDR0FBQUdBQUdUQVRBQ0FHR0NHVApUQUdBVENBQUdUVFRDQUdHVEdDQUNHVENHR1RHQUFDQwpBQVRDQ0FDQ0FHQ1RDQ0FDR1RHQ0FBVEdUVEdHQ0NUQQo=</text>
+        <text encoding="base64">R0FHRwpDQUdHCkdHR0cKR0dHQQpDQUdHCkFHR0cKR0dBRwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCdpbnB1dC50eHQnKSBhcyBmaWxlOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IHRpbWUudGltZSgpIC0gc3RhcnQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IGVuZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">a21lcnMgPSBsaW5lc1tdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ayA9IGludChsaW5lc1swXSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ID0gbGluZXNbMV0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QUdHIC0+IEdHRwpDQUcgLT4gQUdHLEFHRwpHQUcgLT4gQUdHCkdHQSAtPiBHQUcKR0dHIC0+IEdHQSxHR0cK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBnZXRfY2lmYXIoKQogICAgVyA9IG5wLnJhbmRvbS5yYW5kbigxMCwgZGF0YVswXS5zaGFwZVsxXSkKICAgIHN0ZXBfc2l6ZSA9IDAuMQogICAgbG9zc2VzID0gW10KICAgIGZvciBfIGluIHJhbmdlKDEwKToKICAgICAgICBncmFkaWVudCwgbG9zcyA9IG51bWVyaWNhbF9ncmFkaWVudChXLCBkYXRhLCBnZXRfc29mdG1heF9sb3NzKQogICAgICAgIFcgPSAoVyAtIHN0ZXBfc2l6ZSkgKiBncmFkaWVudAogICAgICAgIHByaW50IGxvc3MKICAgICAgICBsb3NzZXMuYXBwZW5kKGxvc3MpCiAgICBwbHQuZmlndXJlKDEpCiAgICBwbHQucGxvdChsb3NzZXMsIGxhYmVsPSdMb3NzICcpCiAgICBwbHQudGl0bGUoJ0xvc3Mgb3ZlciB0aW1lJykKICAgIHBsdC54bGFiZWwoJ0Vwb2NocycpCiAgICBwbHQueWxhYmVsKCdMb3NzJykKICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">MTIKQUNUVEdHR1RBR1RUQ0dBQ0dBQUdBVFRUR1RBQ1RHQVRDQUdDQUdHR0dHQUdUR0FHQ0dHQ1RBR0NBVEdBR0FUVENDQUFUR0NBQVRUVFRUR1RBQUNHVEFBR1RDQUdDVFRDVFRHR0dUR0NBQUdDVFRDR0NBQ0FUR0dDQ0FDQVRBQ0NHR0dUVEFBQ1RUR1RHVENUVEdHQUNDR0FHQ1RUQUdDVEFBQUFUR0NUVFRBQUdBQUdHR0NBQ0dDQ1RHQ1RHQ1RHQ0NHQVRHR0NBQVRUQ0NBR0dDVEFDVENDQ1RDQ1RHR0NBR0NHQUdUVEdBQ0NHR1RBR0dBQ1RHQUFHQUNUQUdDVEdDQ0FHVENBR0NUQ0dUVEFHQ0FUR0dUVEdDR0FUVEFBQVRBR0FHQ0NUR0NUR0FUQ1RBQUNUQ0dUQ0dDR0FHR0FDQ0dBVFRBR0NUR0FHQ0dDQUNHQ1RUQ0NUQ1RHVEdBQUFDQVRUR1RDR1RDQUdHQUNDQVRHQ1RDR0dDQ0NHQ0NBR0NDR0dBR1RHR0FUVENBQ1RHR0NUR1RBVEFBVFRDVEFDQVRDQ0FBVEdBVFRUVFRUQ0NDQ0FDR0FHVEFHVEFBVEdUQUFHVEdDQUdHR0dBVFRHQ1RUQUdHQ1RDQUNBR0dBQVRUQ0NUR0NHQVRDQVRUVFRUR0FDR1RUQVRUR1RBQUFBQ0NDQVRDR0NUR0dHQVRUR0dUVEFDVEFUQUdDR0FBR0FUR0NDQVRHVEdBQ0FDVENBQUFBQ0dDVENBQUFUQ0FDVEFDQ0FDR0NHR1RBQ0NUVFRUR1RUQ0dBQ0FHR0dUQ0NHVENUQ0dHVENBR0NBR0dHQ0dHR0dHQUFUVENDR0NDVEFHR0NDVEFBR0NUQ0NUVEFHVEFHQ1RBQ1RUQ0dUQUdBQUdBQ0FDQUdUR1RBVEFDQVRBQUFUR0FBVEdDVFRHVEdUVFRBR0FBQ0dUQVRHQUdUVEFHR0NUQVRBVENDQUFDQ0dDQ0FDQUFDR0FHQ1RDR0FBR0NDVENHQUdBQUFUQ0FDQ1RHQVRHQ0FUQUFBQUdUVEdHQ0NDQ0dBR0FUQUNDR0dDR0NBR0FHQUNBQVRHQUFUQVRDVFRUR0NBR0NUQ0dDVEdHR0FBR0dHR1RHQUNBR1RHQ1RUQ0FHVEFBR0FBQVRHR0dBQ0dUR1RHQUFUVENDQ0NBQUdBQ0FDQ1RUR0dUQUFHVEFBQ0NHQUNHQ0NDVEdUQVRHR1RDQ0FUQ0dHVEFDVENDQUNDQ0NUVEdUQVRUQ1RBQUdBQUdHVEFUQ1RDR0NDQ0FUQUFUR1RDVFRBR0FUQVRHQUNDQ0dUR0FUVENUQUFBVEFDQVRUQ1RBQUdBQVRHQ0FDQUFUVENDQ0NUQ0FUQ1RDR1RUR0NBR0NHQ1RHQ1RHVEFHR0dUQVRDQ0dDVEdBQ0FUQUNHQUdBR0FUR0FBR0FHR0NBQ1RBVENUR0NDQ0FDQUNDR0NUR0FUQ1RUR0NHQ0dHQUFUQ0dHQ1RDQUFDQ0FBQ0FUVEdUQ1RDQ0FBQUNDR0FBQUFBVENDR0dBQ1RHR0dBQUFHR0dDQUNUQUFHR0FDQ1RHR0dBQ0FHR1RDR0dUVFRDQUdUR0FDQ0FUQ0NHVEFBQUNUR0FDVEFDR1RBVEFHVEFUQUFDQUNDR0FDR0dDQ0dDR0dHVENBQ0FUR0FDQ1RUR1RHQ0NHQ0dHR0FUR1RUR0FDR1RHVFRHQ0FUVEFBQVRBVFRBQUFDR0FDQUFHVFRDVEFHR1RBR1RUQVRUR0FBQ1RHR1RHQ1RDQUFUR1RUR0NHQ1RBQ0FUQUFHQ0dDQUNHVFRHVEFUQUFHQ1RBR0dBVEFBR0FUR0FBQ0FDQUNUR0dBQUdDQUFHVENDR0FHVFRDQ0NDQ0dDQ0FBQ0FDR1RBR0FBQUNBQ1RBVEdHQVRHQ0FHQ1RUR0FHVENDR0dHVFRHQVRDVEdDQUdBQ0NHQUFBQ0dHR0FHQ0FUQVRDR1RHQ1RDQ0FBR0dUQUNHQUdHVFRBQUFDR0NHQ0NHQ1RBQVRBQ1RUVEFHQUNBR1RBVEdUQUNBR0FBVEdBR0dDQ1RHVEFBQ1RUQUFBQ0NHQ0NHR1RDQ0NUR0dDQUdDR0FDQVRBR1RUQUNUQ0NDQ1RBQVRHQUdHVEdDVEFDQUdDR0NHVFRUR1RBVFRBVENHQUNBQ0FHQUFHVENBR0NBQ1RDQ0NBQUdDVEFDVFRDQ0NDR1RUVFRUVEFHVFRBQUFBQ1RUQ1RDR0dDQ0NUQ0dUQUNHVEdDR0NDVEFDQVRDQUFHVEFDQVRHR0dHQ0NUQ0FUQ1RDVEFDR0NUQVRHR0dDQ0dDQUdBR0NHR0FHVEFHR0dUQ0NUVFRUR0NUQ0dDQ0dDR1RBQUdUQ0dUQ0dHVEdDVEFDVENHQUFUQUFDQVRBVFRDQ0NUQ1RBQUNUVENHQ1RBR0NDQUNUVFRUVENDVENBQ0FHQUdDQ1RHR0NDVEdUQUNUR0dDVENBVENBR0dHR0NHQ0FDQUNHR0dDQ0FHVFRHQUNUQ1RBVENUR1RHQVRUVEFUQ0FUR0NDVEFHQUFDQ0FHR0dDQ0FUQ0NUQUFDQUdBVFRDR0FBQUNDQVRDQUdUQ0FHQUFUR0FUQUdBVENUQUFDQ0FHVFRHR1RBQ0NDQ0FBQUFDQ0dBVFRDQUdHR1RDVEFUVEdBR1RBQUdUQ0dBQ1RHVENHR0MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIG51bWVyaWNhbF9ncmFkaWVudChXLCBkYXRhLCBsb3NzX2Z1bmN0aW9uKToKICAgIGxvc3MgPSBsb3NzX2Z1bmN0aW9uKFcsIGRhdGEpCiAgICBkZWx0YSA9IDAuMDAwMDAxCiAgICBncmFkaWVudCA9IG5wLnplcm9zKFcuc2hhcGUpCiAgICBmb3Igcm93IGluIHJhbmdlKFcuc2hhcGVbMF0pOgogICAgICAgIGZvciBjb2x1bW4gaW4gcmFuZ2UoVy5zaGFwZVsxXSk6CiAgICAgICAgICAgIFdfY29weSA9IFcKICAgICAgICAgICAgV19jb3B5W3Jvd11bY29sdW1uXSArPSBkZWx0YQogICAgICAgICAgICBncmFkaWVudFtyb3ddW2NvbHVtbl0gPSAobG9zc19mdW5jdGlvbihXX2NvcHksIGRhdGEpIC0gbG9zcykgLyBkZWx0YQogICAgcmV0dXJuIGdyYWRpZW50LCBsb3NzCgoKZGVmIGdldF9zb2Z0bWF4X2xvc3Nlc19pKFcsIGZlYXR1cmUsIGxhYmVsKToKICAgIHNjb3JlcyA9IGdldF9zY29yZShXLCBmZWF0dXJlKQogICAgc2NvcmVzIC09IG5wLm1heChzY29yZXMpCiAgICByZXR1cm4gLW5wLmxvZyhucC5leHAoc2NvcmVzW2xhYmVsWzBdXSkgLyBucC5zdW0obnAuZXhwKHNjb3JlcykpKQoKCmRlZiBnZXRfc29mdG1heF9sb3NzZXMoVywgZGF0YSk6CiAgICByZXR1cm4gbnAuYXJyYXkoW2dldF9zb2Z0bWF4X2xvc3Nlc19pKFcsIGZlYXR1cmUsIGxhYmVsKSBmb3IgZmVhdHVyZSwgbGFiZWwgaW4gemlwKGRhdGFbMF0sIGRhdGFbMV0pXSkKCgpkZWYgZ2V0X3NvZnRtYXhfbG9zcyhXLCBkYXRhKToKICAgIHJldHVybiBucC5zdW0oZ2V0X3NvZnRtYXhfbG9zc2VzKFcsIGRhdGEpKSAvIGRhdGFbMF0uc2hhcGVbMF0KCgpkZWYgZ2V0X3Njb3JlKFcsIGZlYXR1cmUpOgogICAgcmV0dXJuIFcuZG90KGZlYXR1cmUpCgoKZGVmIGdldF9zY29yZXMoVywgZGF0YSk6CiAgICByZXR1cm4gbnAuYXJyYXkoW2dldF9zY29yZShXLCBmZWF0dXJlKSBmb3IgZmVhdHVyZSBpbiBkYXRhWzBdXSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -122,12 +158,17 @@
       <history-search />
       <history-cmd>
         <entry>w;w</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
