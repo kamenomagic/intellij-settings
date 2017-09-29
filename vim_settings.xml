@@ -3,22 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1506643518554">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1506140104503">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/User.java" timestamp="1506644047122">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1506644019543">
+        <mark key="'" line="80" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/lab3/lab3.py" timestamp="1506125124836">
         <mark key="'" line="47" column="31" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506643518554">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/project/BudgetService.java" timestamp="1506403280402">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1506140104503">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/lab3.py" timestamp="1506140229083">
         <mark key="'" line="10" column="15" />
@@ -40,16 +48,8 @@
         <mark key="^" line="89" column="51" />
         <mark key="." line="89" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/User.java" timestamp="1506644047122">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/notifications/Weekly.java" timestamp="1506637925949">
         <mark key="e" line="47" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1506644019543">
-        <mark key="'" line="80" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1506643986697">
         <mark key="[" line="51" column="0" />
@@ -60,6 +60,12 @@
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Time.java" timestamp="1506645242709">
+        <mark key="[" line="136" column="63" />
+        <mark key="]" line="136" column="74" />
+        <mark key="^" line="136" column="74" />
+        <mark key="." line="136" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -105,13 +111,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, unique = true</text>
+        <text>(double)</text>
       </register>
       <register name="-" type="4">
-        <text>, unique = true</text>
+        <text>(double)</text>
       </register>
-      <register name="0" type="4">
-        <text>gradient[row][column]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIERhdGUgc3RhcnQgPSBnZXRTdGFydFRpbWUoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0gZWxzZSBpZiAodXNlclJlcG9zaXRvcnkuZmluZEJ5RW1haWwodXNlci5nZXRFbWFpbCgpKSAhPSBudWxsKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5DT05GTElDVCkuYm9keSgiRW1haWwgdGFrZW4iKTsK</text>
@@ -141,7 +147,7 @@
         <text encoding="base64">ICAgIHN0YXJ0ID0gdGltZS50aW1lKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -153,8 +159,8 @@
       <history-cmd>
         <entry>w;w</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
