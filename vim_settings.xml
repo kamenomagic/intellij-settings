@@ -89,12 +89,12 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1506722765262">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="35" column="56" />
+      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1506725909242">
+        <mark key="'" line="36" column="20" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="37" />
+        <mark key="." line="21" column="37" />
+        <mark key="^" line="21" column="37" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" timestamp="1506692024315">
         <mark key="'" line="52" column="2" />
@@ -182,10 +182,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="24" column="23" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
       <jump line="67" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
-      <jump line="17" column="64" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
       <jump line="24" column="26" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="3" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="21" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="54" column="88" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
@@ -194,17 +192,12 @@
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="33" column="34" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="15" column="31" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="8" column="55" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="12" column="24" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="16" column="21" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="27" column="8" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="28" column="46" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="29" column="29" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="31" column="20" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="32" column="23" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="39" column="39" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
@@ -212,43 +205,57 @@
       <jump line="4" column="41" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/sandbox.py" />
+      <jump line="18" column="35" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="15" column="55" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="13" column="31" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="36" column="20" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>target_input</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>target_input</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoIkkgZ3Vlc3MgdGhlIGxpbmUgaXM6IHkgPSB7fSp4ICsge30iLmZvcm1hdChzbG9wZV9vdXRwdXQsIGJpYXNfb3V0cHV0KSkK</text>
+      <register name="0" type="4">
+        <text>[-2.3, 4.5, 9.4]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNsb3BlX291dHB1dCwgYmlhc19vdXRwdXQpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVncmVzc2lvbjoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmxlYXJuaW5nX3JhdGUgPSAwLjAwNQogICAgICAgIHNlbGYuYmV0YSA9IG5wLnplcm9zKDMpCgogICAgZGVmIGxlYXJuKHNlbGYsIGRhdHVtKToKICAgICAgICB4X2hhdCwgdGFyZ2V0ID0gZGF0dW0KICAgICAgICB4X2hhdCA9IG5wLmFwcGVuZCh4X2hhdCwgWzFdKQogICAgICAgIHNlbGYuYmV0YSArPSBzZWxmLmRlbHRhX3coeF9oYXQsIHRhcmdldCkKCiAgICBkZWYgZGVsdGFfdyhzZWxmLCB4X2hhdCwgdGFyZ2V0KToKICAgICAgICBuZXQgPSBucC5kb3QoeF9oYXQsIHNlbGYuYmV0YSkgIyBzZWxmLm0gKiB4X2hhdCArIHNlbGYuYgogICAgICAgIHJldHVybiBzZWxmLmxlYXJuaW5nX3JhdGUgKiAodGFyZ2V0IC0gbmV0KSAqIHhfaGF0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SSBndWVzcyB0aGUgbGluZSBpczogeSA9IC02LjczMjMzMTc3NTY2KnggKyAxLjk5OTkxNTY4NTE1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKCiMgbnVtX2ZpbHRlcnMgaXMgYmFzaWNhbGx5IHRoZSBkZXB0aCBvZiBXLCBzbyB0aGUgZGVwdGggb2YgeAojIHJlbHUgb24gZXZlcnkgbGF5ZXIgZXhjZXB0IHRoZSBvdXRwdXQgbGF5ZXIKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1fYXNzaWduID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG0uc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">CiAgICB3aXRoIHRmLm5hbWVfc2NvcGUoJ0RlbHRhJyk6CiAgICAgICAgbmV0ID0gKG0gKiB4X2lucHV0ICsgYikKICAgICAgICBkZWx0YSA9IGxlYXJuaW5nX3JhdGUgKiAodGFyZ2V0X2lucHV0IC0gbmV0KQoKICAgIHNsb3BlID0gbS5hc3NpZ24obSArIGRlbHRhICogeF9pbnB1dCkKICAgIGJpYXMgPSBiLmFzc2lnbihiICsgZGVsdGEgKiAxLjApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlZ3Jlc2lvbl9tb2RlbC5sZWFybigoeF9oYXQsIHlfaGF0KSkK</text>
+        <text encoding="base64">ICAgIG0gPSB0Zi5WYXJpYWJsZSguMSwgbmFtZT0nbScpCiAgICBiID0gdGYuVmFyaWFibGUoLjEsIG5hbWU9J2InKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -262,7 +269,7 @@
       <last-offset />
       <last-pattern>x</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -274,6 +281,7 @@
         <entry>q</entry>
         <entry>w;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -285,6 +293,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
