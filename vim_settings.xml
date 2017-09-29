@@ -56,6 +56,13 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" timestamp="1506667474533">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="59" column="62" />
+        <mark key="]" line="59" column="62" />
+        <mark key="^" line="59" column="79" />
+        <mark key="." line="59" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/adjacent.py" timestamp="1506627710032">
         <mark key="'" line="10" column="35" />
         <mark key="[" line="12" column="27" />
@@ -121,13 +128,18 @@
       <jump line="8" column="18" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="32" column="17" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="45" column="17" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
+      <jump line="196" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
+      <jump line="133" column="2" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
+      <jump line="104" column="0" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
+      <jump line="75" column="4" filename="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="-" type="4">
-        <text>lines</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UobGVuKGRuYSkgLSBrICsgMSk6CiAgICBrZXkgPSBkbmFbaTppICsgayAtIDFdCiAgICBpZiBrZXkgbm90IGluIGdyYXBoLmtleXMoKToKICAgICAgICBncmFwaFtrZXldID0gW10KICAgIGZvciBqIGluIHJhbmdlKGkgKyAxLCBsZW4oZG5hKSAtIGsgKyAxKToKICAgICAgICB2YWx1ZSA9IGRuYVtqOmogKyBrIC0gMV0KICAgICAgICBpZiBrZXlbMTpdID09IHZhbHVlWzotMV06CiAgICAgICAgICAgIGdyYXBoW2tleV0uYXBwZW5kKHZhbHVlKQo=</text>
