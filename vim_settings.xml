@@ -44,6 +44,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" timestamp="1506734850090">
+        <mark key="'" line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" timestamp="1506691724484">
         <mark key="'" line="23" column="13" />
       </file>
@@ -60,7 +63,7 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506732617550">
+      <file name="/Dummy.txt" timestamp="1506735121586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1506731834166">
@@ -83,13 +86,15 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1506632495708">
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1506693044672">
         <mark key="'" line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Task.java" timestamp="1506734898517">
+        <mark key="'" line="94" column="39" />
+        <mark key="[" line="98" column="28" />
+        <mark key="]" line="98" column="41" />
+        <mark key="^" line="94" column="21" />
+        <mark key="." line="98" column="28" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/sandbox.py" timestamp="1506722501950">
         <mark key="[" line="0" column="0" />
@@ -128,9 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
@@ -228,19 +230,22 @@
       <jump line="142" column="5" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="69" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" />
+      <jump line="41" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Task.java" />
+      <jump line="94" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Task.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUmVwb3NpdG9yeS5maW5kQnlQcm9qZWN0SWQocHJvamVjdC5nZXRJZCgpKS5mb3JFYWNoKFJlcG9zaXRvcnk6OmRlbGV0ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>User</text>
       </register>
       <register name="-" type="4">
-        <text>partRepository</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text>part</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUmVwb3NpdG9yeS5maW5kQnlQcm9qZWN0SWQocHJvamVjdC5nZXRJZCgpKS5mb3JFYWNoKFJlcG9zaXRvcnk6OmRlbGV0ZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>SecondaryUser</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcGFydFJlcG9zaXRvcnkuZmluZEJ5UHJvamVjdElkKHByb2plY3QuZ2V0SWQoKSkuZm9yRWFjaChwYXJ0UmVwb3NpdG9yeTo6ZGVsZXRlKTsKICAgICAgcGFydFJlcG9zaXRvcnkuZmluZEJ5UHJvamVjdElkKHByb2plY3QuZ2V0SWQoKSkuZm9yRWFjaChwYXJ0UmVwb3NpdG9yeTo6ZGVsZXRlKTsK</text>
@@ -291,10 +296,10 @@
       <history-cmd>
         <entry>vs</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
