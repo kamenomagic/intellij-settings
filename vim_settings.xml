@@ -9,7 +9,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1506140104503">
+      <file name="/Python Console" timestamp="1506726080316">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/lex.py" timestamp="1506626526402">
@@ -63,6 +63,9 @@
       <file name="/Dummy.txt" timestamp="1506722510571">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/code.py" timestamp="1506731834166">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" timestamp="1506692040844">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="40" />
@@ -89,12 +92,15 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1506725909242">
-        <mark key="'" line="36" column="20" />
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="37" />
-        <mark key="." line="21" column="37" />
-        <mark key="^" line="21" column="37" />
+      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1506728378918">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="42" column="45" />
+        <mark key="]" line="42" column="57" />
+        <mark key="." line="42" column="57" />
+        <mark key="^" line="42" column="57" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1506731772611">
+        <mark key="'" line="152" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" timestamp="1506692024315">
         <mark key="'" line="52" column="2" />
@@ -117,15 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
-      <jump line="29" column="4" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
-      <jump line="5" column="4" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
-      <jump line="43" column="31" filename="$USER_HOME$/IdeaProjects/lab3/lab3.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/python/lab3.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="19" column="11" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="32" column="24" filename="$USER_HOME$/dev/python/lab3.py" />
       <jump line="20" column="17" filename="$USER_HOME$/dev/python/lab3.py" />
@@ -190,72 +187,82 @@
       <jump line="19" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="48" column="5" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="33" column="34" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="8" column="55" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="16" column="21" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="27" column="8" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="31" column="20" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="32" column="23" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="39" column="39" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="5" column="40" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="4" column="41" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/sandbox.py" />
       <jump line="18" column="35" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="15" column="55" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="13" column="31" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="36" column="20" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="5" column="49" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="13" column="9" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="12" column="31" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="27" column="7" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="42" column="55" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="44" column="37" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="35" column="9" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>target_input</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>target_input</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>x</text>
       </register>
-      <register name="0" type="4">
-        <text>[-2.3, 4.5, 9.4]</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoImJldGE6IHt9Ii5mb3JtYXQoYmV0YV9vdXRwdXQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNsb3BlX291dHB1dCwgYmlhc19vdXRwdXQpCg==</text>
+        <text encoding="base64">Y29uY2F0ID0gdGYuY29uY2F0KCkKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUmVncmVzc2lvbjoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmxlYXJuaW5nX3JhdGUgPSAwLjAwNQogICAgICAgIHNlbGYuYmV0YSA9IG5wLnplcm9zKDMpCgogICAgZGVmIGxlYXJuKHNlbGYsIGRhdHVtKToKICAgICAgICB4X2hhdCwgdGFyZ2V0ID0gZGF0dW0KICAgICAgICB4X2hhdCA9IG5wLmFwcGVuZCh4X2hhdCwgWzFdKQogICAgICAgIHNlbGYuYmV0YSArPSBzZWxmLmRlbHRhX3coeF9oYXQsIHRhcmdldCkKCiAgICBkZWYgZGVsdGFfdyhzZWxmLCB4X2hhdCwgdGFyZ2V0KToKICAgICAgICBuZXQgPSBucC5kb3QoeF9oYXQsIHNlbGYuYmV0YSkgIyBzZWxmLm0gKiB4X2hhdCArIHNlbGYuYgogICAgICAgIHJldHVybiBzZWxmLmxlYXJuaW5nX3JhdGUgKiAodGFyZ2V0IC0gbmV0KSAqIHhfaGF0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uY2F0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJldGFfb3V0cHV0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGZlYXR1cmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB3aXRoIHRmLm5hbWVfc2NvcGUoJ0RlbHRhJyk6CiAgICAgICAgbmV0ID0gKG0gKiB4X2lucHV0ICsgYikKICAgICAgICBkZWx0YSA9IGxlYXJuaW5nX3JhdGUgKiAodGFyZ2V0X2lucHV0IC0gbmV0KQoKICAgIHNsb3BlID0gbS5hc3NpZ24obSArIGRlbHRhICogeF9pbnB1dCkKICAgIGJpYXMgPSBiLmFzc2lnbihiICsgZGVsdGEgKiAxLjApCg==</text>
+        <text encoding="base64">ZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG0gPSB0Zi5WYXJpYWJsZSguMSwgbmFtZT0nbScpCiAgICBiID0gdGYuVmFyaWFibGUoLjEsIG5hbWU9J2InKQo=</text>
+        <text encoding="base64">Zm9yIGkgaW4gcmFuZ2UoZmVhdHVyZXMpOgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
