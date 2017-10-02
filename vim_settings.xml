@@ -55,11 +55,24 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="39" column="93" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" timestamp="1506929913621">
+        <mark key="'" line="21" column="82" />
+        <mark key="[" line="21" column="82" />
+        <mark key="]" line="21" column="82" />
+        <mark key="." line="21" column="82" />
+        <mark key="^" line="21" column="104" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/lab3/lab3.py" timestamp="1506125124836">
         <mark key="'" line="47" column="31" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceReport.java" timestamp="1506923224502">
+        <mark key="[" line="8" column="53" />
+        <mark key="]" line="8" column="61" />
+        <mark key="^" line="8" column="61" />
+        <mark key="." line="8" column="61" />
       </file>
       <file name="$USER_HOME$/dev/python/lab3.py" timestamp="1506140229083">
         <mark key="'" line="10" column="15" />
@@ -82,14 +95,12 @@
         <mark key="." line="44" column="82" />
         <mark key="^" line="44" column="82" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" timestamp="1506922681847">
-        <mark key="[" line="115" column="69" />
-        <mark key="]" line="115" column="69" />
-        <mark key="^" line="115" column="87" />
-        <mark key="." line="115" column="69" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" timestamp="1506736673556">
-        <mark key="'" line="17" column="22" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" timestamp="1506929901910">
+        <mark key="'" line="27" column="34" />
+        <mark key="[" line="134" column="17" />
+        <mark key="]" line="134" column="17" />
+        <mark key="." line="134" column="17" />
+        <mark key="^" line="130" column="59" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" timestamp="1506738283716">
         <mark key="'" line="23" column="13" />
@@ -148,8 +159,10 @@
         <mark key="]" line="41" column="46" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1506733227665">
-        <mark key="'" line="29" column="2" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1506924633767">
+        <mark key="'" line="70" column="6" />
+        <mark key="[" line="55" column="46" />
+        <mark key="]" line="55" column="50" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/reconstruct.py" timestamp="1506626681902">
         <mark key="[" line="10" column="37" />
@@ -157,8 +170,10 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1506693044672">
-        <mark key="'" line="15" column="13" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1506923901532">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="96" column="163" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Task.java" timestamp="1506736692397">
         <mark key="'" line="94" column="39" />
@@ -180,11 +195,11 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1506731772611">
-        <mark key="'" line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" timestamp="1506692024315">
-        <mark key="'" line="52" column="2" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/Report.java" timestamp="1506924143256">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/adjacent.py" timestamp="1506627710032">
         <mark key="'" line="10" column="35" />
@@ -193,35 +208,24 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1506929664516">
+        <mark key="'" line="53" column="35" />
+        <mark key="[" line="57" column="44" />
+        <mark key="]" line="57" column="43" />
+        <mark key="." line="57" column="43" />
+        <mark key="^" line="57" column="43" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/right" timestamp="1506632524163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1506669827168">
+      <file name="/fragment.java" timestamp="1506925290928">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
-      <jump line="52" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
-      <jump line="24" column="23" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
-      <jump line="24" column="26" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="3" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="21" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="54" column="88" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="19" column="4" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="48" column="5" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
-      <jump line="33" column="34" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
       <jump line="8" column="55" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
@@ -304,52 +308,70 @@
       <jump line="40" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" />
       <jump line="39" column="3" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" />
       <jump line="10" column="15" filename="$USER_HOME$/dev/java/restorat/build.gradle" />
+      <jump line="15" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="12" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="122" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" />
+      <jump line="24" column="34" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" />
+      <jump line="72" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="52" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
+      <jump line="14" column="41" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="55" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="70" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="18" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="26" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="21" column="82" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, @PathVariable(&quot;invoiceId&quot;) long invoiceId)</text>
+        <text>FileNotFound</text>
       </register>
       <register name="-" type="4">
-        <text>, @PathVariable(&quot;invoiceId&quot;) long invoiceId)</text>
+        <text>FileNotFound</text>
       </register>
       <register name="/" type="4">
         <text>Get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub0NvbnRlbnQoKS5idWlsZCgpOwo=</text>
+      <register name="0" type="4">
+        <text>%d-%d</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5wb2kvcG9pCg==</text>
+        <text encoding="base64">ICAgIERhdGFTb3VyY2Ugc291cmNlID0gOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBmaWxlbmFtZSA9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFydFJlcG9zaXRvcnkuZmluZEJ5UHJvamVjdElkKHByb2plY3QuZ2V0SWQoKSkuZm9yRWFjaChwYXJ0UmVwb3NpdG9yeTo6ZGVsZXRlKTsKICAgICAgcGFydFJlcG9zaXRvcnkuZmluZEJ5UHJvamVjdElkKHByb2plY3QuZ2V0SWQoKSkuZm9yRWFjaChwYXJ0UmVwb3NpdG9yeTo6ZGVsZXRlKTsK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5UGFydCA9IG5ldyBNaW1lQm9keVBhcnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uY2F0ID0gdGYuY29uY2F0KCkKCg==</text>
+        <text encoding="base64">ICAgIE11bHRpcGFydCBtdWx0aXBhcnQgPSBuZXcgTWltZU11bHRpcGFydCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG11bHRpcGFydC5hZGRCb2R5UGFydChtZXNzYWdlQm9keVBhcnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uY2F0Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VCb2R5UGFydC5zZXRUZXh0KCJUaGlzIGlzIG1lc3NhZ2UgYm9keSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UuZ2V0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJldGFfb3V0cHV0Cg==</text>
+        <text encoding="base64">ICBndAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IGZlYXR1cmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -357,7 +379,7 @@
       <last-offset />
       <last-pattern>Get</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -377,8 +399,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
