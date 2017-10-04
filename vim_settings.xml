@@ -53,12 +53,12 @@
         <mark key="^" line="8" column="61" />
         <mark key="." line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1506705283108">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1507137774100">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/InvoiceController.java" timestamp="1506922700021">
         <mark key="'" line="45" column="26" />
@@ -141,11 +141,12 @@
         <mark key="." line="144" column="7" />
         <mark key="^" line="142" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" timestamp="1507136005730">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" timestamp="1507137440976">
         <mark key="'" line="51" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="88" column="30" />
+        <mark key="]" line="88" column="9" />
+        <mark key="." line="88" column="9" />
+        <mark key="^" line="88" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1506733227665">
         <mark key="'" line="29" column="2" />
@@ -271,7 +272,7 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507103434943">
+      <file name="/Dummy.txt" timestamp="1507137567117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1506731834166">
@@ -361,9 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartsReport.java" />
-      <jump line="112" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
       <jump line="41" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
@@ -461,10 +459,13 @@
       <jump line="17" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
+      <jump line="22" column="49" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="39" column="5" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>words</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -476,7 +477,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>words</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>service</text>
@@ -485,7 +486,7 @@
         <text encoding="base64">ICAgIHJlcG9ydC5wcmludENlbGxOZXdSb3cocHJvamVjdC5nZXRMb25nTmFtZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -550,28 +551,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5wcmludENlbGxOZXdSb3coKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHJlcG9ydC5wcmludENlbGxOZXdSb3coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RvcmF0Lmxvb2t1cC5hc3NldC5NYWludGVuYW5jZVBlcmlvZDsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NldCBzYXZlZEFzc2V0ID0gZ2V0QXNzZXQoYXNzZXRJZCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlc3RvcmF0Lmxvb2t1cC5hc3NldC5NYWludGVuYW5jZVBlcmlvZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NldCBzYXZlZEFzc2V0ID0gZ2V0QXNzZXQoYXNzZXRJZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXNhdmVkQXNzZXQuZ2V0UGhvdG9zKCkuaXNFbXB0eSgpKSB7CiAgICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuc3RhdHVzKEh0dHBTdGF0dXMuRk9SQklEREVOKS5idWlsZCgpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXNhdmVkQXNzZXQuZ2V0UGhvdG9zKCkuaXNFbXB0eSgpKSB7CiAgICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuc3RhdHVzKEh0dHBTdGF0dXMuRk9SQklEREVOKS5idWlsZCgpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -608,6 +609,7 @@
         <entry>noh</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>vs lab4.py</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
