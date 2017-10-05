@@ -104,6 +104,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="121" />
       </file>
+      <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507228683198">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1507186147536">
         <mark key="'" line="28" column="27" />
         <mark key="[" line="74" column="9" />
@@ -164,7 +170,7 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1506726080316">
+      <file name="/Python Console" timestamp="1507228620287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -342,6 +348,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1507226034992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
+        <mark key="^" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1507170184498">
         <mark key="'" line="59" column="28" />
         <mark key="[" line="28" column="0" />
@@ -414,7 +426,7 @@
         <mark key="^" line="28" column="111" />
         <mark key="." line="28" column="111" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1506632434767">
+      <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1507228522305">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -561,8 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="30" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/UserComponent.java" />
-      <jump line="50" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TimeController.java" />
       <jump line="52" column="3" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" />
       <jump line="76" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" />
@@ -661,10 +671,12 @@
       <jump line="4" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
       <jump line="33" column="30" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
       <jump line="107" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="11" column="9" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>start if current is None else current</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -676,16 +688,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>start if current is None else current</text>
       </register>
       <register name="/" type="4">
         <text>rand</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmFuZG9tLm5leHRCb29sZWFuKCkpIHsK</text>
+        <text encoding="base64">ICAgIGdyYXBoLmdldChrZXkpLnBvcCgwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay9zcHJpbmctdGVzdAogICAgdGVzdENvbXBpbGUgZ3JvdXA6ICdvcmcuc3ByaW5nZnJhbWV3b3JrJywgbmFtZTogJ3NwcmluZy10ZXN0JywgdmVyc2lvbjogJzUuMC4wLlJFTEVBU0UnCgo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50ID0gZ3JhcGguZ2V0KGN1cnJlbnQpWzBdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -750,28 +762,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFpbC5zbQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGN1cnJlbnQgaXMgTm9uZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGogPT0gMSkgewo=</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQgPSBzdGFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgUmFuZG9tIHJhbmRvbSA9IG5ldyBSYW5kb20oKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">dW52aXNpdGVkID0gZ3JhcGgua2V5cygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGksIGtleSBpbiBlbnVtZXJhdGUodW52aXNpdGVkKToKICAgIGlmIGxlbihjeWNsZSkgPT0gMDoKICAgICAgICBjeWNsZS5hcHBlbmQoa2V5KQogICAgICAgIGlmIGxlbihncmFwaC5nZXQoa2V5KSkgPT0gMToKICAgICAgICAgICAgdW52aXNpdGVkLnBvcChpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGdyYXBoLmdldChrZXkpLnBvcCgwKQogICAgZWxzZToKICAgIGdyYXBoLmdldChrZXkpLnBvcCgwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0Lmluc2VydEltYWdlKGFzc2V0LmdldFByaW1hcnlQaG90bygpLmdldEZpbGVQYXRoKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0ID0gZ3JhcGguZ2V0KGtleSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -822,6 +834,7 @@
         <entry>%s/assetTypeId/projectId/g</entry>
         <entry>;wq</entry>
         <entry>wq</entry>
+        <entry>.w</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
