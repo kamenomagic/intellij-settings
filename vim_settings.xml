@@ -39,12 +39,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1507256824641">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="13" column="15" />
-        <mark key="^" line="13" column="15" />
-        <mark key="." line="13" column="15" />
+      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1507257645088">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="66" column="19" />
+        <mark key="]" line="66" column="42" />
+        <mark key="." line="66" column="42" />
+        <mark key="^" line="66" column="42" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" timestamp="1507103634734">
         <mark key="'" line="16" column="13" />
@@ -586,12 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="69" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/UserComponent.java" />
       <jump line="181" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" />
@@ -662,7 +656,6 @@
       <jump line="3" column="29" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="59" column="18" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="1" column="17" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
-      <jump line="66" column="8" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="30" column="43" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="27" column="6" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="24" column="17" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
@@ -686,10 +679,17 @@
       <jump line="17" column="23" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="54" column="49" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="66" column="35" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="15" column="25" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>out_size</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -701,7 +701,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>out_size</text>
+        <text>get_cifar()</text>
       </register>
       <register name="/" type="4">
         <text>rand</text>
@@ -710,7 +710,7 @@
         <text encoding="base64">ICAgICAgICBpbml0aWFsaXplID0gdGYuY29udHJpYi5sYXllcnMudmFyaWFuY2Vfc2NhbGluZ19pbml0aWFsaXplcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzID0gdGYuU2Vzc2lvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -775,28 +775,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkID0gMTAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBudW1fZmlsdGVycyBpcyBiYXNpY2FsbHkgdGhlIGRlcHRoIG9mIFcsIHNvIHRoZSBkZXB0aCBvZiB4CiMgcmVsdSBvbiBldmVyeSBsYXllciBleGNlcHQgdGhlIG91dHB1dCBsYXllcgo=</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlcyA9IG5wLmRvdChmZWF0dXJlcywgbnAucmFuZG9tLnJhbmRuKDMwNzIsIGQpKQogICAgICAgIGZlYXR1cmVzID0gKGZlYXR1cmVzIC0gbnAubWVhbihmZWF0dXJlcywgYXhpcz0wKSkgLyBucC5zdGQoZmVhdHVyZXMsIGF4aXM9MCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmZWF0dXJlcywgbGFiZWxzID0gZ2V0X2NpZmFyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50IGxhYmVscwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0Zi5ubi5iaWFzX2FkZCgpCg==</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzLCBsYWJlbHMgPSBnZXRfY2lmYXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXNzID0gdGYuU2Vzc2lvbigpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">IyBudW1fZmlsdGVycyBpcyBiYXNpY2FsbHkgdGhlIGRlcHRoIG9mIFcsIHNvIHRoZSBkZXB0aCBvZiB4CiMgcmVsdSBvbiBldmVyeSBsYXllciBleGNlcHQgdGhlIG91dHB1dCBsYXllcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
