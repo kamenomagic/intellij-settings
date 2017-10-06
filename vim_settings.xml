@@ -10,6 +10,9 @@
         <mark key="^" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
+      <file name="/a.dummy" timestamp="1507252432236">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/debrujin.py" timestamp="1506632250608">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -36,12 +39,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1507137774100">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="39" column="5" />
-        <mark key="^" line="39" column="5" />
-        <mark key="." line="39" column="5" />
+      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1507254257206">
+        <mark key="'" line="50" column="42" />
+        <mark key="[" line="31" column="69" />
+        <mark key="]" line="31" column="69" />
+        <mark key="^" line="30" column="127" />
+        <mark key="." line="31" column="69" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" timestamp="1507103634734">
         <mark key="'" line="16" column="13" />
@@ -321,6 +324,11 @@
         <mark key="." line="44" column="82" />
         <mark key="^" line="44" column="82" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" timestamp="1507103649862">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/photos/photo4.json" timestamp="1507181130674">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="11" />
@@ -387,10 +395,10 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1506728378918">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="42" column="45" />
-        <mark key="]" line="42" column="57" />
+      <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1507249565758">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="14" column="59" />
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="57" />
       </file>
@@ -459,6 +467,11 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/python/deep learning/lab3.py" timestamp="1507250045739">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="83" column="32" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part4.json" timestamp="1507163538162">
         <mark key="'" line="13" column="15" />
@@ -573,32 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="3" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" />
-      <jump line="76" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" />
-      <jump line="95" column="43" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="61" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="20" column="108" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentInitializer.java" />
-      <jump line="61" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="116" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="38" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="19" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
-      <jump line="41" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="42" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="47" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="50" column="82" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="51" column="32" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="122" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="45" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="97" column="52" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="80" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="143" column="23" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
-      <jump line="57" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
-      <jump line="81" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="99" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="37" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/CollectionService.java" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
@@ -673,10 +660,36 @@
       <jump line="107" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
       <jump line="11" column="9" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="39" column="18" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/deep learning/lab4.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="25" column="6" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="8" column="35" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="6" column="4" filename="$USER_HOME$/dev/python/deep learning/lab3.py" />
+      <jump line="3" column="29" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="59" column="18" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="1" column="17" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="31" column="49" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="30" column="43" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="27" column="6" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="24" column="17" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="49" column="54" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="28" column="9" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="47" column="23" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="51" column="53" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="29" column="21" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="33" column="45" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="50" column="42" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>start if current is None else current</text>
+        <text>r</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -688,16 +701,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>start if current is None else current</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>rand</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGdyYXBoLmdldChrZXkpLnBvcCgwKQo=</text>
+      <register name="0" type="4">
+        <text>initializer=initializer</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50ID0gZ3JhcGguZ2V0KGN1cnJlbnQpWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -762,28 +775,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">IyBudW1fZmlsdGVycyBpcyBiYXNpY2FsbHkgdGhlIGRlcHRoIG9mIFcsIHNvIHRoZSBkZXB0aCBvZiB4CiMgcmVsdSBvbiBldmVyeSBsYXllciBleGNlcHQgdGhlIG91dHB1dCBsYXllcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGN1cnJlbnQgaXMgTm9uZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnQgPSBzdGFyCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0Zi5ubi5iaWFzX2FkZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dW52aXNpdGVkID0gZ3JhcGgua2V5cygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGksIGtleSBpbiBlbnVtZXJhdGUodW52aXNpdGVkKToKICAgIGlmIGxlbihjeWNsZSkgPT0gMDoKICAgICAgICBjeWNsZS5hcHBlbmQoa2V5KQogICAgICAgIGlmIGxlbihncmFwaC5nZXQoa2V5KSkgPT0gMToKICAgICAgICAgICAgdW52aXNpdGVkLnBvcChpKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGdyYXBoLmdldChrZXkpLnBvcCgwKQogICAgZWxzZToKICAgIGdyYXBoLmdldChrZXkpLnBvcCgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0ID0gZ3JhcGguZ2V0KGtleSkK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -856,6 +869,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
