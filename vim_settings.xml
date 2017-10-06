@@ -39,12 +39,12 @@
         <mark key="^" line="17" column="10" />
         <mark key="." line="17" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1507316157640">
+      <file name="$USER_HOME$/dev/python/deep learning/lab5.py" timestamp="1507317198252">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="42" />
-        <mark key="." line="58" column="42" />
-        <mark key="^" line="58" column="42" />
+        <mark key="[" line="60" column="45" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="45" />
+        <mark key="^" line="59" column="57" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" timestamp="1507103634734">
         <mark key="'" line="16" column="13" />
@@ -174,7 +174,7 @@
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1507316125997">
+      <file name="/Python Console" timestamp="1507317199845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -690,7 +690,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flatten</text>
+        <text>, 1</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -702,7 +702,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>flatten</text>
+        <text>, 1</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
