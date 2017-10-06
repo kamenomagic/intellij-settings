@@ -107,11 +107,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="121" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507265092207">
-        <mark key="[" line="26" column="34" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
+      <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507265875915">
+        <mark key="'" line="35" column="14" />
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1507186147536">
         <mark key="'" line="28" column="27" />
@@ -586,15 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/UserComponent.java" />
-      <jump line="102" column="44" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="21" column="48" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentInitializer.java" />
-      <jump line="40" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Component.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Component.java" />
-      <jump line="136" column="3" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
-      <jump line="69" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
-      <jump line="87" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
-      <jump line="108" column="89" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
       <jump line="137" column="76" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
       <jump line="9" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" />
       <jump line="100" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/photos/photo1.json" />
@@ -686,10 +678,19 @@
       <jump line="62" column="4" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="32" column="5" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="8" column="7" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="36" column="24" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="35" column="23" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="4" column="38" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="34" column="14" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmV3U3RhcnQgPSAK</text>
+      <register name="&quot;" type="4">
+        <text>.get(current)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -701,16 +702,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>graph.keys()[0]</text>
+        <text>.get(current)</text>
       </register>
       <register name="/" type="4">
         <text>rand</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplID0gdGYuY29udHJpYi5sYXllcnMudmFyaWFuY2Vfc2NhbGluZ19pbml0aWFsaXplcigpCg==</text>
+      <register name="0" type="4">
+        <text>file_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmV3U3RhcnQgPSAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBjeWNsZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -775,28 +776,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0ID0gZ3JhcGgua2V5cygpWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oZ3JhcGguZ2V0KGN1cnJlbnQpKSA9PSAwOgogICAgICAgICAgICBncmFwaC5wb3AoY3VycmVudCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3ljbGUgPSBbXQpzdGFydCA9IGdyYXBoLmtleXMoKVswXQpjdXJyZW50ID0gTm9uZQp3aGlsZSBjdXJyZW50ICE9IHN0YXJ0OgogICAgY3VycmVudCA9IHN0YXJ0IGlmIGN1cnJlbnQgaXMgTm9uZSBlbHNlIGN1cnJlbnQKICAgIGN5Y2xlLmFwcGVuZChjdXJyZW50KQogICAgY3VycmVudCA9IGdyYXBoLmdldChjdXJyZW50KS5wb3AoMCkKICAgIGlmIGxlbihncmFwaC5nZXQoY3VycmVudCkpID09IDA6CiAgICAgICAgZ3JhcGgucG9wKGN1cnJlbnQpCmN5Y2xlLmFwcGVuZChzdGFydCkK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignaW5wdXQudHh0JykgYXMgZmlsZToKICAgICAgICBsaW5lcyA9IFt4LnN0cmlwKCkgZm9yIHggaW4gZmlsZS5yZWFkbGluZXMoKV0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnQgPQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCBvdXRwdXQKICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
+        <text encoding="base64">ICAgIGN5Y2xlID0gZ2V0X2N5Y2xlKGdyYXBoLCBncmFwaC5rZXlzKClbMF0pCgogICAgd2hpbGUgbGVuKGdyYXBoKSA+IDA6CiAgICAgICAgbmV3X2N5Y2xlID0gZ2V0X2N5Y2xlKGdyYXBoLCBncmFwaC5rZXlzKClbMF0pCiAgICAgICAgZm9yIGksIG5vZGUgaW4gZW51bWVyYXRlKGN5Y2xlKToKICAgICAgICAgICAgaWYgbm9kZSA9PSBuZXdfY3ljbGVbMF06CiAgICAgICAgICAgICAgICBjeWNsZS5pbnNlcnQoaSwgbmV3X2N5Y2xlKQoKICAgIHByaW50IGN5Y2xlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
+        <text encoding="base64">Y3ljbGUgPSBnZXRfY3ljbGUoZ3JhcGgsIGdyYXBoLmtleXMoKVswXSkKCndoaWxlIGxlbihncmFwaCkgPiAwOgogICAgbmV3X2N5Y2xlID0gZ2V0X2N5Y2xlKGdyYXBoLCBncmFwaC5rZXlzKClbMF0pCiAgICBmb3IgaSwgbm9kZSBpbiBlbnVtZXJhdGUoY3ljbGUpOgogICAgICAgIGlmIG5vZGUgPT0gbmV3X2N5Y2xlWzBdOgogICAgICAgICAgICBjeWNsZS5pbnNlcnQoaSwgbmV3X2N5Y2xlKQoKcHJpbnQgY3ljbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
