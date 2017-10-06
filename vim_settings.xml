@@ -107,11 +107,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="121" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507228683198">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-        <mark key="." line="18" column="17" />
+      <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507265092207">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1507186147536">
         <mark key="'" line="28" column="27" />
@@ -586,7 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Vendor.java" />
       <jump line="101" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/UserComponent.java" />
       <jump line="102" column="44" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="21" column="48" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentInitializer.java" />
@@ -686,10 +685,11 @@
       <jump line="43" column="4" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="62" column="4" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
+        <text encoding="base64">bmV3U3RhcnQgPSAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -701,7 +701,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>graph.keys()[0]</text>
       </register>
       <register name="/" type="4">
         <text>rand</text>
@@ -710,7 +710,7 @@
         <text encoding="base64">ICAgICAgICBpbml0aWFsaXplID0gdGYuY29udHJpYi5sYXllcnMudmFyaWFuY2Vfc2NhbGluZ19pbml0aWFsaXplcigpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
+        <text encoding="base64">bmV3U3RhcnQgPSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -775,28 +775,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCBvdXRwdXQKICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0ID0gZ3JhcGgua2V5cygpWzBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkID0gMTAK</text>
+        <text encoding="base64">Y3ljbGUgPSBbXQpzdGFydCA9IGdyYXBoLmtleXMoKVswXQpjdXJyZW50ID0gTm9uZQp3aGlsZSBjdXJyZW50ICE9IHN0YXJ0OgogICAgY3VycmVudCA9IHN0YXJ0IGlmIGN1cnJlbnQgaXMgTm9uZSBlbHNlIGN1cnJlbnQKICAgIGN5Y2xlLmFwcGVuZChjdXJyZW50KQogICAgY3VycmVudCA9IGdyYXBoLmdldChjdXJyZW50KS5wb3AoMCkKICAgIGlmIGxlbihncmFwaC5nZXQoY3VycmVudCkpID09IDA6CiAgICAgICAgZ3JhcGgucG9wKGN1cnJlbnQpCmN5Y2xlLmFwcGVuZChzdGFydCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlcyA9IG5wLmRvdChmZWF0dXJlcywgbnAucmFuZG9tLnJhbmRuKDMwNzIsIGQpKQogICAgICAgIGZlYXR1cmVzID0gKGZlYXR1cmVzIC0gbnAubWVhbihmZWF0dXJlcywgYXhpcz0wKSkgLyBucC5zdGQoZmVhdHVyZXMsIGF4aXM9MCkK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmZWF0dXJlcywgbGFiZWxzID0gZ2V0X2NpZmFyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50IGxhYmVscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVzLCBsYWJlbHMgPSBnZXRfY2lmYXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCBvdXRwdXQKICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzID0gdGYuU2Vzc2lvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
