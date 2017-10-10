@@ -101,12 +101,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="121" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507662256577">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="54" />
-        <mark key="." line="20" column="54" />
-        <mark key="^" line="20" column="54" />
+      <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507664052048">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="54" column="52" />
+        <mark key="]" line="54" column="51" />
+        <mark key="." line="54" column="51" />
+        <mark key="^" line="54" column="51" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1507186147536">
         <mark key="'" line="28" column="27" />
@@ -521,9 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/python/deep learning/lab5.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/python/deep learning/layers.py" />
       <jump line="54" column="8" filename="$USER_HOME$/dev/python/deep learning/layers.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/python/deep learning/tensorflow_example.py" />
       <jump line="23" column="10" filename="$USER_HOME$/dev/python/deep learning/layers.py" />
@@ -621,6 +618,9 @@
       <jump line="11" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
