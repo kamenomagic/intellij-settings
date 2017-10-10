@@ -305,7 +305,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507171913730">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
         <mark key="'" line="16" column="13" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
@@ -369,6 +369,13 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1507604910985">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="^" line="26" column="79" />
+        <mark key="." line="26" column="61" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1507268828507">
         <mark key="[" line="0" column="0" />
@@ -588,7 +595,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2340" column="5" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
       <jump line="4340" column="31" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
       <jump line="35" column="16" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
       <jump line="2586" column="9" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
@@ -688,10 +694,11 @@
       <jump line="19" column="29" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
       <jump line="8" column="19" filename="$USER_HOME$/dev/python/rosalind/debrujincollections.py" />
       <jump line="129" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgogICAgcHJpbnQgJ3t9IHt9Jy5mb3JtYXQoa2V5LCB2YWx1ZSkKICAgICcsJy5qb2luKHZhbHVlKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZhbHNl</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -703,7 +710,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>vlauevs</text>
+        <text encoding="base64">IGZhbHNl</text>
       </register>
       <register name="/" type="4">
         <text>train</text>
