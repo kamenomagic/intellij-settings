@@ -9,26 +9,35 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507588446891">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507655820772">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
+      <register name="0" type="2">
         <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
+      <register name="1" type="2">
+        <text encoding="base64">c2V0KENNQUtFX0NfQ09NUElMRVIgL3VzZXIvbG9jYWwvYmluL21waWNjKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -37,9 +46,14 @@
     </search>
     <history>
       <history-cmd>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
