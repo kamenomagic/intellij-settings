@@ -19,6 +19,12 @@
       <file name="/a.dummy" timestamp="1507252432236">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentInitializer.java" timestamp="1507179350703">
         <mark key="'" line="21" column="48" />
         <mark key="[" line="18" column="4" />
@@ -31,6 +37,26 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="24" column="25" />
         <mark key="." line="117" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/CollectionController.java" timestamp="1506738212654">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="44" />
+        <mark key="." line="44" column="44" />
+        <mark key="^" line="39" column="93" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab3/lab3.py" timestamp="1506125124836">
+        <mark key="'" line="47" column="31" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1507171453252">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="112" column="28" />
+        <mark key="]" line="112" column="27" />
+        <mark key="." line="112" column="27" />
+        <mark key="^" line="112" column="27" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part1.json" timestamp="1507163511908">
         <mark key="'" line="3" column="2" />
@@ -53,6 +79,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/InvoiceController.java" timestamp="1507152876100">
+        <mark key="'" line="26" column="39" />
+        <mark key="[" line="44" column="82" />
+        <mark key="]" line="44" column="82" />
+        <mark key="." line="44" column="82" />
+        <mark key="^" line="44" column="82" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" timestamp="1507609687204">
         <mark key="'" line="172" column="4" />
         <mark key="[" line="187" column="28" />
@@ -73,6 +106,27 @@
         <mark key="]" line="48" column="23" />
         <mark key="." line="48" column="23" />
         <mark key="^" line="49" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/CollectionService.java" timestamp="1507186091215">
+        <mark key="'" line="29" column="14" />
+        <mark key="[" line="113" column="60" />
+        <mark key="]" line="113" column="59" />
+        <mark key="." line="113" column="59" />
+        <mark key="^" line="113" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TimeController.java" timestamp="1507170017444">
+        <mark key="'" line="50" column="21" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="48" column="22" />
+        <mark key="^" line="48" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time7.json" timestamp="1507167369573">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1507584890573">
         <mark key="'" line="0" column="0" />
@@ -101,6 +155,13 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="121" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1507604910985">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="61" />
+        <mark key="^" line="26" column="79" />
+        <mark key="." line="26" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1507664052048">
         <mark key="'" line="51" column="0" />
         <mark key="[" line="54" column="52" />
@@ -127,222 +188,6 @@
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/Report.java" timestamp="1507096265329">
-        <mark key="'" line="32" column="3" />
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="28" column="9" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="28" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part2.json" timestamp="1507163548998">
-        <mark key="'" line="14" column="18" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/UserComponent.java" timestamp="1507179144589">
-        <mark key="'" line="101" column="14" />
-        <mark key="[" line="39" column="61" />
-        <mark key="]" line="39" column="86" />
-        <mark key="." line="39" column="61" />
-        <mark key="^" line="39" column="62" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/PhotoController.java" timestamp="1507616434107">
-        <mark key="'" line="81" column="50" />
-        <mark key="[" line="80" column="94" />
-        <mark key="]" line="80" column="94" />
-        <mark key="." line="80" column="94" />
-        <mark key="^" line="80" column="94" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1506738190965">
-        <mark key="'" line="39" column="3" />
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="29" />
-        <mark key="." line="40" column="29" />
-        <mark key="^" line="40" column="29" />
-      </file>
-      <file name="/Python Console" timestamp="1507327150944">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1507153620764">
-        <mark key="'" line="74" column="6" />
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="44" column="40" />
-        <mark key="." line="44" column="40" />
-        <mark key="^" line="44" column="40" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/BudgetController.java" timestamp="1507091725417">
-        <mark key="'" line="40" column="27" />
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-        <mark key="^" line="33" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1507170615049">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="46" column="2" />
-        <mark key="." line="82" column="33" />
-        <mark key="^" line="82" column="33" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1507154033385">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="6" />
-        <mark key="." line="56" column="6" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1507182969083">
-        <mark key="'" line="49" column="110" />
-        <mark key="[" line="54" column="32" />
-        <mark key="]" line="54" column="101" />
-        <mark key="." line="54" column="32" />
-        <mark key="^" line="49" column="98" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/photos/photo1.json" timestamp="1507181051868">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Invoice1.json" timestamp="1507082051794">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="21" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="30" />
-        <mark key="." line="53" column="30" />
-        <mark key="^" line="53" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1507618532109">
-        <mark key="'" line="134" column="0" />
-        <mark key="[" line="135" column="75" />
-        <mark key="]" line="135" column="78" />
-        <mark key="." line="135" column="78" />
-        <mark key="^" line="135" column="78" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part3.json" timestamp="1507163543538">
-        <mark key="'" line="2" column="2" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Task.java" timestamp="1506736692397">
-        <mark key="'" line="94" column="39" />
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="42" column="32" />
-        <mark key="^" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" timestamp="1507170118965">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="65" column="27" />
-        <mark key="]" line="65" column="27" />
-        <mark key="." line="65" column="27" />
-        <mark key="^" line="43" column="61" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1507618249869">
-        <mark key="'" line="114" column="2" />
-        <mark key="[" line="106" column="76" />
-        <mark key="]" line="106" column="80" />
-        <mark key="." line="106" column="80" />
-        <mark key="^" line="106" column="80" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Photo.java" timestamp="1507610635393">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="76" column="3" />
-        <mark key="]" line="76" column="2" />
-        <mark key="^" line="76" column="2" />
-        <mark key="." line="76" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1507585615358">
-        <mark key="'" line="129" column="28" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="33" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1507617400207">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="96" column="94" />
-        <mark key="]" line="96" column="94" />
-        <mark key="." line="96" column="94" />
-        <mark key="^" line="97" column="105" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/CollectionController.java" timestamp="1506738212654">
-        <mark key="'" line="39" column="29" />
-        <mark key="[" line="44" column="44" />
-        <mark key="]" line="44" column="44" />
-        <mark key="." line="44" column="44" />
-        <mark key="^" line="39" column="93" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/lab3/lab3.py" timestamp="1506125124836">
-        <mark key="'" line="47" column="31" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1507171453252">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="112" column="28" />
-        <mark key="]" line="112" column="27" />
-        <mark key="." line="112" column="27" />
-        <mark key="^" line="112" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/InvoiceController.java" timestamp="1507152876100">
-        <mark key="'" line="26" column="39" />
-        <mark key="[" line="44" column="82" />
-        <mark key="]" line="44" column="82" />
-        <mark key="." line="44" column="82" />
-        <mark key="^" line="44" column="82" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/CollectionService.java" timestamp="1507186091215">
-        <mark key="'" line="29" column="14" />
-        <mark key="[" line="113" column="60" />
-        <mark key="]" line="113" column="59" />
-        <mark key="." line="113" column="59" />
-        <mark key="^" line="113" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TimeController.java" timestamp="1507170017444">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="53" />
-        <mark key="." line="48" column="22" />
-        <mark key="^" line="48" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time7.json" timestamp="1507167369573">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1507604910985">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="26" column="61" />
-        <mark key="]" line="26" column="61" />
-        <mark key="^" line="26" column="79" />
-        <mark key="." line="26" column="61" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1507170184498">
         <mark key="'" line="59" column="28" />
@@ -386,11 +231,46 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/Report.java" timestamp="1507096265329">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="28" column="9" />
+        <mark key="]" line="28" column="9" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="28" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Component.java" timestamp="1507180360591">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part2.json" timestamp="1507163548998">
+        <mark key="'" line="14" column="18" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/UserComponent.java" timestamp="1507179144589">
+        <mark key="'" line="101" column="14" />
+        <mark key="[" line="39" column="61" />
+        <mark key="]" line="39" column="86" />
+        <mark key="." line="39" column="61" />
+        <mark key="^" line="39" column="62" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/PhotoController.java" timestamp="1507616434107">
+        <mark key="'" line="81" column="50" />
+        <mark key="[" line="80" column="94" />
+        <mark key="]" line="80" column="94" />
+        <mark key="." line="80" column="94" />
+        <mark key="^" line="80" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1506738190965">
+        <mark key="'" line="39" column="3" />
+        <mark key="[" line="40" column="25" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1507583635875">
         <mark key="'" line="8" column="19" />
@@ -405,12 +285,48 @@
         <mark key="." line="22" column="9" />
         <mark key="^" line="51" column="3" />
       </file>
+      <file name="/Python Console" timestamp="1507327150944">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1507153620764">
+        <mark key="'" line="74" column="6" />
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="44" column="40" />
+        <mark key="." line="44" column="40" />
+        <mark key="^" line="44" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/BudgetController.java" timestamp="1507091725417">
+        <mark key="'" line="40" column="27" />
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1507170615049">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="46" column="2" />
+        <mark key="." line="82" column="33" />
+        <mark key="^" line="82" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Project1.json" timestamp="1507074529082">
         <mark key="'" line="24" column="17" />
         <mark key="[" line="33" column="16" />
         <mark key="]" line="33" column="39" />
         <mark key="^" line="33" column="39" />
         <mark key="." line="33" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1507154033385">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="6" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartsReport.java" timestamp="1507092267104">
         <mark key="'" line="31" column="6" />
@@ -426,12 +342,26 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1507182969083">
+        <mark key="'" line="49" column="110" />
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="101" />
+        <mark key="." line="54" column="32" />
+        <mark key="^" line="49" column="98" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1507610183358">
         <mark key="'" line="65" column="7" />
         <mark key="[" line="153" column="34" />
         <mark key="]" line="153" column="36" />
         <mark key="." line="153" column="36" />
         <mark key="^" line="153" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/photos/photo1.json" timestamp="1507181051868">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part4.json" timestamp="1507163538162">
         <mark key="'" line="13" column="15" />
@@ -443,6 +373,13 @@
       <file name="/dummy.sql" timestamp="1507614204178">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Invoice1.json" timestamp="1507082051794">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="21" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/UserComponentRepository.java" timestamp="1507611396007">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -453,6 +390,20 @@
       </file>
       <file name="/code.py" timestamp="1506731834166">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1507618532109">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="135" column="75" />
+        <mark key="]" line="135" column="78" />
+        <mark key="." line="135" column="78" />
+        <mark key="^" line="135" column="78" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time8.json" timestamp="1507167370038">
         <mark key="'" line="11" column="18" />
@@ -481,6 +432,13 @@
         <mark key="." line="33" column="66" />
         <mark key="^" line="33" column="73" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part3.json" timestamp="1507163543538">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="18" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="19" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" timestamp="1507168185257">
         <mark key="'" line="89" column="30" />
         <mark key="[" line="108" column="0" />
@@ -488,12 +446,47 @@
         <mark key="^" line="107" column="30" />
         <mark key="." line="108" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Task.java" timestamp="1506736692397">
+        <mark key="'" line="94" column="39" />
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="32" />
+        <mark key="^" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/ComponentController.java" timestamp="1507170118965">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="65" column="27" />
+        <mark key="]" line="65" column="27" />
+        <mark key="." line="65" column="27" />
+        <mark key="^" line="43" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1507618249869">
+        <mark key="'" line="114" column="2" />
+        <mark key="[" line="106" column="76" />
+        <mark key="]" line="106" column="80" />
+        <mark key="." line="106" column="80" />
+        <mark key="^" line="106" column="80" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Photo.java" timestamp="1507610635393">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="76" column="3" />
+        <mark key="]" line="76" column="2" />
+        <mark key="^" line="76" column="2" />
+        <mark key="." line="76" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time5.json" timestamp="1507167368452">
         <mark key="'" line="11" column="18" />
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1507585615358">
+        <mark key="'" line="129" column="28" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="33" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time2.json" timestamp="1507167364868">
         <mark key="'" line="8" column="17" />
@@ -515,6 +508,13 @@
         <mark key="]" line="42" column="20" />
         <mark key="^" line="42" column="20" />
         <mark key="." line="42" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1507617400207">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="96" column="94" />
+        <mark key="]" line="96" column="94" />
+        <mark key="." line="96" column="94" />
+        <mark key="^" line="97" column="105" />
       </file>
       <file name="/fragment.java" timestamp="1507170341781">
         <mark key="[" line="0" column="0" />
@@ -624,7 +624,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>inputImage.getWidth()</text>
+        <text>:</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -636,7 +636,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>inputImage.getWidth()</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>getPhoto</text>
@@ -645,34 +645,34 @@
         <text>style=\&quot;font-size: 6px\&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgZGVzdCA9IHNyYy5nZXRTdWJpbWFnZSgwLCAwLCByZWN0LndpZHRoLCByZWN0LmhlaWdodCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRlc3Q7Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIkhlbGxvIFdvcmxkIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CWRkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnVmZmVyZWRJbWFnZSBjcm9wSW1hZ2UoQnVmZmVyZWRJbWFnZSBzcmMsIFJlY3RhbmdsZSByZWN0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBzY2FsZWRTaXplID0gMjU2Owo=</text>
+        <text encoding="base64">ICAgIEJ1ZmZlcmVkSW1hZ2UgZGVzdCA9IHNyYy5nZXRTdWJpbWFnZSgwLCAwLCByZWN0LndpZHRoLCByZWN0LmhlaWdodCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludCBzY2FsZWRTaXplID0gMjU2Owo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRlc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBzY2FsZWRTaXplID0gMjU2OwogICAgICAgICAgQnVmZmVyZWRJbWFnZSBpbnB1dEltYWdlID0gSW1hZ2VJTy5yZWFkKG5ldyBGaWxlKHBob3RvLmdldEZpbGVQYXRoKCkpKTsKICAgICAgICAgIEJ1ZmZlcmVkSW1hZ2Ugb3V0cHV0SW1hZ2UgPSBuZXcgQnVmZmVyZWRJbWFnZShzY2FsZWRTaXplLCBzY2FsZWRTaXplLCBpbnB1dEltYWdlLmdldFR5cGUoKSk7CiAgICAgICAgICBHcmFwaGljczJEIGcyZCA9IG91dHB1dEltYWdlLmNyZWF0ZUdyYXBoaWNzKCk7CiAgICAgICAgICBnMmQuZHJhd0ltYWdlKGlucHV0SW1hZ2UsIDAsIDAsIHNjYWxlZFNpemUsIHNjYWxlZFNpemUsIG51bGwpOwogICAgICAgICAgZzJkLmRpc3Bvc2UoKTsKICAgICAgICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBidWZmZXIgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICAgICAgICBJbWFnZUlPLndyaXRlKG91dHB1dEltYWdlLCAianBlZyIsIGJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQnVmZmVyZWRJbWFnZSBjcm9wSW1hZ2UoQnVmZmVyZWRJbWFnZSBzcmMsIFJlY3RhbmdsZSByZWN0KSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBzY2FsZWRTaXplID0gMjU2Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -685,7 +685,7 @@
       <last-replace>projectId</last-replace>
       <last-substitute>assetTypeId</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
