@@ -10,24 +10,25 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507826407532">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507841515281">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+        <mark key="^" line="8" column="51" />
       </file>
     </filemarks>
     <jumps>
       <jump line="1" column="15" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
+      <register name="0" type="4">
+        <text>/openmpi-3.0.0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2V0KHNvbWUgMTEpCg==</text>
@@ -45,7 +46,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
