@@ -3,34 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1507736821520">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1507826505719">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507663286584">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507826407532">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="1" column="15" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NfQ09NUElMRVIgL3VzZXIvbG9jYWwvYmluL21waWNjKQo=</text>
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
+        <text encoding="base64">c2V0KHNvbWUgMTEpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">c2V0KENNQUtFX0NfQ09NUElMRVIgL3VzZXIvbG9jYWwvYmluL21waWNjKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
