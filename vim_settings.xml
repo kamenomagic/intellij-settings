@@ -234,6 +234,12 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1507840069970">
         <mark key="'" line="73" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/python/deeplearning/lab6.py" timestamp="1507930367756">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1507331362479">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="48" column="0" />
@@ -564,9 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="138" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
@@ -664,10 +667,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/deep learning/test.py" />
       <jump line="119" column="8" filename="$USER_HOME$/dev/python/deep learning/test.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/gpu/Gpu.java" />
+      <jump line="22" column="68" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
+      <jump line="83" column="4" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3V0cHV0KTsK</text>
+        <text encoding="base64">ZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -688,34 +694,34 @@
         <text>outputString</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3V0cHV0KTsK</text>
+        <text encoding="base64">ZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZXJlIGlzIHRoZSBzdGFuZGFyZCBvdXRwdXQgb2YgdGhlIGNvbW1hbmQ6XG4iKTsK</text>
+        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkRXJyb3IgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3CiAgICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIocC5nZXRFcnJvclN0cmVhbSgpKSk7CgogICAgICAvLyByZWFkIHRoZSBvdXRwdXQgZnJvbSB0aGUgY29tbWFuZAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3V0cHV0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3MgcCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZXJlIGlzIHRoZSBzdGFuZGFyZCBvdXRwdXQgb2YgdGhlIGNvbW1hbmQ6XG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkRXJyb3IgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3CiAgICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIocC5nZXRFcnJvclN0cmVhbSgpKSk7CgogICAgICAvLyByZWFkIHRoZSBvdXRwdXQgZnJvbSB0aGUgY29tbWFuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS4K</text>
+        <text encoding="base64">ICAgIFByb2Nlc3MgcCA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0cy5wdXQoREVGQVVMVCwgInNwYWNlRGFzaGJvYXJkLmh0bWwiKTsKICAgIHJlZGlyZWN0cy5wdXQoInNwYWNlRnVsbFNjcmVlbiIsICJzcGFjZUZ1bGxTY3JlZW4uaHRtbCIpOwo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAppbXBvcnQgbnVtcHkgYXMgbnAK</text>
+        <text encoding="base64">ICAgIHJlZGlyZWN0cy5wdXQoREVGQVVMVCwgInNwYWNlRGFzaGJvYXJkLmh0bWwiKTsKICAgIHJlZGlyZWN0cy5wdXQoInNwYWNlRnVsbFNjcmVlbiIsICJzcGFjZUZ1bGxTY3JlZW4uaHRtbCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
