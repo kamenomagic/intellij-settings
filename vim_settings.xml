@@ -549,12 +549,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1507966335690">
-        <mark key="'" line="37" column="12" />
-        <mark key="[" line="65" column="42" />
-        <mark key="]" line="65" column="43" />
-        <mark key="." line="65" column="43" />
-        <mark key="^" line="65" column="44" />
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508008414570">
+        <mark key="'" line="33" column="16" />
+        <mark key="[" line="66" column="46" />
+        <mark key="]" line="66" column="47" />
+        <mark key="." line="66" column="47" />
+        <mark key="^" line="66" column="47" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time2.json" timestamp="1507167364868">
         <mark key="'" line="8" column="17" />
@@ -589,11 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="95" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="44" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="58" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="59" column="9" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="61" column="9" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="63" column="9" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -642,9 +637,7 @@
       <jump line="22" column="68" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
       <jump line="83" column="4" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
-      <jump line="65" column="46" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="54" column="56" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="8" column="5" filename="$USER_HOME$/dev/python/gpu/test.py" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -669,30 +662,37 @@
       <jump line="56" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="14" column="20" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="105" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="40" column="49" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="43" column="5" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="42" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="55" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="110" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="36" column="14" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="47" column="23" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="63" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="59" column="23" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="38" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="39" column="40" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="53" column="42" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="37" column="12" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="64" column="26" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="65" column="42" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="11" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="62" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="78" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="39" column="51" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="40" column="72" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="49" column="72" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="57" column="43" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="74" column="28" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnU3RhcnRpbmcgZXBvY2hzLi4uJwo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -704,60 +704,59 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>100</text>
+        <text>get_feature</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCBvYmplY3QK</text>
+      <register name="0" type="4">
+        <text>tf.reduce_mean</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnU3RhcnRpbmcgZXBvY2hzLi4uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGYuU2Vzc2lvbigpIGFzIHNlc3M6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBsZW4odHJhaW5fZmVhdHVyZXMpIC8gbGVuKHRlc3RfZmVhdHVyZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW5zb3JmbG93X2RhdGFzZXQgPSB0Zi5jb25zdGFudChudW1weV9kYXRhc2V0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhaW5fZmVhdHVyZXMsIHRyYWluX2xhYmVscywgdGVzdF9mZWF0dXJlcywgdGVzdF9sYWJlbHMgPSBnZXRfZGF0YV9zYW1wbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxpc3QgaW4gW3RyYWluX2ZlYXR1cmVzLCB0cmFpbl9sYWJlbHMsIHRlc3RfZmVhdHVyZXMsIHRyYWluX2xhYmVsc106CiAgICAgICAgICAgICAgICBmb3Igb2JqZWN0IGluIGxpc3Q6CiAgICAgICAgICAgICAgICAgICAgZGVsIG9iamVjdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbl9mZWF0dXJlcywgdHJhaW5fbGFiZWxzLCB0ZXN0X2ZlYXR1cmVzLCB0ZXN0X2xhYmVscyA9IGdldF9kYXRhX3NhbXBsZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG9iamVjdCBpbiB0cmFpbl9mZWF0dXJlczoKICAgICAgICAgICAgICAgIGRlbCBvYmplY3QKICAgICAgICAgICAgZm9yIG9iamVjdCBpbiB0cmFpbl9sYWJlbHM6CiAgICAgICAgICAgICAgICBkZWwgb2JqZWN0CiAgICAgICAgICAgIGZvciBvYmplY3QgaW4gdGVzdF9mZWF0dXJlczoKICAgICAgICAgICAgICAgIGRlbCBvYmplY3QKICAgICAgICAgICAgZm9yIG9iamVjdCBpbiB0ZXN0X2ZlYXR1cmVzOgogICAgICAgICAgICAgICAgZGVsIG9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnU3RhcnRpbmcgZXBvY2hzLi4uJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHRyYWluLCB0ZXN0IGluIHppcCh6aXAodHJhaW5fZmVhdHVyZXMsIHRlc3RfbGFiZWxzKSwgemlwKHRlc3RfZmVhdHVyZXMsIHRlc3RfbGFiZWxzKSk6Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggdGYuU2Vzc2lvbigpIGFzIHNlc3M6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbCB0cmFpblswXQogICAgICAgICAgICAgICAgZGVsIHRyYWluWzFdCiAgICAgICAgICAgICAgICBkZWwgdGVzdFswXQogICAgICAgICAgICAgICAgZGVsIHRlc3RbMV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50ZXJ2YWwgPSBsZW4odHJhaW5fZmVhdHVyZXMpIC8gbGVuKHRlc3RfZmVhdHVyZXMpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcnZhbCA9IGxlbih0cmFpbl9mZWF0dXJlcykgLyBsZW4odGVzdF9mZWF0dXJlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhaW5fZmVhdHVyZXMsIHRyYWluX2xhYmVscywgdGVzdF9mZWF0dXJlcywgdGVzdF9sYWJlbHMgPSBnZXRfZGF0YV9zYW1wbGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>100</last-search>
+      <last-search>get_feature</last-search>
       <last-offset />
-      <last-pattern>100</last-pattern>
+      <last-pattern>get_feature</last-pattern>
       <last-replace>cycle</last-replace>
       <last-substitute>find_euler_circuit</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1140</entry>
         <entry>&quot;</entry>
         <entry>optimize</entry>
         <entry>opti</entry>
@@ -777,6 +776,7 @@
         <entry>find_euler_circuit</entry>
         <entry>toString</entry>
         <entry>100</entry>
+        <entry>get_feature</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -790,10 +790,10 @@
         <entry>;wq</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>noh</entry>
         <entry>%s/find_euler_circuit/cycle/g</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
