@@ -22,11 +22,12 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/test.py" timestamp="1507957196636">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-        <mark key="^" line="2" column="30" />
+      <file name="$USER_HOME$/dev/python/gpu/test.py" timestamp="1507958374276">
+        <mark key="'" line="7" column="5" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="/a.dummy" timestamp="1507252432236">
         <mark key="[" line="0" column="0" />
@@ -435,7 +436,7 @@
       <file name="/Dummy.txt" timestamp="1507920998213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1506731834166">
+      <file name="/code.py" timestamp="1507958683874">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
@@ -548,12 +549,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="33" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1507956304507">
-        <mark key="'" line="56" column="56" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="23" />
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1507958570800">
+        <mark key="'" line="55" column="56" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="16" />
-        <mark key="." line="7" column="16" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time2.json" timestamp="1507167364868">
         <mark key="'" line="8" column="17" />
@@ -588,7 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="100" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="101" column="60" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="105" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -688,10 +688,11 @@
       <jump line="64" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="54" column="56" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="8" column="5" filename="$USER_HOME$/dev/python/gpu/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0dUWEFnZycpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -712,34 +713,34 @@
         <text>matplotlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0dUWEFnZycpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0LnBsb3QodHJhaW5fYWNjdXJhY2llcywgbGFiZWw9J1RyYWluJykKcGx0LnBsb3QodGVzdF9hY2N1cmFjaWVzLCBsYWJlbD0nVGVzdCcpCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ21hY29zeCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">cGx0LnBsb3QodHJhaW5fYWNjdXJhY2llcywgbGFiZWw9J1RyYWluJykKcGx0LnBsb3QodGVzdF9hY2N1cmFjaWVzLCBsYWJlbD0nVGVzdCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3V0cHV0KTsK</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZXJlIGlzIHRoZSBzdGFuZGFyZCBvdXRwdXQgb2YgdGhlIGNvbW1hbmQ6XG4iKTsK</text>
+        <text encoding="base64">ZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
