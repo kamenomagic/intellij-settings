@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1507826505719">
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1507962078359">
         <mark key="'" line="1" column="15" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="50" />
         <mark key="^" line="4" column="24" />
-        <mark key="." line="27" column="0" />
+        <mark key="." line="21" column="75" />
       </file>
       <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507841515281">
         <mark key="[" line="8" column="48" />
@@ -28,7 +28,7 @@
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">c2V0KHNvbWUgMTEpCg==</text>
@@ -46,7 +46,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
