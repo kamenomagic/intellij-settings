@@ -22,6 +22,12 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/gpu/test.py" timestamp="1507957196636">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1507252432236">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,6 +105,7 @@
         <mark key="^" line="187" column="28" />
         <mark key="." line="187" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/python/gpu/lab5.py" timestamp="1507956767751" />
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" timestamp="1506667474533">
         <mark key="'" line="75" column="4" />
         <mark key="[" line="59" column="62" />
@@ -541,6 +548,13 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="33" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1507956304507">
+        <mark key="'" line="56" column="56" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time2.json" timestamp="1507167364868">
         <mark key="'" line="8" column="17" />
         <mark key="[" line="4" column="5" />
@@ -574,15 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/python/rosalind/eulerian.py" />
-      <jump line="45" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" />
-      <jump line="73" column="7" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="46" column="7" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="88" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="100" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="101" column="60" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -674,10 +679,19 @@
       <jump line="22" column="68" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
       <jump line="83" column="4" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
+      <jump line="65" column="46" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="4" column="1" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="126" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="54" column="56" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>diana@offln</text>
+        <text>plt</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -689,43 +703,43 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>diana@offln</text>
+        <text>plt</text>
       </register>
       <register name="/" type="4">
         <text>toString</text>
       </register>
       <register name="0" type="4">
-        <text>outputString</text>
+        <text>matplotlib</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
+        <text encoding="base64">cGx0LnBsb3QodHJhaW5fYWNjdXJhY2llcywgbGFiZWw9J1RyYWluJykKcGx0LnBsb3QodGVzdF9hY2N1cmFjaWVzLCBsYWJlbD0nVGVzdCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3V0cHV0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZXJlIGlzIHRoZSBzdGFuZGFyZCBvdXRwdXQgb2YgdGhlIGNvbW1hbmQ6XG4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkRXJyb3IgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3CiAgICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIocC5nZXRFcnJvclN0cmVhbSgpKSk7CgogICAgICAvLyByZWFkIHRoZSBvdXRwdXQgZnJvbSB0aGUgY29tbWFuZAo=</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3MgcCA9IG51bGw7Cg==</text>
+        <text encoding="base64">ZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">JW1hdHBsb3RsaWIgaW5saW5lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3V0cHV0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlZGlyZWN0cy5wdXQoREVGQVVMVCwgInNwYWNlRGFzaGJvYXJkLmh0bWwiKTsKICAgIHJlZGlyZWN0cy5wdXQoInNwYWNlRnVsbFNjcmVlbiIsICJzcGFjZUZ1bGxTY3JlZW4uaHRtbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZXJlIGlzIHRoZSBzdGFuZGFyZCBvdXRwdXQgb2YgdGhlIGNvbW1hbmQ6XG4iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
