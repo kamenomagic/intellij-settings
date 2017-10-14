@@ -117,7 +117,7 @@
         <mark key="." line="113" column="59" />
         <mark key="^" line="113" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/SecondaryUser1.json" timestamp="1507840158306">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/SecondaryUser1.json" timestamp="1507951714418">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
@@ -673,8 +673,8 @@
       <jump line="83" column="4" filename="$USER_HOME$/dev/python/deeplearning/lab6.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBJUHl0aG9uLmRpc3BsYXkgaW1wb3J0IEltYWdlCg==</text>
+      <register name="&quot;" type="4">
+        <text>diana@offln</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -686,7 +686,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>output</text>
+        <text>diana@offln</text>
       </register>
       <register name="/" type="4">
         <text>toString</text>
