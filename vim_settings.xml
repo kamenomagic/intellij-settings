@@ -311,12 +311,12 @@
         <mark key="." line="183" column="68" />
         <mark key="^" line="183" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508138053106">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="44" column="68" />
-        <mark key="]" line="44" column="88" />
-        <mark key="." line="44" column="88" />
-        <mark key="^" line="44" column="88" />
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508141386046">
+        <mark key="'" line="54" column="8" />
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1507839965806">
         <mark key="'" line="63" column="0" />
@@ -633,11 +633,8 @@
       <jump line="110" column="140" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="27" column="48" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="85" column="115" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="28" column="66" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="86" column="116" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="112" column="172" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="22" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="81" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="96" column="42" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="62" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="93" column="20" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -678,7 +675,6 @@
       <jump line="12" column="0" filename="$USER_HOME$/dev/python/gpu/backuplab6.py" />
       <jump line="48" column="12" filename="$USER_HOME$/dev/python/gpu/backuplab6.py" />
       <jump line="29" column="36" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="54" column="31" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="55" column="65" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="98" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="40" column="80" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -709,15 +705,19 @@
       <jump line="24" column="10" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="48" column="7" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="20" column="25" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="43" column="69" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="17" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="44" column="88" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="58" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="81" column="12" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="86" column="19" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="54" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loss</text>
+        <text>3</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -729,7 +729,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>loss</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>[0]</text>
@@ -738,7 +738,7 @@
         <text encoding="base64">ICAgIG5vdGVzLndyaXRlKCdmZWF0dXJlX2NvdW50OiAnICsgc3RyKGZlYXR1cmVfY291bnQpICsgJ1xuJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRyYWluX2NvdW50ICUgaW50ZXJ2YWwgPT0gMDoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -757,19 +757,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFpbl9zdW0gPSAwLjAKICAgICAgICB0cmFpbl9jb3VudCA9IDAuMAogICAgICAgIHRlc3Rfc3VtID0gMC4wCiAgICAgICAgdGVzdF9jb3VudCA9IDAuMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlZ3VsYXJpemF0aW9uIHRlcm0sIHRha2UgdGhlIEwyIGxvc3Mgb2YgZWFjaCBvZiB0aGUgd2VpZ2h0IHRlbnNvcnMsCiAgICAgICAgIyBpbiB0aGlzIGV4YW1wbGUsIDIgY29udm9sdXRpb25hbCBsYXllcnMgYW5kIGEgZnVsbHkgY29ubmVjdGVkIGxheWVyLgogICAgICAgICMgU3VtIHRoZW0gYW5kIG11bHRpcGx5IGJ5IGEgaHlwZXItcGFyYW1ldGVyIGNvbnRyb2xsaW5nIHRoZSBhbW91bnQgb2YgTDIgbG9zcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNpbXBseSBhZGQgTDIgbG9zcyB0byB5b3VyIHVucmVndWxhcml6ZWQgbG9zcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICNjcm9zc19lbnRyb3B5L3VucmVndWxhdGl6ZWRfbG9zcwogICAgICAgICMgY3Jvc3NfZW50cm9weSA9IHRmLm5uLnNwYXJzZV9zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMobGFiZWxzID0gbGFiZWwsIGxvZ2l0cyA9IG91dHB1dCkKICAgICAgICAjCg==</text>
+        <text encoding="base64">ICAgICAgICAjIFJlZ3VsYXJpemF0aW9uIHRlcm0sIHRha2UgdGhlIEwyIGxvc3Mgb2YgZWFjaCBvZiB0aGUgd2VpZ2h0IHRlbnNvcnMsCiAgICAgICAgIyBpbiB0aGlzIGV4YW1wbGUsIDIgY29udm9sdXRpb25hbCBsYXllcnMgYW5kIGEgZnVsbHkgY29ubmVjdGVkIGxheWVyLgogICAgICAgICMgU3VtIHRoZW0gYW5kIG11bHRpcGx5IGJ5IGEgaHlwZXItcGFyYW1ldGVyIGNvbnRyb2xsaW5nIHRoZSBhbW91bnQgb2YgTDIgbG9zcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAjIFNpbXBseSBhZGQgTDIgbG9zcyB0byB5b3VyIHVucmVndWxhcml6ZWQgbG9zcwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -789,13 +789,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAjY3Jvc3NfZW50cm9weS91bnJlZ3VsYXRpemVkX2xvc3MKIyBjcm9zc19lbnRyb3B5ID0gdGYubm4uc3BhcnNlX3NvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyhsYWJlbHMgPSBsYWJlbCwgbG9naXRzID0gb3V0cHV0KQojCiMgIyBSZWd1bGFyaXphdGlvbiB0ZXJtLCB0YWtlIHRoZSBMMiBsb3NzIG9mIGVhY2ggb2YgdGhlIHdlaWdodCB0ZW5zb3JzLAojICMgaW4gdGhpcyBleGFtcGxlLCAyIGNvbnZvbHV0aW9uYWwgbGF5ZXJzIGFuZCBhIGZ1bGx5IGNvbm5lY3RlZCBsYXllci4KIyAjIFN1bSB0aGVtIGFuZCBtdWx0aXBseSBieSBhIGh5cGVyLXBhcmFtZXRlciBjb250cm9sbGluZyB0aGUgYW1vdW50IG9mIEwyIGxvc3MKIyBsMl9sb3NzID1sYW1kYSAqICh0Zi5ubi5sMl9sb3NzKGgwKSArIHRmLm5uLmwyX2xvc3MoaDEpICsgdGYubm4ubDJfbG9zcyhoMikgKyB0Zi5ubi5sMl9sb3NzKGgzKSArIHRmLm5uLmwyX2xvc3Mob3V0cHV0KSkKIwojICMgU2ltcGx5IGFkZCBMMiBsb3NzIHRvIHlvdXIgdW5yZWd1bGFyaXplZCBsb3NzCiMgbG9zcyA9IHRmLmFkZChjcm9zc19lbnRyb3B5LCBsMl9sb3NzLCBuYW1lPSdsb3NzJykKCg==</text>
+        <text encoding="base64">ICAgICAgICAjICNjcm9zc19lbnRyb3B5L3VucmVndWxhdGl6ZWRfbG9zcwogICAgICAgICMgY3Jvc3NfZW50cm9weSA9IHRmLm5uLnNwYXJzZV9zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMobGFiZWxzID0gbGFiZWwsIGxvZ2l0cyA9IG91dHB1dCkKICAgICAgICAjCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VHdvIGRyb3BvdXQgbGF5ZXJzLCBvbmUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyAjY3Jvc3NfZW50cm9weS91bnJlZ3VsYXRpemVkX2xvc3MKIyBjcm9zc19lbnRyb3B5ID0gdGYubm4uc3BhcnNlX3NvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyhsYWJlbHMgPSBsYWJlbCwgbG9naXRzID0gb3V0cHV0KQojCiMgIyBSZWd1bGFyaXphdGlvbiB0ZXJtLCB0YWtlIHRoZSBMMiBsb3NzIG9mIGVhY2ggb2YgdGhlIHdlaWdodCB0ZW5zb3JzLAojICMgaW4gdGhpcyBleGFtcGxlLCAyIGNvbnZvbHV0aW9uYWwgbGF5ZXJzIGFuZCBhIGZ1bGx5IGNvbm5lY3RlZCBsYXllci4KIyAjIFN1bSB0aGVtIGFuZCBtdWx0aXBseSBieSBhIGh5cGVyLXBhcmFtZXRlciBjb250cm9sbGluZyB0aGUgYW1vdW50IG9mIEwyIGxvc3MKIyBsMl9sb3NzID1sYW1kYSAqICh0Zi5ubi5sMl9sb3NzKGgwKSArIHRmLm5uLmwyX2xvc3MoaDEpICsgdGYubm4ubDJfbG9zcyhoMikgKyB0Zi5ubi5sMl9sb3NzKGgzKSArIHRmLm5uLmwyX2xvc3Mob3V0cHV0KSkKIwojICMgU2ltcGx5IGFkZCBMMiBsb3NzIHRvIHlvdXIgdW5yZWd1bGFyaXplZCBsb3NzCiMgbG9zcyA9IHRmLmFkZChjcm9zc19lbnRyb3B5LCBsMl9sb3NzLCBuYW1lPSdsb3NzJykKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
