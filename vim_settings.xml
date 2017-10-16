@@ -311,8 +311,8 @@
         <mark key="." line="183" column="68" />
         <mark key="^" line="183" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508173623509">
-        <mark key="'" line="54" column="8" />
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508176381776">
+        <mark key="'" line="23" column="43" />
         <mark key="[" line="16" column="38" />
         <mark key="]" line="16" column="36" />
         <mark key="." line="16" column="36" />
@@ -627,7 +627,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="77" column="17" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="75" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="23" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="92" column="44" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="106" column="121" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="110" column="140" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -714,6 +713,7 @@
       <jump line="81" column="12" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="86" column="19" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="54" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="23" column="43" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -732,7 +732,7 @@
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>[0]</text>
+        <text>replace</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG5vdGVzLndyaXRlKCdmZWF0dXJlX2NvdW50OiAnICsgc3RyKGZlYXR1cmVfY291bnQpICsgJ1xuJykK</text>
@@ -802,17 +802,16 @@
       </register>
     </registers>
     <search>
-      <last-search>[0]</last-search>
+      <last-search>replace</last-search>
       <last-offset />
-      <last-pattern>[0]</last-pattern>
+      <last-pattern>replace</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>train</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_feature</entry>
         <entry>valuation</entry>
         <entry>merge</entry>
         <entry>photo</entry>
@@ -832,6 +831,7 @@
         <entry>train</entry>
         <entry>test</entry>
         <entry>[0]</entry>
+        <entry>replace</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
