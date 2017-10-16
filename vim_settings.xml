@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1507962078359">
-        <mark key="'" line="1" column="15" />
-        <mark key="[" line="21" column="50" />
-        <mark key="]" line="21" column="50" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="21" column="75" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1508195822940">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507841515281">
         <mark key="[" line="8" column="48" />
@@ -19,34 +19,59 @@
     </filemarks>
     <jumps>
       <jump line="1" column="15" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="37" column="19" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="11" column="21" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="15" column="13" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="2" column="18" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>/openmpi-3.0.0</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
+      </register>
+      <register name="-" type="4">
+        <text>u</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPG1waS5oPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">I2luY2x1ZGUgPG1waS5oPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0KHNvbWUgMTEpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8gd29ybGQgZnJvbSBwcm9jZXNzb3IgJXMsIHJhbmsgJWQgb3V0IG9mICVkIHByb2Nlc3NvcnNcbiIsIG5hbWUsIHJhbmssIHdvcmxkU2l6ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NfQ09NUElMRVIgL3VzZXIvbG9jYWwvYmluL21waWNjKQo=</text>
+        <text encoding="base64">ICAgIGludCByZWNlaXZlID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0KENNQUtFX0NYWF9DT01QSUxFUiAvb3B0L29wZW5tcGkvYmluL21waWMrKykK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSBpZihyYW5rID09IDEpIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmKHJhbmsgPT0gMCkgewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CmludCBtYWluKCkgewogICAgTVBJX0luaXQoTlVMTCwgTlVMTCk7CiAgICBzaW11bGF0aW9uKCk7CiAgICBNUElfRmluYWxpemUoKTsKICAgIHJldHVybiAwOwp9Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>&quot;</text>
       </register>
     </registers>
     <search>
