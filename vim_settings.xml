@@ -221,6 +221,12 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
+      <file name="&lt;ca2dcfbf-1076-4c70-ad15-3bad40c286f9&gt;/dropout2/dropout2_hyperparameters.txt" timestamp="1508126990876">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1507170615049">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="35" column="0" />
@@ -305,12 +311,12 @@
         <mark key="." line="183" column="68" />
         <mark key="^" line="183" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508126104182">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="99" column="51" />
-        <mark key="]" line="99" column="58" />
-        <mark key="." line="99" column="58" />
-        <mark key="^" line="99" column="58" />
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508127166486">
+        <mark key="'" line="48" column="7" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="49" column="49" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1507839965806">
         <mark key="'" line="63" column="0" />
@@ -449,10 +455,6 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/wemo/Wemo.java" timestamp="1507921093227">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="44" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" timestamp="1508035099488">
         <mark key="'" line="25" column="4" />
@@ -601,6 +603,12 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="42" column="20" />
       </file>
+      <file name="&lt;ca2dcfbf-1076-4c70-ad15-3bad40c286f9&gt;/dropout1/dropout1_hyperparameters.txt" timestamp="1508126954828">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="40" />
+        <mark key="." line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+      </file>
       <file name="/fragment.java" timestamp="1507954585286">
         <mark key="[" line="0" column="0" />
       </file>
@@ -621,7 +629,6 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="77" column="17" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="43" column="17" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="75" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="23" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="92" column="44" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -635,7 +642,6 @@
       <jump line="22" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="81" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="96" column="42" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="24" column="18" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="62" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="93" column="20" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="76" column="24" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -647,7 +653,6 @@
       <jump line="97" column="50" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="74" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="94" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="48" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="70" column="21" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="31" column="18" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="45" column="29" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -706,10 +711,13 @@
       <jump line="25" column="17" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="42" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="63" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="24" column="10" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="43" column="21" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="48" column="7" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test_file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -721,7 +729,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>test_file</text>
+        <text>dropout2</text>
       </register>
       <register name="/" type="4">
         <text>[0]</text>
@@ -730,7 +738,7 @@
         <text encoding="base64">ICAgICAgICBpZiBsZW4odGVzdF9mZWF0dXJlcykgPiAwOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -749,19 +757,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gMCBpZiBpID09Cg==</text>
+        <text encoding="base64">IyAjY3Jvc3NfZW50cm9weS91bnJlZ3VsYXRpemVkX2xvc3MKIyBjcm9zc19lbnRyb3B5ID0gdGYubm4uc3BhcnNlX3NvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyhsYWJlbHMgPSBsYWJlbCwgbG9naXRzID0gb3V0cHV0KQojCiMgIyBSZWd1bGFyaXphdGlvbiB0ZXJtLCB0YWtlIHRoZSBMMiBsb3NzIG9mIGVhY2ggb2YgdGhlIHdlaWdodCB0ZW5zb3JzLAojICMgaW4gdGhpcyBleGFtcGxlLCAyIGNvbnZvbHV0aW9uYWwgbGF5ZXJzIGFuZCBhIGZ1bGx5IGNvbm5lY3RlZCBsYXllci4KIyAjIFN1bSB0aGVtIGFuZCBtdWx0aXBseSBieSBhIGh5cGVyLXBhcmFtZXRlciBjb250cm9sbGluZyB0aGUgYW1vdW50IG9mIEwyIGxvc3MKIyBsMl9sb3NzID1sYW1kYSAqICh0Zi5ubi5sMl9sb3NzKGgwKSArIHRmLm5uLmwyX2xvc3MoaDEpICsgdGYubm4ubDJfbG9zcyhoMikgKyB0Zi5ubi5sMl9sb3NzKGgzKSArIHRmLm5uLmwyX2xvc3Mob3V0cHV0KSkKIwojICMgU2ltcGx5IGFkZCBMMiBsb3NzIHRvIHlvdXIgdW5yZWd1bGFyaXplZCBsb3NzCiMgbG9zcyA9IHRmLmFkZChjcm9zc19lbnRyb3B5LCBsMl9sb3NzLCBuYW1lPSdsb3NzJykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpID0K</text>
+        <text encoding="base64">VHdvIGRyb3BvdXQgbGF5ZXJzLCBvbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gbnAucmFuZG9tLnJhbmRpbnQobGVuKHRyYWluX2ZlYXR1cmVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyYWluLCB0ZXN0ID0gKFtdLCBbXSksIChbXSwgW10pCg==</text>
+        <text encoding="base64">ICAgICAgICBpID0gMCBpZiBpID09Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5wLnJhbmRvbS5zaHVmZmxlKHRyYWluKQogICAgbnAucmFuZG9tLnNodWZmbGUodGVzdCkK</text>
+        <text encoding="base64">ICAgICAgICBpID0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -781,13 +789,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYWluX2ZlYXR1cmVzLCB0cmFpbl9sYWJlbHMsIHRlc3RfZmVhdHVyZXMsIHRlc3RfbGFiZWxzID0gW10sIFtdLCBbXSwgW10K</text>
+        <text encoding="base64">ICAgICAgICBpID0gbnAucmFuZG9tLnJhbmRpbnQobGVuKHRyYWluX2ZlYXR1cmVzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5wLnJhbmRvbQo=</text>
+        <text encoding="base64">ICAgIHRyYWluLCB0ZXN0ID0gKFtdLCBbXSksIChbXSwgW10pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzaXplCiAgICAgICAgcHJpbnQgdGYuY291bnRfbm9uemVybyhwcmVkaWN0KQo=</text>
+        <text encoding="base64">ICAgIG5wLnJhbmRvbS5zaHVmZmxlKHRyYWluKQogICAgbnAucmFuZG9tLnNodWZmbGUodGVzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -839,10 +847,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/find_euler_circuit/cycle/g</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz4lcy90cmFpbi90ZXN0L2c=</entry>
         <entry>noh</entry>
         <entry>;w</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
