@@ -311,12 +311,12 @@
         <mark key="." line="183" column="68" />
         <mark key="^" line="183" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508135910007">
-        <mark key="'" line="41" column="21" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="15" column="17" />
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508138053106">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="44" column="68" />
+        <mark key="]" line="44" column="88" />
+        <mark key="." line="44" column="88" />
+        <mark key="^" line="44" column="88" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1507839965806">
         <mark key="'" line="63" column="0" />
@@ -614,7 +614,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="30" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="71" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="38" column="14" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="56" column="42" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -689,7 +688,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="79" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="78" column="20" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="99" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="119" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -713,11 +711,13 @@
       <jump line="20" column="25" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="43" column="69" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="17" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="44" column="21" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="44" column="88" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.2</text>
+        <text>loss</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -729,7 +729,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>1.2</text>
+        <text>loss</text>
       </register>
       <register name="/" type="4">
         <text>[0]</text>
