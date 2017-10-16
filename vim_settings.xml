@@ -311,12 +311,12 @@
         <mark key="." line="183" column="68" />
         <mark key="^" line="183" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508133337454">
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508135910007">
         <mark key="'" line="41" column="21" />
         <mark key="[" line="16" column="22" />
         <mark key="]" line="16" column="23" />
         <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1507839965806">
         <mark key="'" line="63" column="0" />
@@ -717,7 +717,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>00</text>
+        <text>1.2</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -729,7 +729,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>1.2</text>
       </register>
       <register name="/" type="4">
         <text>[0]</text>
