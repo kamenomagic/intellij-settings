@@ -197,7 +197,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1507836967438">
+      <file name="/Python Console" timestamp="1508213504740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -233,6 +233,10 @@
         <mark key="]" line="46" column="2" />
         <mark key="." line="82" column="33" />
         <mark key="^" line="82" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/python/rosalind/kmerstringcomposition.py" timestamp="1508213612248">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="96" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1507182969083">
         <mark key="'" line="49" column="110" />
@@ -335,11 +339,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508203091064">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
+      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508215613401">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="46" column="10" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
         <mark key="'" line="16" column="13" />
@@ -465,10 +470,10 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" timestamp="1508035099488">
         <mark key="'" line="25" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1507583635875">
+      <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1508214966877">
         <mark key="'" line="8" column="19" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="12" column="27" />
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/Spreadsheet.java" timestamp="1507078296637">
@@ -627,12 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="52" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="8" column="30" filename="$USER_HOME$/dev/python/gpu/gpu_test.py" />
-      <jump line="64" column="14" filename="$USER_HOME$/dev/python/gpu/lab5.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/python/gpu/gpu_test.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="77" column="17" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="75" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="92" column="44" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -727,10 +726,16 @@
       <jump line="6" column="9" filename="$USER_HOME$/dev/python/rosalind/kmrestringcomposition.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="20" column="9" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="21" column="7" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="22" column="13" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="33" column="15" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>current</text>
+        <text>word</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -742,16 +747,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>word</text>
       </register>
       <register name="/" type="4">
-        <text>replace</text>
+        <text>kmer</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdyYXBoID0ge3BhaXJbMF0gOiBwYWlyWzFdLnNwbGl0KCcsJykgZm9yIHN0cmluZyBpbiBbbGluZS5zdHJpcCgpLnNwbGl0KCcgLT4gJykgZm9yIGxpbmUgaW4gZmlsZS5yZWFkbGluZXMoKVsxOl1dfQo=</text>
+        <text encoding="base64">Z3JhcGggPSB7fQpmb3Iga21lciBpbiBrbWVyczoKICAgIGtleSA9IGttZXJbOi0xXQogICAgdmFsdWUgPSBrbWVyWzE6XQogICAgaWYga2V5IGluIGdyYXBoLmtleXMoKToKICAgICAgICBncmFwaFtrZXldLmFwcGVuZCh2YWx1ZSkKICAgIGVsc2U6CiAgICAgICAgZ3JhcGhba2V5XSA9IFt2YWx1ZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBncmFwaCA9IHtrbWVyWzotMV0gOiBba21lclsxOl1dIGZvciBrbWVyIGluIFtsaW5lLnN0cmlwKCkgZm9yIGxpbmUgaW4gd29yZHNdfQpncmFwaCA9IHt9Cgpmb3Iga2V5IGluIHdvcmRzOgogICAgZm9yIHZhbHVlIGluIHdvcmRzOgogICAgICAgIGlmIGtleVsxOl0gPT0gdmFsdWVbOi0xXToKICAgICAgICAgICAgaWYga2V5WzE6XSBpbiBncmFwaC5rZXlzKCk6CiAgICAgICAgICAgICAgICBncmFwaFtrZXlbMTpdXS5hcHBlbmQodmFsdWVbOi0xXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGdyYXBoW2tleVsxOl1dID0gW10K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -770,19 +775,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGFuZ3VhZ2UgPSBbIjAiLCAiMSJdCgp3b3JkcyA9IFtdCg==</text>
+        <text encoding="base64">a2V5cyA9IFt3b3JkWzotMV0gZm9yIHdvcmQgaW4gd29yZHNdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGFuZ3VhZ2UgPSBbIjAiLCAiMSJdCgp3b3JkcyA9IFtdCgo=</text>
+        <text encoding="base64">cHJpbnQgZ3JhcGgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JhcGggPSB7a21lcls6LTFdIDogW2ttZXJbMTpdXSBmb3Iga21lciBpbiBbbGluZS5zdHJpcCgpIGZvciBsaW5lIGluIHdvcmRzXX0KcHJpbnQgZ3JhcGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIG1haW4oKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -802,22 +807,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgd29yZHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGsKICAgIHByaW50IGxlbihjdXJyZW50KQogICAgcHJpbnQgc3RyKGxlbihjdXJyZW50KSA9PSBrKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHdvcmRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>replace</last-search>
+      <last-search>kmer</last-search>
       <last-offset />
-      <last-pattern>replace</last-pattern>
+      <last-pattern>kmer</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>train</last-substitute>
       <last-dir>1</last-dir>
@@ -825,7 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>valuation</entry>
         <entry>merge</entry>
         <entry>photo</entry>
         <entry>transform</entry>
@@ -845,6 +849,7 @@
         <entry>test</entry>
         <entry>[0]</entry>
         <entry>replace</entry>
+        <entry>kmer</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
