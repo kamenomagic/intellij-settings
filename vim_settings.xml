@@ -335,6 +335,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508203091064">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="14" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
         <mark key="'" line="16" column="13" />
         <mark key="[" line="71" column="0" />
@@ -402,11 +408,11 @@
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1507836593576">
+      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1508202512095">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1507839990904">
         <mark key="'" line="99" column="6" />
@@ -471,6 +477,13 @@
         <mark key="]" line="22" column="9" />
         <mark key="." line="22" column="9" />
         <mark key="^" line="51" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/python/rosalind/kmrestringcomposition.py" timestamp="1508202312706">
+        <mark key="'" line="6" column="9" />
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Project1.json" timestamp="1507074529082">
         <mark key="'" line="24" column="17" />
@@ -614,11 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="38" column="14" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="56" column="42" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="57" column="29" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="60" column="28" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="61" column="52" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="8" column="30" filename="$USER_HOME$/dev/python/gpu/gpu_test.py" />
       <jump line="64" column="14" filename="$USER_HOME$/dev/python/gpu/lab5.py" />
@@ -714,10 +722,15 @@
       <jump line="86" column="19" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="54" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="23" column="43" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
+      <jump line="7" column="5" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="11" column="27" filename="$USER_HOME$/dev/python/rosalind/kmrestringcomposition.py" />
+      <jump line="6" column="9" filename="$USER_HOME$/dev/python/rosalind/kmrestringcomposition.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHJhbmRvbV9zYW1wbGUobGlzdCwgcG9zaXRpdmU9RmFsc2UsIHRlc3Q9RmFsc2UpOgogICAgYW1vdW50ID0gbGVuKGxpc3QpIGlmIGZlYXR1cmVfY291bnQgaXMgTm9uZSBlbHNlIGludChmZWF0dXJlX2NvdW50ICogKC4yIGlmIHRlc3QgZWxzZSAuOCkgKiAoLjc1IGlmIHBvc2l0aXZlIGVsc2UgLjI1KSkKICAgIHJldHVybiBucC5yYW5kb20uY2hvaWNlKGxpc3QsIG5wLm1pbihbYW1vdW50LCBsZW4obGlzdCldKSwgRmFsc2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>current</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -729,16 +742,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>current</text>
       </register>
       <register name="/" type="4">
         <text>replace</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJhbmRvbV9zYW1wbGUobGlzdCwgcG9zaXRpdmU9RmFsc2UsIHRlc3Q9RmFsc2UpOgogICAgYW1vdW50ID0gbGVuKGxpc3QpIGlmIGZlYXR1cmVfY291bnQgaXMgTm9uZSBlbHNlIGludChmZWF0dXJlX2NvdW50ICogKC4yIGlmIHRlc3QgZWxzZSAuOCkgKiAoLjc1IGlmIHBvc2l0aXZlIGVsc2UgLjI1KSkKICAgIHJldHVybiBucC5yYW5kb20uY2hvaWNlKGxpc3QsIG5wLm1pbihbYW1vdW50LCBsZW4obGlzdCldKSwgRmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGdyYXBoID0ge3BhaXJbMF0gOiBwYWlyWzFdLnNwbGl0KCcsJykgZm9yIHN0cmluZyBpbiBbbGluZS5zdHJpcCgpLnNwbGl0KCcgLT4gJykgZm9yIGxpbmUgaW4gZmlsZS5yZWFkbGluZXMoKVsxOl1dfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRyYWluX2NvdW50ICUgaW50ZXJ2YWwgPT0gMDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -757,19 +770,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9zdW0gPSAwLjAKICAgICAgICB0cmFpbl9jb3VudCA9IDAuMAogICAgICAgIHRlc3Rfc3VtID0gMC4wCiAgICAgICAgdGVzdF9jb3VudCA9IDAuMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGFuZ3VhZ2UgPSBbIjAiLCAiMSJdCgp3b3JkcyA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGFuZ3VhZ2UgPSBbIjAiLCAiMSJdCgp3b3JkcyA9IFtdCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlZ3VsYXJpemF0aW9uIHRlcm0sIHRha2UgdGhlIEwyIGxvc3Mgb2YgZWFjaCBvZiB0aGUgd2VpZ2h0IHRlbnNvcnMsCiAgICAgICAgIyBpbiB0aGlzIGV4YW1wbGUsIDIgY29udm9sdXRpb25hbCBsYXllcnMgYW5kIGEgZnVsbHkgY29ubmVjdGVkIGxheWVyLgogICAgICAgICMgU3VtIHRoZW0gYW5kIG11bHRpcGx5IGJ5IGEgaHlwZXItcGFyYW1ldGVyIGNvbnRyb2xsaW5nIHRoZSBhbW91bnQgb2YgTDIgbG9zcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIFNpbXBseSBhZGQgTDIgbG9zcyB0byB5b3VyIHVucmVndWxhcml6ZWQgbG9zcwo=</text>
+        <text encoding="base64">ZGVmIG1haW4oKToK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -789,13 +802,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjICNjcm9zc19lbnRyb3B5L3VucmVndWxhdGl6ZWRfbG9zcwogICAgICAgICMgY3Jvc3NfZW50cm9weSA9IHRmLm5uLnNwYXJzZV9zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMobGFiZWxzID0gbGFiZWwsIGxvZ2l0cyA9IG91dHB1dCkKICAgICAgICAjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAjY3Jvc3NfZW50cm9weS91bnJlZ3VsYXRpemVkX2xvc3MKIyBjcm9zc19lbnRyb3B5ID0gdGYubm4uc3BhcnNlX3NvZnRtYXhfY3Jvc3NfZW50cm9weV93aXRoX2xvZ2l0cyhsYWJlbHMgPSBsYWJlbCwgbG9naXRzID0gb3V0cHV0KQojCiMgIyBSZWd1bGFyaXphdGlvbiB0ZXJtLCB0YWtlIHRoZSBMMiBsb3NzIG9mIGVhY2ggb2YgdGhlIHdlaWdodCB0ZW5zb3JzLAojICMgaW4gdGhpcyBleGFtcGxlLCAyIGNvbnZvbHV0aW9uYWwgbGF5ZXJzIGFuZCBhIGZ1bGx5IGNvbm5lY3RlZCBsYXllci4KIyAjIFN1bSB0aGVtIGFuZCBtdWx0aXBseSBieSBhIGh5cGVyLXBhcmFtZXRlciBjb250cm9sbGluZyB0aGUgYW1vdW50IG9mIEwyIGxvc3MKIyBsMl9sb3NzID1sYW1kYSAqICh0Zi5ubi5sMl9sb3NzKGgwKSArIHRmLm5uLmwyX2xvc3MoaDEpICsgdGYubm4ubDJfbG9zcyhoMikgKyB0Zi5ubi5sMl9sb3NzKGgzKSArIHRmLm5uLmwyX2xvc3Mob3V0cHV0KSkKIwojICMgU2ltcGx5IGFkZCBMMiBsb3NzIHRvIHlvdXIgdW5yZWd1bGFyaXplZCBsb3NzCiMgbG9zcyA9IHRmLmFkZChjcm9zc19lbnRyb3B5LCBsMl9sb3NzLCBuYW1lPSdsb3NzJykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
