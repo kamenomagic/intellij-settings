@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1508195822940">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-        <mark key="^" line="24" column="3" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1508198155678">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507841515281">
         <mark key="[" line="8" column="48" />
@@ -23,7 +23,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="37" column="19" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="11" column="21" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="15" column="13" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
@@ -32,43 +31,48 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="2" column="18" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="30" column="4" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="27" column="22" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="8" column="20" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="22" column="8" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG1waS5oPgo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kKG1lc3NhZ2UsIGRlc3RpbmF0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPG1waS5oPgo=</text>
+        <text encoding="base64">CiAgICAgICAgc2xlZXAoMyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ZigiSGVsbG8gd29ybGQgZnJvbSBwcm9jZXNzb3IgJXMsIHJhbmsgJWQgb3V0IG9mICVkIHByb2Nlc3NvcnNcbiIsIG5hbWUsIHJhbmssIHdvcmxkU2l6ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGludCByZWNlaXZlID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNUElfU2VuZCgmbWVzc2FnZSwgMSwgTVBJX0lOVCwgZGVzdGluYXRpb24sIDAsIE1QSV9DT01NX1dPUkxEKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZihyYW5rID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICBNUElfUmVjdigmbWVzc2FnZSwgMSwgTVBJX0lOVCwgc2VuZGVyLCAwLCBNUElfQ09NTV9XT1JMRCwgTVBJX1NUQVRVU19JR05PUkUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKHJhbmsgPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBNUElfU2VuZCgmbWVzc2FnZSwgMSwgTVBJX0lOVCwgZGVzdGluYXRpb24sIDAsIE1QSV9DT01NX1dPUkxEKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmludCBtYWluKCkgewogICAgTVBJX0luaXQoTlVMTCwgTlVMTCk7CiAgICBzaW11bGF0aW9uKCk7CiAgICBNUElfRmluYWxpemUoKTsKICAgIHJldHVybiAwOwp9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWQgc2VudCAlZCB0byAlZFxuIiwgcmFuaywgbWVzc2FnZSwgZGVzdGluYXRpb24pOwogICAgcHJpbnRmKCIlZCByZWNlaXZlZCAlZCBmcm9tICVkXG4iLCByYW5rLCBtZXNzYWdlLCBzZW5kZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ZigiJWQgc2VudCAlZCB0byAlZFxuIiwgcmFuaywgbWVzc2FnZSwgZGVzdGluYXRpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
