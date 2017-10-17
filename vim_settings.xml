@@ -339,12 +339,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508215613401">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="10" />
-        <mark key="." line="46" column="10" />
-        <mark key="^" line="46" column="10" />
+      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508263311048">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="44" column="12" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
         <mark key="'" line="16" column="13" />
@@ -632,7 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="17" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="75" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="92" column="44" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="106" column="121" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -732,10 +731,11 @@
       <jump line="33" column="15" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>word</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zm9yIGtleSBpbiBncmFwaC5rZXlzKCk6CiAgICBjb3VudCA9IDAKICAgIGZvciB2YWx1ZXMgaW4gZ3JhcGgudmFsdWVzKCk6CiAgICAgICAgY291bnQgKz0gMSBpZiBrZXkgaW4gdmFsdWVzIGVsc2UgMAogICAgaWYgY291bnQgIT0gbGVuKGdyYXBoW2tleV0pOgogICAgICAgIGZpbmRfY3ljbGUoa2V5KQogICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -756,7 +756,7 @@
         <text encoding="base64">Z3JhcGggPSB7fQpmb3Iga21lciBpbiBrbWVyczoKICAgIGtleSA9IGttZXJbOi0xXQogICAgdmFsdWUgPSBrbWVyWzE6XQogICAgaWYga2V5IGluIGdyYXBoLmtleXMoKToKICAgICAgICBncmFwaFtrZXldLmFwcGVuZCh2YWx1ZSkKICAgIGVsc2U6CiAgICAgICAgZ3JhcGhba2V5XSA9IFt2YWx1ZV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBncmFwaCA9IHtrbWVyWzotMV0gOiBba21lclsxOl1dIGZvciBrbWVyIGluIFtsaW5lLnN0cmlwKCkgZm9yIGxpbmUgaW4gd29yZHNdfQpncmFwaCA9IHt9Cgpmb3Iga2V5IGluIHdvcmRzOgogICAgZm9yIHZhbHVlIGluIHdvcmRzOgogICAgICAgIGlmIGtleVsxOl0gPT0gdmFsdWVbOi0xXToKICAgICAgICAgICAgaWYga2V5WzE6XSBpbiBncmFwaC5rZXlzKCk6CiAgICAgICAgICAgICAgICBncmFwaFtrZXlbMTpdXS5hcHBlbmQodmFsdWVbOi0xXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGdyYXBoW2tleVsxOl1dID0gW10K</text>
+        <text encoding="base64">Zm9yIGtleSBpbiBncmFwaC5rZXlzKCk6CiAgICBjb3VudCA9IDAKICAgIGZvciB2YWx1ZXMgaW4gZ3JhcGgudmFsdWVzKCk6CiAgICAgICAgY291bnQgKz0gMSBpZiBrZXkgaW4gdmFsdWVzIGVsc2UgMAogICAgaWYgY291bnQgIT0gbGVuKGdyYXBoW2tleV0pOgogICAgICAgIGZpbmRfY3ljbGUoa2V5KQogICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -775,19 +775,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">IyBncmFwaCA9IHtrbWVyWzotMV0gOiBba21lclsxOl1dIGZvciBrbWVyIGluIFtsaW5lLnN0cmlwKCkgZm9yIGxpbmUgaW4gd29yZHNdfQpncmFwaCA9IHt9Cgpmb3Iga2V5IGluIHdvcmRzOgogICAgZm9yIHZhbHVlIGluIHdvcmRzOgogICAgICAgIGlmIGtleVsxOl0gPT0gdmFsdWVbOi0xXToKICAgICAgICAgICAgaWYga2V5WzE6XSBpbiBncmFwaC5rZXlzKCk6CiAgICAgICAgICAgICAgICBncmFwaFtrZXlbMTpdXS5hcHBlbmQodmFsdWVbOi0xXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGdyYXBoW2tleVsxOl1dID0gW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2V5cyA9IFt3b3JkWzotMV0gZm9yIHdvcmQgaW4gd29yZHNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgZ3JhcGgK</text>
+        <text encoding="base64">a2V5cyA9IFt3b3JkWzotMV0gZm9yIHdvcmQgaW4gd29yZHNdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3JhcGggPSB7a21lcls6LTFdIDogW2ttZXJbMTpdXSBmb3Iga21lciBpbiBbbGluZS5zdHJpcCgpIGZvciBsaW5lIGluIHdvcmRzXX0KcHJpbnQgZ3JhcGgK</text>
+        <text encoding="base64">cHJpbnQgZ3JhcGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JhcGggPSB7a21lcls6LTFdIDogW2ttZXJbMTpdXSBmb3Iga21lciBpbiBbbGluZS5zdHJpcCgpIGZvciBsaW5lIGluIHdvcmRzXX0KcHJpbnQgZ3JhcGgK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -807,13 +807,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgd29yZHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IGsKICAgIHByaW50IGxlbihjdXJyZW50KQogICAgcHJpbnQgc3RyKGxlbihjdXJyZW50KSA9PSBrKQo=</text>
+        <text encoding="base64">cHJpbnQgd29yZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IHdvcmRzCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGsKICAgIHByaW50IGxlbihjdXJyZW50KQogICAgcHJpbnQgc3RyKGxlbihjdXJyZW50KSA9PSBrKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -862,13 +862,13 @@
         <entry>%s/assetTypeId/projectId/g</entry>
         <entry>;wq</entry>
         <entry>.w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/find_euler_circuit/cycle/g</entry>
         <entry encoding="base64">JzwsJz4lcy90cmFpbi90ZXN0L2c=</entry>
         <entry>noh</entry>
         <entry>;w</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
