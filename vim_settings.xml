@@ -108,12 +108,12 @@
         <mark key="]" line="160" column="0" />
         <mark key="." line="160" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" timestamp="1508303280130">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="121" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" timestamp="1508315268865">
+        <mark key="'" line="48" column="30" />
+        <mark key="[" line="81" column="39" />
+        <mark key="]" line="82" column="36" />
+        <mark key="." line="82" column="36" />
+        <mark key="^" line="82" column="36" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/eulerian.py" timestamp="1508264933936">
         <mark key="'" line="7" column="4" />
@@ -234,8 +234,8 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="96" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1507182969083">
-        <mark key="'" line="49" column="110" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1508315118001">
+        <mark key="'" line="60" column="28" />
         <mark key="[" line="54" column="32" />
         <mark key="]" line="54" column="101" />
         <mark key="." line="54" column="32" />
@@ -297,7 +297,7 @@
         <mark key="." line="59" column="6" />
         <mark key="^" line="59" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Photo.java" timestamp="1507610635393">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Photo.java" timestamp="1508313867473">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="76" column="3" />
         <mark key="]" line="76" column="2" />
@@ -530,7 +530,7 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508042792699">
+      <file name="/Dummy.txt" timestamp="1508313848718">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -623,18 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="115" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="112" column="172" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="22" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="96" column="42" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="62" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="93" column="20" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="76" column="24" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="80" column="53" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="82" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="83" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="84" column="35" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="95" column="37" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="97" column="50" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="74" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="94" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -723,10 +711,22 @@
       <jump line="54" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
       <jump line="16" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" />
       <jump line="120" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" />
+      <jump line="57" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
+      <jump line="79" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
+      <jump line="48" column="30" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
+      <jump line="23" column="75" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="33" column="73" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="34" column="150" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="42" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="44" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="45" column="34" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="48" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="58" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="60" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Calculated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQuc2V0UGFyZW50KG51bGwpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -738,16 +738,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>Calculated</text>
+        <text>setProject(null);</text>
       </register>
       <register name="/" type="4">
-        <text>kmer</text>
+        <text>budget</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3JhcGggPSB7fQpmb3Iga21lciBpbiBrbWVyczoKICAgIGtleSA9IGttZXJbOi0xXQogICAgdmFsdWUgPSBrbWVyWzE6XQogICAgaWYga2V5IGluIGdyYXBoLmtleXMoKToKICAgICAgICBncmFwaFtrZXldLmFwcGVuZCh2YWx1ZSkKICAgIGVsc2U6CiAgICAgICAgZ3JhcGhba2V5XSA9IFt2YWx1ZV0K</text>
+        <text encoding="base64">ICAgICAgICAgIHN1YmNvbXBvbmVudC5zZXRQcm9qZWN0KG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQuc2V0UGFyZW50KG51bGwpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -766,19 +766,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlUHJvcGVydGllcyh7InByb2plY3QifSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN1YmNvbXBvbmVudC5zZXQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgbGVuKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQuc2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQgbGVuKCcwMDAwMTEwMDEwMTExMTAxJykK</text>
+        <text encoding="base64">ICAgIEBKc29uSWdub3JlUHJvcGVydGllcyh7ImFzc2V0In0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -798,30 +798,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGtleSBpbiBncmFwaC5rZXlzKCk6CiAgICBjb3VudCA9IDAKICAgIGZvciB2YWx1ZXMgaW4gZ3JhcGgudmFsdWVzKCk6CiAgICAgICAgY291bnQgKz0gMSBpZiBrZXkgaW4gdmFsdWVzIGVsc2UgMAogICAgaWYgY291bnQgIT0gbGVuKGdyYXBoW2tleV0pOgogICAgICAgIGZpbmRfY3ljbGUoa2V5KQogICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBncmFwaCA9IHtrbWVyWzotMV0gOiBba21lclsxOl1dIGZvciBrbWVyIGluIFtsaW5lLnN0cmlwKCkgZm9yIGxpbmUgaW4gd29yZHNdfQpncmFwaCA9IHt9Cgpmb3Iga2V5IGluIHdvcmRzOgogICAgZm9yIHZhbHVlIGluIHdvcmRzOgogICAgICAgIGlmIGtleVsxOl0gPT0gdmFsdWVbOi0xXToKICAgICAgICAgICAgaWYga2V5WzE6XSBpbiBncmFwaC5rZXlzKCk6CiAgICAgICAgICAgICAgICBncmFwaFtrZXlbMTpdXS5hcHBlbmQodmFsdWVbOi0xXSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIGdyYXBoW2tleVsxOl1dID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">cHJpbnQgbGVuKHJlc3VsdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>kmer</last-search>
+      <last-search>budget</last-search>
       <last-offset />
-      <last-pattern>kmer</last-pattern>
+      <last-pattern>budget</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>train</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>merge</entry>
         <entry>photo</entry>
         <entry>transform</entry>
         <entry>get_fe</entry>
@@ -841,6 +840,7 @@
         <entry>[0]</entry>
         <entry>replace</entry>
         <entry>kmer</entry>
+        <entry>budget</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -854,12 +854,12 @@
         <entry>.w</entry>
         <entry>%s/find_euler_circuit/cycle/g</entry>
         <entry encoding="base64">JzwsJz4lcy90cmFpbi90ZXN0L2c=</entry>
-        <entry>noh</entry>
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w;w</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
