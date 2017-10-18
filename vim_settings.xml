@@ -331,12 +331,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508318675075">
-        <mark key="'" line="2" column="12" />
-        <mark key="[" line="35" column="35" />
-        <mark key="]" line="35" column="63" />
-        <mark key="." line="35" column="63" />
-        <mark key="^" line="35" column="63" />
+      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508319217517">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="14" />
+        <mark key="^" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
         <mark key="'" line="16" column="13" />
@@ -405,10 +405,10 @@
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1508317655114">
+      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1508318998285">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1507839990904">
@@ -622,7 +622,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="18" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="45" column="29" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="37" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="146" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -722,10 +721,11 @@
       <jump line="41" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
       <jump line="2" column="12" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2hpbGUgCg==</text>
+      <register name="&quot;" type="4">
+        <text>graph.keys()[0]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -737,16 +737,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>graph.keys()[0]</text>
       </register>
       <register name="/" type="4">
         <text>budget</text>
       </register>
-      <register name="0" type="4">
-        <text>answer</text>
+      <register name="0" type="2">
+        <text encoding="base64">YW5zd2VyID0gJzAwMDAxMTAwMTAxMTExMDEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hpbGUgCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -765,19 +765,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YW5zd2VyID0gJzAwMDAxMTAwMTAxMTExMDEnCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgYW5zd2VyCnByaW50IGxlbigpCg==</text>
+        <text encoding="base64">Zm9yIG5vZGUgaW4gY3ljbGVbMTpdOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YW5zd2VyID0gJzAwMDAxMTAwMTAxMTExMDEnCg==</text>
+        <text encoding="base64">cmVzdWx0ID0gY3ljbGVbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgYW5zd2VyICsgJyAobGVuZ3RoICcgKyBzdHIobGVuKGFuc3dlcikpICsgJyknCg==</text>
+        <text encoding="base64">d2hpbGUgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -797,13 +797,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgbGVuKHJlc3VsdCkK</text>
+        <text encoding="base64">YW5zd2VyID0gJzAwMDAxMTAwMTAxMTExMDEnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YW5zd2VyID0gJzAwMDAxMTAwMTAxMTExMDEnCnByaW50IGxlbihyZXN1bHQpCnByaW50IGFuc3dlcgpwcmludCBsZW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzdWx0ID0gJycK</text>
+        <text encoding="base64">cHJpbnQgYW5zd2VyCnByaW50IGxlbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
