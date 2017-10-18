@@ -331,12 +331,12 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508319217517">
+      <file name="$USER_HOME$/dev/python/rosalind/kuniversalcircularstring.py" timestamp="1508363242496">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
+        <mark key="[" line="38" column="11" />
+        <mark key="]" line="38" column="36" />
+        <mark key="." line="38" column="36" />
+        <mark key="^" line="38" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
         <mark key="'" line="16" column="13" />
@@ -725,7 +725,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>graph.keys()[0]</text>
+        <text>'000'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -737,13 +737,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>graph.keys()[0]</text>
+        <text>'000'</text>
       </register>
       <register name="/" type="4">
         <text>budget</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YW5zd2VyID0gJzAwMDAxMTAwMTAxMTExMDEnCg==</text>
+      <register name="0" type="4">
+        <text>graph_copy</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgoK</text>
