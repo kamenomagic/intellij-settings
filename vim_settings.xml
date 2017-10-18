@@ -550,11 +550,11 @@
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Invoice.java" timestamp="1508311357695">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Invoice.java" timestamp="1508312036134">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="51" column="73" />
-        <mark key="]" line="51" column="78" />
-        <mark key="." line="51" column="78" />
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="22" />
+        <mark key="." line="60" column="22" />
         <mark key="^" line="51" column="78" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" timestamp="1507185746916">
@@ -725,8 +725,8 @@
       <jump line="120" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Calculated</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -738,7 +738,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Calculated</text>
       </register>
       <register name="/" type="4">
         <text>kmer</text>
