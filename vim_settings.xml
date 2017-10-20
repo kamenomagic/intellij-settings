@@ -13,7 +13,13 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1507252432236">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/MaintenanceActivity.java" timestamp="1507156494498">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1508459017280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentInitializer.java" timestamp="1507179350703">
@@ -22,6 +28,12 @@
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Time.java" timestamp="1507169918639">
+        <mark key="'" line="116" column="4" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="117" column="4" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part1.json" timestamp="1507163511908">
         <mark key="'" line="3" column="2" />
@@ -50,11 +62,6 @@
         <mark key="]" line="233" column="132" />
         <mark key="." line="233" column="132" />
         <mark key="^" line="233" column="132" />
-      </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab5.py" timestamp="1508056653638">
-        <mark key="'" line="64" column="14" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat-backend/src/main/java/restorat/entities/project/Invoice.java" timestamp="1506667474533">
         <mark key="'" line="75" column="4" />
@@ -97,6 +104,12 @@
         <mark key="." line="53" column="18" />
         <mark key="^" line="53" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" timestamp="1507611508738">
+        <mark key="'" line="43" column="56" />
+        <mark key="[" line="160" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" timestamp="1508316341628">
         <mark key="'" line="78" column="30" />
         <mark key="[" line="82" column="0" />
@@ -129,6 +142,12 @@
         <mark key="]" line="34" column="20" />
         <mark key="." line="34" column="20" />
         <mark key="^" line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time3.json" timestamp="1507167366325">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/dev/python/deeplearning/lab6.py" timestamp="1507932275530">
         <mark key="'" line="83" column="4" />
@@ -164,9 +183,6 @@
         <mark key="]" line="80" column="94" />
         <mark key="." line="80" column="94" />
         <mark key="^" line="80" column="94" />
-      </file>
-      <file name="$USER_HOME$/dev/python/gpu/backuplab6.py" timestamp="1508114335951">
-        <mark key="'" line="48" column="12" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1508035315531">
         <mark key="'" line="38" column="25" />
@@ -293,7 +309,7 @@
         <mark key="." line="183" column="68" />
         <mark key="^" line="183" column="68" />
       </file>
-      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508453828220">
+      <file name="$USER_HOME$/dev/python/gpu/lab6.py" timestamp="1508455893838">
         <mark key="'" line="92" column="159" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="30" />
@@ -306,6 +322,12 @@
         <mark key="]" line="99" column="148" />
         <mark key="." line="99" column="139" />
         <mark key="^" line="99" column="139" />
+      </file>
+      <file name="$USER_HOME$/dev/python/notebooks/lab6.py" timestamp="1508458956891">
+        <mark key="'" line="140" column="24" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/gpu/test.py" timestamp="1507958374276">
         <mark key="'" line="7" column="5" />
@@ -320,12 +342,24 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/CollectionController.java" timestamp="1506738212654">
         <mark key="'" line="39" column="29" />
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="44" />
         <mark key="." line="44" column="44" />
         <mark key="^" line="39" column="93" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/lab3/lab3.py" timestamp="1506125124836">
+        <mark key="'" line="47" column="31" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1507171453252">
         <mark key="'" line="1" column="0" />
@@ -347,6 +381,12 @@
         <mark key="]" line="29" column="35" />
         <mark key="." line="113" column="44" />
         <mark key="^" line="113" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/python/gpu/gpu_test.py" timestamp="1508056471194">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TimeController.java" timestamp="1507170017444">
         <mark key="'" line="50" column="21" />
@@ -417,6 +457,12 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="19" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Component.java" timestamp="1507180360591">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1508214966877">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="5" column="0" />
@@ -437,12 +483,12 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_exister.py" timestamp="1508453850651">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/python/fish/fish_exister.py" timestamp="1508459091046">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Project1.json" timestamp="1507074529082">
         <mark key="'" line="24" column="17" />
@@ -458,12 +504,25 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="13" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/python/deep learning/test.py" timestamp="1507920577930">
+        <mark key="'" line="122" column="8" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/lab3.py" timestamp="1506140229083">
         <mark key="'" line="10" column="15" />
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/python/fish/test.py" timestamp="1508458998486">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1507610183358">
         <mark key="'" line="65" column="7" />
@@ -581,10 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="16" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="44" column="88" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="28" column="4" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="54" column="8" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
@@ -681,10 +736,14 @@
       <jump line="45" column="44" filename="$USER_HOME$/dev/python/fish/fish_image_sorter.py" />
       <jump line="92" column="159" filename="$USER_HOME$/dev/python/gpu/lab6.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/fish/fish_exister.py" />
+      <jump line="140" column="24" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/python/fish/fish_exister.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_exister.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/fish/test.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
+        <text encoding="base64">ZnJvbSBza2ltYWdlIGltcG9ydCBpbywgdHJhbnNmb3JtCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -696,16 +755,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>yes</text>
       </register>
       <register name="/" type="4">
         <text>transform</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEgL3Vzci9iaW4vcHl0aG9uCmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSB0cWRtIGltcG9ydCAqCmltcG9ydCBvcwpmcm9tIHNraW1hZ2UgaW1wb3J0IGlvLCB0cmFuc2Zvcm0KaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
+        <text encoding="base64">IyEgL3Vzci9iaW4vcHl0aG9uCmltcG9ydCBtYXRwbG90bGliCm1hdHBsb3RsaWIudXNlKCdBZ2cnKQppbXBvcnQgbnVtcHkgYXMgbnAKZnJvbSB0cWRtIGltcG9ydCAqCmltcG9ydCBvcwpmcm9tIHNraW1hZ2UgaW1wb3J0IGlvLCB0cmFuc2Zvcm0KaW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IG51bXB5IGFzIG5wCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQKCiMgZm9yIGZpbGUgaW4gb3MubGlzdGRpcignaW50ZXJuZXRfbm9fZmlzaCcpOgojICAgICBwcmludCBmaWxlCgpwcmludCAnbm8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
+        <text encoding="base64">ZnJvbSBza2ltYWdlIGltcG9ydCBpbywgdHJhbnNmb3JtCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -724,19 +783,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmEK</text>
+        <text encoding="base64">CnByaW50ICdub1xgJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVidWdfYW1vdW50ID0gMTAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdC5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsdC5jbG9zZSgpCg==</text>
+        <text encoding="base64">cHJpbnQgJ3lvJwpleGl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hdHBsb3RsaWIuaW1hZ2UuaW1zYXZlKG9zLnBhdGguam9pbihub19maXNoX2RpciwgY3VycmVudF9pbWFnZVswXSksIGN1cnJlbnRfaW1hZ2VbMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -756,13 +815,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hdHBsb3RsaWIuaW1hZ2UuaW1zYXZlKG9zLnBhdGguam9pbihmaXNoX2RpciwgY3VycmVudF9pbWFnZVswXSksIGN1cnJlbnRfaW1hZ2VbMV0pCg==</text>
+        <text encoding="base64">CiMgZm9yIGZpbGUgaW4gb3MubGlzdGRpcignaW50ZXJuZXRfbm9fZmlzaCcpOgojICAgICBwcmludCBmaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvcHlmaWxlKHNyYywgZHN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -816,9 +875,9 @@
         <entry>w;w</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry>;w</entry>
         <entry>j;w</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
