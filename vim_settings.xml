@@ -3,16 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/host_file" timestamp="1508365130817">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/host_file" timestamp="1508556423277">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1508384103015">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1508557067098">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.h" timestamp="1508365208364">
         <mark key="'" line="0" column="0" />
@@ -21,11 +23,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1507841515281">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="51" />
-        <mark key="." line="8" column="51" />
-        <mark key="^" line="8" column="51" />
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" timestamp="1508556907832">
+        <mark key="'" line="8" column="51" />
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
+        <mark key="^" line="0" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -54,13 +57,15 @@
       <jump line="2" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.h" />
+      <jump line="8" column="51" filename="$USER_HOME$/dev/c++/mpi-sandbox/CMakeLists.txt" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE1QSV9XYWl0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
