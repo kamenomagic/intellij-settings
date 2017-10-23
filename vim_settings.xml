@@ -288,6 +288,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508739004583">
+        <mark key="'" line="32" column="51" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="53" column="23" />
@@ -373,10 +379,10 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab6.py" timestamp="1508458956891">
-        <mark key="'" line="140" column="24" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab6.py" timestamp="1508736428939">
+        <mark key="'" line="111" column="8" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="159" />
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
@@ -767,23 +773,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="74" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="92" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="81" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="55" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="57" column="30" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="58" column="19" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="59" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="60" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="61" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="62" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="112" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="110" column="194" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="56" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="104" column="53" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="187" column="44" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="160" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="137" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="114" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -867,10 +856,27 @@
       <jump line="55" column="26" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
       <jump line="3" column="30" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
       <jump line="53" column="5" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
+      <jump line="86" column="8" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
+      <jump line="111" column="8" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="15" column="7" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="13" column="22" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="25" column="31" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="27" column="25" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="30" column="28" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="14" column="17" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="28" column="36" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="31" column="39" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="33" column="51" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getGraphics2D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZmlsZV9uYW1lKToKICAgIG9zLnJlbW92ZShmaWxlX25hbWUpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -882,16 +888,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>getGraphics2D</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text>celebs</text>
       </register>
       <register name="0" type="4">
-        <text>g2d</text>
+        <text>data_set_name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgV3JhcHBlciBkZWZTZXJ2bGV0ID0gKFdyYXBwZXIpIGNvbnRleHQuZmluZENoaWxkKCJkZWZhdWx0Iik7CiAgICAgIGRlZlNlcnZsZXQuYWRkSW5pdFBhcmFtZXRlcigibGlzdGluZ3MiLCAidHJ1ZSIpOwogICAgICBkZWZTZXJ2bGV0LmFkZE1hcHBpbmcoIi9hcmNoaXZlLyoiKTsK</text>
+        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZmlsZV9uYW1lKToKICAgIG9zLnJlbW92ZShmaWxlX25hbWUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -920,19 +926,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dC5zZXREb2NCYXNlKCIuLi8uLi8uLi9teXRlc3QiKTsK</text>
+        <text encoding="base64">b3MucGF0aC5jcmUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9zLnJlbW92ZSgnY2VsZWJzLmhkZjUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQEJlYW4KICBwdWJsaWMgU2VydmxldFJlZ2lzdHJhdGlvbkJlYW4gc2VydmxldFJlZ2lzdHJhdGlvbkJlYW4oKSB7CiAgICBmaW5hbCBEZWZhdWx0U2VydmxldCBzZXJ2bGV0ID0gbmV3IERlZmF1bHRTZXJ2bGV0KCk7CiAgICBmaW5hbCBTZXJ2bGV0UmVnaXN0cmF0aW9uQmVhbiBiZWFuID0gbmV3IFNlcnZsZXRSZWdpc3RyYXRpb25CZWFuKHNlcnZsZXQsICIvYXJjaGl2ZS8qIik7CiAgICBiZWFuLmFkZEluaXRQYXJhbWV0ZXIoImxpc3RpbmdzIiwgInRydWUiKTsKICAgIGJlYW4uc2V0TG9hZE9uU3RhcnR1cCgxKTsKICAgIHJldHVybiBiZWFuOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvbWNhdC5saXMK</text>
+        <text encoding="base64">bG9hZF9kYXRhCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -952,22 +958,22 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgci5saXN0Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbGUuCg==</text>
+        <text encoding="base64">ICAgICAgICBnbG9iYWwgZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFRvbWNhdENvbnRleHRDdXN0b21pemVyIGN1c3RvbWl6ZXIgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>source</last-search>
+      <last-search>celebs</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern>celebs</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>train</last-substitute>
       <last-dir>1</last-dir>
@@ -975,7 +981,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>report</entry>
         <entry>smtp</entry>
         <entry>port</entry>
@@ -995,6 +1000,7 @@
         <entry>background</entry>
         <entry>image</entry>
         <entry>source</entry>
+        <entry>celebs</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -1010,11 +1016,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w;w</entry>
         <entry>j;w</entry>
-        <entry>;w</entry>
         <entry>noh</entry>
         <entry>2</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>;w</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
