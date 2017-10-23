@@ -288,12 +288,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508741972371">
-        <mark key="'" line="51" column="41" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="22" column="72" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508743117782">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -774,9 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="114" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="63" column="37" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="93" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="34" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="27" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
@@ -867,17 +864,20 @@
       <jump line="25" column="31" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="27" column="25" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="30" column="28" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="14" column="17" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="28" column="36" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="31" column="39" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="33" column="51" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="48" column="41" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="43" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="20" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="32" column="19" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="14" column="23" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -889,7 +889,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>celebs</text>
