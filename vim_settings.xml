@@ -11,12 +11,12 @@
       <file name="/Dummy.txt" timestamp="1508625783310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1508560925439">
+      <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.cpp" timestamp="1508797180562">
         <mark key="'" line="18" column="59" />
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="13" column="53" />
-        <mark key="." line="23" column="53" />
-        <mark key="^" line="13" column="53" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/dev/c++/mpi-sandbox/main.h" timestamp="1508365208364">
         <mark key="'" line="0" column="0" />
@@ -113,7 +113,7 @@
       <last-offset />
       <last-pattern>name</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -123,6 +123,8 @@
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
