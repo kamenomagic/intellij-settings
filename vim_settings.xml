@@ -221,7 +221,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1508484035823">
+      <file name="/Python Console" timestamp="1508774927389">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -288,12 +288,9 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508744519909">
-        <mark key="'" line="30" column="22" />
-        <mark key="[" line="56" column="96" />
-        <mark key="]" line="56" column="96" />
-        <mark key="." line="56" column="96" />
-        <mark key="^" line="56" column="113" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508775124472">
+        <mark key="'" line="2" column="4" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -774,17 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="34" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="27" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="26" column="22" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
-      <jump line="216" column="9" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/WebcamMotionDetector.java" />
-      <jump line="47" column="75" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/WebcamMotionDetectorAlgorithm.java" />
-      <jump line="48" column="35" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="56" column="7" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="62" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="83" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="63" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
@@ -870,14 +856,25 @@
       <jump line="48" column="41" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="22" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="43" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="20" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="32" column="19" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="14" column="23" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="30" column="22" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="20" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="26" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="51" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="54" column="29" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="19" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="21" column="49" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="2" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, compression='lzf'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -889,16 +886,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>, compression='lzf'</text>
+        <text>[0]</text>
       </register>
       <register name="/" type="4">
         <text>celebs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgpkZWYgY29udih4LCBmaWx0ZXJfc2l6ZT0zLCBzdHJpZGU9MiwgbnVtX2ZpbHRlcnM9MiwgaXNfb3V0cHV0PUZhbHNlLCBuYW1lPSdjb252Jyk6CiAgICB3aXRoIHRmLm5hbWVfc2NvcGUobmFtZT1uYW1lKToKICAgICAgICBpbml0aWFsaXplID0gdGYuY29udHJpYi5sYXllcnMudmFyaWFuY2Vfc2NhbGluZ19pbml0aWFsaXplcigpCiAgICAgICAgaW5wdXRfZGVwdGggPSB4LmdldF9zaGFwZSgpLmFzX2xpc3QoKVstMV0KICAgICAgICB3ID0gdGYuZ2V0X3ZhcmlhYmxlKCdmaWx0ZXJfJyArIG5hbWUsIHNoYXBlPShmaWx0ZXJfc2l6ZSwgZmlsdGVyX3NpemUsIGlucHV0X2RlcHRoLCBudW1fZmlsdGVycyksIGluaXRpYWxpemVyPWluaXRpYWxpemUpCiAgICAgICAgYiA9IHRmLmdldF92YXJpYWJsZSgnYmlhc18nICsgbmFtZSwgc2hhcGU9bnVtX2ZpbHRlcnMsIGluaXRpYWxpemVyPWluaXRpYWxpemUpCiAgICAgICAgb3AgPSB0Zi5ubi5iaWFzX2FkZCh0Zi5ubi5jb252MmQoeCwgdywgWzEsIHN0cmlkZSwgc3RyaWRlLCAxXSwgJ1NBTUUnKSwgYikKICAgICAgICByZXR1cm4gb3AgaWYgaXNfb3V0cHV0IGVsc2UgdGYubm4ucmVsdShvcCkKCgpkZWYgZmMoeCwgb3V0X3NpemU9NTAsIGlzX291dHB1dD1GYWxzZSwgbmFtZT0nZmMnKToKICAgIHdpdGggdGYubmFtZV9zY29wZShuYW1lPW5hbWUpOgogICAgICAgIGluaXRpYWxpemUgPSB0Zi5jb250cmliLmxheWVycy52YXJpYW5jZV9zY2FsaW5nX2luaXRpYWxpemVyKCkKICAgICAgICBpbnB1dF94ID0gdGYucmVzaGFwZSh4LCBbLTEsIDFdKQogICAgICAgIHcgPSB0Zi5nZXRfdmFyaWFibGUoJ3dlaWdodHNfJyArIG5hbWUsIChvdXRfc2l6ZSwgaW5wdXRfeC5nZXRfc2hhcGUoKS5hc19saXN0KClbMF0pLCBpbml0aWFsaXplcj1pbml0aWFsaXplKQogICAgICAgIGIgPSB0Zi5nZXRfdmFyaWFibGUoJ2JpYXNfJyArIG5hbWUsIChvdXRfc2l6ZSwgMSksIGluaXRpYWxpemVyPWluaXRpYWxpemUpCiAgICAgICAgbWF0cml4X211bHRpcGx5ID0gdGYubWF0bXVsKHcsIGlucHV0X3gpCiAgICAgICAgb3AgPSB0Zi5hZGQobWF0cml4X211bHRpcGx5LCBiKQogICAgICAgIHJldHVybiBvcCBpZiBpc19vdXRwdXQgZWxzZSB0Zi5ubi5yZWx1KG9wKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IG5wLmFycmF5KGRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -927,19 +924,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZS5nZQo=</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgb3MucGF0aC5leGlzdHMoZmlsZV9uYW1lKToKICAgIG9zLnJlbW92ZShmaWxlX25hbWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYKaW1wb3J0IGg1cHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3MucGF0aC5jcmUK</text>
+        <text encoding="base64">aW1wb3J0IGg1cHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCAqCmltcG9ydCBvcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9zLnJlbW92ZSgnY2VsZWJzLmhkZjUnKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -959,13 +956,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9hZF9kYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgPSBucC5hcnJheShkYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IG5wLmFycmF5KGRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1018,11 +1015,11 @@
         <entry>w;w</entry>
         <entry>j;w</entry>
         <entry>noh</entry>
-        <entry>2</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>;w</entry>
         <entry>e</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
