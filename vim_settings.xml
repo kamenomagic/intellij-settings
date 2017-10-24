@@ -105,7 +105,7 @@
         <text encoding="base64">I2luY2x1ZGUgIm1haW4uaCIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -120,8 +120,8 @@
         <entry>name</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
