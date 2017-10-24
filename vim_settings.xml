@@ -282,12 +282,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508824385918">
-        <mark key="'" line="40" column="28" />
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
-        <mark key="^" line="41" column="18" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508825954296">
+        <mark key="'" line="39" column="22" />
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="50" />
+        <mark key="." line="22" column="50" />
+        <mark key="^" line="22" column="50" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -753,7 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="32" column="38" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="82" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
@@ -818,7 +817,6 @@
       <jump line="55" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="2" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="150" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
       <jump line="136" column="4" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
       <jump line="115" column="4" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
@@ -853,10 +851,12 @@
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="17" column="9" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="40" column="28" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="11" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="39" column="22" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/mnt/field/</text>
+        <text>4 * 4 * 1024</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -868,16 +868,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>/mnt/field/</text>
+        <text>4 * 4 * 1024</text>
       </register>
       <register name="/" type="4">
         <text>resize</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29udjYgPSB0Zi5sYXllcnMuY29udjJkKGNvbnY1LCAyNTYsIDUsICgyLCAyKSwgJ3NhbWUnLCBhY3RpdmF0aW9uPXRmLm5uLnJlbHUpCg==</text>
+      <register name="0" type="4">
+        <text>reshape2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBoMCA9IHRmLmxheWVycy5jb252MmQoeCwgMSwgMywgMSwgJ3NhbWUnKQojIGgxID0gdGYubGF5ZXJzLmNvbnYyZF90cmFuc3Bvc2UoaDAsIDEsIDMsIDIsICdzYW1lJykKIyBvdXRwdXRfbGF5ZXIgPSBoMQoK</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2dlbmVyYXRlZF9pbWFnZShkYXRhW2kgKyAxMl0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -906,19 +906,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">IyBoMCA9IHRmLmxheWVycy5jb252MmQoeCwgMSwgMywgMSwgJ3NhbWUnKQojIGgxID0gdGYubGF5ZXJzLmNvbnYyZF90cmFuc3Bvc2UoaDAsIDEsIDMsIDIsICdzYW1lJykKIyBvdXRwdXRfbGF5ZXIgPSBoMQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBkYXRhW2ldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlX2dlbmVyYXRlZF9pbWFnZShkYXRhW2ldKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBkYXRhW2ldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhW2ldID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlX2dlbmVyYXRlZF9pbWFnZShkYXRhW2ldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhW2ldID0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -938,13 +938,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToKICAgICAgICAgICAgICAgIGRhdGFbaV0gPSB0cmFuc2Zvcm0ucmVzaXplKGRhdGFbaV0uYXN0eXBlKGludCksIFs2NCwgNjQsIDNdLCBwcmVzZXJ2ZV9yYW5nZT1UcnVlKS5hc3R5cGUoaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToKICAgICAgICAgICAgICAgIGRhdGFbaV0gPSB0cmFuc2Zvcm0ucmVzaXplKGRhdGFbaV0uYXN0eXBlKGludCksIFs2NCwgNjQsIDNdLCBwcmVzZXJ2ZV9yYW5nZT1UcnVlKS5hc3R5cGUoaW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNtYWxsZXIKICAgICAgICAgICAgICAgIHNhdmVfZ2VuZXJhdGVkX2ltYWdlKHNtYWxsZXIsICdhZnRlci5wbmcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
