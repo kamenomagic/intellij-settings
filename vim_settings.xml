@@ -288,12 +288,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508800586883">
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508806701580">
         <mark key="'" line="22" column="12" />
-        <mark key="[" line="28" column="58" />
-        <mark key="]" line="28" column="61" />
-        <mark key="." line="28" column="61" />
-        <mark key="^" line="28" column="61" />
+        <mark key="[" line="23" column="79" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="34" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -876,8 +876,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>softmax_cross_entroply</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzYXZlX2NvbnZvbHZlZF9pbWFnZShvdXRwdXQpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -895,10 +895,10 @@
         <text>celebs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFpbl9zdGVwID0gdGYudHJhaW4uQWRhbU9wdGltaXplcihsZWFybmluZ19yYXRlKS5taW5pbWl6ZShzb2Z0bWF4X2Nyb3NzX2VudHJvcHkpCg==</text>
+        <text encoding="base64">eCA9IHRmLnBsYWNlaG9sZGVyKHRmLmZsb2F0MzIsIFtiYXRjaF9zaXplLCBoZWlnaHQsIHdpZHRoLCBjaGFubmVsc10sIG5hbWU9J3gnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGVzdF9vcCA9IG91dHB1dF9sYXllcgo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2NvbnZvbHZlZF9pbWFnZShvdXRwdXQpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -927,19 +927,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eSA9IHRmLnBsYWNlaG9sZGVyKHRmLmZsb2F0MzIsICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bG9zcyA9IHRmLm5uLnNwYXJzZV9zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMobGFiZWxzPXksIGxvZ2l0cz1vdXRwdXRfbGF5ZXIsIG5hbWU9J2xvc3MnKQo=</text>
+        <text encoding="base64">dGVzdF9vcCA9IG91dHB1dF9sYXllcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eSA9IHRmLnBsYWNlaG9sZGVyKHRmLmludDY0LCBbYmF0Y2hfc2l6ZSwgaGVpZ2h0LCB3aV0sIG5hbWU9J2xhYmVsJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">bG9zcyA9IHRmLm5uLnNwYXJzZV9zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMobGFiZWxzPXksIGxvZ2l0cz1vdXRwdXRfbGF5ZXIsIG5hbWU9J2xvc3MnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IG91dHB1dFsxXQo=</text>
+        <text encoding="base64">eSA9IHRmLnBsYWNlaG9sZGVyKHRmLmludDY0LCBbYmF0Y2hfc2l6ZSwgaGVpZ2h0LCB3aV0sIG5hbWU9J2xhYmVsJykK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -959,13 +959,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXRwbG90bGliLmltYWdlLmltc2F2ZSgndGVzdE91dHB1dC5wbmcnLCBucC5yZXNoYXBlKGltYWdlLCBbaGVpZ2h0LCB3aWR0aF0pLCBjbWFwPW1hdHBsb3RsaWIuaW1hZ2UuY20uR3JleXNfcikK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZS5zaGFwZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IG91dHB1dFsxXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBtYXRwbG90bGliLmltYWdlLmltc2F2ZSgndGVzdE91dHB1dC5wbmcnLCBucC5yZXNoYXBlKGltYWdlLCBbaGVpZ2h0LCB3aWR0aF0pLCBjbWFwPW1hdHBsb3RsaWIuaW1hZ2UuY20uR3JleXNfcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
