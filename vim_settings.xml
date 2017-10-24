@@ -42,12 +42,12 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" timestamp="1508632133836">
-        <mark key="'" line="116" column="53" />
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="45" column="20" />
-        <mark key="." line="45" column="20" />
-        <mark key="^" line="45" column="20" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" timestamp="1508830443023">
+        <mark key="'" line="60" column="14" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="136" column="110" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/pairedcomposition.py" timestamp="1508561717851">
         <mark key="'" line="44" column="0" />
@@ -752,53 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="38" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="82" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="33" column="38" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="85" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="90" column="8" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="10" column="5" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="25" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="4" column="20" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="6" column="48" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="12" column="19" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="19" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="9" column="11" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="15" column="24" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" />
-      <jump line="27" column="26" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/chromecast/Chromecast.java" />
-      <jump line="72" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/chromecast/Chromecast.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/chromecast/Chromecast.java" />
-      <jump line="20" column="58" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/pebble/Pebble.java" />
-      <jump line="76" column="17" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/wemo/Wemo.java" />
-      <jump line="55" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/wemo/Wemo.java" />
-      <jump line="26" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/wemo/Wemo.java" />
-      <jump line="69" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
-      <jump line="70" column="1" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
-      <jump line="96" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
-      <jump line="53" column="8" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/slack/Slack.java" />
-      <jump line="55" column="13" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/slack/Slack.java" />
-      <jump line="81" column="17" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/slack/Slack.java" />
-      <jump line="49" column="71" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/slack/Slack.java" />
-      <jump line="71" column="10" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="84" column="8" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="68" column="30" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="69" column="71" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="74" column="10" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="110" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="55" column="26" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
-      <jump line="3" column="30" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
-      <jump line="53" column="5" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="86" column="8" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="111" column="8" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="13" column="22" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="25" column="31" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="27" column="25" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="28" column="36" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -852,10 +805,57 @@
       <jump line="40" column="28" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="11" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="39" column="22" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="87" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="109" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="58" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="94" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="125" column="16" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="150" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="135" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="114" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="93" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="130" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="132" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="110" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="69" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="90" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="102" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="129" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="112" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="98" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="122" column="58" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="74" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="95" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="116" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="137" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="162" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="163" column="33" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="176" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="193" column="49" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="161" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="151" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="133" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="105" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="61" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="85" column="57" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="139" column="58" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="103" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="75" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="97" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="118" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="64" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="141" column="107" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
+      <jump line="60" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQgZmMxLmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">ICAgIENlbGxTdHlsZSByaWdodEJvbGQgPSByZXBvcnQuY3JlYXRlQ2VsbFN0eWxlKCk7CiAgICBmb250ID0gcmVwb3J0LmNyZWF0ZUZvbnQoKTsKICAgIGZvbnQuc2V0Qm9sZCh0cnVlKTsKICAgIHJpZ2h0Qm9sZC5zZXRGb250KGZvbnQpOwoK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -867,16 +867,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>rightBold</text>
       </register>
       <register name="/" type="4">
-        <text>resize</text>
+        <text>h3</text>
       </register>
       <register name="0" type="4">
-        <text>reshape2</text>
+        <text>h3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgZmMxLmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">ICAgIENlbGxTdHlsZSByaWdodEJvbGQgPSByZXBvcnQuY3JlYXRlQ2VsbFN0eWxlKCk7CiAgICBmb250ID0gcmVwb3J0LmNyZWF0ZUZvbnQoKTsKICAgIGZvbnQuc2V0Qm9sZCh0cnVlKTsKICAgIHJpZ2h0Qm9sZC5zZXRGb250KGZvbnQpOwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,19 +905,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgcmVzaGFwZTIuZ2V0X3NoYXBlKCkK</text>
+        <text encoding="base64">ICAgIHJpZ2h0Qm9sZC5zZXRBbGlnbm1lbnQoSG9yaXpvbnRhbEFsaWdubWVudC5SSUdIVCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgY29udjcuZ2V0X3NoYXBlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgY29udjYuZ2V0X3NoYXBlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQgY29udjUuZ2V0X3NoYXBlKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgY29udjQuZ2V0X3NoYXBlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZigpIHsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -937,32 +937,33 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2dlbmVyYXRlZF9pbWFnZShkYXRhW2kgKyAxMl0pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXBvcnQucHJpbnRDZWxsc05ld1JvdygpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBoMCA9IHRmLmxheWVycy5jb252MmQoeCwgMSwgMywgMSwgJ3NhbWUnKQojIGgxID0gdGYubGF5ZXJzLmNvbnYyZF90cmFuc3Bvc2UoaDAsIDEsIDMsIDIsICdzYW1lJykKIyBvdXRwdXRfbGF5ZXIgPSBoMQoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">aW52b2ljZS5nZXRPcmRlclBsYWNlZCgpLCBpbnZvaWNlLmdldFJlY2VpdmVkRGF0ZSgpLAogICAgICAgICAgICAgICAgaW52b2ljZS5nZXRPcmRlck51bWJlcigpLCA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+      <register name="9" type="4">
+        <text>invoice.getOrderPlaced(), invoice.getReceivedDate(),
+                invoice.getOrderNumber(), invoice.getPartsCost(), invoice.getVendorDiscount(),
+                invoice.getTaxCost(), invoice.getShippingCost(),
+                invoice.getInvoiceAmount(), invoice.getDeductions(),
+                invoice.getPartsMarkup(), invoice.getNetInvoiceCost()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resize</last-search>
+      <last-search>h3</last-search>
       <last-offset />
-      <last-pattern>resize</last-pattern>
+      <last-pattern>h3</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>train</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cellIndex</entry>
-        <entry>wrap</entry>
-        <entry>SpreadsheetRe</entry>
         <entry>getPartsMarkup</entry>
         <entry>printCellNewRow</entry>
         <entry>printCell</entry>
@@ -980,9 +981,11 @@
         <entry>random</entry>
         <entry>uniform</entry>
         <entry>resize</entry>
+        <entry>descript</entry>
+        <entry>bold</entry>
+        <entry>h3</entry>
       </history-search>
       <history-cmd>
-        <entry>vs</entry>
         <entry>s</entry>
         <entry>kk;w</entry>
         <entry>vs lab4.py</entry>
@@ -1001,6 +1004,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry>z</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
