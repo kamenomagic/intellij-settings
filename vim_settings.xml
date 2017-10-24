@@ -282,11 +282,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508821190394">
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508822467840">
         <mark key="'" line="17" column="9" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="41" column="18" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -855,7 +856,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">IyBoMCA9IHRmLmxheWVycy5jb252MmQoeCwgMSwgMywgMSwgJ3NhbWUnKQojIGgxID0gdGYubGF5ZXJzLmNvbnYyZF90cmFuc3Bvc2UoaDAsIDEsIDMsIDIsICdzYW1lJykKIyBvdXRwdXRfbGF5ZXIgPSBoMQoK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -867,16 +868,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>data[i].astype(int)</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
         <text>resize</text>
       </register>
-      <register name="0" type="4">
-        <text>transform.resize(</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29udjYgPSB0Zi5sYXllcnMuY29udjJkKGNvbnY1LCAyNTYsIDUsICgyLCAyKSwgJ3NhbWUnLCBhY3RpdmF0aW9uPXRmLm5uLnJlbHUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">IyBoMCA9IHRmLmxheWVycy5jb252MmQoeCwgMSwgMywgMSwgJ3NhbWUnKQojIGgxID0gdGYubGF5ZXJzLmNvbnYyZF90cmFuc3Bvc2UoaDAsIDEsIDMsIDIsICdzYW1lJykKIyBvdXRwdXRfbGF5ZXIgPSBoMQoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -905,19 +906,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBkYXRhW2ldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlX2dlbmVyYXRlZF9pbWFnZShkYXRhW2ldKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCBkYXRhW2ldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhW2ldID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzYXZlX2dlbmVyYXRlZF9pbWFnZShkYXRhW2ldKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhW2ldID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToKICAgICAgICAgICAgICAgIGRhdGFbaV0gPSB0cmFuc2Zvcm0ucmVzaXplKGRhdGFbaV0uYXN0eXBlKGludCksIFs2NCwgNjQsIDNdLCBwcmVzZXJ2ZV9yYW5nZT1UcnVlKS5hc3R5cGUoaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -937,13 +938,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToKICAgICAgICAgICAgICAgIGRhdGFbaV0gPSB0cmFuc2Zvcm0ucmVzaXplKGRhdGFbaV0uYXN0eXBlKGludCksIFs2NCwgNjQsIDNdLCBwcmVzZXJ2ZV9yYW5nZT1UcnVlKS5hc3R5cGUoaW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNtYWxsZXIKICAgICAgICAgICAgICAgIHNhdmVfZ2VuZXJhdGVkX2ltYWdlKHNtYWxsZXIsICdhZnRlci5wbmcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmVfZ2VuZXJhdGVkX2ltYWdlKGRhdGFbaV0sICdiZWZvcmUucG5nJykKICAgICAgICAgICAgICAgIHByaW50IGRhdGFbaV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHNtYWxsZXIKICAgICAgICAgICAgICAgIHNhdmVfZ2VuZXJhdGVkX2ltYWdlKHNtYWxsZXIsICdhZnRlci5wbmcnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
