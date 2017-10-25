@@ -282,10 +282,11 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508953487330">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508957063490">
+        <mark key="[" line="78" column="37" />
+        <mark key="]" line="78" column="40" />
+        <mark key="." line="78" column="40" />
+        <mark key="^" line="78" column="40" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -853,8 +854,8 @@
       <jump line="94" column="17" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+      <register name="&quot;" type="4">
+        <text>batch_size</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -866,13 +867,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>[:20]</text>
+        <text>batch_size</text>
       </register>
       <register name="/" type="4">
         <text>money</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzY2lweS5taXNjLmltc2F2ZShwYXRoLCBtZXJnZShpbWFnZXMsIHNpemUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBzZXNzLnJ1bihnZW5lcmF0b3IsIGZlZWRfZGljdD17ejogY3JlYXRlX3ooYmF0Y2hfc2l6ZSl9KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBicmVhawo=</text>
