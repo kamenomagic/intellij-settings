@@ -282,12 +282,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508950921282">
-        <mark key="'" line="85" column="8" />
-        <mark key="[" line="93" column="76" />
-        <mark key="]" line="93" column="76" />
-        <mark key="." line="93" column="76" />
-        <mark key="^" line="93" column="76" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508952203782">
+        <mark key="'" line="94" column="17" />
+        <mark key="[" line="88" column="29" />
+        <mark key="]" line="88" column="30" />
+        <mark key="." line="88" column="30" />
+        <mark key="^" line="88" column="32" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -753,12 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="51" column="15" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="46" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="32" column="17" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="92" column="36" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="63" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -774,13 +768,11 @@
       <jump line="95" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="56" column="30" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="50" column="10" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="67" column="15" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="68" column="69" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="71" column="96" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="72" column="96" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="73" column="71" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="78" column="82" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="79" column="86" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="80" column="86" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="70" column="68" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="88" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -848,15 +840,23 @@
       <jump line="141" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="64" column="42" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="15" column="10" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="23" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="85" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="6" column="11" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="67" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="37" column="24" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="79" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="97" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="94" column="17" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -868,7 +868,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>money</text>
@@ -877,7 +877,7 @@
         <text>doubleUnderline</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgpkZWYgc2F2ZV9nZW5lcmF0ZWRfaW1hZ2UoZ2VuZXJhdGVkX2ltYWdlLCBmaWxlX25hbWU9J3Rlc3RPdXRwdXQucG5nJyk6CiAgICBtYXRwbG90bGliLmltYWdlLmltc2F2ZShmaWxlX25hbWUsIGdlbmVyYXRlZF9pbWFnZSkKCgpkZWYgc2F2ZV9jb252b2x2ZWRfaW1hZ2UoY29udm9sdmVkX2ltYWdlLCBmaWxlX25hbWU9J3Rlc3RPdXRwdXQucG5nJyk6CiAgICBzaGFwZSA9IGNvbnZvbHZlZF9pbWFnZS5zaGFwZQogICAgbWF0cGxvdGxpYi5pbWFnZS5pbXNhdmUoZmlsZV9uYW1lLCBucC5yZXNoYXBlKGNvbnZvbHZlZF9pbWFnZSwgW3NoYXBlWzBdLCBzaGFwZVsxXV0pLCBjbWFwPW1hdHBsb3RsaWIuaW1hZ2UuY20uR3JleXNfcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -907,19 +907,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNhdmVfY29udm9sdmVkX2ltYWdlKG5wLnJlc2hhcGUoaW1hZ2UsICg2NCwgNjQsIDMpKSwgJ291dHB1dF9pbWFnZXMvJyArIHN0cihlcG9jaCkgKyAnLnBuZycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIEZpbGUgb3V0cHV0ID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">IyBkZWYgc2F2ZSgpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0KICAgIG5ldyBUaHJlYWQoKCkgLT4gewogICAgICB0cnkgewogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoU3lzdGVtLm91dCk7CiAgICAgIH0KICAgIH0pLnJ1bigpOwo=</text>
+        <text encoding="base64">ZGVmIHNhdmVfaW1hZ2VzKGltYWdlcywgc2l6ZSwgaW1hZ2VfcGF0aCk6CiAgICByZXR1cm4gaW1zYXZlKGludmVyc2VfdHJhbnNmb3JtKGltYWdlcyksIHNpemUsIGltYWdlX3BhdGgpCgoKZGVmIGltc2F2ZShpbWFnZXMsIHNpemUsIHBhdGgpOgogICAgcmV0dXJuIHNjaXB5Lm1pc2MuaW1zYXZlKHBhdGgsIG1lcmdlKGltYWdlcywgc2l6ZSkpCgoKZGVmIGludmVyc2VfdHJhbnNmb3JtKGltYWdlcyk6CiAgICByZXR1cm4gKGltYWdlcysxLikvMi4KCgpkZWYgbWVyZ2UoaW1hZ2VzLCBzaXplKToKICAgIGgsIHcgPSBpbWFnZXMuc2hhcGVbMV0sIGltYWdlcy5zaGFwZVsyXQogICAgaW1nID0gbnAuemVyb3MoKGggKiBzaXplWzBdLCB3ICogc2l6ZVsxXSkpCgogICAgZm9yIGlkeCwgaW1hZ2UgaW4gZW51bWVyYXRlKGltYWdlcyk6CiAgICAgICAgaSA9IGlkeCAlIHNpemVbMV0KICAgICAgICBqID0gaWR4IC8vIHNpemVbMV0KICAgICAgICBpbWdbaipoOmoqaCtoLCBpKnc6aSp3K3ddID0gaW1hZ2UKCiAgICByZXR1cm4gaW1nCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">CgpkZWYgc2F2ZV9nZW5lcmF0ZWRfaW1hZ2UoZ2VuZXJhdGVkX2ltYWdlLCBmaWxlX25hbWU9J3Rlc3RPdXRwdXQucG5nJyk6CiAgICBtYXRwbG90bGliLmltYWdlLmltc2F2ZShmaWxlX25hbWUsIGdlbmVyYXRlZF9pbWFnZSkKCgpkZWYgc2F2ZV9jb252b2x2ZWRfaW1hZ2UoY29udm9sdmVkX2ltYWdlLCBmaWxlX25hbWU9J3Rlc3RPdXRwdXQucG5nJyk6CiAgICBzaGFwZSA9IGNvbnZvbHZlZF9pbWFnZS5zaGFwZQogICAgbWF0cGxvdGxpYi5pbWFnZS5pbXNhdmUoZmlsZV9uYW1lLCBucC5yZXNoYXBlKGNvbnZvbHZlZF9pbWFnZSwgW3NoYXBlWzBdLCBzaGFwZVsxXV0pLCBjbWFwPW1hdHBsb3RsaWIuaW1hZ2UuY20uR3JleXNfcikK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -939,13 +939,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRmlsZSBvdXRwdXQgPSBQYXRocy5nZXQoRmlsZXMuY3JlYXRlRGlyZWN0b3JpZXMoZGlyZWN0b3JpZXMpLnRvU3RyaW5nKCksIGZpbGVOYW1lKS50b0ZpbGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJbWFnZUlPLndyaXRlKGltYWdlQ29weSwgImpwZyIsIG91dHB1dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEZpbGUgb3V0cHV0ID0gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZpbGUgb3V0cHV0ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
