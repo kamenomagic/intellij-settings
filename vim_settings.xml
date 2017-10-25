@@ -282,12 +282,9 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508894597478">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="38" />
-        <mark key="^" line="30" column="73" />
-        <mark key="." line="30" column="73" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508896835034">
+        <mark key="'" line="53" column="12" />
+        <mark key="^" line="50" column="19" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -752,7 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="52" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="17" column="9" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="40" column="28" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -826,12 +822,10 @@
       <jump line="22" column="36" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="50" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="47" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="76" column="28" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="75" column="34" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -852,10 +846,13 @@
       <jump line="39" column="72" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="78" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="70" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="54" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgdHZhcnMgPSB0Zi50cmFpbmFibGVfdmFyaWFibGVzKCkK</text>
+        <text encoding="base64">Z2VuZXJhdG9yX2xvc3MgPSAtdGYucmVkdWNlX21lYW4oeF90d2lkZGxlKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -867,16 +864,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>tf.placeholder(tf.float32, [None, height, width, channels], name='x_twiddle')</text>
       </register>
       <register name="/" type="4">
         <text>batch_size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgdHZhcnMgPSB0Zi50cmFpbmFibGVfdmFyaWFibGVzKCkK</text>
+        <text encoding="base64">Z2VuZXJhdG9yX2xvc3MgPSAtdGYucmVkdWNlX21lYW4oeF90d2lkZGxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNUaGUgYmVsb3cgY29kZSBpcyByZXNwb25zaWJsZSBmb3IgYXBwbHlpbmcgZ3JhZGllbnQgZGVzY2VudCB0byB1cGRhdGUgdGhlIEdBTi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -906,19 +903,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNUaGUgYmVsb3cgY29kZSBpcyByZXNwb25zaWJsZSBmb3IgYXBwbHlpbmcgZ3JhZGllbnQgZGVzY2VudCB0byB1cGRhdGUgdGhlIEdBTi4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Z2VuZXJhdG9yX2xvc3MgPSAtdGYucmVkdWNlX21lYW4oeF90d2lkZGxlKQp0cmFpbl9nZW5lcmF0b3IgPSB0Zi50cmFpbi5BZGFtT3B0aW1pemVyKC4wMDAwMSkubWluaW1pemUoZ2VuX2xvc3MpCnRyYWluX2Rpc2NyaW1pbmF0b3IgPSB0Zi50cmFpbi5BZGFtT3B0aW1pemVyKC4wMDAwMSkubWluaW1pemUoZXhwZWN0ZWRMb3NzKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Z2VuZXJhdG9yX2xvc3MgPSAtdGYucmVkdWNlX21lYW4oeF90d2lkZGxlKQp0cmFpbl9nZW5lcmF0b3IgPSB0Zi50cmFpbi5BZGFtT3B0aW1pemVyKC4wMDAwMSkubWluaW1pemUoZ2VuX2xvc3MpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGlzY3JpbWluYXRvcl9sb3NzID0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGlzY3JpbWluYXRvcl9sb3NzCiAgICAgICAgICAgICMgTChpKSDihpAgRHcoeMucKSDiiJIgRHcoeCkgKyDOuyhr4oiHeMuGRHcoeMuGKWsyIOKIkiAxKTIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICNUaGUgYmVsb3cgY29kZSBpcyByZXNwb25zaWJsZSBmb3IgYXBwbHlpbmcgZ3JhZGllbnQgZGVzY2VudCB0byB1cGRhdGUgdGhlIEdBTi4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgbG9zcyA9IHRmLm5uLnNwYXJzZV9zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMobGFiZWxzPXksIGxvZ2l0cz1vdXRwdXRfbGF5ZXIsIG5hbWU9J2xvc3MnKQojIHRyYWluX29wID0gdGYudHJhaW4uQWRhbU9wdGltaXplcihsZWFybmluZ19yYXRlKS5taW5pbWl6ZShsb3NzKQoKIyB0ZXN0X29wID0gb3V0cHV0X2xheWVyCgo=</text>
+        <text encoding="base64">ICAgICNUaGUgYmVsb3cgY29kZSBpcyByZXNwb25zaWJsZSBmb3IgYXBwbHlpbmcgZ3JhZGllbnQgZGVzY2VudCB0byB1cGRhdGUgdGhlIEdBTi4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -938,13 +935,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VuZXJhdG9yX2xvc3MgPSAtdGYucmVkdWNlX21lYW4oeF90d2lkZGxlKQp0cmFpbl9nZW5lcmF0b3IgPSB0Zi50cmFpbi5BZGFtT3B0aW1pemVyKC4wMDAwMSkubWluaW1pemUoZ2VuX2xvc3MpCnRyYWluX2Rpc2NyaW1pbmF0b3IgPSB0Zi50cmFpbi5BZGFtT3B0aW1pemVyKC4wMDAwMSkubWluaW1pemUoZXhwZWN0ZWRMb3NzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2VuX3RyYWluID0gdGYudHJhaW4uQWRhbU9wdGltaXplciguMDAwMDEpLm1pbmltaXplKGdlbl9sb3NzKQo=</text>
+        <text encoding="base64">Z2VuZXJhdG9yX2xvc3MgPSAtdGYucmVkdWNlX21lYW4oeF90d2lkZGxlKQp0cmFpbl9nZW5lcmF0b3IgPSB0Zi50cmFpbi5BZGFtT3B0aW1pemVyKC4wMDAwMSkubWluaW1pemUoZ2VuX2xvc3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBkaXNjX3RyYWluID0gdGYudHJhaW4uQWRhbU9wdGltaXplciguMDAwMDEpLm1pbmltaXplKGV4cGVjdGVkTG9zcykKICAgIGdlbl90cmFpbiA9IHRmLnRyYWluLkFkYW1PcHRpbWl6ZXIoLjAwMDAxKS5taW5pbWl6ZShnZW5fbG9zcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
