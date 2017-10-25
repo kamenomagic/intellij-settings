@@ -282,12 +282,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508972712485">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="73" column="81" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508974393858">
+        <mark key="'" line="96" column="4" />
+        <mark key="[" line="69" column="45" />
+        <mark key="]" line="69" column="45" />
+        <mark key="." line="69" column="45" />
+        <mark key="^" line="69" column="45" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -753,8 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="49" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="56" column="30" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="50" column="10" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="68" column="69" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -853,10 +851,12 @@
       <jump line="52" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="104" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="93" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQgbnAucmludChucC5hcnJheShkYXRhWzNdKSAqIDI1NSkKICAgICMgcHJpbnQgMS4wIC0gbnAuYXJvdW5kKGRhdGFbM10sIDE1KQogICAgIyByZXR1cm4gc2NpcHkubWlzYy5pbXNhdmUoJ3Rlc3RPdXRwdXQucG5nJywgMS4wIC0gbnAuYXJvdW5kKGRhdGFbM10sIDE1KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgYmF0Y2guc2hhcGUK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -877,7 +877,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZF9sb3NzID0gc2Vzcy5ydW4oZF9sb3NzLCBmZWVkX2RpY3Q9e3g6IGJhdGNoLCB6OiBjcmVhdGVfeigpfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQgbnAucmludChucC5hcnJheShkYXRhWzNdKSAqIDI1NSkKICAgICMgcHJpbnQgMS4wIC0gbnAuYXJvdW5kKGRhdGFbM10sIDE1KQogICAgIyByZXR1cm4gc2NpcHkubWlzYy5pbXNhdmUoJ3Rlc3RPdXRwdXQucG5nJywgMS4wIC0gbnAuYXJvdW5kKGRhdGFbM10sIDE1KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgYmF0Y2guc2hhcGUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -907,19 +907,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3MucnVuKGRfdXBkYXRlLCBmZWVkX2RpY3Q9e3g6IGJhdGNoLCB6OiBjcmVhdGVfeigpfSkK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgbnAucmludChucC5hcnJheShkYXRhWzNdKSAqIDI1NSkKICAgICMgcHJpbnQgMS4wIC0gbnAuYXJvdW5kKGRhdGFbM10sIDE1KQogICAgIyByZXR1cm4gc2NpcHkubWlzYy5pbXNhdmUoJ3Rlc3RPdXRwdXQucG5nJywgMS4wIC0gbnAuYXJvdW5kKGRhdGFbM10sIDE1KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3MucnVuKGRfdXBkYXRlLCBmZWVkX2RpY3Q9e3g6IGJhdGNoLCB6OiBjcmVhdGVfeigpfSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRhdGFbMF0KICAgIHNhdmVfaW1hZ2VzKGRhdGFbOjFdLCAxLCApCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToKICAgICAgICAgICAgICAgIGRhdGFbaV0gPSB0cmFuc2Zvcm0ucmVzaXplKGRhdGFbaV0uYXN0eXBlKGludCksIGRhdGFbaV0uc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGRhdGFbMF0KICAgIHNhdmVfaW1hZ2VzKGRhdGFbOjFdLCAxLCApCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -939,13 +939,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gdHFkbShyYW5nZShsZW4oZGF0YSkpKToKICAgICAgICAgICAgICAgIGRhdGFbaV0gPSB0cmFuc2Zvcm0ucmVzaXplKGRhdGFbaV0uYXN0eXBlKGludCksIGRhdGFbaV0uc2hhcGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGltYWdlLnNoYXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHRyYW5zZm9ybS5yZXNpemUoaW1hZ2UsIGltYWdlLnNoYXBlKQogICAgICAgICAgICAgICAgcHJpbnQgdHJhbnNmb3JtLnJlc2l6ZShpbWFnZSwgaW1hZ2Uuc2hhcGUpLnNoYXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGltYWdlLnNoYXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
