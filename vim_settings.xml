@@ -282,10 +282,10 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508893646262">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="30" column="60" />
-        <mark key="]" line="30" column="73" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1508894597478">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="38" />
         <mark key="^" line="30" column="73" />
         <mark key="." line="30" column="73" />
       </file>
@@ -752,13 +752,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
       <jump line="70" column="52" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="17" column="9" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="40" column="28" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="11" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="39" column="22" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="87" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="109" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="58" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
@@ -851,11 +849,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="80" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="39" column="72" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgdHZhcnMgPSB0Zi50cmFpbmFibGVfdmFyaWFibGVzKCkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -872,8 +872,8 @@
       <register name="/" type="4">
         <text>batch_size</text>
       </register>
-      <register name="0" type="4">
-        <text>fc1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICMgdHZhcnMgPSB0Zi50cmFpbmFibGVfdmFyaWFibGVzKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICNUaGUgYmVsb3cgY29kZSBpcyByZXNwb25zaWJsZSBmb3IgYXBwbHlpbmcgZ3JhZGllbnQgZGVzY2VudCB0byB1cGRhdGUgdGhlIEdBTi4K</text>
