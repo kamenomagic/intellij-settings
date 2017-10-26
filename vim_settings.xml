@@ -211,7 +211,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1508970293854">
+      <file name="/Python Console" timestamp="1509035294555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -274,12 +274,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1509000245425">
-        <mark key="'" line="142" column="21" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="81" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="65" column="41" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1509035895966">
+        <mark key="'" line="67" column="4" />
+        <mark key="[" line="70" column="39" />
+        <mark key="]" line="70" column="39" />
+        <mark key="." line="70" column="39" />
+        <mark key="^" line="29" column="73" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -381,6 +381,11 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/python/notebooks/test.py" timestamp="1509034477196">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" timestamp="1507604889375">
         <mark key="'" line="16" column="13" />
@@ -736,23 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="101" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="102" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="196" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="95" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="202" column="49" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="180" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="157" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="132" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="108" column="16" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="113" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="57" column="5" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="252" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="219" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="111" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="61" column="64" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="110" column="40" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="136" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
@@ -770,11 +758,8 @@
       <jump line="105" column="75" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="69" column="43" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
       <jump line="141" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
-      <jump line="64" column="42" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="15" column="10" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="23" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="85" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="101" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="6" column="11" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -794,15 +779,12 @@
       <jump line="36" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="52" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="104" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="93" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="70" column="30" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="95" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="116" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="72" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="141" column="34" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="69" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -816,7 +798,6 @@
       <jump line="42" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
       <jump line="46" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
       <jump line="62" column="45" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="63" column="13" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="142" column="21" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="61" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
       <jump line="55" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
@@ -836,10 +817,34 @@
       <jump line="90" column="50" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
       <jump line="79" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
       <jump line="117" column="20" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
+      <jump line="83" column="52" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="23" column="9" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="119" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="4" column="11" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="81" column="11" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="63" column="39" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="84" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="26" column="19" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="43" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="66" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="71" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="68" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="39" column="26" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="46" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="67" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>[:batch_size]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -851,16 +856,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>[:batch_size]</text>
       </register>
       <register name="/" type="4">
-        <text>decimal</text>
+        <text>matplotlib</text>
       </register>
       <register name="0" type="4">
-        <text>.borderBottom(BorderStyle.THIN)</text>
+        <text>checkpoints_directory</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5ibGFua0NlbGxzKDEpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -890,19 +895,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZvcihUaW1lIHRpbWUgOiB1c2Vycy5nZXQodXNlcikuZ2V0KGNvbXBvbmVudCkpIHsK</text>
+        <text encoding="base64">ICAgIHpzID0gZGF0YVs6OCAqIDJdCiAgICBpbnRlcnBvbGF0ZWRfel9iYXRjaCA9IFtdCiAgICBmb3IgaSBpbiByYW5nZSgwLCBsZW4oenMpLCAyKToKICAgICAgICBzdGFydF96LCBlbmRfeiA9IHpzW2ldLCB6c1tpICsgMV0KICAgICAgICBzdGVwX3NpemUgPSAoZW5kX3ogLSBzdGFydF96KSAvICgobGVuKHpzKSAvIDIpIC0gMSkKICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oenMpIC8gMik6CiAgICAgICAgICAgIGludGVycG9sYXRlZF96X2JhdGNoLmFwcGVuZChzdGFydF96LnRvbGlzdCgpKQogICAgICAgICAgICBzdGFydF96ICs9IHN0ZXBfc2l6ZQogICAgc2F2ZV9pbWFnZXMobnAuYXJyYXkoaW50ZXJwb2xhdGVkX3pfYmF0Y2gpLCBbOCwgOF0sICd0ZXN0T3V0cHV0LnBuZycpCiAgICBleGl0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgQ2VsbFN0eWxlQnVpbGRlciBkZWNpbWFsKCkgewogICAgfQo=</text>
+        <text encoding="base64">c2F2ZXIgPSB0Zi50cmFpbi5TYXZlcigpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnQubmV4dFJvdygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0LmJsYW5rQ2VsbHMoMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcnBvbGF0ZWRfel9iYXRjaCA9IFtdCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHpzKSwgMik6CiAgICAgICAgICAgIHN0YXJ0X3osIGVuZF96ID0genNbaV0sIHpzW2kgKyAxXQogICAgICAgICAgICBzdGVwX3NpemUgPSAoZW5kX3ogLSBzdGFydF96KSAvICgobGVuKHpzKSAvIDIpIC0gMSkKICAgICAgICAgICAgY3VycmVudCA9IHN0YXJ0X3oKICAgICAgICAgICAgaW50ZXJwb2xhdGVkX3pfYmF0Y2guYXBwZW5kKHN0YXJ0X3opCiAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKDcpOgogICAgICAgICAgICAgICAgY3VycmVudCArPSBzdGVwX3NpemUKICAgICAgICAgICAgICAgIGludGVycG9sYXRlZF96X2JhdGNoLmFwcGVuZChjdXJyZW50KQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -922,30 +927,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnQuYmxhbmtDZWxscygxKTsK</text>
+        <text encoding="base64">aW50ZXJwb2xhdGVkX3pfYmF0Y2ggPSBucC5hcnJheShpbnRlcnBvbGF0ZWRfel9iYXRjaCkKZm9yIHogaW4gaW50ZXJwb2xhdGVkX3pfYmF0Y2g6CiAgICBwcmludCB6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnRlcnBvbGF0ZWRfel9iYXRjaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIENlbGxTdHlsZSA9IGNlbGxTdHlsZQo=</text>
+        <text encoding="base64">cHJpbnQgenMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>decimal</last-search>
+      <last-search>matplotlib</last-search>
       <last-offset />
-      <last-pattern>decimal</last-pattern>
+      <last-pattern>matplotlib</last-pattern>
       <last-replace>d_</last-replace>
       <last-substitute>discriminator_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>h3</entry>
         <entry>cm</entry>
         <entry>batch_size</entry>
         <entry>de</entry>
@@ -965,9 +969,9 @@
         <entry>h1</entry>
         <entry>remove</entry>
         <entry>decimal</entry>
+        <entry>matplotlib</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/assetTypeId/projectId/g</entry>
         <entry>;wq</entry>
         <entry>.w</entry>
         <entry>%s/find_euler_circuit/cycle/g</entry>
@@ -986,6 +990,7 @@
         <entry>2</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>noh</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
