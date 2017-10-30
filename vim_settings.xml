@@ -105,12 +105,6 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="49" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/SecondaryUser1.json" timestamp="1507951714418">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1507584890573">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="44" />
@@ -132,7 +126,6 @@
         <mark key="." line="53" column="18" />
         <mark key="^" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab5.py" timestamp="1509044235162" />
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/schedule/Schedule.java" timestamp="1509250801339">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="12" />
@@ -191,12 +184,6 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/quartz/RecurringJobScheduler.java" timestamp="1508613213939">
-        <mark key="[" line="41" column="65" />
-        <mark key="]" line="41" column="81" />
-        <mark key="^" line="41" column="81" />
-        <mark key="." line="41" column="81" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/Report.java" timestamp="1507096265329">
         <mark key="'" line="32" column="3" />
         <mark key="[" line="28" column="9" />
@@ -224,6 +211,12 @@
         <mark key="]" line="80" column="94" />
         <mark key="." line="80" column="94" />
         <mark key="^" line="80" column="94" />
+      </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" timestamp="1509335192857">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1508035315531">
         <mark key="'" line="38" column="25" />
@@ -255,12 +248,6 @@
         <mark key="]" line="33" column="21" />
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
-      </file>
-      <file name="&lt;ca2dcfbf-1076-4c70-ad15-3bad40c286f9&gt;/dropout2/dropout2_hyperparameters.txt" timestamp="1508126990876">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1507170615049">
         <mark key="'" line="70" column="0" />
@@ -310,12 +297,6 @@
         <mark key="]" line="53" column="30" />
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Git.java" timestamp="1509250389624">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1507618532109">
         <mark key="'" line="134" column="0" />
@@ -480,18 +461,6 @@
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/gpuDashboard.html" timestamp="1508659402002">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/schedule/recurring/quartz/SynchronicityJob.java" timestamp="1508655834407">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="20" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="20" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1508619427171">
         <mark key="'" line="99" column="6" />
         <mark key="[" line="31" column="12" />
@@ -540,6 +509,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/WebcamDiscoveryService.java" timestamp="1509335816335">
+        <mark key="'" line="279" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/debrujincollections.py" timestamp="1508480546339">
         <mark key="'" line="8" column="19" />
         <mark key="[" line="6" column="0" />
@@ -562,12 +534,6 @@
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/schedule/recurring/TimeLapse.java" timestamp="1508655885672">
-        <mark key="[" line="22" column="76" />
-        <mark key="]" line="23" column="33" />
-        <mark key="^" line="23" column="33" />
-        <mark key="." line="23" column="33" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/kmrestringcomposition.py" timestamp="1508202312706">
         <mark key="'" line="6" column="9" />
@@ -616,6 +582,9 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" timestamp="1509335470327">
+        <mark key="'" line="89" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/python/fish/test.py" timestamp="1508458998486">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="14" column="7" />
@@ -650,13 +619,7 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/go/sandbox/sandbox.go" timestamp="1507674039830">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1509260816436">
+      <file name="/Dummy.txt" timestamp="1509334254532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -669,11 +632,12 @@
         <mark key="." line="72" column="21" />
         <mark key="^" line="72" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" timestamp="1509250579026">
-        <mark key="'" line="32" column="17" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" timestamp="1509336003501">
+        <mark key="'" line="136" column="30" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="136" column="30" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time8.json" timestamp="1507167370038">
         <mark key="'" line="11" column="18" />
@@ -681,12 +645,6 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityApplication.java" timestamp="1508713674351">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="34" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Invoice2.json" timestamp="1507082044266">
         <mark key="'" line="6" column="29" />
@@ -723,12 +681,6 @@
         <mark key="^" line="7" column="34" />
         <mark key="." line="7" column="34" />
       </file>
-      <file name="&lt;527aa40a-db0b-466c-a467-4a081a14e1d8&gt;/python/sandbox.py" timestamp="1507787239587">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time5.json" timestamp="1507167368452">
         <mark key="'" line="11" column="18" />
         <mark key="[" line="7" column="5" />
@@ -757,12 +709,6 @@
         <mark key="^" line="42" column="20" />
         <mark key="." line="42" column="20" />
       </file>
-      <file name="&lt;ca2dcfbf-1076-4c70-ad15-3bad40c286f9&gt;/dropout1/dropout1_hyperparameters.txt" timestamp="1508126954828">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-      </file>
       <file name="/fragment.java" timestamp="1509253453088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -775,55 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="104" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="93" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="70" column="30" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="95" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="116" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="72" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="141" column="34" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="69" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="139" column="41" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="115" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="94" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="73" column="89" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
-      <jump line="74" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
-      <jump line="49" column="83" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
-      <jump line="42" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
-      <jump line="46" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/PartReport.java" />
-      <jump line="62" column="45" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="142" column="21" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="61" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
-      <jump line="55" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
-      <jump line="53" column="41" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="121" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="61" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="105" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="77" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="102" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="118" column="128" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="96" column="118" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="100" column="118" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="107" column="102" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="112" column="96" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="81" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="90" column="50" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="79" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="117" column="20" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
-      <jump line="83" column="52" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="23" column="9" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="65" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="119" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="131" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="4" column="11" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="81" column="11" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="63" column="39" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="26" column="19" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="43" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -875,10 +772,59 @@
       <jump line="16" column="16" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
       <jump line="44" column="46" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
+      <jump line="60" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="102" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="81" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="59" column="5" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="108" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="117" column="47" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="118" column="73" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="119" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="125" column="26" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="126" column="60" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="131" column="63" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="2" column="25" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="36" column="17" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="45" column="25" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="47" column="52" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="50" column="48" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="51" column="8" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="52" column="78" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="54" column="40" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="57" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="140" column="7" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="71" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="110" column="17" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="37" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="132" column="13" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="234" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" />
+      <jump line="273" column="3" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" />
+      <jump line="302" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" />
+      <jump line="330" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" />
+      <jump line="358" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" />
+      <jump line="89" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" />
+      <jump line="141" column="27" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="277" column="2" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/WebcamDiscoveryService.java" />
+      <jump line="279" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/WebcamDiscoveryService.java" />
+      <jump line="29" column="89" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="58" column="36" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="99" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="157" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="44" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
+      <jump line="136" column="30" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3MgcCA9IHN5c3RlbUNhbGwoY29tbWFuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -890,16 +836,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>new BufferedReader(new InputStreamReader(p.getInputStream()));</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>archivePath</text>
+        <text>notifyWebcamGone</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBlcmZvcm1zLnB1dCgic2h1ZmZsZSIsIHRoaXM6OnNodWZmbGUpOwo=</text>
+        <text encoding="base64">ICAgIGluaXRpYWxpemVXZWJjYW0oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFByb2Nlc3MgcCA9IHN5c3RlbUNhbGwoY29tbWFuZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,19 +875,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdlYmNhbSA9IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICJwbGF5IjsK</text>
+        <text encoding="base64">ICAgIHdlYmNhbSA9IFdlYmNhbS5nZXREZWZhdWx0KCk7CiAgICBpbnQgdmlld1NpemVMZW5ndGggPSB3ZWJjYW0uZ2V0Vmlld1NpemVzKCkubGVuZ3RoOwogICAgZm9yIChpbnQgaSA9IDA7IGkgPCB2aWV3U2l6ZUxlbmd0aDsgaSsrKSB7CiAgICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIkZvdW5kIHZpZXcgc2l6ZTogJXMiLCB3ZWJjYW0uZ2V0Vmlld1NpemVzKClbaV0pKTsKICAgIH0KICAgIHdlYmNhbS5zZXRWaWV3U2l6ZSh3ZWJjYW0uZ2V0Vmlld1NpemVzKClbdmlld1NpemVMZW5ndGggLSAxXSk7CiAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJTZXQgdmlldyBzaXplOiAlcyIsIHdlYmNhbS5nZXRWaWV3U2l6ZSgpKSk7CiAgICBpZiAod2ViY2FtID09IG51bGwpIHsKICAgICAgdGhyb3cgbmV3IFN5bmNocm9uaWNpdHlFeGNlcHRpb24odGhpcy5nZXRDbGFzcygpLCAiRmFpbGVkIHRvIGluaXRpYWxpemUgd2ViY2FtIik7CiAgICB9CiAgICBkZXRlY3RvciA9IG5ldyBXZWJjYW1Nb3Rpb25EZXRlY3Rvcih3ZWJjYW0sIDEwMCwgLjQsIDIwMCk7CiAgICBkZXRlY3Rvci5hZGRNb3Rpb25MaXN0ZW5lcih0aGlzKTsKICAgIGRldGVjdG9yLnN0YXJ0KCk7CiAgICBXZWJjYW0uYWRkRGlzY292ZXJ5TGlzdGVuZXIodGhpcyk7CiAgICBmb3IgKFdlYmNhbSB3ZWJjYW0gOiBXZWJjYW0uZ2V0V2ViY2FtcygpKSB7CiAgICAgIGxvZy5pbmZvKCJXZWJjYW0gZGV0ZWN0ZWQ6ICIgKyB3ZWJjYW0uZ2V0TmFtZSgpKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAicGxheSI7Cg==</text>
+        <text encoding="base64">ICAgIHdlYmNhbSA9IGV2ZW50LmdldFdlYmNhbSgpOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -961,32 +907,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFByb2Nlc3MgcCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMoIm1wYyIpOwoKICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkSW5wdXQgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHAuZ2V0SW5wdXRTdHJlYW0oKSkpOwoKICAgICAgU3RyaW5nQnVpbGRlciBvdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICBTdHJpbmcgb3V0cHV0U3RyaW5nOwogICAgICB3aGlsZSAoKG91dHB1dFN0cmluZyA9IHN0ZElucHV0LnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICBvdXRwdXQuYXBwZW5kKG91dHB1dFN0cmluZyArICJcbiIpOwogICAgICB9CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZShTeXN0ZW0ub3V0KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJXZWJjYW0gaXMgIiArICh3ZWJjYW0uaXNPcGVuKCkgPyAib3BlbiIgOiAiY2xvc2VkIikpOwogICAgbG9nLmluZm8oIk9wZW5pbmcuLi4iKTsKICAgIHdlYmNhbS5vcGVuKCk7CiAgICBsb2cuaW5mbygiV2ViY2FtIGlzICIgKyAod2ViY2FtLmlzT3BlbigpID8gIm9wZW4iIDogImNsb3NlZCIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJXZWJjYW0gaXMgIiArICh3ZWJjYW0uaXNPcGVuKCkgPyAib3BlbiIgOiAiY2xvc2VkIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjwvY29kZT4iKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>archivePath</last-search>
+      <last-search>notifyWebcamGone</last-search>
       <last-offset />
-      <last-pattern>archivePath</last-pattern>
+      <last-pattern>notifyWebcamGone</last-pattern>
       <last-replace>d_</last-replace>
       <last-substitute>discriminator_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>de</entry>
-        <entry>generator_</entry>
-        <entry>discriminator_</entry>
         <entry>scope</entry>
         <entry>x_twiddle</entry>
         <entry>MEDU</entry>
@@ -1004,6 +947,9 @@
         <entry>matplotlib</entry>
         <entry>performs</entry>
         <entry>archivePath</entry>
+        <entry>webcam</entry>
+        <entry>hryImshr</entry>
+        <entry>notifyWebcamGone</entry>
       </history-search>
       <history-cmd>
         <entry>;wq</entry>
@@ -1013,7 +959,6 @@
         <entry>w;w</entry>
         <entry>j;w</entry>
         <entry>;w</entry>
-        <entry>e</entry>
         <entry>z</entry>
         <entry>%s/generator_/g_/g</entry>
         <entry>%s/discriminator_/d_/g</entry>
@@ -1022,8 +967,9 @@
         <entry>2</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>ww</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
+        <entry>e</entry>
+        <entry>noh</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
