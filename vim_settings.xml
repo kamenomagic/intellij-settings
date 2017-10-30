@@ -22,12 +22,12 @@
       <file name="/a.dummy" timestamp="1508459017280">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Machine.java" timestamp="1509260919482">
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Machine.java" timestamp="1509326063758">
         <mark key="'" line="41" column="14" />
-        <mark key="[" line="85" column="32" />
-        <mark key="]" line="85" column="37" />
-        <mark key="^" line="85" column="37" />
-        <mark key="." line="85" column="37" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="60" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentInitializer.java" timestamp="1507179350703">
         <mark key="'" line="21" column="48" />
@@ -877,8 +877,8 @@
       <jump line="54" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shuffle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFByb2Nlc3MgcCA9IHN5c3RlbUNhbGwoY29tbWFuZCk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -890,7 +890,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>shuffle</text>
+        <text>new BufferedReader(new InputStreamReader(p.getInputStream()));</text>
       </register>
       <register name="/" type="4">
         <text>archivePath</text>
@@ -899,7 +899,7 @@
         <text encoding="base64">ICAgIHBlcmZvcm1zLnB1dCgic2h1ZmZsZSIsIHRoaXM6OnNodWZmbGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIFByb2Nlc3MgcCA9IHN5c3RlbUNhbGwoY29tbWFuZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,19 +929,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICJwbGF5IjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAicGxheSI7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICJwbGF5IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFByb2Nlc3MgcCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMoIm1wYyIpOwoKICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkSW5wdXQgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHAuZ2V0SW5wdXRTdHJlYW0oKSkpOwoKICAgICAgU3RyaW5nQnVpbGRlciBvdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICBTdHJpbmcgb3V0cHV0U3RyaW5nOwogICAgICB3aGlsZSAoKG91dHB1dFN0cmluZyA9IHN0ZElucHV0LnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICBvdXRwdXQuYXBwZW5kKG91dHB1dFN0cmluZyArICJcbiIpOwogICAgICB9CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZShTeXN0ZW0ub3V0KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiAicGxheSI7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -961,13 +961,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFByb2Nlc3MgcCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMoIm1wYyIpOwoKICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkSW5wdXQgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHAuZ2V0SW5wdXRTdHJlYW0oKSkpOwoKICAgICAgU3RyaW5nQnVpbGRlciBvdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICBTdHJpbmcgb3V0cHV0U3RyaW5nOwogICAgICB3aGlsZSAoKG91dHB1dFN0cmluZyA9IHN0ZElucHV0LnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICBvdXRwdXQuYXBwZW5kKG91dHB1dFN0cmluZyArICJcbiIpOwogICAgICB9CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZShTeXN0ZW0ub3V0KTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjwvY29kZT4iKTsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjxjb2RlPiIpOwo=</text>
+        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjwvY29kZT4iKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1023,8 +1023,8 @@
         <entry encoding="base64">dyA=</entry>
         <entry>ww</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
