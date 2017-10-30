@@ -766,16 +766,15 @@
       <file name="/fragment.java" timestamp="1509253453088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" timestamp="1509261324486">
-        <mark key="'" line="16" column="16" />
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="51" />
-        <mark key="." line="25" column="51" />
-        <mark key="^" line="25" column="52" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" timestamp="1509323394025">
+        <mark key="'" line="46" column="46" />
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="42" />
+        <mark key="^" line="18" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="52" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="104" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -875,10 +874,11 @@
       <jump line="36" column="26" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/MopidyWebSocket.java" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
       <jump line="16" column="16" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
+      <jump line="44" column="46" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shuffle</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -890,16 +890,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>shuffle</text>
       </register>
       <register name="/" type="4">
         <text>archivePath</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFjaGluZS5zeXN0ZW1DYWxsT3V0cHV0KCJtcGMgcGF1c2UiKSA7Cg==</text>
+        <text encoding="base64">ICAgIHBlcmZvcm1zLnB1dCgic2h1ZmZsZSIsIHRoaXM6OnNodWZmbGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,19 +929,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICJwbGF5IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAicGxheSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFByb2Nlc3MgcCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMoIm1wYyIpOwoKICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkSW5wdXQgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHAuZ2V0SW5wdXRTdHJlYW0oKSkpOwoKICAgICAgU3RyaW5nQnVpbGRlciBvdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICBTdHJpbmcgb3V0cHV0U3RyaW5nOwogICAgICB3aGlsZSAoKG91dHB1dFN0cmluZyA9IHN0ZElucHV0LnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICBvdXRwdXQuYXBwZW5kKG91dHB1dFN0cmluZyArICJcbiIpOwogICAgICB9CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZShTeXN0ZW0ub3V0KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICJwbGF5IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAicGxheSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjwvY29kZT4iKTsK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFByb2Nlc3MgcCA9IFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMoIm1wYyIpOwoKICAgICAgQnVmZmVyZWRSZWFkZXIgc3RkSW5wdXQgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKHAuZ2V0SW5wdXRTdHJlYW0oKSkpOwoKICAgICAgU3RyaW5nQnVpbGRlciBvdXRwdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICBTdHJpbmcgb3V0cHV0U3RyaW5nOwogICAgICB3aGlsZSAoKG91dHB1dFN0cmluZyA9IHN0ZElucHV0LnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICBvdXRwdXQuYXBwZW5kKG91dHB1dFN0cmluZyArICJcbiIpOwogICAgICB9CiAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZShTeXN0ZW0ub3V0KTsKICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -961,13 +961,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjxjb2RlPiIpOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjwvY29kZT4iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjxjb2RlPiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
