@@ -603,12 +603,12 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/chromeExtension/synchronicity.html" timestamp="1509343898653">
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/chromeExtension/synchronicity.html" timestamp="1509388144258">
         <mark key="'" line="11" column="34" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-        <mark key="." line="11" column="27" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/application/Call.java" timestamp="1509260792475">
         <mark key="[" line="2" column="19" />
@@ -742,10 +742,10 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/chromeExtension/manifest.json" timestamp="1509343619738">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/chromeExtension/manifest.json" timestamp="1509388362319">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="17" />
         <mark key="^" line="11" column="18" />
       </file>
       <file name="/fragment.java" timestamp="1509345950171">
@@ -863,7 +863,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/test</text>
+        <text encoding="base64">d2lkdGg9MTAwJSA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -875,13 +875,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>/test</text>
+        <text encoding="base64">d2lkdGg9MTAwJSA=</text>
       </register>
       <register name="/" type="4">
         <text>switch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PGh0bWw+CjxoZWFkPgogIDxzY3JpcHQgc3JjPSJodHRwczovL2FqYXguZ29vZ2xlYXBpcy5jb20vYWpheC9saWJzL2pxdWVyeS8xLjEwLjEvanF1ZXJ5Lm1pbi5qcyI+PC9zY3JpcHQ+CjwvaGVhZD4KPGJvZHkgb25sb2FkPSJsb2FkTG9nKCkiIHN0eWxlPSJwYWRkaW5nOjA7IG1hcmdpbjowOyBiYWNrZ3JvdW5kLWNvbG9yOiAjMDAyYjM2OyBmb250LWZhbWlseTogJ0x1Y2lkYSBDb25zb2xlJywgTW9uYWNvLCBtb25vc3BhY2U7Ij4KPGRpdiBzdHlsZT0iYmFja2dyb3VuZC1jb2xvcjogIzAwMmIzNjsgd2lkdGg6IDEwMCU7IHBvc2l0aW9uOiBmaXhlZDsiPgogIDxoMSBzdHlsZT0iY29sb3I6ICNjYjRiMTY7Ij5TeW5jaHJvbmljaXR5IExvZzwvaDE+CiAgPGhyIHN0eWxlPSJ3aWR0aDogMTAwJSI+CjwvZGl2Pgo8ZGl2IGlkPSJ0YWlsIiBzdHlsZT0icGFkZGluZy10b3A6IDEwMHB4OyBjb2xvcjogIzgzOTQ5NjsgYmFja2dyb3VuZC1jb2xvcjogIzAwMmIzNjsiPgo8L2Rpdj4KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJKYXZhU2NyaXB0Ij4KICBmdW5jdGlvbiBsb2FkTG9nKCkgewogICAgJC5nZXQoIi9sb2cvbGluZXMiLCBmdW5jdGlvbiAoZGF0YSwgc3RhdHVzKSB7CiAgICAgIGxpbmVzID0gSlNPTi5wYXJzZShkYXRhKTsKICAgICAgdGFpbCA9ICQoJyN0YWlsJykKICAgICAgZm9yIChpID0gMDsgaSA8IGxpbmVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgdGFpbC5hcHBlbmQoJzxkaXY+JyArIGxpbmVzW2ldICsgJzwvZGl2PicpCiAgICAgIH0KICAgICAgc2V0VGltZW91dChsb2FkTG9nLCAzMDAwKTsKICAgIH0pOwogICAgd2luZG93LnNjcm9sbFRvKDAsZG9jdW1lbnQuYm9keS5zY3JvbGxIZWlnaHQpOwogIH0KPC9zY3JpcHQ+CjwvYm9keT4KPC9odG1sPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3R5bGU9J3dpZHRoOiAxMDAlJyA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PGRpdiBpZD0idGFpbCIgc3R5bGU9InBhZGRpbmctdG9wOiAxMDBweDsgY29sb3I6ICM4Mzk0OTY7IGJhY2tncm91bmQtY29sb3I6ICMwMDJiMzY7Ij4gPC9kaXY+Cg==</text>
