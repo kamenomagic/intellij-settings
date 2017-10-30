@@ -556,8 +556,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/MediaStatus.java" timestamp="1509255172608">
         <mark key="'" line="58" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" timestamp="1508714677351">
-        <mark key="'" line="3" column="30" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" timestamp="1509324512729">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
@@ -775,7 +775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="104" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="93" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
@@ -875,6 +874,7 @@
       <jump line="24" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
       <jump line="16" column="16" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
       <jump line="44" column="46" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
