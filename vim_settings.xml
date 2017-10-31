@@ -343,12 +343,12 @@
         <mark key="^" line="24" column="12" />
         <mark key="." line="24" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1509440344962">
-        <mark key="'" line="186" column="0" />
-        <mark key="[" line="135" column="18" />
-        <mark key="]" line="135" column="49" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="135" column="27" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1509443854210">
+        <mark key="'" line="188" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="21" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Part3.json" timestamp="1507163543538">
         <mark key="'" line="2" column="2" />
@@ -371,12 +371,12 @@
         <mark key="." line="65" column="27" />
         <mark key="^" line="43" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1509442088555">
-        <mark key="'" line="182" column="35" />
-        <mark key="[" line="182" column="54" />
-        <mark key="]" line="183" column="64" />
-        <mark key="^" line="183" column="64" />
-        <mark key="." line="183" column="64" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1509444317741">
+        <mark key="'" line="178" column="46" />
+        <mark key="[" line="188" column="19" />
+        <mark key="]" line="188" column="20" />
+        <mark key="." line="188" column="20" />
+        <mark key="^" line="188" column="20" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Photo.java" timestamp="1508313867473">
         <mark key="'" line="0" column="0" />
@@ -846,9 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
       <jump line="107" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
       <jump line="128" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
       <jump line="149" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
@@ -946,10 +943,13 @@
       <jump line="81" column="18" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="84" column="20" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="182" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
+      <jump line="27" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="186" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="179" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICogMTA=</text>
+        <text>8</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -961,16 +961,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMTA=</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>createan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDbGllbnRBbmNob3IgYW5jaG9yID0gcmVwb3J0LmNyZWF0ZUFuY2hvcigpOwovLyAgICAgICAgYW5jaG9yLnNldEFuY2hvclR5cGUoQ2xpZW50QW5jaG9yLkFuY2hvclR5cGUuTU9WRV9BTkRfUkVTSVpFKTsKICAgICAgICBhbmNob3Iuc2V0Q29sMSgwKTsKICAgICAgICBhbmNob3Iuc2V0Um93MShyZXBvcnQuZ2V0Um93SW5kZXgoKSk7Ci8vICAgICAgICBhbmNob3Iuc2V0Um93MihyZXBvcnQuZ2V0Um93SW5kZXgoKSArIDYwKTsKICAgICAgICByZXBvcnQuYmxhbmtSb3dzKDYwKTsKLy8gICAgICAgIGFuY2hvci5zZXRDb2wyKDgpOwo=</text>
+        <text encoding="base64">ICAgIGFuY2hvci5zZXRSb3cxKDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERpbWVuc2lvbiBkaW1lbnNpb24gPSBwaWN0dXJlLmdldEltYWdlRGltZW5zaW9uKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgYmxhbmtSb3dzKDYwKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1018,19 +1018,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFuY2hvci5zZXRDb2wyKDgpOwo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBzY2FsZSA9IHBpeGVsV2lkdGggLyBpbWFnZS5nZXRXaWR0aCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFuY2hvci5zZXRBbmNob3JUeXBlKENsaWVudEFuY2hvci5BbmNob3JUeXBlLk1PVkVfQU5EX1JFU0laRSk7CiAgICBhbmNob3Iuc2V0Q29sMSgwKTsKICAgIGFuY2hvci5zZXRSb3cxKHJvd0luZGV4KTsKLy8gICAgICAgIGFuY2hvci5zZXRSb3cyKHJlcG9ydC5nZXRSb3dJbmRleCgpICsgNjApOwo=</text>
+        <text encoding="base64">ICAgIGFuY2hvci5zZXREeDEoMCk7CiAgICBhbmNob3Iuc2V0RHgyKChpbnQpIChpbWFnZS5nZXRXaWR0aCgpICogc2NhbGUpKTsKICAgIGFuY2hvci5zZXREeTEoMCk7CiAgICBhbmNob3Iuc2V0RHkyKChpbnQpIChpbWFnZS5nZXRIZWlnaHQoKSAqIHNjYWxlKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgQ2xpZW50QW5jaG9yIGNyZWF0ZUFuY2hvcigpIHsKICB9Cgo=</text>
+        <text encoding="base64">Ly8gICAgcGljdHVyZS5yZXNpemUoc2NhbGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIERpbWVuc2lvbiBkaW1lbnNpb24gPSBwaWN0dXJlLmdldEltYWdlRGltZW5zaW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENyZWF0aW9uSGVscGVyIGhlbHBlciA9IHdvcmtib29rLmdldENyZWF0aW9uSGVscGVyKCk7CiAgICByZXR1cm4gaGVscGVyLmNyZWF0ZUNsaWVudEFuY2hvcigpOwo=</text>
+        <text encoding="base64">ICAgIGFuY2hvci5zZXRDb2wxKGNlbGxJbmRleCk7CiAgICBhbmNob3Iuc2V0Q29sMihjZWxsSW5kZXggKyA4KTsKICAgIGFuY2hvci5zZXRSb3cxKHJvd0luZGV4KTsKICAgIGFuY2hvci5zZXRSb3cyKHJvd0luZGV4ICsgMTApOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1050,13 +1050,13 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENyZWF0aW9uSGVscGVyIGhlbHBlciA9IHdvcmtib29rLmdldENyZWF0aW9uSGVscGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBzY2FsZSA9IHBpeGVsV2lkdGggLyBkaW1lbnNpb24uZ2V0V2lkdGgoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBjb2x1bW5BbmNob3IgPSAwOwo=</text>
+        <text encoding="base64">ICAgIGRvdWJsZSBzY2FsZSA9IHBpeGVsV2lkdGggLyBkaW1lbnNpb24uZ2V0V2lkdGgoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbHVtbkFuY2hvciA9IChjb2x1bW5BbmNob3IgKyA0KSAlIDg7CiAgICAgICAgICBDbGllbnRBbmNob3IgYW5jaG9yID0gcmVwb3J0LmNyZWF0ZUFuY2hvcigpOwogICAgICAgICAgYW5jaG9yLnNldEFuY2hvclR5cGUoQ2xpZW50QW5jaG9yLkFuY2hvclR5cGUuTU9WRV9BTkRfUkVTSVpFKTsKICAgICAgICAgIGFuY2hvci5zZXRDb2wxKGNvbHVtbkFuY2hvcik7CiAgICAgICAgICBpZihjb2x1bW5BbmNob3IgPT0gMCkgewogICAgICAgICAgICByZXBvcnQuYmxhbmtSb3dzKDYpOwogICAgICAgICAgfQogICAgICAgICAgYW5jaG9yLnNldFJvdzEocmVwb3J0LmdldFJvd0luZGV4KCkpOwogICAgICAgICAgYW5jaG9yLnNldFJvdzIocmVwb3J0LmdldFJvd0luZGV4KCkgKyAxMDApOwogICAgICAgICAgYW5jaG9yLnNldENvbDIoY29sdW1uQW5jaG9yICsgNCk7Cg==</text>
+        <text encoding="base64">ICAgIEltYWdlSU8ud3JpdGUob3V0cHV0SW1hZ2UsICJqcGVnIiwgYnVmZmVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
