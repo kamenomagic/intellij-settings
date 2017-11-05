@@ -752,12 +752,12 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" timestamp="1509855018914">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="113" column="20" />
-        <mark key="]" line="113" column="36" />
-        <mark key="^" line="113" column="36" />
-        <mark key="." line="113" column="36" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" timestamp="1509857285715">
+        <mark key="'" line="107" column="12" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="109" column="36" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/lab3.py" timestamp="1506140229083">
         <mark key="'" line="10" column="15" />
@@ -976,7 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture-driver-ipcam/0.3.11/508d0f0b28c0c25481eb7037b79bdf3edb13cbe/webcam-capture-driver-ipcam-0.3.11-sources.jar!/com/github/sarxos/webcam/ds/ipcam/IpCamDeviceRegistry.java" />
       <jump line="135" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture-driver-ipcam/0.3.11/508d0f0b28c0c25481eb7037b79bdf3edb13cbe/webcam-capture-driver-ipcam-0.3.11-sources.jar!/com/github/sarxos/webcam/ds/ipcam/IpCamDeviceRegistry.java" />
       <jump line="148" column="31" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture-driver-ipcam/0.3.11/508d0f0b28c0c25481eb7037b79bdf3edb13cbe/webcam-capture-driver-ipcam-0.3.11-sources.jar!/com/github/sarxos/webcam/ds/ipcam/IpCamDeviceRegistry.java" />
       <jump line="160" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture-driver-ipcam/0.3.11/508d0f0b28c0c25481eb7037b79bdf3edb13cbe/webcam-capture-driver-ipcam-0.3.11-sources.jar!/com/github/sarxos/webcam/ds/ipcam/IpCamDeviceRegistry.java" />
@@ -1076,10 +1075,11 @@
       <jump line="52" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
       <jump line="8" column="42" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/movies/IMDb.java" />
       <jump line="57" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
+      <jump line="111" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2hyb21lY2FzdC5zeW5jaHJvbmljaXR5LmlkPT8/Pz8/CmNocm9tZWNhc3Quc3luY2hyb25pY2l0eS5uYW1lc3BhY2U9dXJuOngtY2FzdDplcy5vZmZkLnN5bmNocm9uaWNpdHkK</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7Y2hyb21lY2FzdC5zeW5jaHJvbmljaXR5LmlkfSIpCiAgcHJpdmF0ZSBTdHJpbmcgc3luY2hyb25pY2l0eUlkOwogIEBWYWx1ZSgiJHtjaHJvbWVjYXN0LnN5bmNocm9uaWNpdHkubmFtZXNwYWNlfSIpCiAgcHJpdmF0ZSBTdHJpbmcgc3luY2hyb25pY2l0eU5hbWVzcGFjZTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1100,7 +1100,7 @@
         <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIENocm9tZWNhc3QgY2hyb21lY2FzdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2hyb21lY2FzdC5zeW5jaHJvbmljaXR5LmlkPT8/Pz8/CmNocm9tZWNhc3Quc3luY2hyb25pY2l0eS5uYW1lc3BhY2U9dXJuOngtY2FzdDplcy5vZmZkLnN5bmNocm9uaWNpdHkK</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7Y2hyb21lY2FzdC5zeW5jaHJvbmljaXR5LmlkfSIpCiAgcHJpdmF0ZSBTdHJpbmcgc3luY2hyb25pY2l0eUlkOwogIEBWYWx1ZSgiJHtjaHJvbWVjYXN0LnN5bmNocm9uaWNpdHkubmFtZXNwYWNlfSIpCiAgcHJpdmF0ZSBTdHJpbmcgc3luY2hyb25pY2l0eU5hbWVzcGFjZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1148,19 +1148,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIE1vdmllcyBtb3ZpZXM7Cg==</text>
+        <text encoding="base64">Y2hyb21lY2FzdC5zeW5jaHJvbmljaXR5LmlkPT8/Pz8/CmNocm9tZWNhc3Quc3luY2hyb25pY2l0eS5uYW1lc3BhY2U9dXJuOngtY2FzdDplcy5vZmZkLnN5bmNocm9uaWNpdHkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIE1vdmllcyBtb3ZpZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICBJTURiIGltZGIgPSBuZXcgSU1EYigpOwogICAgaW1kYi5pbml0KCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oaW1kYi5nZXRNb3ZpZSgicmF3IikuZ2V0VHJhaWxlcigpKTsKICB9Cg==</text>
+        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJvdGVjdGVkIE1vdmllcyBtb3ZpZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2hyb21lY2FzdC5zeW5jaHJvbmljaXR5Lm5hbWVzcGFjZT11cm46eC1jYXN0OmVzLm9mZmQuc3luY2hyb25pY2l0eQo=</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICBJTURiIGltZGIgPSBuZXcgSU1EYigpOwogICAgaW1kYi5pbml0KCk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oaW1kYi5nZXRNb3ZpZSgicmF3IikuZ2V0VHJhaWxlcigpKTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2hyb21lY2FzdC5kYXNoY2FzdC5uYW1lc3BhY2U9dXJuOngtY2FzdDplcy5vZmZkLmRhc2hjYXN0Cg==</text>
+        <text encoding="base64">Y2hyb21lY2FzdC5zeW5jaHJvbmljaXR5Lm5hbWVzcGFjZT11cm46eC1jYXN0OmVzLm9mZmQuc3luY2hyb25pY2l0eQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1186,7 +1186,7 @@
         <text encoding="base64">Y2hyb21lY2FzdC5kYXNoY2FzdC5uYW1lc3BhY2U9dXJuOngtY2FzdDplcy5vZmZkLmRhc2hjYXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGUgYSBDYXN0TWVzc2FnZUJ1cyB0byBoYW5kbGUgbWVzc2FnZXMgZm9yIGEgY3VzdG9tIG5hbWVzcGFjZQo=</text>
+        <text encoding="base64">Y2hyb21lY2FzdC5kYXNoY2FzdC5uYW1lc3BhY2U9dXJuOngtY2FzdDplcy5vZmZkLmRhc2hjYXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
