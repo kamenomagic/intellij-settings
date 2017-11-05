@@ -384,8 +384,12 @@
         <mark key="." line="141" column="27" />
         <mark key="^" line="141" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1509868645358">
+      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1509869770646">
         <mark key="'" line="24" column="18" />
+        <mark key="[" line="24" column="75" />
+        <mark key="]" line="24" column="79" />
+        <mark key="." line="24" column="79" />
+        <mark key="^" line="24" column="79" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" timestamp="1509864228829">
         <mark key="'" line="84" column="6" />
@@ -1032,7 +1036,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chromeCastStub</text>
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1044,7 +1048,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>chromeCastStub</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>ID</text>
