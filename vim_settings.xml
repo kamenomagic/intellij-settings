@@ -257,6 +257,9 @@
         <mark key="." line="80" column="94" />
         <mark key="^" line="80" column="94" />
       </file>
+      <file name="$USER_HOME$/dev/java/chromecast-java-api-v2/src/test/java/su/litvak/chromecast/api/v2/CustomRequestTest.java" timestamp="1509866659153">
+        <mark key="'" line="30" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1509650002513">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="20" column="0" />
@@ -381,12 +384,12 @@
         <mark key="." line="141" column="27" />
         <mark key="^" line="141" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1509865806236">
-        <mark key="'" line="9" column="8" />
-        <mark key="[" line="24" column="74" />
-        <mark key="]" line="24" column="80" />
-        <mark key="." line="24" column="80" />
-        <mark key="^" line="24" column="80" />
+      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1509867143434">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" timestamp="1509864228829">
         <mark key="'" line="84" column="6" />
@@ -713,7 +716,7 @@
         <mark key="." line="54" column="51" />
         <mark key="^" line="54" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" timestamp="1509865702706">
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" timestamp="1509867218291">
         <mark key="'" line="58" column="6" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="35" />
@@ -800,6 +803,11 @@
         <mark key="]" line="72" column="21" />
         <mark key="." line="72" column="21" />
         <mark key="^" line="72" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/java/testCast/src/main/java/CustomRequestTest.java" timestamp="1509867131402">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="111" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/vision/Eyes.java" timestamp="1509336003501">
         <mark key="'" line="136" column="30" />
@@ -908,7 +916,7 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="/fragment.java" timestamp="1509865708082">
+      <file name="/fragment.java" timestamp="1509866671367">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/Music.java" timestamp="1509323394025">
@@ -920,10 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="145" column="10" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="142" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="117" column="14" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
       <jump line="41" column="53" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
       <jump line="72" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
@@ -1020,10 +1024,14 @@
       <jump line="58" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
       <jump line="9" column="8" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
+      <jump line="30" column="6" filename="$USER_HOME$/dev/java/chromecast-java-api-v2/src/test/java/su/litvak/chromecast/api/v2/CustomRequestTest.java" />
+      <jump line="29" column="1" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/java/testCast/src/main/java/CustomRequestTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNocm9tZWNhc3QgPSBmb3VuZC5nZXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>chromeCastStub</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1035,13 +1043,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>dashcastNamespace</text>
+        <text>chromeCastStub</text>
       </register>
       <register name="/" type="4">
         <text>ID</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNocm9tZWNhc3QgPSBmb3VuZC5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjaHJvbWVDYXN0U3R1Yi5jdXN0b21IYW5kbGVyID0gbmV3IE1vY2tlZENocm9tZUNhc3QuQ3VzdG9tSGFuZGxlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBSZXNwb25zZSBoYW5kbGUoSnNvbk5vZGUganNvbikgewogICAgICAgICAgICAgICAgS2lvc2tTdGF0dXNSZXNwb25zZSByZXNwb25zZSA9IG5ldyBLaW9za1N0YXR1c1Jlc3BvbnNlKCk7CiAgICAgICAgICAgICAgICByZXNwb25zZS51cmwgPSAiaHR0cDovL2dvb2dsZS5jb20iOwogICAgICAgICAgICAgICAgcmVzcG9uc2UucmVmcmVzaCA9IDUwOwogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgICAgICAgICB9CiAgICAgICAgfTsK</text>
       </register>
       <register name="1" type="4">
         <text>name</text>
