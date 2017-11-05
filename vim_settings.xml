@@ -257,6 +257,13 @@
         <mark key="." line="80" column="94" />
         <mark key="^" line="80" column="94" />
       </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" timestamp="1509921107611">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/java/chromecast-java-api-v2/src/test/java/su/litvak/chromecast/api/v2/CustomRequestTest.java" timestamp="1509866659153">
         <mark key="'" line="30" column="6" />
       </file>
@@ -933,22 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="137" column="14" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="64" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="85" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="108" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="129" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="150" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="171" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="93" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="136" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="98" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="77" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="56" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="50" column="9" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
       <jump line="133" column="20" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
       <jump line="51" column="14" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
       <jump line="78" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
@@ -1033,10 +1024,26 @@
       <jump line="472" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" />
       <jump line="458" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" />
       <jump line="513" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/Channel.java" />
+      <jump line="5" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="27" column="27" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="50" column="92" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="51" column="104" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="52" column="104" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="53" column="93" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="38" column="24" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="21" column="46" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="22" column="11" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="18" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="17" column="41" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="65" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>, document.images.webcam0, document.images.webcam1, document.images.webcam2</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1048,16 +1055,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>, document.images.webcam0, document.images.webcam1, document.images.webcam2</text>
       </register>
       <register name="/" type="4">
-        <text>ID</text>
+        <text>50</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWVDYXN0U3R1Yi5jdXN0b21IYW5kbGVyID0gbmV3IE1vY2tlZENocm9tZUNhc3QuQ3VzdG9tSGFuZGxlcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBSZXNwb25zZSBoYW5kbGUoSnNvbk5vZGUganNvbikgewogICAgICAgICAgICAgICAgS2lvc2tTdGF0dXNSZXNwb25zZSByZXNwb25zZSA9IG5ldyBLaW9za1N0YXR1c1Jlc3BvbnNlKCk7CiAgICAgICAgICAgICAgICByZXNwb25zZS51cmwgPSAiaHR0cDovL2dvb2dsZS5jb20iOwogICAgICAgICAgICAgICAgcmVzcG9uc2UucmVmcmVzaCA9IDUwOwogICAgICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgICAgICAgICB9CiAgICAgICAgfTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIHdlYmNhbXMgPSBbZG9jdW1lbnQuaW1hZ2VzLndlYmNhbSwgZG9jdW1lbnQuaW1hZ2VzLndlYmNhbTAsIGRvY3VtZW50LmltYWdlcy53ZWJjYW0xLCBkb2N1bWVudC5pbWFnZXMud2ViY2FtMl0K</text>
       </register>
-      <register name="1" type="4">
-        <text>name</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlYmNhbXNbaV0ub25lcnJvciA9IGZ1bmN0aW9uICh3ZWJjYW1zW2ldKSB7CiAgICAgICAgICAgICAgICAgICAgd2ViY2Ftc1tpXS5zcmMgPSAic3luY2hyb25pY2l0eS1wb3N0ZXIuanBnIjsKICAgICAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGxvYWROZXdJbWFnZSwgMTAwMCk7CiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgd2ViY2Ftc1tpXS5vbmxvYWQgPSBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgc2V0VGltZW91dChsb2FkTmV3SW1hZ2UsIDUwKTsKICAgICAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1105,19 +1112,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJTZWFyY2hpbmcgZm9yIGNocm9tZWNhc3RzIHdpdGggbmFtZSAlcyBhbmQgSVAgb2YgJXMiLCBuYW1lLCBpcCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hyb21lY2FzdCA9IGZvdW5kLmdldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRpbWVvdXQobG9hZE5ld0ltYWdlLCA1MCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWNocm9tZWNhc3QuZ2V0QWRkcmVzcygpLmVxdWFscyhpcCkpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHdlYmNhbXNbaV0uc3JjID0gInN5bmNocm9uaWNpdHktcG9zdGVyLmpwZyI7CiAgICAgICAgICAgICAgICBzZXRUaW1lb3V0KGxvYWROZXdJbWFnZSwgMTAwMCk7CiAgICAgICAgICAgIH07</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZy5lcnJvcigiSVAgaXMgbm90IHJlY29nbml6ZWQiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoIkZhaWxlZCB0byBjb25uZWN0IHRvIGNocm9tZWNhc3QiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1137,33 +1144,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhTdHJpbmcuZm9ybWF0KCJDb25uZWN0ZWQgdG8gXCIlc1wiIGF0ICVzIiwgY2hyb21lY2FzdC5nZXRUaXRsZSgpLCBjaHJvbWVjYXN0LmdldEFkZHJlc3MoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICBnZXRDdXJyZW50QXBwKCk7CiAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIGxvZy5lcnJvcigiQ2hyb21lY2FzdCBjcmFzaGVkIik7CiAgICAgIH0KICAgICAgcGVyZm9ybXMucHV0KCJwbGF5IiwgdGhpczo6cGxheSk7CiAgICAgIHBlcmZvcm1zLnB1dCgiY2FzdCIsIHVybCAtPiB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgIHRoaXMuY2FzdFVybCh1cmwpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiAiQ2FzdGVkIjsKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ID</last-search>
+      <last-search>50</last-search>
       <last-offset />
-      <last-pattern>ID</last-pattern>
+      <last-pattern>50</last-pattern>
       <last-replace>d_</last-replace>
       <last-substitute>discriminator_</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>auto</entry>
         <entry>print</entry>
         <entry>break</entry>
         <entry>TODO</entry>
@@ -1183,6 +1189,7 @@
         <entry>dashcast</entry>
         <entry>jpg</entry>
         <entry>ID</entry>
+        <entry>50</entry>
       </history-search>
       <history-cmd>
         <entry>;wq</entry>
@@ -1201,9 +1208,9 @@
         <entry>e</entry>
         <entry>ww</entry>
         <entry>2</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
