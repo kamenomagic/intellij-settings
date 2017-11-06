@@ -540,12 +540,11 @@
         <mark key="." line="112" column="27" />
         <mark key="^" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" timestamp="1509946122111">
-        <mark key="'" line="24" column="111" />
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="60" />
-        <mark key="." line="33" column="60" />
-        <mark key="^" line="33" column="60" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" timestamp="1509948300523">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="17" column="10" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/InvoiceController.java" timestamp="1507152876100">
         <mark key="'" line="26" column="39" />
@@ -561,11 +560,12 @@
         <mark key="^" line="30" column="17" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" timestamp="1509946554826">
-        <mark key="[" line="37" column="58" />
-        <mark key="]" line="37" column="65" />
-        <mark key="^" line="37" column="65" />
-        <mark key="." line="37" column="65" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" timestamp="1509949398927">
+        <mark key="'" line="27" column="10" />
+        <mark key="[" line="40" column="156" />
+        <mark key="]" line="40" column="156" />
+        <mark key="." line="40" column="156" />
+        <mark key="^" line="40" column="155" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/CollectionService.java" timestamp="1509423661094">
         <mark key="'" line="16" column="13" />
@@ -597,6 +597,7 @@
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="61" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.rasc/darksky/2.0.0/4481f962af27d87e8fe5fd9d27cb1d1588de615a/darksky-2.0.0-sources.jar!/ch/rasc/darksky/DsClient.java" timestamp="1509948472110" />
       <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1509763441363">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="5" />
@@ -695,11 +696,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/MediaStatus.java" timestamp="1509255172608">
         <mark key="'" line="58" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" timestamp="1509942536920">
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" timestamp="1509948189350">
         <mark key="'" line="21" column="29" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="10" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
         <mark key="^" line="30" column="43" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/schedule/recurring/TimeLapse.java" timestamp="1508655885672">
@@ -974,11 +975,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="32" column="17" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="98" column="32" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="35" column="23" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="36" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
       <jump line="37" column="35" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
       <jump line="38" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
       <jump line="107" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
@@ -1074,10 +1070,15 @@
       <jump line="24" column="111" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" />
       <jump line="16" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocoderGeometry.java" />
       <jump line="9" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/LatLng.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
+      <jump line="28" column="27" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
+      <jump line="40" column="125" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
+      <jump line="27" column="10" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.toPlainString()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1089,16 +1090,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.toPlainString()</text>
       </register>
       <register name="/" type="4">
         <text>request</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIEdlb2NvZGVyUmVxdWVzdCBnZW9jb2RlclJlcXVlc3QgPSBuZXcgR2VvY29kZXJSZXF1ZXN0QnVpbGRlcigpLnNldEFkZHJlc3MoYWRkcmVzcykuc2V0TGFuZ3VhZ2UoImVuIikuZ2V0R2VvY29kZXJSZXF1ZXN0KCk7CiAgICAgIHJldHVybiBnZW9jb2Rlci5nZW9jb2RlKGdlb2NvZGVyUmVxdWVzdCkuZ2V0UmVzdWx0cygpLnN0cmVhbSgpLmZpbmRGaXJzdCgpLmdldCgpLmdldEdlb21ldHJ5KCkuZ2V0TG9jYXRpb24oKS50b1N0cmluZygpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCJSZXRyaWV2aW5nIHdlYXRoZXIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgSlNPTk9iamVjdCBjb29yZGluYXRlcyA9IG5ldyBKU09OT2JqZWN0KGxvY2F0aW9uLmdldENvb3JkaW5hdGVTdHJpbmcoYWRkcmVzcykpOwo=</text>
+        <text encoding="base64">ICAgIHdlYXRoZXIuaW5pdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1146,19 +1147,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIEdlb2NvZGVyUmVxdWVzdCBnZW9jb2RlclJlcXVlc3QgPSBuZXcgR2VvY29kZXJSZXF1ZXN0QnVpbGRlcigpLnNldEFkZHJlc3MoYWRkcmVzcykuc2V0TGFuZ3VhZ2UoImVuIikuZ2V0R2VvY29kZXJSZXF1ZXN0KCk7CiAgICAgIHJldHVybiBnZW9jb2Rlci5nZW9jb2RlKGdlb2NvZGVyUmVxdWVzdCkuZ2V0UmVzdWx0cygpLnN0cmVhbSgpLmZpbmRGaXJzdCgpLmdldCgpLmdldEdlb21ldHJ5KCkuZ2V0TG9jYXRpb24oKS50b1N0cmluZygpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uLmluaXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgR2VvY29kZVJlc3BvbnNlIGdlb2NvZGVyUmVzcG9uc2UgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlRW50aXR5PFdlYXRoZXJSZXNwb25zZT4gcmVzcG9uc2UgPSByZXN0LmdldEZvckVudGl0eSh1cmwsIFdlYXRoZXJSZXNwb25zZS5jbGFzcyk7CiAgICBpZihyZXNwb25zZS5nZXRTdGF0dXNDb2RlKCkgPT0gSHR0cFN0YXR1cy5PSykgewogICAgICBDdXJyZW50T2JzZXJ2YXRpb24gd2VhdGhlciA9IHJlc3BvbnNlLmdldEJvZHkoKS5nZXRDdXJyZW50X29ic2VydmF0aW9uKCk7CiAgICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgIGJ1aWxkZXIuYXBwZW5kKFN0cmluZy5mb3JtYXQoIlRoZSB3ZWF0aGVyIGluICVzLCAlcyBpcyAlcy4lbiIsCiAgICAgICAgd2VhdGhlci5nZXREaXNwbGF5X2xvY2F0aW9uKCkuZ2V0Q2l0eSgpLAogICAgICAgIHdlYXRoZXIuZ2V0RGlzcGxheV9sb2NhdGlvbigpLmdldFN0YXRlX25hbWUoKSwKICAgICAgICB3ZWF0aGVyLmdldFdlYXRoZXIoKSkpOwogICAgICBidWlsZGVyLmFwcGVuZChTdHJpbmcuZm9ybWF0KCJUaGUgdGVtcGVyYXR1cmUgaXMgJWQgZGVncmVlcy4iLAogICAgICAgICAgKGludCkgd2VhdGhlci5nZXRUZW1wX2YoKSkpOwogICAgICByZXR1cm4gYnVpbGRlci50b1N0cmluZygpOwogICAgfSBlbHNlIHsKICAgICAgU3RyaW5nIG1lc3NhZ2UgPSAiSSB3YXMgdW5hYmxlIHRvIGNoZWNrIHRoZSB3ZWF0aGVyLiI7CiAgICAgIGxvZy53YXJuKG1lc3NhZ2UpOwogICAgICByZXR1cm4gbWVzc2FnZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nQnVpbGRlciB3ZWF0aGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgd2VhdGhlci5hcHBlbmQoKTsK</text>
+        <text encoding="base64">CiAgcHVibGljIFN0cmluZyBnZXRDb29yZGluYXRlU3RyaW5nKFN0cmluZyBhZGRyZXNzKSB7CiAgICBMYXRMbmcgY29vcmRpbmF0ZXMgPSBnZXRDb29yZGluYXRlcyhhZGRyZXNzKTsKICAgIHJldHVybiBjb29yZGluYXRlcy5nZXRMYXQoKSArICI7IiArIGNvb3JkaW5hdGVzLmdldExuZygpOwogIH0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1178,16 +1179,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgd2VhdGhlci5hcHBlbmQoU3RyaW5nLmZvcm1hdCgiIiwgKSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIlJlc29sdmVkICVzIHRvICVzIiwgYWRkcmVzcywgY29vcmRpbmF0ZXMpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVzcG9uc2UuY3VycmVudGx5KCkK</text>
+        <text encoding="base64">ICAgICAgSlNPTk9iamVjdCBjb29yZGluYXRlcyA9IG5ldyBKU09OT2JqZWN0KGxvY2F0aW9uLmdldENvb3JkaW5hdGVTdHJpbmcoYWRkcmVzcykpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIG1lc3NhZ2UgPSA7CiAgICAgIGxvZy53YXJuKG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIEdlb2NvZGVyUmVxdWVzdCBnZW9jb2RlclJlcXVlc3QgPSBuZXcgR2VvY29kZXJSZXF1ZXN0QnVpbGRlcigpLnNldEFkZHJlc3MoYWRkcmVzcykuc2V0TGFuZ3VhZ2UoImVuIikuZ2V0R2VvY29kZXJSZXF1ZXN0KCk7CiAgICAgIHJldHVybiBnZW9jb2Rlci5nZW9jb2RlKGdlb2NvZGVyUmVxdWVzdCkuZ2V0UmVzdWx0cygpLnN0cmVhbSgpLmZpbmRGaXJzdCgpLmdldCgpLmdldEdlb21ldHJ5KCkuZ2V0TG9jYXRpb24oKS50b1N0cmluZygpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1242,9 +1243,9 @@
         <entry>ww</entry>
         <entry>2</entry>
         <entry>g</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
