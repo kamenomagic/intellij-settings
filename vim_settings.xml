@@ -743,11 +743,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/build.gradle" timestamp="1510002863001">
+      <file name="$USER_HOME$/dev/java/synchronicity/build.gradle" timestamp="1510003794688">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="32" column="60" />
-        <mark key="]" line="32" column="81" />
-        <mark key="." line="32" column="60" />
+        <mark key="[" line="32" column="64" />
+        <mark key="]" line="32" column="64" />
+        <mark key="." line="32" column="64" />
         <mark key="^" line="31" column="80" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" timestamp="1509939747265">
@@ -1078,7 +1078,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIGxhbmd1YWdlIGFuZCBlYXJz</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1090,7 +1090,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGxhbmd1YWdlIGFuZCBlYXJz</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
         <text>ear</text>
