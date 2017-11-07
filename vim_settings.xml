@@ -542,6 +542,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510094888444">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="148" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1507171453252">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="112" column="28" />
@@ -981,16 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="107" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="73" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="105" column="68" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="52" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="8" column="42" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/movies/IMDb.java" />
-      <jump line="57" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
-      <jump line="111" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
       <jump line="102" column="34" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/dashcast/receiver.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/dashcast/receiver.html" />
       <jump line="15" column="50" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/dashcast/receiver.html" />
@@ -1081,10 +1078,20 @@
       <jump line="40" column="125" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
       <jump line="27" column="10" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/java/synchronicity/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="184" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="132" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICBXZWF0aGVyIHdlYXRoZXIgPSBuZXcgV2VhdGhlcigpOwogICAgd2VhdGhlci5kYXJrc2t5S2V5ID0gIjA0MDNlMzVhMTcxNmQ0Yzc3N2NlOGM1ZjBjYzYyYzc4IjsKICAgIHdlYXRoZXIuaW5pdCgpOwogICAgTG9jYXRpb24gbG9jYXRpb24gPSBuZXcgTG9jYXRpb24oKTsKICAgIHdlYXRoZXIubG9jYXRpb24gPSBsb2NhdGlvbjsKICAgIFN5c3RlbS5vdXQucHJpbnRsbih3ZWF0aGVyLmdldCgpKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1096,16 +1103,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ear</text>
+        <text encoding="base64">ICk=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZy5pbmZvKCJSZXRyaWV2aW5nIHdlYXRoZXIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICBXZWF0aGVyIHdlYXRoZXIgPSBuZXcgV2VhdGhlcigpOwogICAgd2VhdGhlci5kYXJrc2t5S2V5ID0gIjA0MDNlMzVhMTcxNmQ0Yzc3N2NlOGM1ZjBjYzYyYzc4IjsKICAgIHdlYXRoZXIuaW5pdCgpOwogICAgTG9jYXRpb24gbG9jYXRpb24gPSBuZXcgTG9jYXRpb24oKTsKICAgIHdlYXRoZXIubG9jYXRpb24gPSBsb2NhdGlvbjsKICAgIFN5c3RlbS5vdXQucHJpbnRsbih3ZWF0aGVyLmdldCgpKTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1153,19 +1160,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2RlLnNjaXNzOnNwaGlueDQ6MS4wLjAnIC8vIHNwZWVjaCByZWNvZ25pdGlvbiBhbmQgcmVjb3JkaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdlYXRoZXIuaW5pdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uLmluaXQoKTsK</text>
+        <text encoding="base64">CiMKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIwoK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1185,36 +1192,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIwo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHVibGljIFN0cmluZyBnZXRDb29yZGluYXRlU3RyaW5nKFN0cmluZyBhZGRyZXNzKSB7CiAgICBMYXRMbmcgY29vcmRpbmF0ZXMgPSBnZXRDb29yZGluYXRlcyhhZGRyZXNzKTsKICAgIHJldHVybiBjb29yZGluYXRlcy5nZXRMYXQoKSArICI7IiArIGNvb3JkaW5hdGVzLmdldExuZygpOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ear</last-search>
+      <last-search encoding="base64">ICk=</last-search>
       <last-offset />
-      <last-pattern>ear</last-pattern>
-      <last-replace>d_</last-replace>
-      <last-substitute>discriminator_</last-substitute>
+      <last-pattern encoding="base64">ICk=</last-pattern>
+      <last-replace>)</last-replace>
+      <last-substitute encoding="base64">ICk=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>white</entry>
-        <entry>webcams</entry>
-        <entry>lastImage</entry>
-        <entry>log</entry>
         <entry>shutter</entry>
         <entry>Exception</entry>
         <entry>matrix</entry>
@@ -1231,11 +1234,12 @@
         <entry>,\ @RequestHEader</entry>
         <entry>request</entry>
         <entry>ear</entry>
+        <entry encoding="base64">XClcIA==</entry>
+        <entry encoding="base64">KCA=</entry>
+        <entry encoding="base64">KCkg</entry>
+        <entry encoding="base64">ICk=</entry>
       </history-search>
       <history-cmd>
-        <entry>.w</entry>
-        <entry>%s/find_euler_circuit/cycle/g</entry>
-        <entry encoding="base64">JzwsJz4lcy90cmFpbi90ZXN0L2c=</entry>
         <entry>w;w</entry>
         <entry>j;w</entry>
         <entry>;w</entry>
@@ -1251,8 +1255,11 @@
         <entry>g</entry>
         <entry>wq</entry>
         <entry>noh</entry>
-        <entry>w</entry>
+        <entry>%s/( /(/g</entry>
+        <entry>%s/() /)/g</entry>
+        <entry>%s/ )/)/g</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
