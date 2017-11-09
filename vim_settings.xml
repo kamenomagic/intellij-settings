@@ -225,6 +225,12 @@
       <file name="$USER_HOME$/dev/java/chromecast-java-api-v2/src/test/java/su/litvak/chromecast/api/v2/CustomRequestTest.java" timestamp="1509866659153">
         <mark key="'" line="30" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/python/rosalind/trie.py" timestamp="1510255739047">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1509650002513">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="20" column="0" />
@@ -530,11 +536,11 @@
         <mark key="." line="26" column="61" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.rasc/darksky/2.0.0/4481f962af27d87e8fe5fd9d27cb1d1588de615a/darksky-2.0.0-sources.jar!/ch/rasc/darksky/DsClient.java" timestamp="1509948472110" />
-      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1509763441363">
+      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1510254894749">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+        <mark key="^" line="2" column="2" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" timestamp="1510107776277">
         <mark key="'" line="46" column="14" />
@@ -742,7 +748,7 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509940011221">
+      <file name="/Dummy.txt" timestamp="1510254867047">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -881,7 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="5" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/dashcast/receiver.html" />
       <jump line="242" column="5" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/dashcast/index.html" />
       <jump line="187" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/dashcast/index.html" />
       <jump line="216" column="65" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/dashcast/index.html" />
@@ -981,10 +986,11 @@
       <jump line="44" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" />
       <jump line="45" column="22" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" />
       <jump line="46" column="14" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LT4g</text>
+        <text encoding="base64">bmV3Tm9kZSA9IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -996,7 +1002,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT4g</text>
+        <text encoding="base64">bmV3Tm9kZSA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
@@ -1005,7 +1011,7 @@
         <text encoding="base64">CiAgcHVibGljIFN0cmluZyB0aW1lKFN0cmluZyBpbnB1dCkgdGhyb3dzIFN5bmNocm9uaWNpdHlFeGNlcHRpb24gewogICAgc2F5KHRpbWUuZ2V0KCkpOwogICAgcmV0dXJuICJ0aW1lIjsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1053,19 +1059,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJpZSA9IHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0dXJuIFRyaWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VFJJRUNPTlNUUlVDVElPTihQYXR0ZXJucykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHBhc3MK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1085,16 +1091,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMKIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGlmIGkgPT0gMDoK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IwojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1145,13 +1151,13 @@
         <entry>ww</entry>
         <entry>2</entry>
         <entry>g</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
         <entry>%s/( /(/g</entry>
         <entry>%s/() /)/g</entry>
         <entry>%s/ )/)/g</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
