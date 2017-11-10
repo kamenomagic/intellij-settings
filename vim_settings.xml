@@ -405,12 +405,12 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="39" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510270266976">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="32" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510273649259">
+        <mark key="'" line="164" column="26" />
+        <mark key="[" line="167" column="43" />
+        <mark key="]" line="167" column="44" />
+        <mark key="." line="167" column="44" />
+        <mark key="^" line="167" column="47" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1507171453252">
         <mark key="'" line="1" column="0" />
@@ -761,26 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/dev/java/testCast/build.gradle" />
-      <jump line="109" column="43" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="58" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
-      <jump line="9" column="8" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
-      <jump line="30" column="6" filename="$USER_HOME$/dev/java/chromecast-java-api-v2/src/test/java/su/litvak/chromecast/api/v2/CustomRequestTest.java" />
-      <jump line="29" column="1" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
-      <jump line="82" column="0" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/java/testCast/src/main/java/CustomRequestTest.java" />
-      <jump line="24" column="18" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
-      <jump line="472" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" />
-      <jump line="458" column="25" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" />
-      <jump line="513" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/Channel.java" />
-      <jump line="5" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="27" column="27" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="50" column="92" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="51" column="104" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="52" column="104" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
       <jump line="53" column="93" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
       <jump line="38" column="24" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
@@ -845,7 +825,6 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="81" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="184" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
@@ -861,10 +840,31 @@
       <jump line="7" column="18" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
       <jump line="8" column="12" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
       <jump line="10" column="26" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="62" column="50" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="161" column="30" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="116" column="32" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="104" column="32" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="97" column="25" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="196" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="174" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="136" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="152" column="10" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="195" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="67" column="9" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="106" column="29" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="119" column="26" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="164" column="19" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="165" column="26" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>python.ops.rnn_cell import BasicLSTMCell, MultiRNNCell</text>
+        <text>optim</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -876,16 +876,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>python.ops.rnn_cell import BasicLSTMCell, MultiRNNCell</text>
+        <text>optim</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PA==</text>
+        <text>final</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LnB5dGhvbi5vcHMucm5uX2NlbGwgaW1wb3J0IEJhc2ljTFNUTUNlbGwsIE11bHRpUk5OQ2VsbAo=</text>
+      <register name="0" type="4">
+        <text>initial_state</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGtleQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG9wcy5hcHBlbmQoZmluYWxfc3RhdGUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -936,16 +936,16 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IHZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgdHJpZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -965,25 +965,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJpZVtpXSA9IFsoKV0K</text>
+        <text encoding="base64">CgojIGNyZWF0ZSBhIEJhc2ljTFNUTUNlbGwKIyAgIHVzZSBpdCB0byBjcmVhdGUgYSBNdWx0aVJOTkNlbGwKIyAgIHVzZSBpdCB0byBjcmVhdGUgYW4gaW5pdGlhbF9zdGF0ZQojICAgICBub3RlIHRoYXQgaW5pdGlhbF9zdGF0ZSB3aWxsIGJlIGEgKmxpc3QqIG9mIHRlbnNvcnMhCgojIGNhbGwgc2VxMnNlcS5ybm5fZGVjb2RlcgoKIyB0cmFuc2Zvcm0gdGhlIGxpc3Qgb2Ygc3RhdGUgb3V0cHV0cyB0byBhIGxpc3Qgb2YgbG9naXRzLgojIHVzZSBhIGxpbmVhciB0cmFuc2Zvcm1hdGlvbi4KCiMgY2FsbCBzZXEyc2VxLnNlcXVlbmNlX2xvc3MKCiMgY3JlYXRlIGEgdHJhaW5pbmcgb3AgdXNpbmcgdGhlIEFkYW0gb3B0aW1pemVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY3VycmVudE5vZGUgaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY3VycmVudE5vZGUgaW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PA==</last-search>
+      <last-search>final</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PA==</last-pattern>
+      <last-pattern>final</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute encoding="base64">ICk=</last-substitute>
       <last-dir>1</last-dir>
@@ -991,8 +991,6 @@
     </search>
     <history>
       <history-search>
-        <entry>matrix</entry>
-        <entry>png</entry>
         <entry>dashcastId</entry>
         <entry>dashcast</entry>
         <entry>jpg</entry>
@@ -1011,6 +1009,8 @@
         <entry encoding="base64">ICk=</entry>
         <entry>time</entry>
         <entry encoding="base64">PA==</entry>
+        <entry>initial_state</entry>
+        <entry>final</entry>
       </history-search>
       <history-cmd>
         <entry>j;w</entry>
@@ -1023,15 +1023,15 @@
         <entry encoding="base64">dyA=</entry>
         <entry>e</entry>
         <entry>ww</entry>
-        <entry>2</entry>
         <entry>g</entry>
-        <entry>noh</entry>
         <entry>%s/( /(/g</entry>
         <entry>%s/() /)/g</entry>
         <entry>%s/ )/)/g</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>wq</entry>
+        <entry>2</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
