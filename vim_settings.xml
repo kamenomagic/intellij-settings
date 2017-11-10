@@ -405,8 +405,8 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="39" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510286358410">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510288457567">
+        <mark key="'" line="55" column="13" />
         <mark key="[" line="48" column="20" />
         <mark key="]" line="48" column="19" />
         <mark key="^" line="48" column="19" />
@@ -764,7 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="19" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/slack/Slack.java" />
       <jump line="113" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/slack/Slack.java" />
       <jump line="132" column="8" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
       <jump line="157" column="6" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" />
@@ -864,6 +863,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="80" column="36" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="55" column="13" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -882,7 +882,7 @@
         <text>And</text>
       </register>
       <register name="/" type="4">
-        <text>inpu</text>
+        <text>alice</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50IHNhbXBsZShudW09NjAsIHByaW1lPSJBbmQgIikK</text>
@@ -962,17 +962,16 @@
       </register>
     </registers>
     <search>
-      <last-search>inpu</last-search>
+      <last-search>alice</last-search>
       <last-offset />
-      <last-pattern>inpu</last-pattern>
+      <last-pattern>alice</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute encoding="base64">ICk=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>50</entry>
         <entry>authen</entry>
         <entry>weather</entry>
         <entry>wunderground</entry>
@@ -992,6 +991,7 @@
         <entry>z</entry>
         <entry>input</entry>
         <entry>inpu</entry>
+        <entry>alice</entry>
       </history-search>
       <history-cmd>
         <entry>j;w</entry>
