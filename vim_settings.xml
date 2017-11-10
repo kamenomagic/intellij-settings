@@ -405,12 +405,12 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="39" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510273649259">
-        <mark key="'" line="164" column="26" />
-        <mark key="[" line="167" column="43" />
-        <mark key="]" line="167" column="44" />
-        <mark key="." line="167" column="44" />
-        <mark key="^" line="167" column="47" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510274630565">
+        <mark key="'" line="146" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1507171453252">
         <mark key="'" line="1" column="0" />
@@ -761,13 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="93" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="38" column="24" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="21" column="46" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="22" column="11" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
-      <jump line="18" column="12" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
       <jump line="17" column="41" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/static/eyesDashboard.html" />
@@ -844,7 +837,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="62" column="50" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="161" column="30" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="116" column="32" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="104" column="32" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
@@ -861,10 +853,18 @@
       <jump line="119" column="26" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="164" column="19" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="165" column="26" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="75" column="51" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="88" column="47" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
+      <jump line="130" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>optim</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -876,16 +876,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>optim</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>final</text>
       </register>
       <register name="0" type="4">
-        <text>initial_state</text>
+        <text>s_output</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIG9wcy5hcHBlbmQoZmluYWxfc3RhdGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -933,7 +933,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -945,7 +945,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VyA9IHRmLmdldF92YXJpYWJsZSgnVycsIFtzdGF0ZV9kaW0sIHZvY2FiX3NpemVdLCBpbml0aWFsaXplcj1pbml0aWFsaXplcikKYiA9IHRmLmdldF92YXJpYWJsZSgnYicsIFt2b2NhYl9zaXplXSwgaW5pdGlhbGl6ZXI9aW5pdGlhbGl6ZXIpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -965,7 +965,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgojIGNyZWF0ZSBhIEJhc2ljTFNUTUNlbGwKIyAgIHVzZSBpdCB0byBjcmVhdGUgYSBNdWx0aVJOTkNlbGwKIyAgIHVzZSBpdCB0byBjcmVhdGUgYW4gaW5pdGlhbF9zdGF0ZQojICAgICBub3RlIHRoYXQgaW5pdGlhbF9zdGF0ZSB3aWxsIGJlIGEgKmxpc3QqIG9mIHRlbnNvcnMhCgojIGNhbGwgc2VxMnNlcS5ybm5fZGVjb2RlcgoKIyB0cmFuc2Zvcm0gdGhlIGxpc3Qgb2Ygc3RhdGUgb3V0cHV0cyB0byBhIGxpc3Qgb2YgbG9naXRzLgojIHVzZSBhIGxpbmVhciB0cmFuc2Zvcm1hdGlvbi4KCiMgY2FsbCBzZXEyc2VxLnNlcXVlbmNlX2xvc3MKCiMgY3JlYXRlIGEgdHJhaW5pbmcgb3AgdXNpbmcgdGhlIEFkYW0gb3B0aW1pemVyCg==</text>
+        <text encoding="base64">aW5pdGlhbGl6ZXIgPSB0Zi5jb250cmliLmxheWVycy52YXJpYW5jZV9zY2FsaW5nX2luaXRpYWxpemVyCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
