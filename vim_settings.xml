@@ -405,12 +405,12 @@
         <mark key="." line="44" column="44" />
         <mark key="^" line="39" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510288457567">
+      <file name="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" timestamp="1510289862292">
         <mark key="'" line="55" column="13" />
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="19" />
-        <mark key="^" line="48" column="19" />
-        <mark key="." line="48" column="19" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="40" />
+        <mark key="^" line="223" column="36" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1507171453252">
         <mark key="'" line="1" column="0" />
@@ -866,8 +866,8 @@
       <jump line="55" column="13" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>And</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IHNhbXBsZShudW09NjAsIHByaW1lPSJRdW90aCAiKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -879,13 +879,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>And</text>
+        <text>Alice</text>
       </register>
       <register name="/" type="4">
         <text>alice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNhbXBsZShudW09NjAsIHByaW1lPSJBbmQgIikK</text>
+        <text encoding="base64">ICAgIHByaW50IHNhbXBsZShudW09NjAsIHByaW1lPSJRdW90aCAiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBvbmUgPSAKICAgICAgICB0d28gPSAKCg==</text>
