@@ -23,6 +23,13 @@
       <file name="/a.dummy" timestamp="1509854039593">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510536933242">
+        <mark key="'" line="22" column="22" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="24" />
+        <mark key="^" line="52" column="37" />
+        <mark key="." line="52" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Machine.java" timestamp="1509326063758">
         <mark key="'" line="41" column="14" />
         <mark key="[" line="68" column="0" />
@@ -771,11 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/java/synchronicity/build.gradle" />
-      <jump line="19" column="49" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
-      <jump line="39" column="22" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
-      <jump line="30" column="7" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" />
       <jump line="25" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocodeResponse.java" />
       <jump line="41" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocoderResult.java" />
       <jump line="23" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" />
@@ -871,6 +873,11 @@
       <jump line="17" column="27" filename="$USER_HOME$/dev/python/rosalind/limb.py" />
       <jump line="14" column="25" filename="$USER_HOME$/dev/python/rosalind/limb.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/rosalind/limb.py" />
+      <jump line="14" column="43" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="22" column="22" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -889,7 +896,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>alice</text>
+        <text encoding="base64">XF1cIA==</text>
       </register>
       <register name="0" type="4">
         <text>row_index</text>
@@ -969,27 +976,22 @@
       </register>
     </registers>
     <search>
-      <last-search>alice</last-search>
+      <last-search encoding="base64">XF1cIA==</last-search>
       <last-offset />
-      <last-pattern>alice</last-pattern>
-      <last-replace>)</last-replace>
-      <last-substitute encoding="base64">ICk=</last-substitute>
+      <last-pattern encoding="base64">XF1cIA==</last-pattern>
+      <last-replace>\]</last-replace>
+      <last-substitute encoding="base64">XF1cIA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>authen</entry>
-        <entry>weather</entry>
-        <entry>wunderground</entry>
         <entry>token</entry>
         <entry>,\ @RequestHEader</entry>
         <entry>request</entry>
         <entry>ear</entry>
         <entry encoding="base64">XClcIA==</entry>
-        <entry encoding="base64">KCA=</entry>
         <entry encoding="base64">KCkg</entry>
-        <entry encoding="base64">ICk=</entry>
         <entry>time</entry>
         <entry encoding="base64">PA==</entry>
         <entry>initial_state</entry>
@@ -999,10 +1001,13 @@
         <entry>input</entry>
         <entry>inpu</entry>
         <entry>alice</entry>
+        <entry encoding="base64">KCA=</entry>
+        <entry encoding="base64">ICk=</entry>
+        <entry>[ /[/g</entry>
+        <entry encoding="base64">XFtcIA==</entry>
+        <entry encoding="base64">XF1cIA==</entry>
       </history-search>
       <history-cmd>
-        <entry>j;w</entry>
-        <entry>;w</entry>
         <entry>z</entry>
         <entry>%s/generator_/g_/g</entry>
         <entry>%s/discriminator_/d_/g</entry>
@@ -1012,14 +1017,16 @@
         <entry>e</entry>
         <entry>ww</entry>
         <entry>g</entry>
-        <entry>%s/( /(/g</entry>
         <entry>%s/() /)/g</entry>
-        <entry>%s/ )/)/g</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>2</entry>
         <entry>noh</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>%s/( /(/g</entry>
+        <entry>%s/ )/)/g</entry>
+        <entry>%s/[ /[/g</entry>
+        <entry>%s/\]\ /\]/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
