@@ -218,7 +218,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocoderGeometry.java" timestamp="1509946069310">
         <mark key="'" line="16" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1510534779965">
+      <file name="/Python Console" timestamp="1510693545118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -296,10 +296,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/suffix.py" timestamp="1510687895502">
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
+      <file name="$USER_HOME$/dev/python/rosalind/suffix.py" timestamp="1510693623132">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -308,11 +310,11 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/trie_matching.py" timestamp="1510688935032">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="7" />
-        <mark key="^" line="34" column="7" />
-        <mark key="." line="34" column="7" />
+      <file name="$USER_HOME$/dev/python/rosalind/trie_matching.py" timestamp="1510693180102">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="20" column="71" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="18" column="25" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1509512567558">
         <mark key="'" line="167" column="2" />
@@ -469,10 +471,10 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="41" column="155" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/suffix_array.py" timestamp="1510688402053">
+      <file name="$USER_HOME$/dev/python/rosalind/suffix_array.py" timestamp="1510693231732">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="19" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="19" column="50" />
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
@@ -500,8 +502,7 @@
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1510687749230">
-        <mark key="'" line="0" column="3" />
+      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1510693208361">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -801,22 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/dev/java/synchronicity/build.gradle" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="184" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" />
-      <jump line="45" column="22" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" />
-      <jump line="46" column="14" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
-      <jump line="3" column="18" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
-      <jump line="7" column="18" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
       <jump line="8" column="12" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
       <jump line="10" column="26" filename="$USER_HOME$/dev/python/rosalind/trie.py" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
@@ -888,23 +873,39 @@
       <jump line="4" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="36" column="32" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="38" column="19" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
-      <jump line="40" column="29" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="42" column="46" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="50" column="26" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="43" column="21" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="51" column="10" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
-      <jump line="2" column="3" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array.py" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array.py" />
       <jump line="35" column="15" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="40" column="18" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="61" column="9" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="22" column="21" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="9" column="14" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="24" column="32" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="2" column="3" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="7" column="8" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="21" column="17" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="34" column="50" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VmZml4X2FycmF5ID0gCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -916,16 +917,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>suffix_array</text>
       </register>
       <register name="/" type="4">
         <text>Trie</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN5bWJvbCA9IHRleHRbc3ltYm9sX2luZGV4XQo=</text>
+        <text encoding="base64">dGV4dF9jb3B5ID0gdGV4dAp0cmVlID0ge30KaSA9IDAKd2hpbGUgbGVuKHRleHRfY29weSkgPiAwOgogICAgdHJlZVt0ZXh0X2NvcHldID0gaQogICAgdGV4dF9jb3B5ID0gdGV4dF9jb3B5WzE6XQogICAgaSArPSAxCgpzdWZmaXggPSBbdHJlZS5wb3AoJyQnKV0Ka2V5cyA9IHRyZWUua2V5cygpCmtleXMuc29ydCgpCmZvciBrZXkgaW4ga2V5czoKICAgIHN1ZmZpeC5hcHBlbmQodHJlZVtrZXldKQoKcHJpbnQgJywgJy5qb2luKFtzdHIobnVtYmVyKSBmb3IgbnVtYmVyIGluIHN1ZmZpeF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3VmZml4X2FycmF5ID0gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -951,19 +952,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hpbGUgbGVuKHRleHQpID4gMDoKICAgIHByZWZpeF90cmllX21hdGNoaW5nKHRleHQsIHRyaWUpCiAgICB0ZXh0ID0gdGV4dFsxOl0K</text>
+        <text encoding="base64">cHJpbnQgW3RleHRbaTpdIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgdGV4dApwcmludCBwYXR0ZXJucwo=</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmRlZiBwcmVmaXhfdHJpZV9tYXRjaGluZyh0ZXh0LCB0cmllKToKICAgIHN5bWJvbF9pbmRleCA9IDAKICAgIHN5bWJvbCA9IHRleHRbc3ltYm9sX2luZGV4XQogICAgdiA9IHRyaWVbKDAsICdST09UJyldCiAgICB3aGlsZSBUcnVlOgogICAgICAgIGlmIGxlbih0cmllW3ZdKSA9PSAwOgogICAgICAgICAgICByZXN1bHQgPSAiIgogICAgICAgICAgICBjdXJyZW50X25vZGUgPSAoMCwgIlJPT1QiKQogICAgICAgICAgICAjIHJldHVybiB0aGUgcGF0dGVybiBzcGVsbGVkIGJ5IHRoZSBwYXRoIGZyb20gdGhlIHJvb3QgdG8gdgogICAgICAgICAgICByZXR1cm4gIiIKICAgICAgICBlbHNlIGlmIHRoZXJlIGlzIGFuIGVkZ2UgKHYsIHcpIGluIHRyaWUgbGFiZWxlZCBieSBzeW1ib2w6CiAgICAgICAgICAgIHN5bWJvbF9pbmRleCArPSAxCiAgICAgICAgICAgIHN5bWJvbCA9IHRleHRbc3ltYm9sX2luZGV4XQogICAgICAgICAgICB2ID0gdwogICAgICAgIGVsc2U6CiAgICAgICAgICAgcmV0dXJuICJObyBtYXRjaGVzIGZvdW5kIgoK</text>
+        <text encoding="base64">CmRlZiBzdWZmaXhfYXJyYXkodGV4dCk6CiAgICBzdWZmaXhfYXJyYXkgPSBbXQogICAgZm9yIGkgaW4gcmFuZ2UobGVuKHRleHQpKToKICAgICAgICBzdWZmaXhfYXJyYXkuYXBwZW5kKHRleHRbMTpdKQogICAgcmV0dXJuIHN1ZmZpeF9hcnJheSgpCgogICAgc3VmZml4ID0gW3RyZWUucG9wKCckJyldCiAgICBrZXlzID0gdHJlZS5rZXlzKCkKICAgIGtleXMuc29ydCgpCiAgICBmb3Iga2V5IGluIGtleXM6CiAgICAgICAgc3VmZml4LmFwcGVuZCh0cmVlW2tleV0pCiAgICByZXR1cm4gc3VmZml4Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQgc3VmZml4Cg==</text>
+        <text encoding="base64">ICAgIGkgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnByaW50IHRyZWUK</text>
+        <text encoding="base64">ICAgICAgICBpICs9IDEK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -983,16 +984,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgc3VmZml4Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIGxlbih0ZXh0KSA+IDA6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdHRlcm5zID0gW2xpbmUuc3RyaXAoKSBmb3IgbGluZSBpbiBmaWxlLnJlYWRsaW5lcygpXQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmVlW3RleHRdID0gaQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUFUQ0dHR1RUQ0FBVENHR0dHVApBVENHCkdHR1QK</text>
+        <text encoding="base64">ICAgIHRyZWUgPSB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1043,11 +1044,11 @@
         <entry>%s/() /)/g</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry>%s/( /(/g</entry>
         <entry>%s/ )/)/g</entry>
         <entry>%s/[ /[/g</entry>
         <entry>%s/\]\ /\]/g</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>2</entry>
         <entry>w</entry>
