@@ -303,6 +303,13 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/python/rosalind/trie_matching.py" timestamp="1510686990904">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="12" />
+        <mark key="^" line="36" column="3" />
+        <mark key="." line="47" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1509512567558">
         <mark key="'" line="167" column="2" />
         <mark key="[" line="141" column="23" />
@@ -776,9 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocodeResponse.java" />
-      <jump line="41" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocoderResult.java" />
-      <jump line="23" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" />
       <jump line="43" column="11" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
@@ -876,10 +880,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="22" column="22" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="7" column="2" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="33" column="18" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/python/rosalind/trie_matching.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldHMuCg==</text>
+        <text encoding="base64">ClBSRUZJWFRSSUVNQVRDSElORyBmaW5kcyB3aGV0aGVyIGFueSBzdHJpbmdzIGluIFBhdHRlcm5zIG1hdGNoIGEgcHJlZml4IG9mIFRleHQuIFRvIGZpbmQgd2hldGhlciBhbnkgc3RyaW5ncyBpbiBQYXR0ZXJucyBtYXRjaCBhIHN1YnN0cmluZyBvZiBUZXh0IHN0YXJ0aW5nIGF0IHBvc2l0aW9uIGssIHdlIGNob3Agb2ZmIHRoZSBmaXJzdCBrIOKIkiAxIHN5bWJvbHMgZnJvbSBUZXh0IGFuZCBydW4gUFJFRklYVFJJRU1BVENISU5HIG9uIHRoZSBzaG9ydGVuZWQgc3RyaW5nLiBBcyBhIHJlc3VsdCwgdG8gc29sdmUgdGhlIE11bHRpcGxlIFBhdHRlcm4gTWF0Y2hpbmcgUHJvYmxlbSAoaW50cm9kdWNlZCBpbiDigJxDb25zdHJ1Y3QgYSBUcmllIGZyb20gYSBDb2xsZWN0aW9uIG9mIFBhdHRlcm5z4oCdLCB3ZSBzaW1wbHkgaXRlcmF0ZSBQUkVGSVhUUklFTUFUQ0hJTkcgfFRleHR8IHRpbWVzLCBjaG9wcGluZyB0aGUgZmlyc3Qgc3ltYm9sIG9mZiBvZiBUZXh0IGJlZm9yZSBlYWNoIG5ldyBpdGVyYXRpb24uCgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -891,16 +898,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XF1cIA==</text>
       </register>
-      <register name="0" type="4">
-        <text>row_index</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQgc3RyaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldHMuCg==</text>
+        <text encoding="base64">ClBSRUZJWFRSSUVNQVRDSElORyBmaW5kcyB3aGV0aGVyIGFueSBzdHJpbmdzIGluIFBhdHRlcm5zIG1hdGNoIGEgcHJlZml4IG9mIFRleHQuIFRvIGZpbmQgd2hldGhlciBhbnkgc3RyaW5ncyBpbiBQYXR0ZXJucyBtYXRjaCBhIHN1YnN0cmluZyBvZiBUZXh0IHN0YXJ0aW5nIGF0IHBvc2l0aW9uIGssIHdlIGNob3Agb2ZmIHRoZSBmaXJzdCBrIOKIkiAxIHN5bWJvbHMgZnJvbSBUZXh0IGFuZCBydW4gUFJFRklYVFJJRU1BVENISU5HIG9uIHRoZSBzaG9ydGVuZWQgc3RyaW5nLiBBcyBhIHJlc3VsdCwgdG8gc29sdmUgdGhlIE11bHRpcGxlIFBhdHRlcm4gTWF0Y2hpbmcgUHJvYmxlbSAoaW50cm9kdWNlZCBpbiDigJxDb25zdHJ1Y3QgYSBUcmllIGZyb20gYSBDb2xsZWN0aW9uIG9mIFBhdHRlcm5z4oCdLCB3ZSBzaW1wbHkgaXRlcmF0ZSBQUkVGSVhUUklFTUFUQ0hJTkcgfFRleHR8IHRpbWVzLCBjaG9wcGluZyB0aGUgZmlyc3Qgc3ltYm9sIG9mZiBvZiBUZXh0IGJlZm9yZSBlYWNoIG5ldyBpdGVyYXRpb24uCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -929,16 +936,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGtleSwgdmFsdWUgaW4gdHJpZS5pdGVyaXRlbXMoKToKICAgIGZvciBub2RlIGluIHZhbHVlOgogICAgICAgIHByaW50IHN0cihrZXlbMF0pICsgJy0+JyArIHN0cihub2RlWzBdKSArICc6JyArIG5vZGVbMV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcCA9IAo=</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIHJvdyBpbiBkaXN0YW5jZToKICAgIHByaW50ICcgJy5qb2luKFtzdHIobnVtYmVyKSBmb3IgbnVtYmVyIGluIHJvd10pCg==</text>
+        <text encoding="base64">IyBUcmllID0gYSBncmFwaCBjb25zaXN0aW5nIG9mIGEgc2luZ2xlIG5vZGUgcm9vdAojIGZvciBlYWNoIHN0cmluZyBQYXR0ZXJuIGluIFBhdHRlcm5zCiMgICAgIGN1cnJlbnROb2RlID0gcm9vdAojICAgICBmb3IgaSA9IDEgdG8gfFBhdHRlcm58CiMgICAgICAgICBpZiB0aGVyZSBpcyBhbiBvdXRnb2luZyBlZGdlIGZyb20gY3VycmVudE5vZGUgd2l0aCBsYWJlbCBjdXJyZW50U3ltYm9sCiMgICAgICAgICAgICAgY3VycmVudE5vZGUgPSBlbmRpbmcgbm9kZSBvZiB0aGlzIGVkZ2UKIyAgICAgICAgIGVsc2UKIyAgICAgICAgICAgICBhZGQgYSBuZXcgbm9kZSBuZXdOb2RlIHRvIFRyaWUKIyAgICAgICAgICAgICBhZGQgYSBuZXcgZWRnZSBmcm9tIGN1cnJlbnROb2RlIHRvIG5ld05vZGUgd2l0aCBsYWJlbCBjdXJyZW50U3ltYm9sCiMgICAgICAgICAgICAgY3VycmVudE5vZGUgPSBuZXdOb2RlCgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -958,16 +965,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgZGlzdGFuY2UK</text>
+        <text encoding="base64">ICAgIGdldHMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGlzdGFuY2UgPSBbWzBdICogbiBmb3IgXyBpbiByYW5nZShuKV0KCgpkZWYgc2VhcmNoKGN1cnJlbnRfZWRnZSwgY3VycmVudF93ZWlnaHQsIHZpc2l0ZWQpOgogICAgaWYgY3VycmVudF9lZGdlIGluIHRyZWU6CiAgICAgICAgcmV0dXJuIHRyZWVbY3VycmVudF9lZGdlXSArIGN1cnJlbnRfd2VpZ2h0CiAgICBlbHNlOgogICAgICAgIHBhdGhzID0gW2VkZ2UgZm9yIGVkZ2UgaW4gdHJlZS5rZXlzKCkgaWYgZWRnZVswXSA9PSBjdXJyZW50X2VkZ2VbMF0gYW5kIGVkZ2VbMV0gbm90IGluIHZpc2l0ZWRdCiAgICAgICAgc21hbGxlc3Rfd2VpZ2h0ID0gTm9uZQogICAgICAgIGZvciBlZGdlIGluIHBhdGhzOgogICAgICAgICAgICBuZXdfdmlzaXRlZCA9IHZpc2l0ZWQKICAgICAgICAgICAgbmV3X3Zpc2l0ZWQuYXBwZW5kKGVkZ2VbMF0pCiAgICAgICAgICAgIHdlaWdodCA9IHNlYXJjaCgoZWRnZVsxXSwgY3VycmVudF9lZGdlWzFdKSwgY3VycmVudF93ZWlnaHQgKyB0cmVlW2VkZ2VdLCBuZXdfdmlzaXRlZCkKICAgICAgICAgICAgc21hbGxlc3Rfd2VpZ2h0ID0gd2VpZ2h0IGlmIHdlaWdodCBpcyBub3QgTm9uZSBhbmQgKHNtYWxsZXN0X3dlaWdodCBpcyBOb25lIG9yIHdlaWdodCA8IHNtYWxsZXN0X3dlaWdodCkgZWxzZSBzbWFsbGVzdF93ZWlnaHQKICAgICAgICByZXR1cm4gc21hbGxlc3Rfd2VpZ2h0CgoKZm9yIGkgaW4gcmFuZ2Uobik6CiAgICBmb3IgaiBpbiByYW5nZShuKToKICAgICAgICBpZiBpID09IGo6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZGlzdGFuY2VbaV1bal0gPSBzZWFyY2goKGksIGopLCAwLCBbXSkKCmZvciByb3cgaW4gZGlzdGFuY2U6CiAgICBwcmludCAnICcuam9pbihbc3RyKHRoaW5nKSBmb3IgdGhpbmcgaW4gcm93XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyZWUgPSB7dHVwbGUoW2ludChwYWlyKSBmb3IgcGFpciBpbiB3ZWlnaHRbMF0uc3BsaXQoJy0+JyldKTogaW50KHdlaWdodFsxXSkgZm9yIHdlaWdodCBpbiBbcGFpci5zcGxpdCgnOicpIGZvciBwYWlyIGluIGxpbmVzXX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
