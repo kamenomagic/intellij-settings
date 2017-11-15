@@ -518,12 +518,12 @@
         <mark key="." line="30" column="11" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" timestamp="1510024531869">
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" timestamp="1510766976142">
         <mark key="'" line="29" column="10" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="41" column="155" />
+        <mark key="[" line="42" column="125" />
+        <mark key="]" line="42" column="135" />
+        <mark key="." line="42" column="135" />
+        <mark key="^" line="42" column="135" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" timestamp="1510740789177">
         <mark key="[" line="11" column="0" />
@@ -1018,8 +1018,8 @@
       <jump line="11" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CnByaW50IHN1ZmZpeGVzCmZvdW5kID0gW10KZm9yIHN1ZmZpeCBpbiBzdWZmaXhlczoKICAgIHNlYXJjaCA9IHRleHQuZmluZChzdWZmaXgpCiAgICBpZiBzZWFyY2ggPj0gMDoKICAgICAgICBmb3VuZC5hcHBlbmQoc2VhcmNoKQpmb3VuZC5zb3J0KCkKcHJpbnQgZm91bmQKCg==</text>
+      <register name="&quot;" type="4">
+        <text>.toPlainString()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1031,7 +1031,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.toPlainString()</text>
       </register>
       <register name="/" type="4">
         <text>CTCC</text>
