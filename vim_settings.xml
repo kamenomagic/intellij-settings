@@ -525,10 +525,18 @@
         <mark key="." line="42" column="135" />
         <mark key="^" line="42" column="135" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" timestamp="1510740789177">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" timestamp="1510770398994">
+        <mark key="'" line="19" column="14" />
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/python/rosalind/suffix_array.py" timestamp="1510769943767">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="51" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/CollectionService.java" timestamp="1509423661094">
         <mark key="'" line="16" column="13" />
@@ -916,14 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="195" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="67" column="9" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="106" column="29" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="119" column="26" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="164" column="19" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="165" column="26" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
       <jump line="88" column="47" filename="$USER_HOME$/dev/python/notebooks/lab8_scaffold/lab8.py" />
@@ -1016,10 +1016,18 @@
       <jump line="1" column="51" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
       <jump line="12" column="11" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array.py" />
+      <jump line="7" column="4" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
+      <jump line="31" column="3" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
+      <jump line="19" column="14" filename="$USER_HOME$/dev/python/rosalind/suffix_array_pattern_matching.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.toPlainString()</text>
+        <text>suffixes</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1031,16 +1039,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.toPlainString()</text>
+        <text>suffixes</text>
       </register>
       <register name="/" type="4">
         <text>CTCC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGN1cnJlbnRfc3RyaW5nIG5vdCBpbiBsaW5lc1swXSBvciBjdXJyZW50X3N0cmluZyBub3QgaW4gbGluZXNbMV06CiAgICAgICAgcmV0dXJuIGN1cnJlbnRfc3RyaW5nCg==</text>
+        <text encoding="base64">cHJpbnQgc3VmZml4ZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnByaW50IHN1ZmZpeGVzCmZvdW5kID0gW10KZm9yIHN1ZmZpeCBpbiBzdWZmaXhlczoKICAgIHNlYXJjaCA9IHRleHQuZmluZChzdWZmaXgpCiAgICBpZiBzZWFyY2ggPj0gMDoKICAgICAgICBmb3VuZC5hcHBlbmQoc2VhcmNoKQpmb3VuZC5zb3J0KCkKcHJpbnQgZm91bmQKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1066,19 +1074,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHJlZSA9IHt9CmZvciBwYXR0ZXJuIGluIHBhdHRlcm5zOgogICAgdGV4dF9jb3B5ID0gcGF0dGVybgogICAgaSA9IDAKICAgIHdoaWxlIGxlbih0ZXh0X2NvcHkpID4gMDoKICAgICAgICB0cmVlW3RleHRfY29weV0gPSBpCiAgICAgICAgdGV4dF9jb3B5ID0gdGV4dF9jb3B5WzE6XQogICAgICAgIGkgKz0gMQoKc3VmZml4ID0gW3RyZWUucG9wKCckJyldCmtleXMgPSB0cmVlLmtleXMoKQprZXlzLnNvcnQoKQpmb3Iga2V5IGluIGtleXM6CiAgICBzdWZmaXguYXBwZW5kKHRyZWVba2V5XSkKCnByaW50IHN1ZmZpeAo=</text>
+        <text encoding="base64">ICAgIHRyZWUgPSB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHJlZSA9IHt9Cg==</text>
+        <text encoding="base64">cHJpbnQgJywgJy5qb2luKFtzdHIobnVtYmVyKSBmb3IgbnVtYmVyIGluIHZhbHVlc10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnN1ZmZpeGVzID0gW10KCmZvciBwYXR0ZXJuIGluIHBhdHRlcm5zOgogICAgc3VmZml4ZXMuZXh0ZW5kKFtwYXR0ZXJuW2k6XSBmb3IgaSBpbiByYW5nZShsZW4ocGF0dGVybikpXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQgJywgJy5qb2luKFtzdHIobnVtYmVyKSBmb3IgbnVtYmVyIGluIHN1ZmZpeF0pCg==</text>
+        <text encoding="base64">IyEgL3Vzci9iaW4vcHl0aG9uCgp3aXRoIG9wZW4oJ2lucHV0LnR4dCcpIGFzIGZpbGU6CiAgICB0ZXh0ID0gZmlsZS5yZWFkbGluZSgpLnN0cmlwKCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q0FHVEFBVENHR0FDVEdDQ1RHQUFBQUdHQ0FHVEdDQ1RUVEdDR1RHQUFDQ0dBQ0NDQ0FHR0dUQ0NBQUFBQ0dUVEdUR1RHR0dUQVRUR0NHR0dDVEdUR1RBVENDR1RBQ1RUQUNHQUFUQ0NUR0NDR0FDQ0dBQ0FHR1RUVENHQ0FDR1RBQUdHVEFDR1RUR0NBR0dBVEdDVEFUQ0dUVFRBVEFUQ0FDQUdBQ0NUVENUQUNDQ0dDQ1RHQVRHVEdDQ1RDR0NUR0NHVEdHQUFBVFRHVEFBQ1RDQUdDR1RDQ0dBVEdDQ1RHR0dUVEFUQ1RBQ0dBR1RBR1RHVEFBQ0FDVENBQ1RUR0dUR0dBVENBVEFHR0dBQUdHVENBR0dUQUNHQ0NUR1RBQ0NBR0dBVENHR0NUQ0NHQ0dHVENDQUNHVENBQ0NDR0NUQUFDQ0dHQUdDVENBQUdHQ1RHQ0dHQ0FBQUNUVEFDQUFDVEFHR0FHR0dUR0FDVEdHQ0NBQ0FHQ0NHR1RBQ0NHR1RDR0FUR0NUVENHR0NDQ0dHR0NDQUNHVENUR0NUR0FDQ0dHQ1RBR0NHQUFUQ1RUQ0dDVFRHR0dUQ0dDR1RUVFRUQUNHQUNDQVRHQ0dBVEFUR0NUR0dHQUNDR1RBQUFBQ0NBVEdHQ0NBQ0dUQ0dUQ0NDVENHQ0NBQVRHQ0NUVFRBR1RHQ0dDQUFUQ1RHR0FBQUFHQUFHQ0NHQUFDR1RUR0FUR0FDVFRUR1RHQ0dDQUNDQUNBVFRUR0FUQ1RDQUNHQ0dBQVRBQUFDR0dDQ0FDQVRHQUdUVEdHR0FDR0dBQ1RDQ1RDVEdBVEdDQ0dUR0dBQ0FUQVRHR0FDQ1RUR0dDVEFUQUNUQUdDR1RBVENHQ0NDQ0EK</text>
+        <text encoding="base64">ICAgIC50b1BsYWluU3RyaW5nKCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1098,16 +1106,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R0NDQVRDR0NUQVRDQUdDR0dHR0NBR0FUR0dUQ0dHQUNBQ1RDVENHQ1RDQ0dDR0dHQ0NHVEdHR0FHR0FBQVRDR0NUVEdDR0dHR0dHVFRHR1RUR0NUQUNHQVRBQ0dDQUdBR1RHVEdDVENUR0FHR0dUQVRHR0dDQ1RBR0dHQVRHQUNHQ0dBVEdHQ0dDQ0dDR1RHVFRHR0FHQVRUQ0NHVEFHVEdDQ1RUVFRUQ0dBVEFBQ0FDQ0dBQ0dBVEFDQVRDQUFBQ0NUQ0FDVFRDQUFDQUNDVENHR0NBQ0NBVENHQVRUR0FBQ1RBR0dUQ1RDQ1RBR1RHR0FHQ0NHQUNDQ0FUR0NHQUFBQ0FBR1RBQ1RBR0NUR0dUQUFDVENDQ0NDVENHQ0FDR0dHVEFBVFRBVFRUQ1RDVENHVFRDVFRHQ0dHVEdBQUFBQUdUR0NDQVRBQ0FBQUNHQ1RBR1RBVEFDQUdDQ0FDQ1RBVENHQ0dBQUNUR0NBQUdDQVRUR1RDVENHR1RDVFRUVFRHVFRDVEFHQUFBQUNDQUFBQUFUQUFBQ0FBQUdBQVRUQUFUQ0FBVEdBQUNUQUFDQ0FBQ0dBQUdUQUFHQ0FBR0dBVEFUQUNBVEFHQVRUVEFUVENBVFRHQVRDVEFUQ0NBVENHQVRHVEFUR0NBVEdHQUNBQ0FHQUNUVEFDVENBQ1RHQUNDVEFDQ0NBQ0NHQUNHVEFDR0NBQ0dHQUdBR1RUQUdUQ0FHVEdBR0NUQUdDQ0FHQ0dBR0dUQUdHQ0FHR0dUVFRUQ1RUVEdUVENDVFRDR1RUR0NUVEdHVENUQ1RHVENDQ1RDQ0dUQ0dDVENHR1RHVEdDQ1RHQ0dUR0dDVEdHR0NDQ0NHQ0NHR0NHQ0dHR0dBQUEK</text>
+        <text encoding="base64">CnByaW50IHN1ZmZpeGVzCmZvdW5kID0gW10KZm9yIHN1ZmZpeCBpbiBzdWZmaXhlczoKICAgIHNlYXJjaCA9IHRleHQuZmluZChzdWZmaXgpCiAgICBpZiBzZWFyY2ggPj0gMDoKICAgICAgICBmb3VuZC5hcHBlbmQoc2VhcmNoKQpmb3VuZC5zb3J0KCkKcHJpbnQgZm91bmQKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q0NBQUdDVEdDVEFHQUdHCg==</text>
+        <text encoding="base64">dHJlZSA9IHt9CmZvciBwYXR0ZXJuIGluIHBhdHRlcm5zOgogICAgdGV4dF9jb3B5ID0gcGF0dGVybgogICAgaSA9IDAKICAgIHdoaWxlIGxlbih0ZXh0X2NvcHkpID4gMDoKICAgICAgICB0cmVlW3RleHRfY29weV0gPSBpCiAgICAgICAgdGV4dF9jb3B5ID0gdGV4dF9jb3B5WzE6XQogICAgICAgIGkgKz0gMQoKc3VmZml4ID0gW3RyZWUucG9wKCckJyldCmtleXMgPSB0cmVlLmtleXMoKQprZXlzLnNvcnQoKQpmb3Iga2V5IGluIGtleXM6CiAgICBzdWZmaXguYXBwZW5kKHRyZWVba2V5XSkKCnByaW50IHN1ZmZpeAo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q0FUR0NUR0dHQ1RHR0NUCg==</text>
+        <text encoding="base64">dHJlZSA9IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1163,8 +1171,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>jj;w</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
