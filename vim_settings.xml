@@ -238,7 +238,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocoderGeometry.java" timestamp="1509946069310">
         <mark key="'" line="16" column="15" />
       </file>
-      <file name="/Python Console" timestamp="1510534779965">
+      <file name="/Python Console" timestamp="1510731237508">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -325,11 +325,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="2" column="57" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/suffix.py" timestamp="1510729008617">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/dev/python/rosalind/suffix.py" timestamp="1510731318810">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="19" />
+        <mark key="]" line="49" column="22" />
+        <mark key="." line="49" column="22" />
+        <mark key="^" line="49" column="22" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/layers.py" timestamp="1507343729923">
         <mark key="'" line="20" column="0" />
@@ -534,10 +535,11 @@
         <mark key="^" line="26" column="79" />
         <mark key="." line="26" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1510535662757">
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+      <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1510731346711">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" timestamp="1510107776277">
         <mark key="'" line="46" column="14" />
@@ -884,12 +886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocodeResponse.java" />
-      <jump line="41" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocoderResult.java" />
-      <jump line="23" column="29" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/location/Location.java" />
-      <jump line="43" column="11" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
       <jump line="47" column="92" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/weather/Weather.java" />
       <jump line="78" column="28" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
       <jump line="80" column="32" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/SynchronicityComponent.java" />
@@ -984,10 +980,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="22" column="22" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="40" column="61" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="17" column="20" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="48" column="19" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>D</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -999,16 +1001,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XF1cIA==</text>
       </register>
       <register name="0" type="4">
-        <text>row_index</text>
+        <text>trie</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtleXMgPSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1034,19 +1036,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JpZ2luYWxfdHJpZSA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVtcCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9ub2RlLnBvcChrZXkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIHJvdyBpbiBkaXN0YW5jZToKICAgIHByaW50ICcgJy5qb2luKFtzdHIobnVtYmVyKSBmb3IgbnVtYmVyIGluIHJvd10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgZGlzdGFuY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1066,16 +1068,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGlzdGFuY2UgPSBbWzBdICogbiBmb3IgXyBpbiByYW5nZShuKV0KCgpkZWYgc2VhcmNoKGN1cnJlbnRfZWRnZSwgY3VycmVudF93ZWlnaHQsIHZpc2l0ZWQpOgogICAgaWYgY3VycmVudF9lZGdlIGluIHRyZWU6CiAgICAgICAgcmV0dXJuIHRyZWVbY3VycmVudF9lZGdlXSArIGN1cnJlbnRfd2VpZ2h0CiAgICBlbHNlOgogICAgICAgIHBhdGhzID0gW2VkZ2UgZm9yIGVkZ2UgaW4gdHJlZS5rZXlzKCkgaWYgZWRnZVswXSA9PSBjdXJyZW50X2VkZ2VbMF0gYW5kIGVkZ2VbMV0gbm90IGluIHZpc2l0ZWRdCiAgICAgICAgc21hbGxlc3Rfd2VpZ2h0ID0gTm9uZQogICAgICAgIGZvciBlZGdlIGluIHBhdGhzOgogICAgICAgICAgICBuZXdfdmlzaXRlZCA9IHZpc2l0ZWQKICAgICAgICAgICAgbmV3X3Zpc2l0ZWQuYXBwZW5kKGVkZ2VbMF0pCiAgICAgICAgICAgIHdlaWdodCA9IHNlYXJjaCgoZWRnZVsxXSwgY3VycmVudF9lZGdlWzFdKSwgY3VycmVudF93ZWlnaHQgKyB0cmVlW2VkZ2VdLCBuZXdfdmlzaXRlZCkKICAgICAgICAgICAgc21hbGxlc3Rfd2VpZ2h0ID0gd2VpZ2h0IGlmIHdlaWdodCBpcyBub3QgTm9uZSBhbmQgKHNtYWxsZXN0X3dlaWdodCBpcyBOb25lIG9yIHdlaWdodCA8IHNtYWxsZXN0X3dlaWdodCkgZWxzZSBzbWFsbGVzdF93ZWlnaHQKICAgICAgICByZXR1cm4gc21hbGxlc3Rfd2VpZ2h0CgoKZm9yIGkgaW4gcmFuZ2Uobik6CiAgICBmb3IgaiBpbiByYW5nZShuKToKICAgICAgICBpZiBpID09IGo6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZGlzdGFuY2VbaV1bal0gPSBzZWFyY2goKGksIGopLCAwLCBbXSkKCmZvciByb3cgaW4gZGlzdGFuY2U6CiAgICBwcmludCAnICcuam9pbihbc3RyKHRoaW5nKSBmb3IgdGhpbmcgaW4gcm93XSkK</text>
+        <text encoding="base64">IyBwcmludF9zcXVhc2hlZF90cmllKG9yaWdpbmFsX3RyaWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyZWUgPSB7dHVwbGUoW2ludChwYWlyKSBmb3IgcGFpciBpbiB3ZWlnaHRbMF0uc3BsaXQoJy0+JyldKTogaW50KHdlaWdodFsxXSkgZm9yIHdlaWdodCBpbiBbcGFpci5zcGxpdCgnOicpIGZvciBwYWlyIGluIGxpbmVzXX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQgPSBjdXJyZW50X25vZGVba2V5XQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MzIKMC0+NTA6NQoxLT40OToxMwoyLT4zMzo2CjMtPjUxOjE0CjQtPjUyOjEyCjUtPjM1OjkKNi0+MzQ6Ngo3LT4zOTo1CjgtPjU3OjYKOS0+NDU6NQoxMC0+NTk6MTMKMTEtPjU4OjcKMTItPjQwOjExCjEzLT41Mzo4CjE0LT4zMjo5CjE1LT4zODo1CjE2LT4zMjo5CjE3LT41NjoxMgoxOC0+NDY6MTIKMTktPjQxOjEzCjIwLT4zNjo5CjIxLT40NzoxNQoyMi0+NjA6NQoyMy0+MzY6MTMKMjQtPjQyOjE0CjI1LT40NDoxMQoyNi0+NDM6NgoyNy0+NjE6MTUKMjgtPjM3OjkKMjktPjU1OjEyCjMwLT40ODoxNQozMS0+NTQ6MTUKMzItPjE0OjkKMzItPjE2OjkKMzItPjMzOjEyCjMzLT4zMjoxMgozMy0+MzQ6MTAKMzMtPjI6NgozNC0+MzU6MTEKMzQtPjMzOjEwCjM0LT42OjYKMzUtPjM3OjE1CjM1LT4zNDoxMQozNS0+NTo5CjM2LT41MjoxNQozNi0+MjA6OQozNi0+MjM6MTMKMzctPjM1OjE1CjM3LT4zODo1CjM3LT4yODo5CjM4LT4zOToxMQozOC0+MTU6NQozOC0+Mzc6NQozOS0+Nzo1CjM5LT4zODoxMQozOS0+NDA6MTIKNDAtPjEyOjExCjQwLT4zOToxMgo0MC0+NDE6MTUKNDEtPjQwOjE1CjQxLT4xOToxMwo0MS0+NDI6MTAKNDItPjQzOjUKNDItPjI0OjE0CjQyLT40MToxMAo0My0+MjY6Ngo0My0+NDQ6MTIKNDMtPjQyOjUKNDQtPjI1OjExCjQ0LT40MzoxMgo0NC0+NDU6MTIKNDUtPjQ2OjExCjQ1LT40NDoxMgo0NS0+OTo1CjQ2LT40NzoxNAo0Ni0+NDU6MTEKNDYtPjE4OjEyCjQ3LT40NjoxNAo0Ny0+MjE6MTUKNDctPjQ4OjgKNDgtPjQ3OjgKNDgtPjMwOjE1CjQ4LT40OTo2CjQ5LT41MDoxNQo0OS0+MToxMwo0OS0+NDg6Ngo1MC0+MDo1CjUwLT41MToxMAo1MC0+NDk6MTUKNTEtPjUwOjEwCjUxLT4zOjE0CjUxLT41OToxMwo1Mi0+NTM6Nwo1Mi0+NDoxMgo1Mi0+MzY6MTUKNTMtPjUyOjcKNTMtPjU0OjEyCjUzLT4xMzo4CjU0LT4zMToxNQo1NC0+NTM6MTIKNTQtPjU1OjYKNTUtPjU2OjEwCjU1LT41NDo2CjU1LT4yOToxMgo1Ni0+NTU6MTAKNTYtPjU3OjEwCjU2LT4xNzoxMgo1Ny0+NTg6MTQKNTctPjg6Ngo1Ny0+NTY6MTAKNTgtPjU3OjE0CjU4LT4xMTo3CjU4LT42MToxMQo1OS0+MTA6MTMKNTktPjUxOjEzCjU5LT42MDo4CjYwLT4yMjo1CjYwLT42MTo2CjYwLT41OTo4CjYxLT41ODoxMQo2MS0+Mjc6MTUKNjEtPjYwOjYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGNoaWxkIGluIGN1cnJlbnRfbm9kZVtrZXldLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1088,7 +1090,7 @@
       <last-replace>\]</last-replace>
       <last-substitute encoding="base64">XF1cIA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
