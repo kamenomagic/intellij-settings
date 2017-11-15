@@ -995,7 +995,7 @@
         <text encoding="base64">ICAgICAgICBpZihjdSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1048,9 +1048,9 @@
         <entry>%s/[ /[/g</entry>
         <entry>%s/\]\ /\]/g</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>2</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
