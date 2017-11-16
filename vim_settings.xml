@@ -270,12 +270,12 @@
         <mark key="^" line="17" column="23" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1510858113168">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="77" />
-        <mark key="." line="70" column="39" />
-        <mark key="^" line="29" column="73" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab7.py" timestamp="1510863283038">
+        <mark key="'" line="96" column="12" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="75" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/music/MopidyWebSocket.java" timestamp="1509260332126">
         <mark key="'" line="36" column="26" />
@@ -743,12 +743,12 @@
         <mark key="." line="66" column="83" />
         <mark key="^" line="66" column="83" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locater.py" timestamp="1510862521502">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
-        <mark key="^" line="24" column="31" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locater.py" timestamp="1510863303918">
+        <mark key="'" line="5" column="9" />
+        <mark key="[" line="40" column="38" />
+        <mark key="]" line="40" column="41" />
+        <mark key="." line="40" column="41" />
+        <mark key="^" line="40" column="41" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" timestamp="1509427289671">
         <mark key="'" line="19" column="0" />
@@ -818,18 +818,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="21" filename="$USER_HOME$/dev/python/rosalind/leaves.py" />
-      <jump line="9" column="6" filename="$USER_HOME$/dev/python/rosalind/input.txt" />
-      <jump line="7" column="37" filename="$USER_HOME$/dev/python/rosalind/limb.py" />
-      <jump line="17" column="27" filename="$USER_HOME$/dev/python/rosalind/limb.py" />
-      <jump line="14" column="25" filename="$USER_HOME$/dev/python/rosalind/limb.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/python/rosalind/limb.py" />
-      <jump line="14" column="43" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="22" column="22" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="40" column="61" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
       <jump line="17" column="20" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
@@ -918,10 +906,22 @@
       <jump line="18" column="0" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="73" column="16" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="28" column="25" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
+      <jump line="5" column="9" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="164" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="120" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="98" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="96" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eCA9IHRmLnBsYWNlaG9sZGVyKCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8gMi4wLCBzaXplKQ==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -933,16 +933,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text encoding="base64">IC8gMi4wLCBzaXplKQ==</text>
       </register>
       <register name="/" type="4">
         <text>rotate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHggPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBbTm9uZSwgaGVpZ2h0LCB3aWR0aCwgY2hhbm5lbHNdLCBuYW1lPSd4JykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzY2lweS5taXNjLmltc2F2ZShpbWFnZV9wYXRoLCBtZXJnZSgoaW1hZ2VzICsgMS4wKSAvIDIuMCwgc2l6ZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eCA9IHRmLnBsYWNlaG9sZGVyKCkK</text>
+        <text encoding="base64">cHJpbnQgaW1hZ2VzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -968,19 +968,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ICAgIHByaW50IG5hbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZSBhcyBldAppbXBvcnQgc3lzCmltcG9ydCBvcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBsYWJlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcmludCBmaXJzdAojIHByaW50IHRleHQKIyBpID0gZmlyc3QuZmluZCgnJCcpCiMgbmV3X2luZGV4ID0gaSAtIGluZGV4CiMgcHJpbnQgbGV0dGVyCiMgcHJpbnQgZmlyc3RbbmV3X2luZGV4XQo=</text>
+        <text encoding="base64">ZGF0YSA9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgZmlyc3QuCg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1000,16 +1000,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgY2hhcmFjdGVycwo=</text>
+        <text encoding="base64">aW1wb3J0IGg1cHksIG9zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">eCA9IHRmLnBsYWNlaG9sZGVyKCkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJvdGF0ZShzdHJpbmcsIGk9MSk6CiAgICByZXR1cm4gc3RyaW5nW2k6XSArIHN0cmluZ1s6aV0KCgpkZWYgZ2V0X3JvdGF0aW9ucyhzdHJpbmcpOgogICAgcm90YXRpb25zID0gW3N0cmluZ10KICAgIGN1cnJlbnRfdGV4dCA9IHJvdGF0ZShjaGFyYWN0ZXJzKQogICAgd2hpbGUgY3VycmVudF90ZXh0IG5vdCBpbiByb3RhdGlvbnM6CiAgICAgICAgcm90YXRpb25zLmFwcGVuZChjdXJyZW50X3RleHQpCiAgICAgICAgY3VycmVudF90ZXh0ID0gcm90YXRlKGN1cnJlbnRfdGV4dCkKICAgIHJldHVybiByb3RhdGlvbnMKCgo=</text>
+        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
