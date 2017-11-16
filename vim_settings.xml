@@ -208,7 +208,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="38" column="3" />
       </file>
-      <file name="/Python Console" timestamp="1510782437182">
+      <file name="/Python Console" timestamp="1510867979427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Time4.json" timestamp="1507167366990">
@@ -503,6 +503,13 @@
         <mark key="]" line="7" column="5" />
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1510868215933">
+        <mark key="'" line="22" column="52" />
+        <mark key="[" line="42" column="74" />
+        <mark key="]" line="42" column="73" />
+        <mark key="^" line="42" column="73" />
+        <mark key="." line="42" column="73" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1507604910985">
         <mark key="'" line="19" column="0" />
@@ -819,11 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="7" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
       <jump line="7" column="17" filename="$USER_HOME$/dev/python/rosalind/suffix.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
@@ -919,10 +921,15 @@
       <jump line="41" column="16" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="25" column="12" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="29" column="8" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="27" column="38" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="22" column="52" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text>300</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -934,16 +941,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>300</text>
       </register>
       <register name="/" type="4">
         <text>rotate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzY2lweS5taXNjLmltc2F2ZShpbWFnZV9wYXRoLCBtZXJnZSgoaW1hZ2VzICsgMS4wKSAvIDIuMCwgc2l6ZSkpCg==</text>
+      <register name="0" type="4">
+        <text>image_path</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgIGJveGVzID0gW10KICAgIGUgPSBldC5wYXJzZShmaWxlX3BhdGgpLmdldHJvb3QoKQogICAgZm9yIGNoaWxkIGluIGU6CiAgICAgICAgaWYgY2hpbGQudGFnID09ICdvYmplY3QnOgogICAgICAgICAgICB0ZW1wTWF0cml4ID0gW10KICAgICAgICAgICAgZm9yIGNvb3JkIGluIGNoaWxkWzRdOgogICAgICAgICAgICAgICAgdGVtcE1hdHJpeC5hcHBlbmQoaW50KGNvb3JkLnRleHQpKQogICAgICAgICAgICBib3hlcy5hcHBlbmQodGVtcE1hdHJpeCkKICAgIHJldHVybiBib3hlcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -969,19 +976,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2Vzcy5ydW4oeCwgZmVlZF9kaWN0PXt4OiB9KQo=</text>
+        <text encoding="base64">cHJldGVuZF9vcCA9IHggKiAxMDAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB5ID0gdGYucGxhY2Vob2xkZXIodGYuZmxvYXQzMiwgW10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoc2Vzcy5ydW4oaGVsbG8pKQo=</text>
+        <text encoding="base64">ICAgIGltYWdlcyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aGVsbG8gPSB0Zi5jb25zdGFudCgnSGVsbG8sIFRlbnNvckZsb3chJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aGVsbG8gPSB0Zi5jb25zdGFudCgnSGVsbG8sIFRlbnNvckZsb3chJykKc2VzcyA9IHRmLlNlc3Npb24oKQpwcmludChzZXNzLnJ1bihoZWxsbykpCg==</text>
+        <text encoding="base64">ICAgICMgc2NpcHkubWlzYy5pbXNhdmUoJ3Rlc3RfeW8uanBnJywgaW1hZ2VzWzBdKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1001,7 +1008,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHJlc3VsdAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1010,7 +1017,7 @@
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltYWdlX3NoYXBlID0gWzI1NiwgMjU2LCAzXQoKICAgICMgeCA9IHRmLnBsYWNlaG9sZGVyKHRmLmZsb2F0MzIsIFtOb25lLCBoZWlnaHQsIHdpZHRoLCBjaGFubmVsc10sIG5hbWU9J3gnKQogICAgIyB5ID0gdGYucGxhY2Vob2xkZXIodGYuZmxvYXQzMiwgW10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1062,11 +1069,11 @@
         <entry>w;w</entry>
         <entry>j;w</entry>
         <entry>;w</entry>
-        <entry>2</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>jj;w</entry>
         <entry>noh</entry>
         <entry>wq</entry>
+        <entry>2</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
