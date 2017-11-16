@@ -643,12 +643,12 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_exister.py" timestamp="1508459091046">
+      <file name="$USER_HOME$/dev/python/fish/fish_exister.py" timestamp="1510856199615">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="6" column="13" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Project1.json" timestamp="1507074529082">
         <mark key="'" line="24" column="17" />
@@ -973,8 +973,8 @@
       <jump line="14" column="9" filename="$USER_HOME$/dev/python/rosalind/last-to-first.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -995,7 +995,7 @@
         <text encoding="base64">cHJpbnQgY2hhcmFjdGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBwcmludCBmaXJzdAojIHByaW50IHRleHQKIyBpID0gZmlyc3QuZmluZCgnJCcpCiMgbmV3X2luZGV4ID0gaSAtIGluZGV4CiMgcHJpbnQgbGV0dGVyCiMgcHJpbnQgZmlyc3RbbmV3X2luZGV4XQo=</text>
+        <text encoding="base64">bWF0cGxvdGxpYi51c2UoJ0FnZycpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1021,19 +1021,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgZmlyc3QuCg==</text>
+        <text encoding="base64">IyBwcmludCBmaXJzdAojIHByaW50IHRleHQKIyBpID0gZmlyc3QuZmluZCgnJCcpCiMgbmV3X2luZGV4ID0gaSAtIGluZGV4CiMgcHJpbnQgbGV0dGVyCiMgcHJpbnQgZmlyc3RbbmV3X2luZGV4XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgY2hhcmFjdGVycwo=</text>
+        <text encoding="base64">cHJpbnQgZmlyc3QuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgY2hhcmFjdGVycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHJvdGF0ZShzdHJpbmcsIGk9MSk6CiAgICByZXR1cm4gc3RyaW5nW2k6XSArIHN0cmluZ1s6aV0KCgpkZWYgZ2V0X3JvdGF0aW9ucyhzdHJpbmcpOgogICAgcm90YXRpb25zID0gW3N0cmluZ10KICAgIGN1cnJlbnRfdGV4dCA9IHJvdGF0ZShjaGFyYWN0ZXJzKQogICAgd2hpbGUgY3VycmVudF90ZXh0IG5vdCBpbiByb3RhdGlvbnM6CiAgICAgICAgcm90YXRpb25zLmFwcGVuZChjdXJyZW50X3RleHQpCiAgICAgICAgY3VycmVudF90ZXh0ID0gcm90YXRlKGN1cnJlbnRfdGV4dCkKICAgIHJldHVybiByb3RhdGlvbnMKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGJ1cnJvd3Nfd2hlZWxlcl9tYXRyaXgodGV4dCk6CiAgICByb3RhdGlvbnMgPSBnZXRfcm90YXRpb25zKHRleHQpCiAgICByb3RhdGlvbnMuc29ydCgpCiAgICByZXR1cm4gcm90YXRpb25zCgoK</text>
+        <text encoding="base64">ZGVmIHJvdGF0ZShzdHJpbmcsIGk9MSk6CiAgICByZXR1cm4gc3RyaW5nW2k6XSArIHN0cmluZ1s6aV0KCgpkZWYgZ2V0X3JvdGF0aW9ucyhzdHJpbmcpOgogICAgcm90YXRpb25zID0gW3N0cmluZ10KICAgIGN1cnJlbnRfdGV4dCA9IHJvdGF0ZShjaGFyYWN0ZXJzKQogICAgd2hpbGUgY3VycmVudF90ZXh0IG5vdCBpbiByb3RhdGlvbnM6CiAgICAgICAgcm90YXRpb25zLmFwcGVuZChjdXJyZW50X3RleHQpCiAgICAgICAgY3VycmVudF90ZXh0ID0gcm90YXRlKGN1cnJlbnRfdGV4dCkKICAgIHJldHVybiByb3RhdGlvbnMKCgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1053,10 +1053,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRleHQgPQo=</text>
+        <text encoding="base64">ZGVmIGJ1cnJvd3Nfd2hlZWxlcl9tYXRyaXgodGV4dCk6CiAgICByb3RhdGlvbnMgPSBnZXRfcm90YXRpb25zKHRleHQpCiAgICByb3RhdGlvbnMuc29ydCgpCiAgICByZXR1cm4gcm90YXRpb25zCgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQgPQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
