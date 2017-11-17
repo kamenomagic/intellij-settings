@@ -269,6 +269,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omertron/api-imdb/053ad65/9e6d7c28de6ba3900b1942ca2af153b952b9af89/api-imdb-053ad65.jar!/com/omertron/imdbapi/model/ImdbMovieDetails.class" timestamp="1509849714569">
         <mark key="'" line="228" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/python/fish/labels/G0017421.xml" timestamp="1510937322479" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1509427251700">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="37" column="29" />
@@ -539,12 +540,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1510935794746">
-        <mark key="'" line="6" column="27" />
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="25" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1510937852537">
+        <mark key="'" line="56" column="58" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="57" column="58" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1507604910985">
         <mark key="'" line="19" column="0" />
@@ -895,20 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
-      <jump line="3" column="38" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
-      <jump line="61" column="43" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
-      <jump line="43" column="42" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
-      <jump line="15" column="9" filename="$USER_HOME$/dev/python/rosalind/longest_repeat_substring.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/python/rosalind/longest_repeat_substring.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/python/rosalind/longest_repeat_substring.py" />
-      <jump line="52" column="14" filename="$USER_HOME$/dev/python/rosalind/longest_repeat_substring.py" />
-      <jump line="56" column="41" filename="$USER_HOME$/dev/python/rosalind/longest_repeat_substring.py" />
-      <jump line="48" column="11" filename="$USER_HOME$/dev/python/rosalind/longest_repeat_substring.py" />
-      <jump line="5" column="24" filename="$USER_HOME$/dev/python/rosalind/longest_repeat_substring.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/rosalind/shortest_uncommon_substring.py" />
       <jump line="67" column="29" filename="$USER_HOME$/dev/python/rosalind/shortest_uncommon_substring.py" />
       <jump line="58" column="11" filename="$USER_HOME$/dev/python/rosalind/shortest_uncommon_substring.py" />
       <jump line="44" column="20" filename="$USER_HOME$/dev/python/rosalind/shortest_uncommon_substring.py" />
@@ -995,10 +982,24 @@
       <jump line="104" column="4" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
       <jump line="124" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
       <jump line="6" column="27" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="49" column="9" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="57" column="21" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="32" column="32" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="34" column="37" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="54" column="19" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="63" column="71" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="36" column="24" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="65" column="19" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="66" column="58" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjaGlsZC50YWcgPT0gJ3NpemUnOgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxhYmVsCiAgICAgICAgICAgICAgICBwcmludCBpbWFnZQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1010,16 +1011,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>'size'</text>
+        <text>'test_yo.png'</text>
       </register>
       <register name="/" type="4">
-        <text>rotate</text>
+        <text>label</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CnRhYmxlID0gWycnIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSldCgpmb3IgXyBpbiByYW5nZShsZW4odGV4dCkpOgogICAgZm9yIGksIGxldHRlciBpbiBlbnVtZXJhdGUodGV4dCk6CiAgICAgICAgdGFibGVbaV0gPSBsZXR0ZXIgKyB0YWJsZVtpXQogICAgdGFibGUuc29ydCgpCg==</text>
+      <register name="0" type="4">
+        <text>height_ratio</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjaGlsZC50YWcgPT0gJ3NpemUnOgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxhYmVsCiAgICAgICAgICAgICAgICBwcmludCBpbWFnZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1045,19 +1046,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpemUgPSByb290WzVdCiAgICBwcmludCBzaXplCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKHRlc3RfZmlsZV9wYXRoKToKICAgICAgICAgICAgICAgICAgICBvcy5yZW1vdmUodGVzdF9maWxlX3BhdGgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBmaXNoX2JveCBpbiBsYWJlbDoKICAgICAgICAgICAgICAgICAgICBpbWFnZVtpbnQoZmlzaF9ib3hbMV0pXVtpbnQoZmlzaF9ib3hbMF0pXSA9IFsyNTUsIDAsIDBdCiAgICAgICAgICAgICAgICAgICAgaW1hZ2VbaW50KGZpc2hfYm94WzNdKV1baW50KGZpc2hfYm94WzJdKV0gPSBbMjU1LCAwLCAwXQogICAgICAgICAgICAgICAgICAgIHNhdmVfaW1hZ2VfYXJyYXkodGVzdF9maWxlX3BhdGgsIGltYWdlKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBjaGlsZCBpbiBldC5wYXJzZShmaWxlX3BhdGgpLmdldHJvb3QoKSBpZiBjaGlsZC50YWcgPT0gJ29iamVjdCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludChibmRib3guZmluZCgneG1heCcpLnRleHQpICogd2lkdGhfcmF0aW8sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50IHRleHQKICAgIHByaW50IHBhdHRlcm5zCiAgICBwcmludCBtYXRyaXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludChibmRib3guZmluZCgneG1pbicpLnRleHQpICogd2lkdGhfcmF0aW8sCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1077,25 +1078,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3RfZmlsZV9wYXRoID0gJ3Rlc3RfeW8ucG5nJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyEgL3Vzci9iaW4vcHl0aG9uCmltcG9ydCB0ZW5zb3JmbG93IGFzIHRmCmltcG9ydCBudW1weSBhcyBucAppbXBvcnQgc2NpcHkKZnJvbSB0cWRtIGltcG9ydCAqCmZyb20gc2tpbWFnZSBpbXBvcnQgaW8sIHRyYW5zZm9ybQppbXBvcnQgeG1sLmV0cmVlLkVsZW1lbnRUcmVlIGFzIGV0CmltcG9ydCBzeXMKaW1wb3J0IG9zCgojIFZhcmlhYmxlcwpzZXNzID0gdGYuU2Vzc2lvbigpCmltYWdlX3NoYXBlID0gWzI1NiwgMjU2LCAzXQprID0gMjAKCiMgQ29tcHV0YXRpb24gR3JhcGgKeCA9IHRmLnBsYWNlaG9sZGVyKHRmLmZsb2F0MzIsIGltYWdlX3NoYXBlLCBuYW1lPSd4JykKeSA9IHRmLnBsYWNlaG9sZGVyKHRmLmZsb2F0MzIsIFtOb25lLCA0XSwgbmFtZT0neScpCnRyYWluX3N0ZXAgPSB4CgoKZGVmIG1haW4oKToKICAgIGZvciBpbWFnZV9maWxlX25hbWUgaW4gdHFkbShvcy5saXN0ZGlyKCdpbWFnZXMnKSk6CiAgICAgICAgaW1hZ2VfbmFtZSA9IGltYWdlX2ZpbGVfbmFtZS5zcGxpdCgnLicpWzBdCiAgICAgICAgaW1hZ2VfcGF0aCA9IG9zLnBhdGguam9pbignaW1hZ2VzJywgaW1hZ2VfZmlsZV9uYW1lKQogICAgICAgIGxhYmVsX3BhdGggPSBvcy5wYXRoLmpvaW4oJ2xhYmVscycsIGltYWdlX25hbWUgKyAnLnhtbCcpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMobGFiZWxfcGF0aCk6CiAgICAgICAgICAgIHdpdGggb3BlbihpbWFnZV9wYXRoKSBhcyBpbWFnZV9maWxlOgogICAgICAgICAgICAgICAgaW1hZ2UgPSBpbWFnZV90b19hcnJheShpbWFnZV9maWxlKQogICAgICAgICAgICAgICAgbGFiZWwgPSBsb2FkX3htbChsYWJlbF9wYXRoKQogICAgICAgICAgICAgICAgc2Vzcy5ydW4odHJhaW5fc3RlcCwgZmVlZF9kaWN0PXt4OiBpbWFnZSwgeTogbGFiZWx9KQogICAgICAgICAgICAgICAgcHJpbnQgbGFiZWwKICAgICAgICAgICAgICAgIHByaW50IGltYWdlCiAgICAgICAgICAgICAgICB0ZXN0X2ZpbGVfcGF0aCA9ICd0ZXN0X3lvLnBuZycK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF3X2Nvb3JkaW5hdGVzID0gW2ludChjb29yZGluYXRlLnRleHQpIGZvciBjb29yZGluYXRlIGluIGNoaWxkLmZpbmQoJ2JuZGJveCcpXQogICAgICAgICAgICBpbm5lcl9jb29yZGluYXRlcyA9IFtdCiAgICAgICAgICAgIGZvciBpLCBjb29yZGluYXRlIGluIGVudW1lcmF0ZShyYXdfY29vcmRpbmF0ZXMpOgogICAgICAgICAgICAgICAgaW5uZXJfY29vcmRpbmF0ZXMuYXBwZW5kKGNvb3JkaW5hdGUgKiB3aWR0aF9yYXRpbyBpZiBpICUgMiA9PSAwIGVsc2UgY29vcmRpbmF0ZSAqIGhlaWdodF9yYXRpbykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rotate</last-search>
+      <last-search>label</last-search>
       <last-offset />
-      <last-pattern>rotate</last-pattern>
+      <last-pattern>label</last-pattern>
       <last-replace>\]</last-replace>
       <last-substitute encoding="base64">XF1cIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -1103,8 +1104,6 @@
     </search>
     <history>
       <history-search>
-        <entry>port</entry>
-        <entry>cellIndex</entry>
         <entry>wrap</entry>
         <entry>SpreadsheetRe</entry>
         <entry>getPartsMarkup</entry>
@@ -1123,6 +1122,8 @@
         <entry>get</entry>
         <entry>CTCC</entry>
         <entry>rotate</entry>
+        <entry>width</entry>
+        <entry>label</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -1141,9 +1142,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>jj;w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>2</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
