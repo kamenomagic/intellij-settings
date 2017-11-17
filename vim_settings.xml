@@ -522,10 +522,7 @@
         <mark key="." line="26" column="61" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/input.txt" timestamp="1510880982031">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/voice/Voice.java" timestamp="1510107776277">
         <mark key="'" line="46" column="14" />
@@ -562,12 +559,12 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510881165172">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
+      <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510882170837">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+        <mark key="^" line="16" column="9" />
       </file>
       <file name="$USER_HOME$/dev/python/deep learning/lab4.py" timestamp="1507331362479">
         <mark key="'" line="48" column="0" />
@@ -942,7 +939,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHRleHQKICAgIHByaW50IHBhdHRlcm5zCiAgICBwcmludCBtYXRyaXgK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -954,7 +951,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>table</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>rotate</text>
@@ -963,7 +960,7 @@
         <text encoding="base64">CnRhYmxlID0gWycnIGZvciBpIGluIHJhbmdlKGxlbih0ZXh0KSldCgpmb3IgXyBpbiByYW5nZShsZW4odGV4dCkpOgogICAgZm9yIGksIGxldHRlciBpbiBlbnVtZXJhdGUodGV4dCk6CiAgICAgICAgdGFibGVbaV0gPSBsZXR0ZXIgKyB0YWJsZVtpXQogICAgdGFibGUuc29ydCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHRleHQKICAgIHByaW50IHBhdHRlcm5zCiAgICBwcmludCBtYXRyaXgK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -995,13 +992,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1024,13 +1021,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1RBVFRUR0dUR0NHQUFDQ1RBQ0dUQUdHQUFBQ0dHQ0dUR0NHQ0dBQVRUR0NBQUFUR0NUQUFUQUdDQ0FHQ0FBQ1RBR0FDQUNBQVRUQUFUQ1RHR0NUVEdHQ0NBQ0dDVEFDR1RDQ0dUR0NBVFRBR0NBVEFHQVRUR0FBVFRBQ0FHVENDQVRDQUNUVEdUQ0dDR0NHVFRDQUdBVEFHQ0dBQ0NUQ0FBVEdDQ0NUR1RUVFRBQ0FDQ0NDQVRDQ0NBR0dHQ1RUQUNBR0NUQVRDQ1RBR1RBR0NBR0FBVENBQUdDR0FUR0NBVENDQVRBQVRHQ0dBVEFBR0NBQVRHR0NDQ0NUQ0NBQUFUR1RUQ1RUR0dUVEdUQ1RUVEFHQ0NUR0FBVFRBVEdDQ1RBR0FUQUNDR1RHVFRBQ0dUQUFBQUFHQ0FDVFRUR0NDQ0dUR0NUVEFHQ0dBQUFBVFRHVENDR0FBVEdHQ0dUR1RBVEFBQUdDQ0dBVEFHQUdUQUdBQUdDQ0dUQ0dUVEFUQUNUQ0FUR1RUVEFUQUdBQUFUR0NBR1RUVEdDVFRHVENDQUNUQUdBR0dUQUNDQ0FDR0NBQ0dHVFRHR1RBR0NHQUdDQUFHQ0FUR0NDVFRHQ1RBQ1RHR0dHVEFBR0FUQUNHQVRBQ0NUQUFUQUFHR1RUVFRHQ1RUQ0dHQ0NHVEFHQUdHVEdBR1RUVEdUVEFHR0NUVEFBQ1RUQVRUQUFDQ0NDR0dUQ0dUR1RHQ0dDQVRBQVRDQ1RBVENHQUNBQVRDR0dUR0NUQUFUQ0dUVENUQ0dHR1RDQ1RDQUNUQ0NBR0NBVENDR0NDQUFUQVRUVENUVFRBQ0dBQVRHQ0FUQ0dDQ1RUR0FUR0dUVFRBQUdUQ0NBQ0dHR0FDQ1RUQUFHQUdBQ0NHR0NDVEFDQ0NBVENDVEdHQ0dUVEFBQ0FDVEFDQ0FUVFRBVEFUR0dDR0dBR0dUR0FUQUdBQ1RUVEFHR0dDQUFDVEdBVEFDVFRHQ0NDQUFBVEdBQUdUQ0dBQUNHR1RBQUdDQ0NDR0NUVFRUQ0FUQUdUQUdDQ0dHR1RHVFRUQ0NUQUdBVEdHVENDR0dDQ1RHVFRBR0NUVENBR1RBQ0FBQ0FDR0FHQ0NHVEdBR0NUR0NUQUNHVEdUVEdDQ0dBQ1RBVEdDQUdHR1RDR0dHQ0NUVEdDQ0FHQ0dHVEFBQ1RDVEFBQUdUQ0dUVENBQUNDR0NDQUFHQUNDR1RHR0EkCjUzNwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmFuc3dlciA9IFtzdHJpbmdbLTFdIGZvciBzdHJpbmcgaW4gcm90YXRpb25zXQpwcmludCAnJy5qb2luKGFuc3dlcikK</text>
+        <text encoding="base64">Q1RBVFRUR0dUR0NHQUFDQ1RBQ0dUQUdHQUFBQ0dHQ0dUR0NHQ0dBQVRUR0NBQUFUR0NUQUFUQUdDQ0FHQ0FBQ1RBR0FDQUNBQVRUQUFUQ1RHR0NUVEdHQ0NBQ0dDVEFDR1RDQ0dUR0NBVFRBR0NBVEFHQVRUR0FBVFRBQ0FHVENDQVRDQUNUVEdUQ0dDR0NHVFRDQUdBVEFHQ0dBQ0NUQ0FBVEdDQ0NUR1RUVFRBQ0FDQ0NDQVRDQ0NBR0dHQ1RUQUNBR0NUQVRDQ1RBR1RBR0NBR0FBVENBQUdDR0FUR0NBVENDQVRBQVRHQ0dBVEFBR0NBQVRHR0NDQ0NUQ0NBQUFUR1RUQ1RUR0dUVEdUQ1RUVEFHQ0NUR0FBVFRBVEdDQ1RBR0FUQUNDR1RHVFRBQ0dUQUFBQUFHQ0FDVFRUR0NDQ0dUR0NUVEFHQ0dBQUFBVFRHVENDR0FBVEdHQ0dUR1RBVEFBQUdDQ0dBVEFHQUdUQUdBQUdDQ0dUQ0dUVEFUQUNUQ0FUR1RUVEFUQUdBQUFUR0NBR1RUVEdDVFRHVENDQUNUQUdBR0dUQUNDQ0FDR0NBQ0dHVFRHR1RBR0NHQUdDQUFHQ0FUR0NDVFRHQ1RBQ1RHR0dHVEFBR0FUQUNHQVRBQ0NUQUFUQUFHR1RUVFRHQ1RUQ0dHQ0NHVEFHQUdHVEdBR1RUVEdUVEFHR0NUVEFBQ1RUQVRUQUFDQ0NDR0dUQ0dUR1RHQ0dDQVRBQVRDQ1RBVENHQUNBQVRDR0dUR0NUQUFUQ0dUVENUQ0dHR1RDQ1RDQUNUQ0NBR0NBVENDR0NDQUFUQVRUVENUVFRBQ0dBQVRHQ0FUQ0dDQ1RUR0FUR0dUVFRBQUdUQ0NBQ0dHR0FDQ1RUQUFHQUdBQ0NHR0NDVEFDQ0NBVENDVEdHQ0dUVEFBQ0FDVEFDQ0FUVFRBVEFUR0dDR0dBR0dUR0FUQUdBQ1RUVEFHR0dDQUFDVEdBVEFDVFRHQ0NDQUFBVEdBQUdUQ0dBQUNHR1RBQUdDQ0NDR0NUVFRUQ0FUQUdUQUdDQ0dHR1RHVFRUQ0NUQUdBVEdHVENDR0dDQ1RHVFRBR0NUVENBR1RBQ0FBQ0FDR0FHQ0NHVEdBR0NUR0NUQUNHVEdUVEdDQ0dBQ1RBVEdDQUdHR1RDR0dHQ0NUVEdDQ0FHQ0dHVEFBQ1RDVEFBQUdUQ0dUVENBQUNDR0NDQUFHQUNDR1RHR0EkCjUzNwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
