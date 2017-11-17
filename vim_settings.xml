@@ -507,8 +507,8 @@
         <mark key="." line="7" column="6" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1510868959893">
-        <mark key="'" line="22" column="52" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1510934738408">
+        <mark key="'" line="29" column="32" />
         <mark key="[" line="34" column="78" />
         <mark key="]" line="34" column="93" />
         <mark key="^" line="34" column="93" />
@@ -836,7 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="18" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
       <jump line="36" column="22" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/python/rosalind/longest_repeat.py" />
@@ -936,6 +935,7 @@
       <jump line="25" column="5" filename="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" />
       <jump line="4" column="60" filename="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" />
+      <jump line="29" column="32" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
