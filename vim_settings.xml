@@ -23,8 +23,8 @@
       <file name="/a.dummy" timestamp="1510864766659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510536933242">
-        <mark key="'" line="22" column="22" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510960348366">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="52" column="24" />
         <mark key="]" line="52" column="24" />
         <mark key="^" line="52" column="37" />
@@ -911,8 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="35" filename="$USER_HOME$/dev/python/rosalind/last-to-first.py" />
-      <jump line="4" column="46" filename="$USER_HOME$/dev/python/rosalind/last-to-first.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/rosalind/burrows-wheeler-inverse.py" />
       <jump line="20" column="16" filename="$USER_HOME$/dev/python/rosalind/last-to-first.py" />
       <jump line="16" column="21" filename="$USER_HOME$/dev/python/rosalind/last-to-first.py" />
@@ -1011,6 +1009,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="7" column="9" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="42" column="16" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="31" column="40" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
