@@ -23,12 +23,12 @@
       <file name="/a.dummy" timestamp="1510864766659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510971814828">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="78" column="26" />
-        <mark key="]" line="78" column="26" />
-        <mark key="." line="78" column="26" />
-        <mark key="^" line="80" column="14" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510972830990">
+        <mark key="'" line="49" column="26" />
+        <mark key="[" line="83" column="70" />
+        <mark key="]" line="83" column="74" />
+        <mark key="." line="83" column="74" />
+        <mark key="^" line="83" column="74" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Machine.java" timestamp="1509326063758">
         <mark key="'" line="41" column="14" />
@@ -914,7 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="98" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="96" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
@@ -1014,10 +1013,11 @@
       <jump line="55" column="15" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="78" column="27" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="49" column="26" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1029,7 +1029,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
