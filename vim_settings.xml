@@ -23,12 +23,12 @@
       <file name="/a.dummy" timestamp="1510864766659">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510969878777">
-        <mark key="'" line="76" column="30" />
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="14" />
-        <mark key="." line="50" column="14" />
-        <mark key="^" line="50" column="14" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510970975108">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="49" column="59" />
+        <mark key="." line="49" column="59" />
+        <mark key="^" line="49" column="59" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Machine.java" timestamp="1509326063758">
         <mark key="'" line="41" column="14" />
@@ -914,9 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="112" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="158" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="28" column="25" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="5" column="9" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
@@ -1014,10 +1011,13 @@
       <jump line="74" column="4" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="73" column="30" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="32" column="2" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29udGVudF9sb3NzID0gLjUgKiB0Zi5yZWR1Y2Vfc3VtKChjb250ZW50X2FjdHMgLSBjb250ZW50X2xheWVycykqKjIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1029,34 +1029,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>(content_acts - content_layers)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29udGVudF9sb3NzID0gLjUgKiB0Zi5yZWR1Y2Vfc3VtKChjb250ZW50X2FjdHMgLSBjb250ZW50X2xheWVycykqKjIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHNlc3MucnVuKGNvbnRlbnRfbGF5ZXJzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc2F2ZSBpbWFnZSBieSBlcG9jaCBuYW1lCg==</text>
+        <text encoding="base64">c3ViID0gdGYuc3VidHJhY3QoY29udGVudF9hY3RzLCBjb250ZW50X2xheWVycykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29udGVudF9sb3NzID0gLjUgKiB0Zi5yZWR1Y2Vfc3VtKHN1YioqMikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgJ0NsZWFyIG91dHB1dCBmb2xkZXI/Jwo=</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGNvbnRlbnRfYWN0cwogICAgcHJpbnQgc2Vzcy5ydW4oY29udGVudF9sYXllcnMpCiAgICBwcmludCBzZXNzLnJ1bihzdWIpCiAgICAjIHByaW50IHNlc3MucnVuKHNxdWFyZSkKICAgICMgcHJpbnQgc2Vzcy5ydW4oY29udGVudF9sb3NzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xlYXIgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHNlc3MucnVuKHN1Yikuc2hhcGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIGxheWVyIGluIHN0eWxlX2xheWVyczoKICAgIG0gPSBpbnQobGF5ZXIuc2hhcGVbMV0pCiAgICBuID0gaW50KGxheWVyLnNoYXBlWzJdKQogICAgYyA9IGludChsYXllci5zaGFwZVszXSkKICAgIGNvZWZmaWNpZW50cy5hcHBlbmQoMS4wIC8gNC4wICogKGMqKjIpICogKChuKm0pKioyKSkKICAgIHN1Yl9ncmFtID0gbnAucmVzaGFwZShsYXllciwgW20gKiBuLCBjXSkKICAgIHZnZ19ncmFtcy5hcHBlbmQobnAubWF0bXVsKHN1Yl9ncmFtLCBzdWJfZ3JhbSkpCg==</text>
+        <text encoding="base64">c3F1YXJlID0gCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1076,16 +1076,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmRlZiBnZXRfZ3JhbShsYXllcik6CiAgICBtID0gbGF5ZXIuZ2V0X3NoYXBlKClbMV0KICAgIG4gPSBsYXllci5nZXRfc2hhcGUoKVsyXQogICAgYyA9IGxheWVyLmdldF9zaGFwZSgpWzNdCiAgICBzdWJfZ3JhbSA9IHRmLnJlc2hhcGUobGF5ZXIsIFttICogbiwgY10pCiAgICByZXR1cm4gdGYubWF0bXVsKHN1Yl9ncmFtLCBzdWJfZ3JhbSkKCg==</text>
+        <text encoding="base64">cHJpbnQgY29udGVudF9hY3RzLnNoYXBlCnByaW50IGNvbnRlbnRfbGF5ZXJzLmdldF9zaGFwZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgY29udGVudF9hY3RzCiAgICAjIHByaW50IHNlc3MucnVuKGNvbnRlbnRfbGF5ZXJzKQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIAo=</text>
+        <text encoding="base64">ICAgICMgc2F2ZSBpbWFnZSBieSBlcG9jaCBuYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
