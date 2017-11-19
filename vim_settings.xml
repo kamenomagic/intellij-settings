@@ -76,7 +76,8 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1511082587977">
+      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1511088850147">
+        <mark key="'" line="23" column="6" />
         <mark key="[" line="25" column="112" />
         <mark key="]" line="25" column="112" />
         <mark key="^" line="25" column="112" />
@@ -186,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="96" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="15" column="5" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
@@ -286,6 +286,7 @@
       <jump line="78" column="27" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
       <jump line="49" column="26" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
+      <jump line="23" column="6" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
