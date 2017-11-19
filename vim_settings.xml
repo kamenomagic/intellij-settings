@@ -342,13 +342,6 @@
         <mark key="." line="141" column="27" />
         <mark key="^" line="141" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1509869770646">
-        <mark key="'" line="24" column="18" />
-        <mark key="[" line="24" column="75" />
-        <mark key="]" line="24" column="79" />
-        <mark key="." line="24" column="79" />
-        <mark key="^" line="24" column="79" />
-      </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/eyes/Eyes.java" timestamp="1509945463765">
         <mark key="'" line="188" column="40" />
         <mark key="[" line="193" column="41" />
@@ -664,10 +657,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/MediaStatus.java" timestamp="1509255172608">
         <mark key="'" line="58" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" timestamp="1509948189350">
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/resources/application.properties" timestamp="1511078071038">
         <mark key="'" line="21" column="29" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="12" />
+        <mark key="[" line="45" column="23" />
+        <mark key="]" line="45" column="30" />
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="12" />
       </file>
@@ -1017,7 +1010,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>/spaceDashboard.html</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1029,13 +1022,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>/spaceDashboard.html</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcmNoCg==</text>
+      <register name="0" type="4">
+        <text>DECB0FFD</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB0cWRtIGltcG9ydCAqCg==</text>
