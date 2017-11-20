@@ -105,11 +105,12 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1511195041257">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="62" column="29" />
-        <mark key="]" line="62" column="29" />
-        <mark key="." line="62" column="29" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1511195713654">
+        <mark key="'" line="54" column="36" />
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" timestamp="1511154920660">
         <mark key="[" line="25" column="22" />
@@ -294,17 +295,17 @@
       <jump line="70" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="55" column="8" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="46" column="16" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="39" column="28" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="47" column="16" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="91" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="28" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="54" column="36" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>box[1]:</text>
+        <text>128</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -316,34 +317,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>box[1]:</text>
+        <text>128</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVtib3hbMF06Ym94WzJdXVtib3hbMV06Ym94WzNdXSA9IHJlZAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgayBpbiByYW5nZShib3hbMF0sIGJveFsyXSwgMSk6CiAgICAgICAgICAgIGltYWdlW2tdW2JveFsxXV0gPSByZWQKICAgICAgICAgICAgaW1hZ2Vba11bYm94WzNdXSA9IHJlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZVtib3hbMF06Ym94WzJdXVtdCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltYWdlW2JveFswXTpib3hbMl1dW2JveFsxXV0gPSByZWQKICAgICAgICAjIGltYWdlW2JveFswXTpib3hbMl1dW2JveFszXV0gPSByZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZmMxLmdldF9zaGFwZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoYm94WzBdLCBib3hbMl0sIDEpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChib3hlc1tpOjRdWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZVtib3hbMF06Ym94WzJdXVtib3hbMV1dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChib3hlcy5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChib3hbMF0sIGJveFsyXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBib3hlc1tpOjRdCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZS5zaGFwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChib3hlcy5zaGFwZSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -363,16 +364,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZVtib3hbMF06Ym94WzJdXVtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAgICAgICAgICAgICBsb3NzX3ZhbHVlLCBfID0gc2Vzcy5ydW4oW2xvc3MsIHRyYWluX3N0ZXBdLCBmZWVkX2RpY3Q9e3g6IFtpbWFnZV0sIHlfYm94ZXM6IGxhYmVsX2JveGVzfSkKICAgICAgICAgICAgICAgIHByaW50KGxvc3NfdmFsdWUpCj09PT09PT0K</text>
+        <text encoding="base64">cHJpbnQoZmMxLmdldF9zaGFwZSgpKQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChib3hlc1tpOjRdWzBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
