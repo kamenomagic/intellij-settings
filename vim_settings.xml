@@ -110,12 +110,11 @@
         <mark key="^" line="47" column="83" />
         <mark key="." line="47" column="83" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" timestamp="1511150773703">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="80" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" timestamp="1511154920660">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Gpu.java" timestamp="1511094451496">
         <mark key="[" line="22" column="0" />
@@ -201,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="5" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
       <jump line="41" column="16" filename="$USER_HOME$/dev/python/fish/fish_locater.py" />
@@ -301,10 +298,12 @@
       <jump line="23" column="6" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
       <jump line="21" column="24" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" />
+      <jump line="38" column="23" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHMuYXBwZW5kKCJ8Iik7Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBvdXRwdXRTdHJpbmcgPSA7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -316,34 +315,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>outputString</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHMuYXBwZW5kKCJ8Iik7Cg==</text>
+      <register name="0" type="4">
+        <text>command_Script</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGF0cy50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBvdXRwdXRTdHJpbmcgPSA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGNvbW1hbmQpOwogICAgbG9nLmluZm8ob3V0cHV0U3RyaW5nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjxjb2RlPiIpOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIgb3V0cHV0ID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlICgob3V0cHV0U3RyaW5nICkgIT0gbnVsbCkgewogICAgICBvdXRwdXQuYXBwZW5kKG91dHB1dFN0cmluZyArICJcbiIpOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRXhjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0cy50b1N0cmluZygpOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -363,16 +362,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuamV6aHVtYmxlOmphdmFzeXNtb246NGNhZWY3NycgLy8gY3B1IG1vbml0b3IK</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN5c3RlbS5jcHVGcmVxdWVuY3lJbkh6KCkK</text>
+        <text encoding="base64">ICAgIG91dHB1dC5hcHBlbmQoIjxjb2RlPiIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBKYXZhU3lzTW9uIHN5c3RlbSA9IG5ldyBKYXZhU3lzTW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
