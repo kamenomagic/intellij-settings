@@ -57,8 +57,8 @@
         <mark key="]" line="29" column="44" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab5.py" timestamp="1511341072344">
-        <mark key="'" line="35" column="8" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab5.py" timestamp="1511347063610">
+        <mark key="'" line="10" column="6" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="47" />
       </file>
@@ -132,6 +132,9 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="28" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/python/notebooks/layers.py" timestamp="1511347068793">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omertron/api-imdb/053ad65/9e6d7c28de6ba3900b1942ca2af153b952b9af89/api-imdb-053ad65.jar!/com/omertron/imdbapi/model/ImdbMovieDetails.class" timestamp="1509849714569">
         <mark key="'" line="228" column="2" />
@@ -213,12 +216,12 @@
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/remote_sources/1398359741/-1227933812/tensorflow/python/ops/rnn_cell_impl.py" timestamp="1510283876844">
         <mark key="'" line="149" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511346067922">
-        <mark key="'" line="42" column="29" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="48" column="68" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511347445884">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Disk.java" timestamp="1508549210550">
         <mark key="'" line="64" column="0" />
@@ -231,15 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="48" column="22" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="63" column="12" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="55" column="15" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="78" column="27" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="49" column="26" filename="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" />
-      <jump line="23" column="6" filename="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" />
       <jump line="21" column="24" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" />
       <jump line="25" column="8" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" />
@@ -326,15 +320,24 @@
       <jump line="17" column="32" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/python/notebooks/lab5.py" />
       <jump line="35" column="8" filename="$USER_HOME$/dev/python/notebooks/lab5.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="23" column="19" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
-      <jump line="29" column="14" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="32" column="8" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="39" column="29" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="22" column="33" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="52" column="23" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="53" column="100" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="55" column="73" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="27" column="23" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/python/notebooks/lab5.py" />
+      <jump line="9" column="36" filename="$USER_HOME$/dev/python/notebooks/lab5.py" />
+      <jump line="10" column="6" filename="$USER_HOME$/dev/python/notebooks/lab5.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/layers.py" />
+      <jump line="29" column="28" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICB4X2JhdGNoID0gW2xvYWRfaW1hZ2UoZ2V0X2ltYWdlX3VybHMocm93LCAxMClbMF0pIGZvciByb3cgaW4gcm93c10KICAgIHlfYmF0Y2ggPSBbc2NpZW50aWZpY19uYW1lcy5pbmRleChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpIGZvciByb3cgaW4gcm93c10K</text>
+      <register name="&quot;" type="4">
+        <text>oftmax</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -346,34 +349,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>oftmax</text>
       </register>
       <register name="/" type="4">
-        <text>2000</text>
+        <text>fc</text>
       </register>
       <register name="0" type="4">
-        <text>get_image_urls(row, 10)</text>
+        <text>{x: x_batch, y: y_batch}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB4X2JhdGNoID0gW2xvYWRfaW1hZ2UoZ2V0X2ltYWdlX3VybHMocm93LCAxMClbMF0pIGZvciByb3cgaW4gcm93c10KICAgIHlfYmF0Y2ggPSBbc2NpZW50aWZpY19uYW1lcy5pbmRleChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpIGZvciByb3cgaW4gcm93c10K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzZXNzLnJ1bihkZW5zZTAsIHt4OiB4X2JhdGNoLCB5OiB5X2JhdGNofSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNhdmVfaW1hZ2VfYXJyYXkoJ3Rlc3QucG5nJywgeF9iYXRjaFswXSkK</text>
+        <text encoding="base64">cHJpbnQgZGVuc2UwLmdldF9zaGFwZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IHJvd1snQ29tbW9uIE5hbWUnXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwcmVkaWN0aW9uWzBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvdyA9IGRhdGFbJ3R1cnRsZXMnXVsxMDBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcHJlZGljdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGltYWdlcwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiTG9hZGVkIGltYWdlIGZvciB7fSIuZm9ybWF0KGdldF9zY2llbnRpZmljX25hbWUocm93KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBmbGF0dGVuZWQgPSB0Zi5sYXllcnMuZmxhdHRlbihjb252MSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiTG9hZGVkIGltYWdlIGZvciB7fSIuZm9ybWF0KGdldF9zY2llbnRpZmljX25hbWUocm93KSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -393,25 +396,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBkZW5zZTAgPSB0Zi5sYXllcnMuZGVuc2UoZmxhdHRlbmVkLCBudW1iZXJfb2ZfY2xhc3NlcykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiTG9hZGluZyB1cmxzIGZvciB7fSIuZm9ybWF0KGdldF9zY2llbnRpZmljX25hbWUocm93KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNtYWxscwo=</text>
+        <text encoding="base64">ID0gMQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IGltYWdlcwo=</text>
+        <text encoding="base64">Tgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>2000</last-search>
+      <last-search>fc</last-search>
       <last-offset />
-      <last-pattern>2000</last-pattern>
+      <last-pattern>fc</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -419,8 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>CTCC</entry>
         <entry>rotate</entry>
         <entry>width</entry>
         <entry>label</entry>
@@ -439,6 +440,8 @@
         <entry>&quot;turtle&quot;</entry>
         <entry>&quot;snake&quot;</entry>
         <entry>2000</entry>
+        <entry>3</entry>
+        <entry>fc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/find_euler_circuit/cycle/g</entry>
@@ -492,6 +495,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
