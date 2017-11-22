@@ -44,10 +44,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocodeResponse.java" timestamp="1509944178793">
         <mark key="'" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1511289068226">
-        <mark key="'" line="2" column="7" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1511336625057">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="83" column="39" />
         <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/machine/Cpu.java" timestamp="1511154920660">
@@ -113,7 +113,7 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1511288821044">
+      <file name="/Python Console" timestamp="1511335687422">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab4.py" timestamp="1510941060482">
@@ -132,6 +132,13 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" timestamp="1509335470327">
         <mark key="'" line="89" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" timestamp="1511334534956">
+        <mark key="'" line="1723" column="25" />
+        <mark key="[" line="1705" column="67" />
+        <mark key="]" line="1705" column="73" />
+        <mark key="." line="1705" column="73" />
+        <mark key="^" line="1705" column="73" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" timestamp="1511082668549">
         <mark key="'" line="458" column="25" />
       </file>
@@ -140,6 +147,12 @@
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/application/Call.java" timestamp="1509260792475">
         <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" timestamp="1511337146898">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1507614204178">
         <mark key="[" line="0" column="0" />
@@ -198,36 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="60" filename="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" />
-      <jump line="29" column="32" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="27" column="46" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="0" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="1658" column="4" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="1" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="42" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="62" column="4" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="82" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="104" column="4" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="124" column="0" filename="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" />
-      <jump line="6" column="27" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="34" column="37" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="65" column="19" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="66" column="58" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="39" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="63" column="58" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="21" column="67" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="119" column="58" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="108" column="58" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="100" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="79" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="18" column="31" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="61" column="32" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -293,15 +276,45 @@
       <jump line="23" column="54" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="30" column="55" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="47" column="76" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="58" column="38" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="19" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="52" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="53" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="2" column="7" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="6" column="16" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="12" column="27" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="1705" column="74" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="1760" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="1763" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="1061" column="39" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="332" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="1151" column="6" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="1723" column="25" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
+      <jump line="15" column="11" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="24" column="28" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="11" column="33" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="20" column="11" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="27" column="5" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="25" column="18" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="30" column="16" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="41" column="6" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="64" column="12" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="16" column="4" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="23" column="24" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="8" column="25" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://www.google.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IFt0dXJ0bGVbJ0NvbW1vbiBOYW1lJ10gZm9yIHR1cnRsZSBpbiBkYXRhWyd0dXJ0bGVzJ11dCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -313,34 +326,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.google.com</text>
+        <text>turtle</text>
       </register>
       <register name="/" type="4">
-        <text>k\ \*\ 4</text>
+        <text>&quot;snake&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydCA9IG1pbihib3hbMF0sIGJveFsyXSkKICAgICAgICBlbmQgPSBtYXgoYm94WzBdLCBib3hbMl0pCg==</text>
+      <register name="0" type="4">
+        <text>current_turtle</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gY29weS5kZQo=</text>
+        <text encoding="base64">ICAgIHByaW50IFt0dXJ0bGVbJ0NvbW1vbiBOYW1lJ10gZm9yIHR1cnRsZSBpbiBkYXRhWyd0dXJ0bGVzJ11dCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIGZvciB0dXJ0bGUgaW4gZGF0YVsnJ10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBucC5jCg==</text>
+        <text encoding="base64">ICAgIHByaW50IFt0dXJ0bGVbJ0NvbW1vbiBOYW1lJ10gZm9yIHR1cnRsZSBpbiBkYXRhWyd0dXJ0bGVzJ11dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSBjb29yZGluYXRlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29vcmRpbmF0ZSA9IGJveFtqXQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB0dXJ0bGVbJ0NvbW1vbiBOYW1lJ10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgZmMxLmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">ICAgIHVybCA9IAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -360,39 +373,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGJveGVzX3ZhbHVlLnNoYXBlCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGltYWdlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgIHByaW50IHVybAogICAgcHJpbnQgaW8uaW1yZWFkKHVybCkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxvc3NfdmFsdWUpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpbWFnZSBpbiBCZWF1dGlmdWxTb3VwKHJlc3BvbnNlLnRleHQsICdodG1sLnBhcnNlcicpLmZpbmRfYWxsKCdpbWcnKToKICAgICAgICBwcmludCBpbWFnZVsnc3JjJ10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>k\ \*\ 4</last-search>
+      <last-search>&quot;snake&quot;</last-search>
       <last-offset />
-      <last-pattern>k\ \*\ 4</last-pattern>
-      <last-replace>\]</last-replace>
-      <last-substitute encoding="base64">XF1cIA==</last-substitute>
+      <last-pattern>&quot;snake&quot;</last-pattern>
+      <last-replace>&quot;snakes&quot;</last-replace>
+      <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eyes</entry>
-        <entry>interval</entry>
-        <entry>loadLog</entry>
-        <entry>Log</entry>
-        <entry>tail</entry>
-        <entry>background</entry>
-        <entry>image</entry>
         <entry>source</entry>
         <entry>get</entry>
         <entry>CTCC</entry>
@@ -406,14 +412,15 @@
         <entry>print</entry>
         <entry>k * 4</entry>
         <entry>k\ \*\ 4</entry>
+        <entry>Ornate Tree</entry>
+        <entry>&quot;lizard&quot;</entry>
+        <entry>&quot;frog&quot;</entry>
+        <entry>&quot;salamander&quot;</entry>
+        <entry>&quot;crocodilian&quot;</entry>
+        <entry>&quot;turtle&quot;</entry>
+        <entry>&quot;snake&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>kk;w</entry>
-        <entry>vs lab4.py</entry>
-        <entry>;q</entry>
-        <entry>%s/assetTypeId/projectId/g</entry>
-        <entry>;wq</entry>
-        <entry>.w</entry>
         <entry>%s/find_euler_circuit/cycle/g</entry>
         <entry encoding="base64">JzwsJz4lcy90cmFpbi90ZXN0L2c=</entry>
         <entry>w;w</entry>
@@ -421,12 +428,18 @@
         <entry>;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>jj;w</entry>
-        <entry>2</entry>
         <entry>s</entry>
         <entry>a</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
+        <entry>%s/&quot;lizard&quot;/&quot;lizards&quot;/g</entry>
+        <entry>%s/&quot;frog&quot;/&quot;frogs&quot;/g</entry>
+        <entry>%s/&quot;salamander&quot;/&quot;salamanders&quot;/g</entry>
+        <entry>%s/&quot;crocodilian&quot;/&quot;crocodilians&quot;/g</entry>
+        <entry>%s/&quot;turtle&quot;/&quot;turtles&quot;/g</entry>
+        <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
+        <entry>wq</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
