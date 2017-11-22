@@ -213,12 +213,12 @@
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/remote_sources/1398359741/-1227933812/tensorflow/python/ops/rnn_cell_impl.py" timestamp="1510283876844">
         <mark key="'" line="149" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511345212967">
-        <mark key="'" line="38" column="29" />
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="25" column="33" />
-        <mark key="^" line="25" column="33" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511346067922">
+        <mark key="'" line="42" column="29" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="68" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Disk.java" timestamp="1508549210550">
         <mark key="'" line="64" column="0" />
@@ -334,7 +334,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IGltYWdlcwo=</text>
+        <text encoding="base64">CiAgICB4X2JhdGNoID0gW2xvYWRfaW1hZ2UoZ2V0X2ltYWdlX3VybHMocm93LCAxMClbMF0pIGZvciByb3cgaW4gcm93c10KICAgIHlfYmF0Y2ggPSBbc2NpZW50aWZpY19uYW1lcy5pbmRleChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpIGZvciByb3cgaW4gcm93c10K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -346,34 +346,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>2000</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29udjEgPSB0Zi5sYXllcnMuY29udjJkKGNvbnYwLCAzMiwgMywgc3RyaWRlcz0yLCBhY3RpdmF0aW9uPXRmLm5uLnJlbHUpCg==</text>
+      <register name="0" type="4">
+        <text>get_image_urls(row, 10)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGltYWdlcwo=</text>
+        <text encoding="base64">CiAgICB4X2JhdGNoID0gW2xvYWRfaW1hZ2UoZ2V0X2ltYWdlX3VybHMocm93LCAxMClbMF0pIGZvciByb3cgaW4gcm93c10KICAgIHlfYmF0Y2ggPSBbc2NpZW50aWZpY19uYW1lcy5pbmRleChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpIGZvciByb3cgaW4gcm93c10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmbGF0dGVuZWQgPSB0Zi5sYXllcnMuZmxhdHRlbihjb252MSkK</text>
+        <text encoding="base64">ICAgIHNhdmVfaW1hZ2VfYXJyYXkoJ3Rlc3QucG5nJywgeF9iYXRjaFswXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkZW5zZTAgPSB0Zi5sYXllcnMuZGVuc2UoZmxhdHRlbmVkLCBudW1iZXJfb2ZfY2xhc3NlcykK</text>
+        <text encoding="base64">ICAgIHByaW50IHJvd1snQ29tbW9uIE5hbWUnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNtYWxscwo=</text>
+        <text encoding="base64">ICAgIHJvdyA9IGRhdGFbJ3R1cnRsZXMnXVsxMDBdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50IGltYWdlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">IyBmbGF0dGVuZWQgPSB0Zi5sYXllcnMuZmxhdHRlbihjb252MSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -393,16 +393,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ywo=</text>
+        <text encoding="base64">IyBkZW5zZTAgPSB0Zi5sYXllcnMuZGVuc2UoZmxhdHRlbmVkLCBudW1iZXJfb2ZfY2xhc3NlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHNtYWxscwo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmxhdHRlbmVkID0gdGYuY29udHJpYi5sYXllcnMuZmxhdHRlbihjb252MSkK</text>
+        <text encoding="base64">ICAgIHByaW50IGltYWdlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
