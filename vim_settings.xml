@@ -163,12 +163,12 @@
       <file name="/code.py" timestamp="1507958683874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1511088850147">
+      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1511328456799">
         <mark key="'" line="23" column="6" />
-        <mark key="[" line="25" column="112" />
-        <mark key="]" line="25" column="112" />
+        <mark key="[" line="25" column="74" />
+        <mark key="]" line="25" column="74" />
         <mark key="^" line="25" column="112" />
-        <mark key="." line="25" column="112" />
+        <mark key="." line="25" column="74" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-inverse.py" timestamp="1510881119078">
         <mark key="'" line="5" column="0" />
@@ -300,8 +300,8 @@
       <jump line="2" column="7" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gY29weS5kZQo=</text>
+      <register name="&quot;" type="4">
+        <text>https://www.google.com</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -313,7 +313,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>https://www.google.com</text>
       </register>
       <register name="/" type="4">
         <text>k\ \*\ 4</text>
