@@ -136,6 +136,13 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="28" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1511407370594">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="47" column="14" />
+        <mark key="." line="47" column="14" />
+        <mark key="^" line="47" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/python/notebooks/layers.py" timestamp="1511347068793">
         <mark key="'" line="0" column="0" />
       </file>
@@ -220,8 +227,8 @@
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/remote_sources/1398359741/-1227933812/tensorflow/python/ops/rnn_cell_impl.py" timestamp="1510283876844">
         <mark key="'" line="149" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511380508491">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511406981828">
+        <mark key="'" line="14" column="0" />
         <mark key="[" line="60" column="23" />
         <mark key="]" line="60" column="33" />
         <mark key="." line="60" column="33" />
@@ -238,11 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="36" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="5" column="33" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="49" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="51" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="57" column="27" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="23" column="54" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -338,10 +340,15 @@
       <jump line="68" column="37" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="11" column="14" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="64" column="8" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="58" column="31" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[:12]</text>
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -353,7 +360,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>[:12]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -362,25 +369,25 @@
         <text>if 'ucmp specimen card' not in small.text.lower() and 'skeleton' not in small.text.lower()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXBvY2ggPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X2NsYXNzID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVwb2NoICs9IDEK</text>
+        <text encoding="base64">c2NpZW50aWZpY19uYW1lcy5zb3J0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnVtYmVyX29mX2Vwb2NocyA9IDEKd2hpbGUgZXBvY2ggPCBudW1iZXJfb2ZfZXBvY2hzOgo=</text>
+        <text encoding="base64">Zm9yIGNvbW1vbl90eXBlIGluIGRhdGEua2V5cygpOgogICAgZm9yIHJvdyBpbiBkYXRhW2NvbW1vbl90eXBlXToKICAgICAgICBzY2llbnRpZmljX25hbWVzLmFwcGVuZChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihpbWFnZXMpKToKICAgICAgICAgICAgICAgICAgICBpZiBsYWJlbHNbal0gIT0gcHJlZGljdGlvbltqXToKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZV9uYW1lID0gJ3t9LXt9LnBuZycuZm9ybWF0KHNjaWVudGlmaWNfbmFtZXNbbGFiZWxzW2pdXSwgc2NpZW50aWZpY19uYW1lc1twcmVkaWN0aW9uW2pdXSkKICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9pbWFnZV9hcnJheShvcy5wYXRoLmpvaW4ob3V0cHV0X2RpcmVjdG9yeSwgZmlsZV9uYW1lKSwgaW1hZ2VzW2pdKQo=</text>
+        <text encoding="base64">ZXBvY2ggPSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltYWdlcyA9IFtzbWFsbC5maW5kKCdpbWcnKSBmb3Igc21hbGwgaW4gc21hbGxzIGlmICd1Y21wIHNwZWNpbWVuIGNhcmQnIG5vdCBpbiBzbWFsbC50ZXh0Lmxvd2VyKCkgYW5kICdza2VsZXRvbicgbm90IGluIHNtYWxsLnRleHQubG93ZXIoKV0K</text>
+        <text encoding="base64">ICAgIGVwb2NoICs9IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnVtYmVyX29mX2Vwb2NocyA9IDEKd2hpbGUgZXBvY2ggPCBudW1iZXJfb2ZfZXBvY2hzOgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -400,16 +407,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZlZWRfZGljdCA9IHt4OiBpbWFnZXMsIHk6IGxhYmVsc30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihpbWFnZXMpKToKICAgICAgICAgICAgICAgICAgICBpZiBsYWJlbHNbal0gIT0gcHJlZGljdGlvbltqXToKICAgICAgICAgICAgICAgICAgICAgICAgZmlsZV9uYW1lID0gJ3t9LXt9LnBuZycuZm9ybWF0KHNjaWVudGlmaWNfbmFtZXNbbGFiZWxzW2pdXSwgc2NpZW50aWZpY19uYW1lc1twcmVkaWN0aW9uW2pdXSkKICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9pbWFnZV9hcnJheShvcy5wYXRoLmpvaW4ob3V0cHV0X2RpcmVjdG9yeSwgZmlsZV9uYW1lKSwgaW1hZ2VzW2pdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiTG9hZGVkIGltYWdlIGZvciB7fSIuZm9ybWF0KGN1cnJlbnRfY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIGltYWdlcyA9IFtzbWFsbC5maW5kKCdpbWcnKSBmb3Igc21hbGwgaW4gc21hbGxzIGlmICd1Y21wIHNwZWNpbWVuIGNhcmQnIG5vdCBpbiBzbWFsbC50ZXh0Lmxvd2VyKCkgYW5kICdza2VsZXRvbicgbm90IGluIHNtYWxsLnRleHQubG93ZXIoKV0K</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgJ1N0YXJ0aW5nIHRyYWluaW5nLi4uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -448,7 +455,6 @@
         <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/find_euler_circuit/cycle/g</entry>
         <entry encoding="base64">JzwsJz4lcy90cmFpbi90ZXN0L2c=</entry>
         <entry>w;w</entry>
         <entry>j;w</entry>
@@ -467,6 +473,7 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry encoding="base64">dyA=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
