@@ -233,8 +233,8 @@
       <file name="$USER_HOME$/Library/Caches/IntelliJIdea2017.2/remote_sources/1398359741/-1227933812/tensorflow/python/ops/rnn_cell_impl.py" timestamp="1510283876844">
         <mark key="'" line="149" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511423640731">
-        <mark key="'" line="73" column="12" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511428155766">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="19" column="31" />
         <mark key="." line="60" column="33" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1760" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
       <jump line="1763" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
       <jump line="1061" column="39" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
       <jump line="332" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
@@ -351,6 +350,7 @@
       <jump line="19" column="13" filename="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" />
       <jump line="37" column="40" filename="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" />
       <jump line="36" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -435,7 +435,7 @@
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
