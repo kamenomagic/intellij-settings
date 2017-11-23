@@ -16,12 +16,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocoderResult.java" timestamp="1509944187355">
         <mark key="'" line="41" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/util.py" timestamp="1511417600527">
-        <mark key="'" line="43" column="40" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="43" column="40" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/util.py" timestamp="1511429360275">
+        <mark key="'" line="38" column="40" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
@@ -142,12 +142,12 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1511413352906">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="47" column="14" />
-        <mark key="]" line="47" column="14" />
-        <mark key="." line="47" column="14" />
-        <mark key="^" line="47" column="14" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1511429912547">
+        <mark key="'" line="60" column="12" />
+        <mark key="[" line="68" column="91" />
+        <mark key="]" line="68" column="91" />
+        <mark key="." line="68" column="91" />
+        <mark key="^" line="67" column="52" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/layers.py" timestamp="1511347068793">
         <mark key="'" line="0" column="0" />
@@ -208,7 +208,6 @@
       <file name="/code.py" timestamp="1507958683874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="&lt;ca2dcfbf-1076-4c70-ad15-3bad40c286f9&gt;/dev/herpedex-learning/ssar.csv" timestamp="1511349383984" />
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1511328456799">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="25" column="74" />
@@ -251,14 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1763" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
-      <jump line="1061" column="39" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
-      <jump line="332" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
-      <jump line="1151" column="6" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
-      <jump line="1723" column="25" filename="$USER_HOME$/dev/python/herpedex-learning/ssar.csv" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
-      <jump line="24" column="28" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
-      <jump line="11" column="33" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
       <jump line="20" column="11" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
       <jump line="27" column="5" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
@@ -335,8 +326,6 @@
       <jump line="48" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
       <jump line="64" column="8" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
-      <jump line="58" column="31" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="3" column="14" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="39" column="40" filename="$USER_HOME$/dev/python/herpedex-learning/util.py" />
       <jump line="73" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
@@ -351,10 +340,20 @@
       <jump line="37" column="40" filename="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" />
       <jump line="36" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="47" column="5" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="50" column="21" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="52" column="24" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="58" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="59" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGltYWdlcykgPiAwZGQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8gbGVuKHhfYmF0Y2gp</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -366,34 +365,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IC8gbGVuKHhfYmF0Y2gp</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>epoch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGltYWdlcykgPiAwZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzID0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cmxzID0gCg==</text>
+        <text encoding="base64">ICAgIGRhdGFfc2V0ID0gZGF0YV9maWxlLmdldChnZXRfc2NpZW50aWZpY19uYW1lKHJvd3NbMF0pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4odXJscykgPiAwOgo=</text>
+        <text encoding="base64">ICAgIHByaW50ICdTdGFydGluZyB0cmFpbmluZy4uLicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWF4X2ltYWdlcyA9IDMwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBicmVhawo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGRhdGFfc2V0LnNoYXBlWzBdKToKICAgICAgICBzYXZlX2ltYWdlX2FycmF5KCd0ZXN0X2ltYWdle30ucG5nJy5mb3JtYXQoaSksIGRhdGFfc2V0W2ldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsKICAgIHdpdGggaDVweS5GaWxlKGZpbGVfbmFtZSwgJ3InKSBhcyBkYXRhX2ZpbGU6CiAgICAgICAgZGF0YV9zZXQgPSBkYXRhX2ZpbGUuZ2V0KGdldF9zY2llbnRpZmljX25hbWUocm93c1swXSkpCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoZGF0YV9zZXQuc2hhcGVbMF0pOgogICAgICAgICAgICBzYXZlX2ltYWdlX2FycmF5KCd0ZXN0X2ltYWdle30ucG5nJy5mb3JtYXQoaSksIGRhdGFfc2V0W2ldKQo=</text>
+        <text encoding="base64">aW1hZ2VzID0gW10KbGFiZWxzID0gW10KZm9yIHJvdyBpbiB0cWRtKHJvd3MpOgogICAgdXJscyA9IGdldF9pbWFnZV91cmxzKHJvdywgMjApCiAgICBpZiBsZW4odXJscykgPD0gMDoKICAgICAgICBjb250aW51ZQogICAgZm9yIGkgaW4gcmFuZ2UobWluKGxlbih1cmxzKSwgaW1hZ2VfY291bnQpKToKICAgICAgICBpbWFnZXMuYXBwZW5kKGxvYWRfaW1hZ2UodXJsc1tpXSkpCiAgICAgICAgbGFiZWxzLmFwcGVuZChjbGFzc2VzLmluZGV4KHJvd1snTWFqb3IgQ29tbW9uIFR5cGUnXSkpCiAgICB0aW1lLnNsZWVwKC4xNSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -413,25 +412,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlc3QgPSAwCg==</text>
+        <text encoding="base64">ZmlsZV9uYW1lID0gJ3NzYXIuaGRmNScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBkYXRhX3NldC5zaGFwZQogICAgICAgIHByaW50IGRhdGFfc2V0LnNpemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBkYXRhX3NldC4K</text>
+        <text encoding="base64">ZmlsZV9uYW1lID0gJ3NzYXIuaGRmNScKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>epoch</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>epoch</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -439,7 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image_shape</entry>
         <entry encoding="base64">XF1cIA==</entry>
         <entry>init</entry>
         <entry>print</entry>
@@ -459,6 +457,7 @@
         <entry>1</entry>
         <entry>&quot;</entry>
         <entry>max</entry>
+        <entry>epoch</entry>
       </history-search>
       <history-cmd>
         <entry>w;w</entry>
@@ -478,8 +477,8 @@
         <entry>2</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>vs util</entry>
-        <entry>q</entry>
         <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
