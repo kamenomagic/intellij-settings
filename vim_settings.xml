@@ -83,11 +83,12 @@
       <file name="$USER_HOME$/dev/python/notebooks/lab10/vgg16.py" timestamp="1510960511078">
         <mark key="'" line="271" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/notebooks/lab11/lab11.py" timestamp="1510972170265">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/python/notebooks/lab11/lab11.py" timestamp="1511846391184">
+        <mark key="'" line="328" column="3" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510882849629">
         <mark key="'" line="47" column="0" />
@@ -176,8 +177,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" timestamp="1511082668549">
         <mark key="'" line="458" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1511845400777">
-        <mark key="'" line="80" column="4" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1511846045356">
+        <mark key="'" line="110" column="126" />
         <mark key="[" line="112" column="9" />
         <mark key="]" line="112" column="126" />
         <mark key="." line="112" column="126" />
@@ -268,8 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="16" column="4" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="58" column="4" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="8" column="25" filename="$USER_HOME$/dev/python/herpedex-learning/species-identifier.py" />
@@ -368,10 +367,12 @@
       <jump line="18" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="80" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="110" column="126" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="330" column="3" filename="$USER_HOME$/dev/python/notebooks/lab11/lab11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>May or may not be running, but is weathered, wrecked and/or stripped to the point of being useful primarily for parts.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmltcG9ydCB0b3JjaAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -386,31 +387,31 @@
         <text>May or may not be running, but is weathered, wrecked and/or stripped to the point of being useful primarily for parts.</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>usable</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CmphciB7CiAgICBtYW5pZmVzdCB7CiAgICAgICAgYXR0cmlidXRlcyAnTWFpbi1DbGFzcyc6ICdyZXN0b3JhdC5SZXN0b1JhdEFwcGxpY2F0aW9uJwogICAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaQo=</text>
+        <text encoding="base64">CmltcG9ydCB0b3JjaAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwogICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwogICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnNoYWRvdycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -430,25 +431,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmdpdGh1Yi5qb2hucmVuZ2VsbWFuLnNoYWRvdycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5naXRodWIuamVuZ2VsbWFuLmdyYWRsZS5wbHVnaW5zOnNoYWRvdzoyLjAuMScK</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnNoYWRvd0phciB7CiAgICBiYXNlTmFtZSA9ICdyZXN0b3JhdC1iYWNrZW5kJwogICAgY2xhc3NpZmllciA9IG51bGwKICAgIHZlcnNpb24gPSBudWxsCn0K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5naXRodWIuamVuZ2VsbWFuLmdyYWRsZS5wbHVnaW5zOnNoYWRvdzoyLjAuMScK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>usable</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>usable</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XF1cIA==</entry>
         <entry>init</entry>
         <entry>print</entry>
         <entry>k * 4</entry>
@@ -476,6 +476,7 @@
         <entry>max</entry>
         <entry>epoch</entry>
         <entry>&quot;</entry>
+        <entry>usable</entry>
       </history-search>
       <history-cmd>
         <entry>w;w</entry>
@@ -491,13 +492,13 @@
         <entry>%s/&quot;crocodilian&quot;/&quot;crocodilians&quot;/g</entry>
         <entry>%s/&quot;turtle&quot;/&quot;turtles&quot;/g</entry>
         <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
-        <entry>wq</entry>
         <entry>2</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>vs util</entry>
-        <entry>noh</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
