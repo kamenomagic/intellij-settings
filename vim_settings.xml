@@ -68,12 +68,12 @@
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1511769884591">
         <mark key="'" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512074807564">
-        <mark key="'" line="104" column="33" />
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="^" line="30" column="41" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512076195434">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="67" />
+        <mark key="]" line="25" column="67" />
+        <mark key="." line="25" column="67" />
+        <mark key="^" line="25" column="67" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1511939713440">
         <mark key="'" line="143" column="4" />
@@ -344,10 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="124" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="39" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="92" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="242" column="101" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="62" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
@@ -444,10 +440,14 @@
       <jump line="63" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="164" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="125" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
+      <jump line="33" column="28" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="58" column="95" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>64</text>
+        <text>feed_dict</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -459,16 +459,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text>feed_dict</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29udjEgPSB0Zi5sYXllcnMuY29udjJkKGNvbnYwLCBmaWx0ZXJzPTY0LCBrZXJuZWxfc2l6ZT0zLCBhY3RpdmF0aW9uPXRmLm5uLnJlbHUpCg==</text>
+        <text encoding="base64">Y29udjIgPSB0Zi5sYXllcnMuY29udjJkKGNvbnYwLCBmaWx0ZXJzPTE2LCBrZXJuZWxfc2l6ZT0zLCBhY3RpdmF0aW9uPXRmLm5uLnJlbHUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">IyBsYXN0X2hpZGRlbl9sYXllciA9IHRmLmxheWVycy5kZW5zZShmbGF0dGVuZWQsIHVuaXRzPTY0LCBhY3RpdmF0aW9uPXRmLm5uLnJlbHUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -496,19 +496,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgYm94X2xvc3MuZ2V0X3NoYXBlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbGVuKGxhYmVsX2JveGVzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdF9zdGVwID0gcHJlZGljdGVkX2JveGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbGVuKGxhYmVsX2JveGVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBjdXJyZW50QXNzZXRUeXBlID0gYXNzZXRUeXBlUmVwb3NpdG9yeS5maW5kQnlOYW1lKCJUcmFpbGVyIik7Cg==</text>
+        <text encoding="base64">cHJpbnQgYm94X2xvc3MuZ2V0X3NoYXBlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">dGVzdF9zdGVwID0gcHJlZGljdGVkX2JveGVzCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -528,16 +528,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBDT0xMRUNUSU9OX09XTkVSKCJDT0xMRUNUSU9OX09XTkVSIiksCiAgUFJPSkVDVF9NQU5BR0VSKCJQUk9KRUNUX01BTkFHRVIiKSwKICBBU1NFVF9PV05FUigiQVNTRVRfT1dORVIiKSwKICBDT05UUklCVVRPUigiQ09OVFJJQlVUT1IiKTsK</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
+        <text encoding="base64">CiAgICBjdXJyZW50QXNzZXRUeXBlID0gYXNzZXRUeXBlUmVwb3NpdG9yeS5maW5kQnlOYW1lKCJUcmFpbGVyIik7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
