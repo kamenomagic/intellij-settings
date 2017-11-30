@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,7 +25,6 @@
       <mask>Controller.ja</mask>
       <mask>Controller.java</mask>
       <mask>Controller.jav</mask>
-      <mask>*</mask>
       <mask>*C</mask>
       <mask>*Cont</mask>
       <mask>*Contro</mask>
@@ -33,6 +33,9 @@
       <mask>*Controller.</mask>
       <mask>*Controller.ja</mask>
       <mask>*Controller.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.json</mask>
     </recentFileMasks>
   </component>
 </application>
