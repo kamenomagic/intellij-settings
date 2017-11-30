@@ -94,6 +94,12 @@
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/schedule/recurring/Usage.java" timestamp="1508549201525">
         <mark key="'" line="25" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/UserType.java" timestamp="1512015100892">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab10/vgg16.py" timestamp="1510960511078">
         <mark key="'" line="271" column="0" />
       </file>
@@ -118,17 +124,11 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1508614829611">
-        <mark key="'" line="49" column="2" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1512014920094">
+        <mark key="'" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture-driver-ipcam/0.3.11/508d0f0b28c0c25481eb7037b79bdf3edb13cbe/webcam-capture-driver-ipcam-0.3.11-sources.jar!/com/github/sarxos/webcam/ds/ipcam/IpCamDeviceRegistry.java" timestamp="1509728483152">
         <mark key="'" line="161" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1511418180582">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" timestamp="1510935666383">
         <mark key="'" line="124" column="0" />
@@ -174,12 +174,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omertron/api-imdb/053ad65/9e6d7c28de6ba3900b1942ca2af153b952b9af89/api-imdb-053ad65.jar!/com/omertron/imdbapi/model/ImdbMovieDetails.class" timestamp="1509849714569">
         <mark key="'" line="228" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/build.gradle" timestamp="1511094428139">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" timestamp="1509335470327">
         <mark key="'" line="89" column="4" />
       </file>
@@ -200,11 +194,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" timestamp="1511082668549">
         <mark key="'" line="458" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1512012586813">
-        <mark key="'" line="92" column="29" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1512016303856">
+        <mark key="'" line="530" column="0" />
+        <mark key="[" line="529" column="45" />
+        <mark key="]" line="529" column="45" />
+        <mark key="." line="529" column="54" />
+        <mark key="^" line="552" column="54" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510005483187">
         <mark key="[" line="0" column="0" />
@@ -240,7 +235,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511940083401">
+      <file name="/Dummy.txt" timestamp="1512014868292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -317,30 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="18" filename="$USER_HOME$/dev/java/restorat/build.gradle" />
-      <jump line="18" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
-      <jump line="80" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
-      <jump line="110" column="126" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
-      <jump line="330" column="3" filename="$USER_HOME$/dev/python/notebooks/lab11/lab11.py" />
-      <jump line="29" column="32" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="41" column="60" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="47" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="48" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="60" column="73" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="45" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="46" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="109" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="298" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="107" column="9" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="257" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="238" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="201" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="168" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="174" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="254" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="79" column="20" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="43" column="30" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="104" column="33" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="300" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="265" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -417,10 +388,34 @@
       <jump line="86" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="166" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="92" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="152" column="23" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="153" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="6" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="150" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="179" column="64" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="533" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="554" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="556" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="214" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="532" column="50" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="552" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="553" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="170" column="43" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="180" column="50" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="208" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="262" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="296" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="328" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="386" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="426" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="484" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="529" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="91" column="34" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="530" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Other</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -432,34 +427,56 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Other</text>
       </register>
       <register name="/" type="4">
-        <text>photoType</text>
+        <text>Other</text>
       </register>
-      <register name="0" type="4">
-        <text>, report.cellStyleBuilder().alignVertically(VerticalAlignment.TOP).build()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGN1cnJlbnRBc3NldFR5cGUgPSBhc3NldFR5cGVSZXBvc2l0b3J5LmZpbmRCeU5hbWUoIlRyYWlsZXIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
+        <text encoding="base64">CiAgICBjdXJyZW50QXNzZXRUeXBlID0gYXNzZXRUeXBlUmVwb3NpdG9yeS5maW5kQnlOYW1lKCJUcmFpbGVyIik7Cg==</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="89" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="74" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0LmJsYW5rQ2VsbHMoOSk7Cg==</text>
+        <text encoding="base64">ICBDT0xMRUNUSU9OX09XTkVSKCJDT0xMRUNUSU9OX09XTkVSIiksCiAgUFJPSkVDVF9NQU5BR0VSKCJQUk9KRUNUX01BTkFHRVIiKSwKICBBU1NFVF9PV05FUigiQVNTRVRfT1dORVIiKSwKICBDT05UUklCVVRPUigiQ09OVFJJQlVUT1IiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNoZWV0LmdldFJvCg==</text>
+        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVwb3J0LmJsYW5rQ2VsbHMoOSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -479,25 +496,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBwcmludENlbGxOZXdSb3coU3RyaW5nIGRlc2NyaXB0aW9uLCBib29sZWFuIGIsIGludCBpLCBPYmplY3QgbywgZG91YmxlIHYpIHsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5uZXh0Um93KCk7Cg==</text>
+        <text encoding="base64">ICAgIHNoZWV0LmdldFJvCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0Lm5leHRSb3coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>photoType</last-search>
+      <last-search>Other</last-search>
       <last-offset />
-      <last-pattern>photoType</last-pattern>
+      <last-pattern>Other</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -505,12 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
-        <entry>max</entry>
-        <entry>epoch</entry>
-        <entry>&quot;</entry>
-        <entry>usable</entry>
-        <entry>h1</entry>
         <entry>font</entry>
         <entry>createCell</entry>
         <entry>dateFormat</entry>
@@ -525,6 +536,12 @@
         <entry>currency</entry>
         <entry>descr</entry>
         <entry>photoType</entry>
+        <entry>usertype</entry>
+        <entry>type</entry>
+        <entry>user</entry>
+        <entry>note</entry>
+        <entry>Ohter</entry>
+        <entry>Other</entry>
       </history-search>
       <history-cmd>
         <entry>w;w</entry>
@@ -542,8 +559,8 @@
         <entry>2</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>vs util</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>wq</entry>
         <entry>noh</entry>
         <entry>w</entry>
