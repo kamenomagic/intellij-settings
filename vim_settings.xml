@@ -124,6 +124,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture-driver-ipcam/0.3.11/508d0f0b28c0c25481eb7037b79bdf3edb13cbe/webcam-capture-driver-ipcam-0.3.11-sources.jar!/com/github/sarxos/webcam/ds/ipcam/IpCamDeviceRegistry.java" timestamp="1509728483152">
         <mark key="'" line="161" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1511418180582">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" timestamp="1510935666383">
         <mark key="'" line="124" column="0" />
       </file>
@@ -168,6 +174,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omertron/api-imdb/053ad65/9e6d7c28de6ba3900b1942ca2af153b952b9af89/api-imdb-053ad65.jar!/com/omertron/imdbapi/model/ImdbMovieDetails.class" timestamp="1509849714569">
         <mark key="'" line="228" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/build.gradle" timestamp="1511094428139">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" timestamp="1509335470327">
         <mark key="'" line="89" column="4" />
       </file>
@@ -187,6 +199,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" timestamp="1511082668549">
         <mark key="'" line="458" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1512012586813">
+        <mark key="'" line="92" column="29" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1510005483187">
         <mark key="[" line="0" column="0" />
@@ -299,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="35" filename="$USER_HOME$/dev/java/restorat/build.gradle" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/java/restorat/build.gradle" />
       <jump line="18" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
@@ -399,10 +416,11 @@
       <jump line="96" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="86" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="166" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
+      <jump line="92" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -417,31 +435,31 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>descr</text>
+        <text>photoType</text>
       </register>
       <register name="0" type="4">
         <text>, report.cellStyleBuilder().alignVertically(VerticalAlignment.TOP).build()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0LmJsYW5rQ2VsbHMoOSk7Cg==</text>
+        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVwb3J0LmJsYW5rQ2VsbHMoOSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNoZWV0LmdldFJvCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNoZWV0LmdldFJvCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBwcmludENlbGxOZXdSb3coU3RyaW5nIGRlc2NyaXB0aW9uLCBib29sZWFuIGIsIGludCBpLCBPYmplY3QgbywgZG91YmxlIHYpIHsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -461,10 +479,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5uZXh0Um93KCk7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBwcmludENlbGxOZXdSb3coU3RyaW5nIGRlc2NyaXB0aW9uLCBib29sZWFuIGIsIGludCBpLCBPYmplY3QgbywgZG91YmxlIHYpIHsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0Lm5leHRSb3coKTsK</text>
+        <text encoding="base64">ICAgIHJlcG9ydC5uZXh0Um93KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
@@ -473,21 +491,20 @@
         <text encoding="base64">ICAgICAgcmVwb3J0Lm5leHRSb3coKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>descr</last-search>
+      <last-search>photoType</last-search>
       <last-offset />
-      <last-pattern>descr</last-pattern>
+      <last-pattern>photoType</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>number_of_classes</entry>
         <entry>1</entry>
         <entry>max</entry>
         <entry>epoch</entry>
@@ -507,6 +524,7 @@
         <entry>stated</entry>
         <entry>currency</entry>
         <entry>descr</entry>
+        <entry>photoType</entry>
       </history-search>
       <history-cmd>
         <entry>w;w</entry>
@@ -524,11 +542,11 @@
         <entry>2</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>vs util</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
