@@ -256,11 +256,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/LatLng.java" timestamp="1509946071703">
         <mark key="'" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/application.properties" timestamp="1511851637210">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="22" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/application.properties" timestamp="1512026217368">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/WebcamMotionDetectorAlgorithm.java" timestamp="1508644120636">
         <mark key="'" line="14" column="0" />
@@ -333,6 +333,10 @@
         <mark key="]" line="56" column="0" />
         <mark key="^" line="83" column="88" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/resources/application.properties" timestamp="1512026078321">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/digital/machine/Disk.java" timestamp="1508549210550">
         <mark key="'" line="64" column="0" />
@@ -470,7 +474,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsK</text>
+        <text encoding="base64">c2VydmVyLnBvcnQ9NDQzCnNlcnZlci5zc2wua2V5LXN0b3JlPXJlc3RvcmF0LmprcwpzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wYXNzd29yZD1iNldIN2hCQ0FWclFUQzg1CnNlcnZlci5zc2wua2V5LXBhc3N3b3JkPWI2V0g3aEJDQVZyUVRDODUK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -482,13 +486,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>assetService.getAsset(assetId).getUser().getId() != userService.getUser().getId()</text>
+        <text>/opt/kamenomagic/jks/synchronicity.jks</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnRBc3NldFR5cGUgPSBhc3NldFR5cGVSZXBvc2l0b3J5LmZpbmRCeU5hbWUoIlRyYWlsZXIiKTsK</text>
+        <text encoding="base64">c2VydmVyLnBvcnQ9NDQzCnNlcnZlci5zc2wua2V5LXN0b3JlPXJlc3RvcmF0LmprcwpzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wYXNzd29yZD1iNldIN2hCQ0FWclFUQzg1CnNlcnZlci5zc2wua2V5LXBhc3N3b3JkPWI2V0g3aEJDQVZyUVRDODUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsK</text>
@@ -563,7 +567,7 @@
         <text encoding="base64">ICAgIHNoZWV0LmdldFJvCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -615,10 +619,10 @@
         <entry encoding="base64">dyA=</entry>
         <entry>vs util</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
