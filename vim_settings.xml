@@ -23,6 +23,13 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/ArchiveNoteService.java" timestamp="1512018038110">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="57" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
@@ -353,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="265" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="248" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="222" column="26" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -453,10 +459,11 @@
       <jump line="91" column="34" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="530" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="12" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/ValuationService.java" />
+      <jump line="13" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/ArchiveNoteService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;COLLECTION_OWNER&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -468,7 +475,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;COLLECTION_OWNER&quot;</text>
+        <text>assetService.getAsset(assetId).getUser().getId() != userService.getUser().getId()</text>
       </register>
       <register name="/" type="4">
         <text>Other</text>
@@ -477,7 +484,7 @@
         <text encoding="base64">ICAgIGN1cnJlbnRBc3NldFR5cGUgPSBhc3NldFR5cGVSZXBvc2l0b3J5LmZpbmRCeU5hbWUoIlRyYWlsZXIiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjdXJyZW50QXNzZXRUeXBlID0gYXNzZXRUeXBlUmVwb3NpdG9yeS5maW5kQnlOYW1lKCJUcmFpbGVyIik7Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -505,19 +512,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGoK</text>
+        <text encoding="base64">CiAgICBjdXJyZW50QXNzZXRUeXBlID0gYXNzZXRUeXBlUmVwb3NpdG9yeS5maW5kQnlOYW1lKCJUcmFpbGVyIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDT0xMRUNUSU9OX09XTkVSKCJDT0xMRUNUSU9OX09XTkVSIiksCiAgUFJPSkVDVF9NQU5BR0VSKCJQUk9KRUNUX01BTkFHRVIiKSwKICBBU1NFVF9PV05FUigiQVNTRVRfT1dORVIiKSwKICBDT05UUklCVVRPUigiQ09OVFJJQlVUT1IiKTsK</text>
+        <text encoding="base64">ICAgIGoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
+        <text encoding="base64">ICBDT0xMRUNUSU9OX09XTkVSKCJDT0xMRUNUSU9OX09XTkVSIiksCiAgUFJPSkVDVF9NQU5BR0VSKCJQUk9KRUNUX01BTkFHRVIiKSwKICBBU1NFVF9PV05FUigiQVNTRVRfT1dORVIiKSwKICBDT05UUklCVVRPUigiQ09OVFJJQlVUT1IiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgIHBob3RvVHlwZXMuYWRkKG5ldyBQaG90b1R5cGUoIkFsbCIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0LmJsYW5rQ2VsbHMoOSk7Cg==</text>
+        <text encoding="base64">ICAgIGNlbGxJbmRleCsrOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -537,16 +544,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVwb3J0LmJsYW5rQ2VsbHMoOSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNoZWV0LmdldFJvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNoZWV0LmdldFJvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -602,8 +609,8 @@
         <entry>vs util</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
