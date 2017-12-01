@@ -68,12 +68,12 @@
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1511769884591">
         <mark key="'" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512147678552">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="59" column="54" />
-        <mark key="]" line="59" column="52" />
-        <mark key="^" line="59" column="52" />
-        <mark key="." line="59" column="52" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512151465910">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="9" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="21" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1511939713440">
         <mark key="'" line="143" column="4" />
@@ -158,7 +158,7 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1512066451443">
+      <file name="/Python Console" timestamp="1512149749849">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab4.py" timestamp="1511340138593">
@@ -344,20 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="141" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="144" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="145" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="150" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="151" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="154" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="160" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="161" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="176" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="42" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="73" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
-      <jump line="43" column="15" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="310" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="150" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="190" column="62" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="148" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
@@ -431,23 +417,37 @@
       <jump line="164" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="125" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="33" column="28" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="59" column="63" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="54" column="52" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="61" column="12" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="71" column="27" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="69" column="12" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="42" column="25" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="58" column="53" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="2" column="17" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="72" column="112" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="74" column="125" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="84" column="65" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="14" column="8" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="22" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="27" column="56" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="29" column="41" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="30" column="44" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="31" column="44" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="32" column="44" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="35" column="65" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="71" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="38" column="30" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="18" column="13" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>len</text>
+        <text>4</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -459,16 +459,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>len</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>report</text>
+        <text>K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfY29uZmlkZW5jZXMgPSBnZXRfbGFiZWxfY29uZmlkZW5jZXMobGVuKGxhYmVsX2JveGVzKSAvIDQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRzID0ge3g6IGltYWdlLCB5X2JveGVzOiBsYWJlbF9ib3hlcywgeV9jb25maWRlbmNlczogbGFiZWxfY29uZmlkZW5jZXN9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJveGVzX3ZhbHVlLCBjb25maWRlbmNlc192YWx1ZSA9IHNlc3MucnVuKFtwcmVkaWN0ZWRfYm94ZXMsIHByZWRpY3RlZF9jb25maWRlbmNlc10sIGZlZWRfZGljdD1pbnB1dHMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -496,19 +496,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29uZmlkZW5jZXNfdmFsdWUsIGxhYmVsX2NvbmZpZGVuY2VzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0cyA9IHt4OiBbaW1hZ2VzW2tdXSwgeV9ib3hlczogW2xhYmVsX2JveGVzX2xpc3Rba11dLCB5X2NvbmZpZGVuY2VzOiBbbGFiZWxfY29uZmlkZW5jZXNfbGlzdFtrXV19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oaW1hZ2VzKSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IFtpbWFnZXNbal1dCiAgICAgICAgbGFiZWxfYm94ZXMgPSBbbGFiZWxfYm94ZXNfbGlzdFtqXV0KICAgICAgICBsYWJlbF9jb25maWRlbmNlcyA9IFtsYWJlbF9jb25maWRlbmNlc19saXN0W2pdXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2UgPSBpbWFnZXNbal0KICAgICAgICAgICAgbGFiZWxfYm94ZXMgPSBsYWJlbF9ib3hlc19saXN0W2pdCiAgICAgICAgICAgIGxhYmVsX2NvbmZpZGVuY2VzID0gZ2V0X2xhYmVsX2NvbmZpZGVuY2VzKGxlbihsYWJlbF9ib3hlcykgLyA0KQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaiBpbiByYW5nZShsZW4oaW1hZ2VzKSk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpbWFnZV9maWxlX25hbWUgaW4gdHFkbShvcy5saXN0ZGlyKCdpbWFnZXMnKSk6CiAgICAgICAgaW1hZ2VfbmFtZSA9IGltYWdlX2ZpbGVfbmFtZS5zcGxpdCgnLicpWzBdCiAgICAgICAgaW1hZ2VfcGF0aCA9IG9zLnBhdGguam9pbignaW1hZ2VzJywgaW1hZ2VfZmlsZV9uYW1lKQogICAgICAgIGxhYmVsX3BhdGggPSBvcy5wYXRoLmpvaW4oJ2xhYmVscycsIGltYWdlX25hbWUgKyAnLnhtbCcpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMobGFiZWxfcGF0aCk6CiAgICAgICAgICAgIGltYWdlID0gaW1hZ2VfdG9fYXJyYXkoaW1hZ2VfcGF0aCkKICAgICAgICAgICAgbGFiZWxfYm94ZXMgPSBnZXRfbGFiZWxfYm94ZXMobGFiZWxfcGF0aCkKICAgICAgICAgICAgbGFiZWxfY29uZmlkZW5jZXMgPSBnZXRfbGFiZWxfY29uZmlkZW5jZXMobGVuKGxhYmVsX2JveGVzKSAvIDQpCiAgICAgICAgICAgIG9wcyA9IFtsb3NzLCBwcmVkaWN0ZWRfYm94ZXMsIHByZWRpY3RlZF9jb25maWRlbmNlcywgY29uZmlkZW5jZV9sb3NzLCBib3hfbG9zcywgdHJhaW5fc3RlcF0KICAgICAgICAgICAgaW5wdXRzID0ge3g6IFtpbWFnZV0sIHlfYm94ZXM6IFtsYWJlbF9ib3hlc10sIHlfY29uZmlkZW5jZXM6IFtsYWJlbF9jb25maWRlbmNlc119CiAgICAgICAgICAgIGxvc3NfdmFsdWUsIGJveGVzX3ZhbHVlLCBjb25maWRlbmNlc192YWx1ZSwgY29uZmlkZW5jZXNfbG9zc192YWx1ZSwgYm94ZXNfbG9zc192YWx1ZSwgXyA9IHNlc3MucnVuKG9wcywgZmVlZF9kaWN0PWlucHV0cykKICAgICAgICAgICAgaWYgaSAlIDEwMCA9PSAwOgogICAgICAgICAgICAgICAgcHJpbnQKICAgICAgICAgICAgICAgIHByaW50KGxvc3NfdmFsdWUsIGJveGVzX2xvc3NfdmFsdWUsIGNvbmZpZGVuY2VzX2xvc3NfdmFsdWUpCiAgICAgICAgICAgICAgICBwcmludChjb25maWRlbmNlc192YWx1ZSwgbGFiZWxfY29uZmlkZW5jZXMpCiAgICAgICAgICAgICAgICBzYXZlX2ltYWdlX2FycmF5KG9zLnBhdGguam9pbihvdXRwdXRzX2ZvbGRlciwgJ3t9LnBuZycuZm9ybWF0KGkpKSwgZHJhd19ib3hlcyhjb3B5LmRlZXBjb3B5KGltYWdlKSwgYm94ZXNfdmFsdWUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXRzID0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -528,25 +528,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGkgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BzID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfcGF0aCA9IG9zLnBhdGguam9pbignbGFiZWxzJywgaW1hZ2VfbmFtZSArICcueG1sJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYWJlbF9wYXRoID0gb3MucGF0aC5qb2luKCdsYWJlbHMnLCBpbWFnZV9uYW1lICsgJy54bWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBqIGluIHJhbmdlKGxlbihpbWFnZXMpKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>report</last-search>
+      <last-search>K</last-search>
       <last-offset />
-      <last-pattern>report</last-pattern>
+      <last-pattern>K</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -554,8 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createCell</entry>
-        <entry>dateFormat</entry>
         <entry>quantity</entry>
         <entry>border</entry>
         <entry>width</entry>
@@ -574,6 +572,8 @@
         <entry>Ohter</entry>
         <entry>Other</entry>
         <entry>report</entry>
+        <entry>k</entry>
+        <entry>K</entry>
       </history-search>
       <history-cmd>
         <entry>w;w</entry>
@@ -589,12 +589,12 @@
         <entry>%s/&quot;turtle&quot;/&quot;turtles&quot;/g</entry>
         <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
         <entry>2</entry>
-        <entry encoding="base64">dyA=</entry>
         <entry>vs util</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>noh</entry>
+        <entry encoding="base64">dyA=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -630,6 +630,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
