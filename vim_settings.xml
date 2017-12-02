@@ -62,12 +62,12 @@
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1511769884591">
         <mark key="'" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512188332288">
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512189993219">
         <mark key="'" line="26" column="8" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="64" column="43" />
+        <mark key="[" line="79" column="46" />
+        <mark key="]" line="79" column="46" />
+        <mark key="." line="79" column="46" />
+        <mark key="^" line="79" column="46" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1511939713440">
         <mark key="'" line="143" column="4" />
@@ -435,8 +435,8 @@
       <jump line="26" column="8" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9pbWFnZV9hcnJheShvcy5wYXRoLmpvaW4ob3V0cHV0c19mb2xkZXIsICd7fS17fXRydWUucG5nJy5mb3JtYXQoZXBvY2gsIGspKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkcmF3X2JveGVzKGNvcHkuZGVlcGNvcHkoaW1hZ2VzW2tdKSwgbGFiZWxfYm94ZXNfYmF0Y2hba10sIGNvbmZpZGVuY2VzX3ZhbHVlc1trXSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>images[k]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -448,7 +448,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>images[k]</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
