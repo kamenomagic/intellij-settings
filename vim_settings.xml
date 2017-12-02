@@ -43,7 +43,6 @@
         <mark key="." line="83" column="74" />
         <mark key="^" line="83" column="74" />
       </file>
-      <file name="&lt;ca2dcfbf-1076-4c70-ad15-3bad40c286f9&gt;/dev/fish/labels/G0017418.xml" timestamp="1512167801647" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" timestamp="1511940303736">
         <mark key="'" line="96" column="21" />
         <mark key="[" line="96" column="48" />
@@ -51,7 +50,6 @@
         <mark key="^" line="96" column="54" />
         <mark key="." line="96" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/Authentication.java" timestamp="1511851323485" />
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
@@ -64,11 +62,12 @@
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1511769884591">
         <mark key="'" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512168766781">
-        <mark key="'" line="62" column="8" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512188332288">
+        <mark key="'" line="26" column="8" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="64" column="43" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1511939713440">
         <mark key="'" line="143" column="4" />
@@ -77,8 +76,8 @@
         <mark key="." line="142" column="141" />
         <mark key="^" line="142" column="141" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/image_preprocessor.py" timestamp="1512168411029">
-        <mark key="'" line="57" column="20" />
+      <file name="$USER_HOME$/dev/python/fish/image_preprocessor.py" timestamp="1512188271362">
+        <mark key="'" line="59" column="8" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -158,7 +157,7 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1512168672508">
+      <file name="/Python Console" timestamp="1512187821819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab4.py" timestamp="1511340138593">
@@ -191,7 +190,6 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="&lt;ca2dcfbf-1076-4c70-ad15-3bad40c286f9&gt;/dev/fish/labels/G0120890.xml" timestamp="1512167205018" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" timestamp="1509335470327">
         <mark key="'" line="89" column="4" />
       </file>
@@ -212,7 +210,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/su.litvak.chromecast/api-v2/0.10.1/a1ca8d589d8e2474ffe091df3533db93f9f9023b/api-v2-0.10.1-sources.jar!/su/litvak/chromecast/api/v2/ChromeCast.java" timestamp="1511082668549">
         <mark key="'" line="458" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/blah.py" timestamp="1512065493956" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1512016303856">
         <mark key="'" line="530" column="0" />
         <mark key="[" line="529" column="45" />
@@ -336,23 +333,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
-      <jump line="98" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
-      <jump line="24" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TimeController.java" />
-      <jump line="55" column="49" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TimeController.java" />
-      <jump line="117" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="56" column="61" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="103" column="33" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="171" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab6.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/python/notebooks/lab5.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/python/notebooks/lab5.py" />
-      <jump line="139" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="71" column="15" filename="$USER_HOME$/dev/python/notebooks/lab8.py" />
-      <jump line="164" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="125" column="8" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="33" column="28" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="59" column="63" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="61" column="12" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="17" column="13" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -372,11 +353,9 @@
       <jump line="38" column="30" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="18" column="13" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="3" column="7" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="69" column="28" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="106" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="3" column="10" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/python/fish/fish_image_sorter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_image_sorter.py" />
@@ -394,14 +373,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
-      <jump line="46" column="41" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="13" column="5" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="50" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="14" column="33" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="55" column="34" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
-      <jump line="52" column="23" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="17" column="28" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
@@ -421,7 +398,6 @@
       <jump line="24" column="5" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="113" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="112" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="107" column="4" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -433,13 +409,34 @@
       <jump line="39" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="62" column="8" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="70" column="12" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="61" column="4" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="54" column="28" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="56" column="20" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="86" column="8" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="76" column="16" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="51" column="21" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="61" column="35" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="62" column="35" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="66" column="35" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="92" column="12" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="59" column="8" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="112" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="69" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZXNbMF0KICAgICAgICBwcmludCBsYWJlbHNbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9pbWFnZV9hcnJheShvcy5wYXRoLmpvaW4ob3V0cHV0c19mb2xkZXIsICd7fS17fXRydWUucG5nJy5mb3JtYXQoZXBvY2gsIGspKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkcmF3X2JveGVzKGNvcHkuZGVlcGNvcHkoaW1hZ2VzW2tdKSwgbGFiZWxfYm94ZXNfYmF0Y2hba10sIGNvbmZpZGVuY2VzX3ZhbHVlc1trXSkpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -451,16 +448,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>array</text>
+        <text>red</text>
       </register>
-      <register name="0" type="4">
-        <text>file_names</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVmIGRyYXdfYm94ZXMoaW1hZ2UsIGJveGVzLCBjb25maWRlbmNlcyk6CiAgICByZWQgPSBbMjU1LCAwLCAwXQogICAgZ3JlZW4gPSBbMCwgMjU1LCAwXQogICAgY29sb3IgPSByZWQKICAgIGZvciBpIGluIHJhbmdlKDAsIGNvb3JkaW5hdGVfbGVuZ3RoLCA0KToKICAgICAgICBjb2xvciA9IHJlZCBpZiBjb25maWRlbmNlc1tpIC8gNF0gPCAuNiBlbHNlIGdyZWVuCiAgICAgICAgYm94ID0gW10KICAgICAgICBmb3IgY29vcmRpbmF0ZSBpbiBbaW50KGNvb3JkaW5hdGUpIGZvciBjb29yZGluYXRlIGluIGJveGVzW2k6aSArIDRdXToKICAgICAgICAgICAgY29vcmRpbmF0ZSA9IDAgaWYgY29vcmRpbmF0ZSA8IDAgZWxzZSBjb29yZGluYXRlCiAgICAgICAgICAgIGNvb3JkaW5hdGUgPSBpbWFnZV9zaGFwZVsxXSAtIDEgaWYgY29vcmRpbmF0ZSA+PSBpbWFnZV9zaGFwZVsxXSBlbHNlIGNvb3JkaW5hdGUKICAgICAgICAgICAgYm94LmFwcGVuZChjb29yZGluYXRlKQogICAgICAgIHN0YXJ0ID0gbWluKGJveFswXSwgYm94WzJdKQogICAgICAgIGVuZCA9IG1heChib3hbMF0sIGJveFsyXSkKICAgICAgICBmb3IgaCBpbiByYW5nZShzdGFydCwgZW5kLCAxKToKICAgICAgICAgICAgaW1hZ2VbaF1bYm94WzFdXSA9IGNvbG9yCiAgICAgICAgICAgIGltYWdlW2hdW2JveFszXV0gPSBjb2xvcgogICAgICAgIHN0YXJ0ID0gbWluKGJveFsxXSwgYm94WzNdKQogICAgICAgIGVuZCA9IG1heChib3hbMV0sIGJveFszXSkKICAgICAgICBmb3IgaCBpbiByYW5nZShzdGFydCwgZW5kLCAxKToKICAgICAgICAgICAgaW1hZ2VbYm94WzBdXVtoXSA9IGNvbG9yCiAgICAgICAgICAgIGltYWdlW2JveFsyXV1baF0gPSBjb2xvcgogICAgcmV0dXJuIGltYWdlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZXNbMF0KICAgICAgICBwcmludCBsYWJlbHNbMF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9pbWFnZV9hcnJheShvcy5wYXRoLmpvaW4ob3V0cHV0c19mb2xkZXIsICd7fS17fXRydWUucG5nJy5mb3JtYXQoZXBvY2gsIGspKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkcmF3X2JveGVzKGNvcHkuZGVlcGNvcHkoaW1hZ2VzW2tdKSwgbGFiZWxfYm94ZXNfYmF0Y2hba10sIGNvbmZpZGVuY2VzX3ZhbHVlc1trXSkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -488,19 +485,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGZpbGVfbmFtZSBpbiBmaWxlX25hbWVzOgogICAgaW1hZ2VfZmlsZSA9IG9zLnBhdGguam9pbihpbWFnZV9mb2xkZXIsIGZpbGVfbmFtZSArICcuanBnJykKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhpbWFnZV9maWxlKToKICAgICAgICBpbWFnZV9maWxlID0gb3MucGF0aC5qb2luKGltYWdlX2ZvbGRlciwgZmlsZV9uYW1lICsgJy5KUEcnKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGltYWdlX2ZpbGUpOgogICAgICAgIHByaW50IGZpbGVfbmFtZQpleGl0KCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIGRyYXdfYm94ZXMoaW1hZ2UsIGJveGVzLCBjb25maWRlbmNlcyk6CiAgICByZWQgPSBbMjU1LCAwLCAwXQogICAgZ3JlZW4gPSBbMCwgMjU1LCAwXQogICAgY29sb3IgPSByZWQKICAgIGZvciBpIGluIHJhbmdlKDAsIGNvb3JkaW5hdGVfbGVuZ3RoLCA0KToKICAgICAgICBjb2xvciA9IHJlZCBpZiBjb25maWRlbmNlc1tpIC8gNF0gPCAuNiBlbHNlIGdyZWVuCiAgICAgICAgYm94ID0gW10KICAgICAgICBmb3IgY29vcmRpbmF0ZSBpbiBbaW50KGNvb3JkaW5hdGUpIGZvciBjb29yZGluYXRlIGluIGJveGVzW2k6aSArIDRdXToKICAgICAgICAgICAgY29vcmRpbmF0ZSA9IDAgaWYgY29vcmRpbmF0ZSA8IDAgZWxzZSBjb29yZGluYXRlCiAgICAgICAgICAgIGNvb3JkaW5hdGUgPSBpbWFnZV9zaGFwZVsxXSAtIDEgaWYgY29vcmRpbmF0ZSA+PSBpbWFnZV9zaGFwZVsxXSBlbHNlIGNvb3JkaW5hdGUKICAgICAgICAgICAgYm94LmFwcGVuZChjb29yZGluYXRlKQogICAgICAgIHN0YXJ0ID0gbWluKGJveFswXSwgYm94WzJdKQogICAgICAgIGVuZCA9IG1heChib3hbMF0sIGJveFsyXSkKICAgICAgICBmb3IgaCBpbiByYW5nZShzdGFydCwgZW5kLCAxKToKICAgICAgICAgICAgaW1hZ2VbaF1bYm94WzFdXSA9IGNvbG9yCiAgICAgICAgICAgIGltYWdlW2hdW2JveFszXV0gPSBjb2xvcgogICAgICAgIHN0YXJ0ID0gbWluKGJveFsxXSwgYm94WzNdKQogICAgICAgIGVuZCA9IG1heChib3hbMV0sIGJveFszXSkKICAgICAgICBmb3IgaCBpbiByYW5nZShzdGFydCwgZW5kLCAxKToKICAgICAgICAgICAgaW1hZ2VbYm94WzBdXVtoXSA9IGNvbG9yCiAgICAgICAgICAgIGltYWdlW2JveFsyXV1baF0gPSBjb2xvcgogICAgcmV0dXJuIGltYWdlCgoKZGVmIHNhdmVfaW1hZ2VfYXJyYXkoaW1hZ2VfcGF0aCwgaW1hZ2UpOgogICAgc2NpcHkubWlzYy5pbXNhdmUoaW1hZ2VfcGF0aCwgaW1hZ2UpCgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmlsZV9uYW1lcyA9IFtdCg==</text>
+        <text encoding="base64">ZGVmIGRyYXdfYm94ZXMoaW1hZ2UsIGJveGVzLCBjb25maWRlbmNlcyk6CiAgICByZWQgPSBbMjU1LCAwLCAwXQogICAgZm9yIGkgaW4gcmFuZ2UoMCwgY29vcmRpbmF0ZV9sZW5ndGgsIDQpOgogICAgICAgICMgaWYgY29uZmlkZW5jZXNbaSAvIDRdIDwgLjY6CiAgICAgICAgIyAgICAgY29udGludWUKICAgICAgICBib3ggPSBbXQogICAgICAgIGZvciBjb29yZGluYXRlIGluIFtpbnQoY29vcmRpbmF0ZSkgZm9yIGNvb3JkaW5hdGUgaW4gYm94ZXNbaTppICsgNF1dOgogICAgICAgICAgICBjb29yZGluYXRlID0gMCBpZiBjb29yZGluYXRlIDwgMCBlbHNlIGNvb3JkaW5hdGUKICAgICAgICAgICAgY29vcmRpbmF0ZSA9IGltYWdlX3NoYXBlWzFdIC0gMSBpZiBjb29yZGluYXRlID49IGltYWdlX3NoYXBlWzFdIGVsc2UgY29vcmRpbmF0ZQogICAgICAgICAgICBib3guYXBwZW5kKGNvb3JkaW5hdGUpCiAgICAgICAgc3RhcnQgPSBtaW4oYm94WzBdLCBib3hbMl0pCiAgICAgICAgZW5kID0gbWF4KGJveFswXSwgYm94WzJdKQogICAgICAgIGZvciBoIGluIHJhbmdlKHN0YXJ0LCBlbmQsIDEpOgogICAgICAgICAgICBpbWFnZVtoXVtib3hbMV1dID0gcmVkCiAgICAgICAgICAgIGltYWdlW2hdW2JveFszXV0gPSByZWQKICAgICAgICBzdGFydCA9IG1pbihib3hbMV0sIGJveFszXSkKICAgICAgICBlbmQgPSBtYXgoYm94WzFdLCBib3hbM10pCiAgICAgICAgZm9yIGggaW4gcmFuZ2Uoc3RhcnQsIGVuZCwgMSk6CiAgICAgICAgICAgIGltYWdlW2JveFswXV1baF0gPSByZWQKICAgICAgICAgICAgaW1hZ2VbYm94WzJdXVtoXSA9IHJlZAogICAgcmV0dXJuIGltYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmlsZV9uYW1lcyA9IFtdCmZvciBsYWJlbF9maWxlIGluIGxhYmVsX2ZpbGVzOgogICAgaW1hZ2VfZmlsZSA9IG9zLnBhdGguam9pbihpbWFnZV9mb2xkZXIsIGZpbGVfbmFtZXNbaV0gKyAnLmpwZycpCiAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoaW1hZ2VfZmlsZSk6CiAgICAgICAgaW1hZ2VfZmlsZSA9IG9zLnBhdGguam9pbihpbWFnZV9mb2xkZXIsIGZpbGVfbmFtZXNbaV0gKyAnLkpQRycpCiAgICBpZiBvcy5wYXRoLmV4aXN0cyhpbWFnZV9maWxlKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBsYWJlbHNbaV0KICAgICAgICBwcmludCBpbWFnZV9maWxlCiAgICAgICAgc2F2ZV9pbWFnZV9hcnJheSgnb3V0cHV0cy90ZXN0X291dHB1dC5wbmcnLCBkcmF3X2JveGVzKGltYWdlc1tpXSwgbGFiZWxzW2ldLCBbXSkpCiAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -520,25 +517,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoaW1hZ2VfZmlsZSk6CiAgICAgICAgICAgIHByaW50ICdubycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgaW1hZ2VfZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbWFnZXNbMF0KICAgICAgICBwcmludCBsYWJlbHNbMF0K</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">Zm9yIGZpbGVfbmFtZSBpbiBmaWxlX25hbWVzOgogICAgaW1hZ2VfZmlsZSA9IG9zLnBhdGguam9pbihpbWFnZV9mb2xkZXIsIGZpbGVfbmFtZSArICcuanBnJykKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhpbWFnZV9maWxlKToKICAgICAgICBpbWFnZV9maWxlID0gb3MucGF0aC5qb2luKGltYWdlX2ZvbGRlciwgZmlsZV9uYW1lICsgJy5KUEcnKQogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGltYWdlX2ZpbGUpOgogICAgICAgIHByaW50IGZpbGVfbmFtZQpleGl0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>array</last-search>
+      <last-search>red</last-search>
       <last-offset />
-      <last-pattern>array</last-pattern>
+      <last-pattern>red</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>footer</entry>
         <entry>area</entry>
         <entry>print</entry>
         <entry>stated</entry>
@@ -566,6 +562,7 @@
         <entry>loa</entry>
         <entry>imageto</entry>
         <entry>array</entry>
+        <entry>red</entry>
       </history-search>
       <history-cmd>
         <entry>w;w</entry>
@@ -584,9 +581,9 @@
         <entry>vs util</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">dyA=</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
