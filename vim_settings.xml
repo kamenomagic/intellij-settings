@@ -62,12 +62,12 @@
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1511769884591">
         <mark key="'" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512198530209">
-        <mark key="'" line="91" column="20" />
-        <mark key="[" line="78" column="32" />
-        <mark key="]" line="78" column="39" />
-        <mark key="." line="78" column="39" />
-        <mark key="^" line="78" column="39" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512200341026">
+        <mark key="'" line="50" column="31" />
+        <mark key="[" line="85" column="28" />
+        <mark key="]" line="85" column="29" />
+        <mark key="." line="85" column="29" />
+        <mark key="^" line="85" column="29" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1511939713440">
         <mark key="'" line="143" column="4" />
@@ -339,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="30" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="18" column="13" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="3" column="7" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
       <jump line="106" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -439,10 +438,11 @@
       <jump line="65" column="17" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="63" column="48" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="62" column="46" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
+      <jump line="50" column="31" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y_confidences</text>
+        <text>00</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -454,7 +454,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>y_confidences</text>
+        <text>00</text>
       </register>
       <register name="/" type="4">
         <text>misc</text>
