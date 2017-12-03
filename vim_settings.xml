@@ -62,12 +62,11 @@
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1511769884591">
         <mark key="'" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512261548842">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
+      <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1512268777017">
+        <mark key="'" line="84" column="20" />
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1511939713440">
         <mark key="'" line="143" column="4" />
@@ -171,12 +170,12 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1512020854388">
         <mark key="'" line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512267209675">
-        <mark key="'" line="57" column="14" />
-        <mark key="[" line="73" column="106" />
-        <mark key="]" line="73" column="116" />
-        <mark key="^" line="73" column="116" />
-        <mark key="." line="73" column="116" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512268749595">
+        <mark key="'" line="77" column="35" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="80" column="35" />
+        <mark key="." line="20" column="18" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/layers.py" timestamp="1511347068793">
         <mark key="'" line="0" column="0" />
@@ -339,13 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/dev/python/notebooks/lab7.py" />
-      <jump line="4" column="17" filename="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/python/fish/fish_image_sorter.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="120" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="119" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -402,7 +394,6 @@
       <jump line="78" column="24" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="115" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="76" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="57" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="57" column="12" filename="$USER_HOME$/dev/python/fish/image_preprocessor.py" />
       <jump line="21" column="11" filename="$USER_HOME$/dev/python/fish/test.py" />
@@ -439,10 +430,18 @@
       <jump line="85" column="8" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="64" column="48" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="73" column="14" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="65" column="35" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="66" column="53" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="71" column="36" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="74" column="84" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="85" column="20" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
+      <jump line="78" column="35" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>total_count</text>
+        <text>config=tf.ConfigProto(gpu_options=gpu_options)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -454,16 +453,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>total_count</text>
+        <text>config=tf.ConfigProto(gpu_options=gpu_options)</text>
       </register>
       <register name="/" type="4">
-        <text>boxes</text>
+        <text>model</text>
       </register>
-      <register name="0" type="4">
-        <text>calculated_correct_count</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNhdmVyLnNhdmUoc2VzcywgJ21vZGVsL21vZGVsJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWxjdWxhdGVkX2NvcnJlY3RfY291bnQgLz0gbGVuKHhfYmF0Y2gpCg==</text>
+        <text encoding="base64">Z3B1X29wdGlvbnMgPSB0Zi5HUFVPcHRpb25zKHBlcl9wcm9jZXNzX2dwdV9tZW1vcnlfZnJhY3Rpb249MC41KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -491,19 +490,20 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG51bWJlcl9jb3JyZWN0ID0gMAo=</text>
+        <text encoding="base64">Z3B1X29wdGlvbnMgPSB0Zi5HUFVPcHRpb25zKHBlcl9wcm9jZXNzX2dwdV9tZW1vcnlfZnJhY3Rpb249MC4zMykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2F2ZXIgPSB0Zi50cmFpbi5TYXZlcigpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciByb3cgaW4gcm93czoKICAgICAgICAjICAgICBzY2llbnRpZmljX25hbWUgPSBnZXRfc2NpZW50aWZpY19uYW1lKHJvdykKICAgICAgICAjICAgICB0eXBlID0gcm93WydNYWpvciBDb21tb24gVHlwZSddCiAgICAgICAgIyAgICAgc3BlY2llc19pbWFnZXMgPSBkYXRhX2ZpbGUuZ2V0KHNjaWVudGlmaWNfbmFtZSkKICAgICAgICAjICAgICBsYWJlbHMgPSBbdHlwZSBmb3IgXyBpbiBzcGVjaWVzX2ltYWdlc10KCiAgICAgICAgIyBmb3IgaSBpbiByYW5nZSgwLCBsZW4ocm93cyksIGJhdGNoX3NpemUpOgogICAgICAgICMgICAgIHJvd19iYXRjaCA9IHJvd3NbaTppK2JhdGNoX3NpemVdCiAgICAgICAgIyAgICAgc2NpZW50aWZpY19uYW1lX2JhdGNoID0gW2dldF9zY2llbnRpZmljX25hbWUocm93KSBmb3Igcm93IGluIHJvd19iYXRjaF0KICAgICAgICAjICAgICB0eXBlX2JhdGNoID0gW3Jvd1snTWFqb3IgQ29tbW9uIFR5cGUnXSBmb3Igcm93IGluIHJvd19iYXRjaF0KICAgICAgICAjICAgICBzcGVjaWVzX2ltYWdlX2JhdGNoID0gW2RhdGFfZmlsZS5nZXQoc2NpZW50aWZpY19uYW1lKSBmb3Igc2NpZW50aWZpY19uYW1lIGluIHNjaWVudGlmaWNfbmFtZV9iYXRjaF0KICAgICAgICAjICAgICB4X2JhdGNoID0gW2RhdGFfZmlsZS5nZXQocm93X2JhdGNoW2ldKSBmb3IgaSBpbiByYW5nZShsZW4ocm93X2JhdGNoKSldCiAgICAgICAgIyAgICAgeV9iYXRjaCA9IFtdCg==</text>
+      <register name="4" type="4">
+        <text>len(
+                                                                                   x_batch)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcG9jaCArPSAxCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -523,35 +523,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2UK</text>
+        <text encoding="base64">ICAgIGVwb2NoX3N1bSA9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VzcyA9IHRmLlNlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGN1bGF0ZWRfbG9zcywgID0gc2Vzcy5ydW4oW2xvc3MsIGNvcnJlY3RfY291bnRdLCBmZWVkX2RpY3Q9ZmVlZF9kaWN0KQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VzcyA9IHRmLlNlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBlcG9jaCAlIDEwMCA9PSAwOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>boxes</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>boxes</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stated</entry>
-        <entry>currency</entry>
-        <entry>descr</entry>
         <entry>photoType</entry>
         <entry>usertype</entry>
         <entry>type</entry>
@@ -569,6 +566,9 @@
         <entry>red</entry>
         <entry>misc</entry>
         <entry>boxes</entry>
+        <entry>xba</entry>
+        <entry>len</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>j;w</entry>
@@ -586,10 +586,10 @@
         <entry>vs util</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">dyA=</entry>
-        <entry>q</entry>
-        <entry>noh</entry>
         <entry>.,.+1q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
