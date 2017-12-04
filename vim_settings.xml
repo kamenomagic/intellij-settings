@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512411923708">
-        <mark key="'" line="18" column="35" />
-        <mark key="[" line="7" column="117" />
-        <mark key="]" line="7" column="117" />
-        <mark key="^" line="7" column="117" />
-        <mark key="." line="7" column="117" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512413264692">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="9" column="52" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
         <mark key="[" line="0" column="0" />
@@ -184,7 +184,7 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1512020854388">
         <mark key="'" line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512377010408">
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512412963933">
         <mark key="'" line="83" column="12" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -347,10 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="79" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="77" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="107" column="4" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="58" column="4" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -447,10 +443,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
       <jump line="25" column="59" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
       <jump line="16" column="35" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGZvciBmaWwpIGluIGZpbGVfbmFtZQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VzcyA9IHRmLlNlc3Npb24oKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -462,16 +462,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZvciBmaWwpIGluIGZpbGVfbmFtZQ==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>read</text>
       </register>
-      <register name="0" type="4">
-        <text>trained_type_model_with_dropout</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQgJ0FuYWx5emluZyBpbWFnZXM6Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VzcyA9IHRmLlNlc3Npb24oKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -499,21 +499,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKG9yaWdpbmFsX2lucHV0X2ltYWdlKQo=</text>
+        <text encoding="base64">aW1hZ2Vfc2hhcGUgPSBbMTMwLCAxOTQsIDNdCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>:
-    print '&quot;{}&quot; does not exist.'.format(original_input_image)
-    exit()</text>
+      <register name="3" type="2">
+        <text encoding="base64">c2VzcyA9IHRmLlNlc3Npb24oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3JpZ2luYWxfaW5wdXRfaW1hZ2UgPSBzeXMuYXJndlstMV0K</text>
+        <text encoding="base64">aW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+        <text encoding="base64">aW1hZ2Vfc2hhcGUgPSBbMTMwLCAxOTQsIDNdCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -533,10 +531,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+        <text encoding="base64">cHJpbnQgJ0FuYWx5emluZyBpbWFnZXM6JwpwcmludCBpbWFnZXMKaWYgbGVuKGltYWdlcykgPT0gMDoKICAgIHByaW50ICdObyBpbWFnZXMgZm91bmQuJwogICAgZXhpdCgpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+        <text encoding="base64">CmRlZiBpZGVudGlmeShpbWFnZV9maWxlX25hbWUpOgogICAgaW1hZ2Vfb2JqZWN0ID0gaW8uaW1yZWFkKGltYWdlX2ZpbGVfbmFtZSkKICAgIGlucHV0X2ltYWdlID0gdHJhbnNmb3JtLnJlc2l6ZShpbWFnZV9vYmplY3QsIGltYWdlX3NoYXBlLCBwcmVzZXJ2ZV9yYW5nZT1UcnVlLCBtb2RlPSdjb25zdGFudCcpLmFzdHlwZShpbnQpCgogICAgY2xhc3NlcyA9IFsnY3JvY29kaWxpYW5zJywgJ2Zyb2dzJywgJ2xpemFyZHMnLCAnc2FsYW1hbmRlcnMnLCAnc25ha2VzJywgJ3R1cnRsZXMnXQoKICAgIHByZWRpY3Rpb24gPSBzZXNzLnJ1bih0ZXN0X3N0ZXAsIGZlZWRfZGljdD17eDogW2lucHV0X2ltYWdlXX0pCgogICAgcHJpbnQgJ3t9OiB7fScuZm9ybWF0KGltYWdlX2ZpbGVfbmFtZSwgY2xhc3Nlc1twcmVkaWN0aW9uWzBdXSkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
