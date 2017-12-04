@@ -33,11 +33,11 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512351706417">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="42" />
-        <mark key="." line="14" column="42" />
-        <mark key="^" line="14" column="42" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512352354722">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
         <mark key="[" line="0" column="0" />
@@ -452,8 +452,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>io.imread(original_input_image)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQgJ1RoZSBwcmVkaWN0aW9uIGluZGV4IHdhcyB7fScuZm9ybWF0KHByZWRpY3Rpb25bMF0pCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -474,7 +474,7 @@
         <text encoding="base64">c2F2ZXIgPSB0Zi50cmFpbi5pbXBvcnRfbWV0YV9ncmFwaCgndHJhaW5lZF90eXBlX21vZGVsL21vZGVsLm1ldGEnKQpzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgaW5wdXQK</text>
+        <text encoding="base64">cHJpbnQgJ1RoZSBwcmVkaWN0aW9uIGluZGV4IHdhcyB7fScuZm9ybWF0KHByZWRpY3Rpb25bMF0pCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -502,19 +502,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgdGVzdF9zdGVwCg==</text>
+        <text encoding="base64">aWYgMCA8IHByZWRpY3Rpb24gPCBsZW4oY2xhc3Nlcyk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgdGVzdF9zdGVwCg==</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmZvciBvcCBpbiBncmFwaC5nZXRfb3BlcmF0aW9ucygpOgogICAgcHJpbnQgc3RyKG9wLm5hbWUpCgo=</text>
+        <text encoding="base64">ICAgIHByaW50ICdUaGUgcHJlZGljdGlvbiBpbmRleCB3YXMge30nLmZvcm1hdChwcmVkaWN0aW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIG5hbWUgaW4gW24ubmFtZSBmb3IgbiBpbiBnYS5hc19ncmFwaF9kZWYoKS5ub2RlXToKICAgIHByaW50IG5hbWUK</text>
+        <text encoding="base64">cHJpbnQgaW5wdXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIG5hbWUgaW4gW24ubmFtZSBmb3IgbiBpbiBncmFwaC5hc19ncmFwaF9kZWYoKS5ub2RlXToKICAgIHByaW50IG5hbWUK</text>
+        <text encoding="base64">cHJpbnQgdGVzdF9zdGVwCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -537,13 +537,13 @@
         <text encoding="base64">cHJpbnQgdGVzdF9zdGVwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZvciBvcCBpbiBncmFwaC5nZXRfb3BlcmF0aW9ucygpOgogICAgcHJpbnQgc3RyKG9wLm5hbWUpCgo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmZvciBvcCBpbiBncmFwaC5nZXRfb3BlcmF0aW9ucygpOgogICAgcHJpbnQgc3RyKG9wLm5hbWUpCg==</text>
+        <text encoding="base64">Zm9yIG5hbWUgaW4gW24ubmFtZSBmb3IgbiBpbiBnYS5hc19ncmFwaF9kZWYoKS5ub2RlXToKICAgIHByaW50IG5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
