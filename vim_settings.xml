@@ -33,11 +33,12 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512352354722">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="25" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512411923708">
+        <mark key="'" line="18" column="35" />
+        <mark key="[" line="7" column="117" />
+        <mark key="]" line="7" column="117" />
+        <mark key="^" line="7" column="117" />
+        <mark key="." line="7" column="117" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
         <mark key="[" line="0" column="0" />
@@ -346,9 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="6" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
-      <jump line="24" column="5" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="113" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -446,10 +444,13 @@
       <jump line="30" column="33" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="31" column="37" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="91" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="25" column="59" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="16" column="35" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZvciBmaWwpIGluIGZpbGVfbmFtZQ==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -461,16 +462,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>trained_type_model</text>
+        <text encoding="base64">IGZvciBmaWwpIGluIGZpbGVfbmFtZQ==</text>
       </register>
       <register name="/" type="4">
-        <text>64</text>
+        <text>read</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2F2ZXIucmVzdG9yZShzZXNzLCB0Zi50cmFpbi5sYXRlc3RfY2hlY2twb2ludCgnc3RhcnRlZF90cmFpbmluZ193aXRob3V0X3Jlc25ldF90eXBlX21vZGVsLycpKQo=</text>
+      <register name="0" type="4">
+        <text>trained_type_model_with_dropout</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,19 +499,21 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+        <text encoding="base64">aWYgbm90IG9zLnBhdGguZXhpc3RzKG9yaWdpbmFsX2lucHV0X2ltYWdlKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+      <register name="3" type="4">
+        <text>:
+    print '&quot;{}&quot; does not exist.'.format(original_input_image)
+    exit()</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
+        <text encoding="base64">b3JpZ2luYWxfaW5wdXRfaW1hZ2UgPSBzeXMuYXJndlstMV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29udjQgPSAK</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -530,33 +533,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cG9vbDAgPSB0Zi5ubi5tYXhfcG9vbChjb252MCwga3NpemU9WzEsIDIsIDIsIDFdLCBzdHJpZGVzPVsxLCAyLCAyLCAxXSwgcGFkZGluZz0nU0FNRScpCg==</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQgeC5nZXRfc2hhcGUoKQpwcmludCBjb252MS5nZXRfc2hhcGUoKQpwcmludCBwYWRfeDAuZ2V0X3NoYXBlKCkKcHJpbnQgcGFkX2NvbnYwLmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgeC5nZXRfc2hhcGUoKQpwcmludCBjb252MS5nZXRfc2hhcGUoKQpwcmludCBwYWRfeDAuZ2V0X3NoYXBlKCkKcHJpbnQgcGFkX2NvbnYwLmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>64</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>64</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>&quot;snakes&quot;</last-replace>
       <last-substitute>&quot;snake&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>usertype</entry>
         <entry>type</entry>
         <entry>user</entry>
         <entry>note</entry>
@@ -576,6 +578,7 @@
         <entry>len</entry>
         <entry>model</entry>
         <entry>64</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
@@ -595,8 +598,8 @@
         <entry>.,.+1q</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>w;w</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
