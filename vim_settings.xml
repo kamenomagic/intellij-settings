@@ -183,11 +183,11 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1512020854388">
         <mark key="'" line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512366423677">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="29" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="24" column="29" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512377010408">
+        <mark key="'" line="83" column="12" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/layers.py" timestamp="1511347068793">
         <mark key="'" line="0" column="0" />
@@ -346,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="23" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
-      <jump line="60" column="19" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="82" column="6" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
       <jump line="24" column="5" filename="$USER_HOME$/dev/python/fish/fish_locator.py" />
@@ -446,10 +444,12 @@
       <jump line="25" column="33" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="29" column="32" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="30" column="33" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="31" column="37" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="91" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>32</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -461,16 +461,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>trained_type_model</text>
       </register>
       <register name="/" type="4">
         <text>64</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29udjUgPSB0Zi5sYXllcnMuY29udjJkKGNvbnY0LCAxNiwgMywgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQo=</text>
+        <text encoding="base64">c2F2ZXIucmVzdG9yZShzZXNzLCB0Zi50cmFpbi5sYXRlc3RfY2hlY2twb2ludCgnc3RhcnRlZF90cmFpbmluZ193aXRob3V0X3Jlc25ldF90eXBlX21vZGVsLycpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29udjQgPSAK</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -498,19 +498,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG9vbDAgPSB0Zi5ubi5tYXhfcG9vbChjb252MCwga3NpemU9WzEsIDIsIDIsIDFdLCBzdHJpZGVzPVsxLCAyLCAyLCAxXSwgcGFkZGluZz0nU0FNRScpCg==</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgeC5nZXRfc2hhcGUoKQpwcmludCBjb252MS5nZXRfc2hhcGUoKQpwcmludCBwYWRfeDAuZ2V0X3NoYXBlKCkKcHJpbnQgcGFkX2NvbnYwLmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgeC5nZXRfc2hhcGUoKQpwcmludCBjb252MS5nZXRfc2hhcGUoKQpwcmludCBwYWRfeDAuZ2V0X3NoYXBlKCkKcHJpbnQgcGFkX2NvbnYwLmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">IyBzYXZlci5yZXN0b3JlKHNlc3MsIHRmLnRyYWluLmxhdGVzdF9jaGVja3BvaW50KCd0cmFpbmVkX3R5cGVfbW9kZWwvJykpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQgcGFkMC5nZXRfc2hhcGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgeC5nZXRfc2hhcGUoKQo=</text>
+        <text encoding="base64">Y29udjQgPSAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -530,16 +530,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgY29udjEuZ2V0X3NoYXBlKCkK</text>
+        <text encoding="base64">cG9vbDAgPSB0Zi5ubi5tYXhfcG9vbChjb252MCwga3NpemU9WzEsIDIsIDIsIDFdLCBzdHJpZGVzPVsxLCAyLCAyLCAxXSwgcGFkZGluZz0nU0FNRScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFkMSA9IHRmLnBhZCgpCg==</text>
+        <text encoding="base64">cHJpbnQgeC5nZXRfc2hhcGUoKQpwcmludCBjb252MS5nZXRfc2hhcGUoKQpwcmludCBwYWRfeDAuZ2V0X3NoYXBlKCkKcHJpbnQgcGFkX2NvbnYwLmdldF9zaGFwZSgpCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cG9vbDIgPSB0Zi5ubi5tYXhfcG9vbChjb252Miwga3NpemU9WzEsIDIsIDIsIDFdLCBzdHJpZGVzPVsxLCAyLCAyLCAxXSwgcGFkZGluZz0nU0FNRScpCg==</text>
+        <text encoding="base64">cHJpbnQgeC5nZXRfc2hhcGUoKQpwcmludCBjb252MS5nZXRfc2hhcGUoKQpwcmludCBwYWRfeDAuZ2V0X3NoYXBlKCkKcHJpbnQgcGFkX2NvbnYwLmdldF9zaGFwZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
