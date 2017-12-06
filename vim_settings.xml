@@ -281,7 +281,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512533750626">
+      <file name="/Dummy.txt" timestamp="1512549929439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -563,7 +563,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgY3VycmVudAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -617,8 +617,8 @@
         <entry>%s/\ /,\ /g</entry>
         <entry>%s/\ /,/g</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
