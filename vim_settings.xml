@@ -33,12 +33,11 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512563167151">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="28" column="24" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512565472072">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
         <mark key="[" line="0" column="0" />
@@ -136,6 +135,12 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture-driver-ipcam/0.3.11/508d0f0b28c0c25481eb7037b79bdf3edb13cbe/webcam-capture-driver-ipcam-0.3.11-sources.jar!/com/github/sarxos/webcam/ds/ipcam/IpCamDeviceRegistry.java" timestamp="1509728483152">
         <mark key="'" line="161" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512166534647">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" timestamp="1510935666383">
         <mark key="'" line="124" column="0" />
       </file>
@@ -183,10 +188,10 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1512020854388">
         <mark key="'" line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512562728205">
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512565409300">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="40" column="34" />
-        <mark key="]" line="40" column="42" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="45" />
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
@@ -195,6 +200,12 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omertron/api-imdb/053ad65/9e6d7c28de6ba3900b1942ca2af153b952b9af89/api-imdb-053ad65.jar!/com/omertron/imdbapi/model/ImdbMovieDetails.class" timestamp="1509849714569">
         <mark key="'" line="228" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/build.gradle" timestamp="1511094428139">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/fish/fish_locator_model.py" timestamp="1512564063456">
         <mark key="'" line="61" column="39" />
@@ -355,9 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="80" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
-      <jump line="442" column="73" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
-      <jump line="444" column="108" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="446" column="110" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="448" column="110" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="450" column="85" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
@@ -455,10 +463,13 @@
       <jump line="44" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="49" column="31" filename="$USER_HOME$/dev/python/fish/fish_locator_model.py" />
       <jump line="61" column="39" filename="$USER_HOME$/dev/python/fish/fish_locator_model.py" />
+      <jump line="26" column="31" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGg1cHkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -470,16 +481,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>trained_type_model_with_dropout</text>
       </register>
       <register name="/" type="4">
         <text>Collections</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGYuYWRkX3RvX2NvbGxlY3Rpb24oJ3gnLCB4KQo=</text>
+        <text encoding="base64">d2l0aCBoNXB5LkZpbGUoJ3NzYXIuaGRmNScsICdyJykgYXMgZGF0YV9maWxlOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGkgPSAwCg==</text>
+        <text encoding="base64">aW1wb3J0IGg1cHkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -508,19 +519,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9wcwo=</text>
+        <text encoding="base64">CndpdGggaDVweS5GaWxlKCdzc2FyLmhkZjUnLCAncicpIGFzIGRhdGFfZmlsZToKICAgIGltYWdlID0gZGF0YV9maWxlLmdldCgnQWdraXN0cm9kb24gY29udG9ydHJpeCcpCiAgICBwcmludCBpbWFnZQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJlZGljdF9jb25maWRlbmNlcwo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1dGlsIGltcG9ydCBsb2FkX2RhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQKcHJpbnQgJ0FuYWx5emluZyBpbWFnZXM6Jwpmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgcHJpbnQgaW1hZ2UKaWYgbGVuKGltYWdlcykgPT0gMDoKICAgIHByaW50ICdObyBpbWFnZXMgZm91bmQuJwogICAgZXhpdCgpCgo=</text>
+        <text encoding="base64">ICAgIGkgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpwcmludApwcmludCAnUHJlZGljdGlvbnM6Jwo=</text>
+        <text encoding="base64">ICAgIG9wcwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -540,16 +551,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGltYWdlIGluIGltYWdlczoK</text>
+        <text encoding="base64">cHJlZGljdF9jb25maWRlbmNlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGtleSBpbiBncmFwaC5nZXRfb3BlcmF0aW9ucygpOgogICAgcHJpbnQga2V5Lm5hbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgZ3JhcGguZ2V0X29wZXJhdGlvbl9ieV9uYW1lKCdwcmVkaWN0X2JveGVzJykKcHJpbnQgZ3JhcGguZ2V0X29wZXJhdGlvbl9ieV9uYW1lKCdwcmVkaWN0X2NvbmZpZGVuY2VzJykK</text>
+        <text encoding="base64">cHJpbnQKcHJpbnQgJ0FuYWx5emluZyBpbWFnZXM6Jwpmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgcHJpbnQgaW1hZ2UKaWYgbGVuKGltYWdlcykgPT0gMDoKICAgIHByaW50ICdObyBpbWFnZXMgZm91bmQuJwogICAgZXhpdCgpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
