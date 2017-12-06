@@ -562,7 +562,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCAnICcuam9pbihzdHIoc3VtKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -613,11 +613,11 @@
         <entry>.,.+1q</entry>
         <entry>wq</entry>
         <entry>w;w</entry>
-        <entry>q</entry>
         <entry>%s/\ /,\ /g</entry>
         <entry>%s/\ /,/g</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
