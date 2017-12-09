@@ -69,7 +69,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.16/71c94ad7ebe5a60393d41dc60a28dfd20e8b5c31/geocoder-java-0.16-sources.jar!/com/google/code/geocoder/model/GeocodeResponse.java" timestamp="1509944178793">
         <mark key="'" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/wemo/Wemo.java" timestamp="1512368778748" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TimeController.java" timestamp="1512020846916">
         <mark key="'" line="55" column="49" />
       </file>
@@ -205,6 +204,13 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
+        <mark key="'" line="38" column="10" />
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/python/notebooks/layers.py" timestamp="1511347068793">
         <mark key="'" line="0" column="0" />
       </file>
@@ -223,6 +229,9 @@
         <mark key="]" line="9" column="109" />
         <mark key="." line="9" column="109" />
         <mark key="^" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" timestamp="1512843682760">
+        <mark key="'" line="65" column="4" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" timestamp="1509335470327">
         <mark key="'" line="89" column="4" />
@@ -304,12 +313,12 @@
         <mark key="^" line="90" column="85" />
         <mark key="." line="90" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1511328456799">
+      <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1512843877486">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="25" column="74" />
-        <mark key="]" line="25" column="74" />
-        <mark key="^" line="25" column="112" />
-        <mark key="." line="25" column="74" />
+        <mark key="]" line="25" column="94" />
+        <mark key="^" line="25" column="94" />
+        <mark key="." line="25" column="94" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-inverse.py" timestamp="1510881119078">
         <mark key="'" line="5" column="0" />
@@ -376,8 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="468" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
-      <jump line="470" column="83" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="472" column="99" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="474" column="101" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="476" column="56" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
@@ -476,10 +483,12 @@
       <jump line="88" column="12" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="75" column="15" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
+      <jump line="65" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
+      <jump line="22" column="10" filename="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGF0YV9zZXQKICAgICAgICAgICAgY29udGludWUK</text>
+      <register name="&quot;" type="4">
+        <text>https://synchronicity.tools/eyesDashboard.html</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -491,7 +500,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>https://synchronicity.tools/eyesDashboard.html</text>
       </register>
       <register name="/" type="4">
         <text>length</text>
@@ -500,7 +509,7 @@
         <text>tqdm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGF0YV9zZXQKICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -529,19 +538,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnICcK</text>
+        <text encoding="base64">ICAKICBwdWJsaWMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHRxZG0ocm93cyk6CiAgICAgICAgICAgIGRhdGFfc2V0ID0gZGF0YV9maWxlLmdldChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpCiAgICAgICAgICAgIGxhYmVsID0gY2xhc3Nlcy5pbmRleChyb3dbJ01ham9yIENvbW1vbiBUeXBlJ10pCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKDAsIGRhdGFfc2V0LnNoYXBlWzBdLCBiYXRjaF9zaXplKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGF0YV9zZXQKICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnICcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHRxZG0ocm93cyk6CiAgICAgICAgICAgIGRhdGFfc2V0ID0gZGF0YV9maWxlLmdldChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpCiAgICAgICAgICAgIGxhYmVsID0gY2xhc3Nlcy5pbmRleChyb3dbJ01ham9yIENvbW1vbiBUeXBlJ10pCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKDAsIGRhdGFfc2V0LnNoYXBlWzBdLCBiYXRjaF9zaXplKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -561,16 +570,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhXwo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSAK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNvdW50cwogICAgcHJpbnQgc3VtKGNvdW50cy52YWx1ZXMoKSkK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
