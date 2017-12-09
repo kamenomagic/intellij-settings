@@ -33,10 +33,10 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512844828305">
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512846490218">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="47" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="86" />
         <mark key="." line="23" column="47" />
         <mark key="^" line="23" column="47" />
       </file>
@@ -173,15 +173,14 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1512563417370">
+      <file name="/Python Console" timestamp="1512847672036">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" timestamp="1512806968979">
-        <mark key="'" line="17" column="99" />
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="37" column="24" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="37" column="24" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" timestamp="1512847670227">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="42" />
+        <mark key="^" line="34" column="42" />
+        <mark key="." line="34" column="42" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab8.py" timestamp="1512074242062">
         <mark key="'" line="71" column="15" />
@@ -192,12 +191,12 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1512020854388">
         <mark key="'" line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512844767139">
-        <mark key="'" line="75" column="15" />
-        <mark key="[" line="82" column="26" />
-        <mark key="]" line="82" column="72" />
-        <mark key="." line="82" column="72" />
-        <mark key="^" line="82" column="72" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512847424249">
+        <mark key="'" line="78" column="15" />
+        <mark key="[" line="65" column="36" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="28" />
+        <mark key="^" line="66" column="28" />
       </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
         <mark key="'" line="38" column="10" />
@@ -225,6 +224,13 @@
         <mark key="]" line="110" column="54" />
         <mark key="^" line="110" column="54" />
         <mark key="." line="110" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/movies/Movies.java" timestamp="1512847272065">
+        <mark key="'" line="34" column="4" />
+        <mark key="[" line="30" column="53" />
+        <mark key="]" line="30" column="54" />
+        <mark key="^" line="30" column="52" />
+        <mark key="." line="30" column="54" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sarxos/webcam-capture/0.3.11/7a3809e4a67b9865a58bb7c0f7ed88fc46d836ca/webcam-capture-0.3.11-sources.jar!/com/github/sarxos/webcam/Webcam.java" timestamp="1509335470327">
         <mark key="'" line="89" column="4" />
@@ -293,7 +299,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512549929439">
+      <file name="/Dummy.txt" timestamp="1512846956631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -378,8 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="99" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
-      <jump line="474" column="101" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="476" column="56" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="478" column="63" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="481" column="108" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
@@ -478,10 +482,12 @@
       <jump line="75" column="15" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="65" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/chromecast/Chromecast.java" />
       <jump line="22" column="10" filename="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" />
+      <jump line="55" column="2" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/movies/Movies.java" />
+      <jump line="29" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/movies/Movies.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>type_model_with_dropout_variable/</text>
+        <text>image + [classes.index(row[type_key])]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -493,16 +499,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>type_model_with_dropout_variable/</text>
+        <text>image + [classes.index(row[type_key])]</text>
       </register>
       <register name="/" type="4">
         <text>length</text>
       </register>
-      <register name="0" type="4">
-        <text>model_directory</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZlYXR1cmVzID0gZGF0YV9maWxlLmdldCgnZmVhdHVyZXMnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzW2luZGV4XSA9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -531,19 +537,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgIGxhYmVscyA9IHR5cGVfZmlsZS5jcmVhdGVfZGF0YXNldCgnbGFiZWxzJywgW3RvdGFsX2NvdW50XSwgZHR5cGU9aW50KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGF0YV9zZXQKICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnICcK</text>
+        <text encoding="base64">ICAgIGZvciBkYXRhX3NldCBpbiBkYXRhX3NldHMudmFsdWVzKCk6CiAgICAgICAgcHJpbnQgZGF0YV9zZXRbLTFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93IGluIHRxZG0ocm93cyk6CiAgICAgICAgICAgIGRhdGFfc2V0ID0gZGF0YV9maWxlLmdldChnZXRfc2NpZW50aWZpY19uYW1lKHJvdykpCiAgICAgICAgICAgIGxhYmVsID0gY2xhc3Nlcy5pbmRleChyb3dbJ01ham9yIENvbW1vbiBUeXBlJ10pCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKDAsIGRhdGFfc2V0LnNoYXBlWzBdLCBiYXRjaF9zaXplKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kaWNlc1t0eXBlXSArPSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YV9zZXRzW3R5cGVdW2luZGljZXNbdHlwZV1dID0gaW1hZ2UK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -563,16 +569,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW5kaWNlcyA9IHsnY3JvY29kaWxpYW5zJzogMCwgJ2Zyb2dzJzogMCwgJ2xpemFyZHMnOiAwLCAnc2FsYW1hbmRlcnMnOiAwLCAnc25ha2VzJzogMCwgJ3R1cnRsZXMnOiAwfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSAK</text>
+        <text encoding="base64">ICAgIHRvdGFsX2NvdW50ID0gc3VtKGNvdW50cy52YWx1ZXMoKSkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlID0gCg==</text>
+        <text encoding="base64">bGFiZWxfb3V0X2ZpbGUgPSAnc3Nhcl90eXBlc19sYWJlbHMuaGRmNScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
