@@ -196,12 +196,11 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1512020854388">
         <mark key="'" line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512884155651">
-        <mark key="'" line="97" column="12" />
-        <mark key="[" line="54" column="41" />
-        <mark key="]" line="54" column="42" />
-        <mark key="^" line="52" column="77" />
-        <mark key="." line="54" column="42" />
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512935812772">
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="95" column="31" />
+        <mark key="." line="95" column="31" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
         <mark key="'" line="38" column="10" />
@@ -377,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="68" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="514" column="107" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="516" column="78" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="518" column="99" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
@@ -477,10 +475,11 @@
       <jump line="12" column="4" filename="$USER_HOME$/dev/python/herpedex-learning/test.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/test.py" />
       <jump line="3" column="23" filename="$USER_HOME$/dev/python/herpedex-learning/test.py" />
+      <jump line="50" column="26" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>accuracy</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -492,7 +491,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>accuracy</text>
       </register>
       <register name="/" type="4">
         <text>rows</text>
@@ -574,7 +573,7 @@
         <text encoding="base64">ZHJvcG91dDEgPSB0Zi5ubi5kcm9wb3V0KGNvbnYxLCBkcm9wb3V0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -628,8 +627,8 @@
         <entry>%s/\ /,/g</entry>
         <entry>noh</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
