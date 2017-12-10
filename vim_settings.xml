@@ -191,12 +191,12 @@
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" timestamp="1512020854388">
         <mark key="'" line="117" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512876105137">
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" timestamp="1512879292636">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="33" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="62" column="33" />
       </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
         <mark key="'" line="38" column="10" />
@@ -487,7 +487,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>features</text>
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -499,7 +499,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>features</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>rows</text>
