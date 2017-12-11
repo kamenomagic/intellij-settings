@@ -33,12 +33,12 @@
       <file name="$USER_HOME$/dev/python/rosalind/eulerian_old.py" timestamp="1507833656619">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1512846490218">
+      <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1513020532249">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="86" />
-        <mark key="." line="23" column="47" />
-        <mark key="^" line="23" column="47" />
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
       </file>
       <file name="/a.dummy" timestamp="1512884447788">
         <mark key="[" line="0" column="0" />
@@ -187,7 +187,7 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1512847672036">
+      <file name="/Python Console" timestamp="1513020693195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" timestamp="1512884085183">
@@ -314,7 +314,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512965720640">
+      <file name="/Dummy.txt" timestamp="1513020560340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -388,7 +388,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/3.17/9d185f2c484774285585e76f5f1d887208482f93/poi-3.17-sources.jar!/org/apache/poi/ss/usermodel/ClientAnchor.java" timestamp="1509435891204">
         <mark key="'" line="264" column="34" />
       </file>
-      <file name="/fragment.java" timestamp="1512973478402">
+      <file name="/fragment.java" timestamp="1513020541527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/test_movie.html" timestamp="1512962049311">
@@ -498,8 +498,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlcG9jaF9hY2N1cmFjeSA+IC45ODoKICAgICAgICAgICAgcHJpbnQgJ0hpdCBnb29kIGFjY3VyYWN5LCBzdG9wcGVkIHRyYWluaW5nLicKICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="&quot;" type="4">
+        <text>trained_type_model_with_dropout_from_new_images</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -511,7 +511,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text>trained_type_model_with_dropout_from_new_images</text>
       </register>
       <register name="/" type="4">
         <text>rest</text>
