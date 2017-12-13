@@ -137,6 +137,12 @@
         <mark key="]" line="54" column="34" />
         <mark key="." line="54" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/UserComponent.java" timestamp="1513147030112">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="28" column="12" />
+        <mark key="^" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/python/fish/loss_summer.py" timestamp="1512536784668">
         <mark key="'" line="19" column="19" />
         <mark key="[" line="0" column="16" />
@@ -259,12 +265,12 @@
         <mark key="^" line="90" column="85" />
         <mark key="." line="90" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1513145206820">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="^" line="144" column="85" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1513146653737">
+        <mark key="'" line="111" column="37" />
+        <mark key="[" line="90" column="60" />
+        <mark key="]" line="91" column="37" />
+        <mark key="^" line="91" column="37" />
+        <mark key="." line="91" column="37" />
       </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1512843877486">
         <mark key="'" line="23" column="6" />
@@ -318,6 +324,10 @@
         <mark key="^" line="196" column="4" />
         <mark key="." line="196" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Photo.java" timestamp="1513146835529">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1513142113297">
         <mark key="'" line="219" column="0" />
         <mark key="[" line="175" column="28" />
@@ -337,11 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/movies/Movies.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
-      <jump line="57" column="4" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
-      <jump line="60" column="18" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="67" column="8" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="26" column="4" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
@@ -437,10 +442,15 @@
       <jump line="144" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="26" column="58" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="179" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="135" column="40" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="138" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="111" column="37" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBieXRlW10gdG9CeXRlQXJyYXkoQnVmZmVyZWRJbWFnZSBpbWFnZSwgU3RyaW5nIGZvcm1hdCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBidWZmZXIgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICBJbWFnZUlPLndyaXRlKGltYWdlLCBmb3JtYXQsIGJ1ZmZlcik7CiAgICByZXR1cm4gYnVmZmVyLnRvQnl0ZUFycmF5KCk7CiAgfQo=</text>
+        <text encoding="base64">ICBASnNvbklnbm9yZVByb3BlcnRpZXMoeyJwaG90b3MiLCAicHJpbWFyeVBob3RvIn0pCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -457,8 +467,8 @@
       <register name="/" type="4">
         <text>valuation</text>
       </register>
-      <register name="0" type="4">
-        <text>image</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBASnNvbklnbm9yZVByb3BlcnRpZXMoeyJwaG90b3MiLCAicHJpbWFyeVBob3RvIn0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBieXRlW10gdG9CeXRlQXJyYXkoQnVmZmVyZWRJbWFnZSBpbWFnZSwgU3RyaW5nIGZvcm1hdCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIEJ5dGVBcnJheU91dHB1dFN0cmVhbSBidWZmZXIgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7CiAgICBJbWFnZUlPLndyaXRlKGltYWdlLCBmb3JtYXQsIGJ1ZmZlcik7CiAgICByZXR1cm4gYnVmZmVyLnRvQnl0ZUFycmF5KCk7CiAgfQo=</text>
