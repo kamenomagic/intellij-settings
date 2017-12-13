@@ -92,12 +92,12 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1511939713440">
-        <mark key="'" line="143" column="4" />
-        <mark key="[" line="142" column="142" />
-        <mark key="]" line="142" column="141" />
-        <mark key="." line="142" column="141" />
-        <mark key="^" line="142" column="141" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1513136359173">
+        <mark key="'" line="162" column="16" />
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="102" column="15" />
+        <mark key="." line="102" column="15" />
+        <mark key="^" line="102" column="15" />
       </file>
       <file name="$USER_HOME$/dev/python/fish/image_preprocessor.py" timestamp="1512561597067">
         <mark key="'" line="14" column="24" />
@@ -417,10 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="31" filename="$USER_HOME$/dev/python/fish/fish_locator_model.py" />
-      <jump line="61" column="39" filename="$USER_HOME$/dev/python/fish/fish_locator_model.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/python/herpedex-learning/type_model.py" />
       <jump line="73" column="16" filename="$USER_HOME$/dev/python/herpedex-learning/type_identifier.py" />
       <jump line="23" column="10" filename="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" />
       <jump line="25" column="26" filename="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" />
@@ -517,6 +513,10 @@
       <jump line="438" column="44" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
       <jump line="45" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
       <jump line="39" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Title.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="72" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="105" column="16" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="154" column="16" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -650,7 +650,6 @@
         <entry>exhasut</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry>a</entry>
         <entry>%s/&quot;lizard&quot;/&quot;lizards&quot;/g</entry>
         <entry>%s/&quot;frog&quot;/&quot;frogs&quot;/g</entry>
@@ -669,6 +668,7 @@
         <entry>wq</entry>
         <entry>noh</entry>
         <entry>q</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
