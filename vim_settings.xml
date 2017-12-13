@@ -410,10 +410,10 @@
         <mark key="^" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1513134225489">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1513139663117">
         <mark key="'" line="45" column="6" />
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="16" />
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="33" />
         <mark key="." line="37" column="15" />
         <mark key="^" line="37" column="15" />
       </file>
@@ -531,7 +531,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text>System.out</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -548,8 +548,8 @@
       <register name="/" type="4">
         <text>asset</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiRXhjZXB0aW9uIGZvciByZXBvcnQgZm9yIGNvbGxlY3Rpb24gJWQiLCBjb2xsZWN0aW9uLmdldElkKCkpKTsK</text>
+      <register name="0" type="4">
+        <text>System.out</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiUmVwb3J0IHRocmVhZCBzdGFydGVkIGZvciBhc3NldCAlZCIsIGFzc2V0LmdldElkKCkpKTsK</text>
