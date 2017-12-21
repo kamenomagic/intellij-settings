@@ -37,6 +37,13 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Game.java" timestamp="1513863296233">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" timestamp="1513740032381">
         <mark key="'" line="59" column="42" />
         <mark key="[" line="42" column="12" />
@@ -89,6 +96,13 @@
       </file>
       <file name="$USER_HOME$/dev/python/fish/fish_image_sorter.py" timestamp="1512156455300">
         <mark key="'" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Screen.java" timestamp="1513866514390">
+        <mark key="'" line="15" column="72" />
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" timestamp="1513152821308">
         <mark key="'" line="54" column="30" />
@@ -189,12 +203,11 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513863175600">
-        <mark key="'" line="12" column="26" />
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="33" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="33" />
+      <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513866263102">
+        <mark key="'" line="47" column="30" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omertron/api-imdb/053ad65/9e6d7c28de6ba3900b1942ca2af153b952b9af89/api-imdb-053ad65.jar!/com/omertron/imdbapi/model/ImdbMovieDetails.class" timestamp="1509849714569">
         <mark key="'" line="228" column="2" />
@@ -244,10 +257,10 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1513155029741">
-        <mark key="'" line="36" column="40" />
-        <mark key="[" line="145" column="68" />
-        <mark key="]" line="145" column="68" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1513865580424">
+        <mark key="'" line="136" column="4" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="166" column="3" />
         <mark key="^" line="145" column="69" />
         <mark key="." line="145" column="68" />
       </file>
@@ -540,31 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TaskController.java" />
-      <jump line="39" column="96" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TaskController.java" />
-      <jump line="44" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TaskController.java" />
-      <jump line="29" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="122" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="66" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="43" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="17" column="111" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="21" column="43" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="33" column="67" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="83" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="84" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="85" column="33" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="86" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="69" column="32" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" />
-      <jump line="142" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
-      <jump line="97" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/CollectionService.java" />
-      <jump line="35" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/PartService.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/InvoiceService.java" />
-      <jump line="53" column="15" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/BudgetService.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
       <jump line="13" column="19" filename="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task1.json" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task1.json" />
       <jump line="170" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task1.json" />
@@ -639,11 +627,36 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="12" column="64" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="6" column="16" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="13" column="26" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Game.java" />
+      <jump line="18" column="7" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Screen.java" />
+      <jump line="20" column="14" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Screen.java" />
+      <jump line="15" column="72" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Screen.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="26" column="25" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="49" column="22" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="48" column="18" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="27" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="63" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="83" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="103" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="123" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="151" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="184" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="158" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="129" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="136" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="13" column="23" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="23" column="6" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="47" column="30" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LmltYWdlLkltYWdlT2JzZXJ2ZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>256</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -655,16 +668,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>256</text>
       </register>
       <register name="/" type="4">
-        <text>Vehicle</text>
+        <text>ImageIO</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgaW50IFdJRFRIID0gNjQwOwo=</text>
+      <register name="0" type="4">
+        <text>image.getWidth()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LmltYWdlLkltYWdlT2JzZXJ2ZXI7Cg==</text>
+        <text encoding="base64">Ly8gICAgUmFuZG9tIHJhbmRvbSA9IG5ldyBSYW5kb20oKTsKLy8gICAgaW50IHBpeGVsc1tdID0gbmV3IGludFtpbWFnZS5nZXRXaWR0aCgpICogaW1hZ2UuZ2V0SGVpZ2h0KCldOwovLyAgICBmb3IoaW50IHJvdyA9IDA7IHJvdyA8IGltYWdlLmdldEhlaWdodCgpOyByb3crKykgewovLyAgICAgIGZvcihpbnQgY29sdW1uID0gMDsgY29sdW1uIDwgaW1hZ2UuZ2V0V2lkdGgoKTsgY29sdW1uKyspIHsKLy8gICAgICAgIHBpeGVsc1tyb3cgKiBpbWFnZS5nZXRXaWR0aCgpICsgY29sdW1uXSA9IHJhbmRvbS5uZXh0SW50KDI1Nik7Ci8vICAgICAgfQovLyAgICB9Ci8vICAgIFN5c3RlbS5vdXQucHJpbnRsbihpbWFnZS5nZXRUeXBlKCkpOwovLyAgICBpbWFnZS5zZXRSR0IoMCwgMCwgaW1hZ2UuZ2V0V2lkdGgoKSwgaW1hZ2UuZ2V0SGVpZ2h0KCksIHBpeGVscywgMCwgMSk7Ci8vICAgIGdyYXBoaWNzLmRyYXdJbWFnZShpbWFnZSwgMCwgMCwgbnVsbCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -706,19 +719,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwaXhlbHNbcm93ICogd2lkdGggKyBjb2x1bW5dID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEpGcmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBwaXhlbHNbcm93ICogd2lkdGggKyBjb2x1bW5dID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgd2luZG93LnVwZGF0ZShncmFwaGljcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzY3JlZW4uZ2V0UmFzdGVyKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlbgo=</text>
+        <text encoding="base64">ICAgIHNjcmVlbi5nZXRSYXN0ZXIoKS5nZXRQaXhlbCh4LCB5LCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -738,34 +751,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBBc3Rlcm9pZHMoKSB7CgogIH0K</text>
+        <text encoding="base64">ICAgIGZvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgcnVuKCkgewoKICB9Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzY3JlZW4uZ2V0UmFzdGVyKCkuZ2V0V2lkdGgoKSk7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2NyZWVuLmdldFJhc3RlcigpLmdldEhlaWdodCgpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-    &quot;tasks&quot; + (inProgress ? &quot;-in-progress&quot; : &quot;&quot;)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgaW1hZ2UuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Vehicle</last-search>
+      <last-search>ImageIO</last-search>
       <last-offset />
-      <last-pattern>Vehicle</last-pattern>
+      <last-pattern>ImageIO</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XCA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>smt</entry>
         <entry>Exhaust Pipes</entry>
         <entry>airplane</entry>
         <entry encoding="base64">XDxFeGhhc3V0XD4=</entry>
@@ -785,6 +796,7 @@
         <entry>descriptiong</entry>
         <entry>longnam</entry>
         <entry>Vehicle</entry>
+        <entry>ImageIO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;lizard&quot;/&quot;lizards&quot;/g</entry>
@@ -804,8 +816,8 @@
         <entry>;w</entry>
         <entry>.,.+443q</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
