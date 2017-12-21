@@ -189,6 +189,13 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513863175600">
+        <mark key="'" line="12" column="26" />
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Omertron/api-imdb/053ad65/9e6d7c28de6ba3900b1942ca2af153b952b9af89/api-imdb-053ad65.jar!/com/omertron/imdbapi/model/ImdbMovieDetails.class" timestamp="1509849714569">
         <mark key="'" line="228" column="2" />
       </file>
@@ -533,11 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="15" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" />
-      <jump line="107" column="98" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" />
-      <jump line="110" column="51" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" />
-      <jump line="111" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TimeService.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TaskController.java" />
       <jump line="39" column="96" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TaskController.java" />
       <jump line="44" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TaskController.java" />
@@ -633,11 +635,15 @@
       <jump line="58" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
       <jump line="48" column="64" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
       <jump line="32" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="12" column="64" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="6" column="16" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
+      <jump line="13" column="26" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,
-    &quot;tasks&quot; + (inProgress ? &quot;-in-progress&quot; : &quot;&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LmltYWdlLkltYWdlT2JzZXJ2ZXI7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -649,17 +655,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;invoices&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Vehicle</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Task Report &quot; + (inProgress ? &quot;(Incomplete)&quot; : &quot;(All)&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgaW50IFdJRFRIID0gNjQwOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-    &quot;tasks&quot; + (inProgress ? &quot;-in-progress&quot; : &quot;&quot;)</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LmltYWdlLkltYWdlT2JzZXJ2ZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -701,19 +706,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0YXNrcyIgKyAoaW5Qcm9ncmVzcyA/ICItaW4tcHJvZ3Jlc3MiIDogIiIpKSwK</text>
+        <text encoding="base64">ICAgICAgc3RhcnQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGUgPSBuZXcgRmlsZShTdHJpbmcuZm9ybWF0KCJ0ZW1wcmVwb3J0cy8lcy54bHN4IiwgZmlsZU5hbWUpKTsKICAgIEZpbGVzLmRlbGV0ZUlmRXhpc3RzKGZpbGUudG9QYXRoKCkpOwogICAgd29ya2Jvb2sgPSBuZXcgWFNTRldvcmtib29rKCk7CiAgICBzaGVldCA9IHdvcmtib29rLmNyZWF0ZVNoZWV0KFdvcmtib29rVXRpbC5jcmVhdGVTYWZlU2hlZXROYW1lKGZpbGVOYW1lKSk7CiAgICBzaGVldC5zZXRBdXRvYnJlYWtzKHRydWUpOwogICAgc2hlZXQuc2V0RGlzcGxheUdyaWRsaW5lcyhmYWxzZSk7CiAgICBmb3IgKGludCBpID0gMDsgaSA8IDIwOyBpKyspIHsKICAgICAgc2hlZXQuc2V0Q29sdW1uV2lkdGgoaSwgNDA5Nik7CiAgICB9CiAgICBzaGVldC5zZXRGaXRUb1BhZ2UodHJ1ZSk7CiAgICBQcmludFNldHVwIHByaW50U2V0dXAgPSBzaGVldC5nZXRQcmludFNldHVwKCk7CiAgICBwcmludFNldHVwLnNldEZpdFdpZHRoKChzaG9ydCkgMSk7CiAgICBwcmludFNldHVwLnNldEZpdEhlaWdodCgoc2hvcnQpIDApOwogICAgcHJpbnRTZXR1cC5zZXRMYW5kc2NhcGUodHJ1ZSk7CiAgICByb3cgPSBzaGVldC5jcmVhdGVSb3cocm93SW5kZXgrKyk7Cg==</text>
+        <text encoding="base64">ICAgIEpGcmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSB7CgogICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIHRpbWVTcGVudCArPSBEb3VibGUucGFyc2VEb3VibGUodGFzay5nZXRFc3RpbWF0ZWRUaW1lKCkpOwogICAgICAgICAgfSBjYXRjaChOdWxsUG9pbnRlckV4Y2VwdGlvbiB8IE51bWJlckZvcm1hdEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcGFydHNNYXJrdXBWYWx1ZSA9IAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGJvb2xlbgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -733,16 +738,17 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcG9ydC5ibGFua0NlbGxzKDUsICk7Cg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBBc3Rlcm9pZHMoKSB7CgogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnQuYmxhbmtDZWxscygxKTsKICAgICAgICByZXBvcnQucHJpbnRDZWxsKHN1YmNvbXBvbmVudC5nZXROYW1lKCkpOwogICAgICAgIHJlcG9ydC5wcmludENlbGxzKGNvbXBvbmVudC5nZXRWZW5kb3IoKSA9PSBudWxsID8gIiIgOiBjb21wb25lbnQuZ2V0VmVuZG9yKCkudG9TdHJpbmcoKSk7CiAgICAgICAgcmVwb3J0LnByaW50Q2VsbHNOZXdSb3cocmVwb3J0LmNlbGxTdHlsZUJ1aWxkZXIoKS5jdXJyZW5jeSgpLmFsaWduKEhvcml6b250YWxBbGlnbm1lbnQuQ0VOVEVSKS5idWlsZCgpLCBzdWJjb21wb25lbnQuZ2V0Q29zdCgpKTsK</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgcnVuKCkgewoKICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>,
+    &quot;tasks&quot; + (inProgress ? &quot;-in-progress&quot; : &quot;&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -755,7 +761,7 @@
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XCA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
