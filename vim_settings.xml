@@ -747,7 +747,7 @@
         <text encoding="base64">ICAgIFJhbmRvbSByYW5kb20gPSBuZXcgUmFuZG9tKCk7CiAgICBmb3IgKGludCByb3cgPSAwOyByb3cgPCBoZWlnaHQ7IHJvdysrKSB7CiAgICAgIGZvciAoaW50IGNvbHVtbiA9IDA7IGNvbHVtbiA8IHdpZHRoOyBjb2x1bW4rKykgewogICAgICAgIHBpeGVsc1tyb3cgKiB3aWR0aCArIGNvbHVtbl0gPSByYW5kb20ubmV4dEludCgweGZmZmZmZik7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -757,7 +757,7 @@
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XCA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -799,10 +799,10 @@
         <entry>%s/\ /,/g</entry>
         <entry>;w</entry>
         <entry>.,.+443q</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
