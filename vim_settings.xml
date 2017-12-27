@@ -156,11 +156,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" timestamp="1514358639120">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="22" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" timestamp="1514364171097">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="23" column="42" />
       </file>
       <file name="/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/xml/etree/ElementTree.py" timestamp="1510935666383">
         <mark key="'" line="124" column="0" />
@@ -271,6 +272,13 @@
         <mark key="]" line="1705" column="73" />
         <mark key="." line="1705" column="73" />
         <mark key="^" line="1705" column="73" />
+      </file>
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Food.java" timestamp="1514362961192">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="13" column="55" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1513977629120">
         <mark key="'" line="36" column="100" />
@@ -428,12 +436,12 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" timestamp="1514361288167">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="36" />
-        <mark key="." line="8" column="36" />
-        <mark key="^" line="8" column="36" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" timestamp="1514364415075">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/wemo/Wemo.java" timestamp="1512965769558">
         <mark key="'" line="93" column="36" />
@@ -566,11 +574,12 @@
         <mark key="." line="438" column="49" />
         <mark key="^" line="547" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" timestamp="1514361247933">
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
-        <mark key="^" line="9" column="35" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" timestamp="1514364431834">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="40" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/application/Call.java" timestamp="1509260792475">
         <mark key="[" line="2" column="19" />
@@ -647,39 +656,18 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" timestamp="1514360857485">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" timestamp="1514364474227">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="6" />
+        <mark key="^" line="25" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1514357870219">
+      <file name="/fragment.java" timestamp="1514362162103">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="12" column="64" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="6" column="16" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="18" column="7" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Screen.java" />
-      <jump line="20" column="14" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Screen.java" />
-      <jump line="15" column="72" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Screen.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="48" column="18" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="63" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="83" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="103" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="123" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="184" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="158" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="129" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="136" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
-      <jump line="13" column="23" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="23" column="6" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="31" column="2" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="10" column="12" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Game.java" />
@@ -756,12 +744,34 @@
       <jump line="94" column="21" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
       <jump line="37" column="15" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
       <jump line="62" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
-      <jump line="24" column="10" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="36" column="9" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Food.java" />
+      <jump line="26" column="14" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="46" column="31" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="13" column="2" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="23" column="2" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="38" column="6" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="28" column="10" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
+      <jump line="15" column="18" filename="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" />
+      <jump line="12" column="24" filename="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="15" column="35" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="60" column="8" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="38" column="62" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="72" column="2" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>30</text>
+        <text>head</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -773,16 +783,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>30</text>
+        <text>head</text>
       </register>
       <register name="/" type="4">
         <text>head</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKHhTcGVlZCA+PSAwKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>firstTail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKHhTcGVlZCA+PSAwKSB7Cg==</text>
+        <text encoding="base64">ICAgIGludCBjb2xvciA9IHJhbmRvbS5uZXh0SW50KDB4ZmZmZmZmKTsKICAgIGZvcihpbnQgaSA9IDA7IGkgPCBoZWFkLnBpeGVscy5sZW5ndGg7IGkrKykgewogICAgICBoZWFkLnBpeGVsc1tpXSA9IGNvbG9yOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -824,19 +834,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKGhlYWQueFNwZWVkID49IDApOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5hcnJheWNvcHkocGl4ZWxzLCAwLCBjbG9uZS5waXhlbHMsIDAsIGNsb25lLnBpeGVscy5sZW5ndGgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRhaWwuYWRkKGhlYWQuY2xvbmUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNsb25lLnBpeGVscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcnVubmluZyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIGZvcigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
+        <text encoding="base64">ICAgIGZvcihTbmFrZVBhcnQgcGFydCA6IHRhaWwpIHsKICAgICAgY29sb3IgPSByYW5kb20ubmV4dEludCgweGZmZmZmZik7CiAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBwYXJ0LnBpeGVscy5sZW5ndGg7IGkrKykgewogICAgICAgIHBhcnQucGl4ZWxzW2ldID0gY29sb3I7CiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgIGZvcihGb29kIGZvb2QgOiBnYW1lLmZvb2RzKSB7CiAgICAgIGludCBjb2xvciA9IHJhbmRvbS5uZXh0SW50KDB4ZmZmZmZmKTsKICAgICAgZm9yKGludCBpID0gMDsgaSA8IGZvb2QucGl4ZWxzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgZm9vZC5waXhlbHNbaV0gPSBjb2xvcjsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -856,16 +866,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhaWwuc3RyZWFtKCkuYW55TWF0Y2gocGFydCAtPiBoZWFkLmNvbGxpZGluZ1dpdGgocGFydCkpOwo=</text>
+        <text encoding="base64">ICAgIHN1cGVyLmNsZWFyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvcihTbmFrZVBhcnQgcGFydCA6IHRhaWwpIHsKICAgICAgaWYoaGVhZC5jb2xsaWRpbmdXaXRoKHBhcnQpKSB7CgogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIGZvcihpbnQgaSA9IDA7IGkgPCBoZWFkLnBpeGVscy5sZW5ndGg7IGkrKykgewogICAgICAKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
