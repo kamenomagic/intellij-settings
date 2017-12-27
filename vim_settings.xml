@@ -428,12 +428,12 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" timestamp="1514358990486">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="39" column="42" />
-        <mark key="]" line="40" column="20" />
-        <mark key="." line="40" column="20" />
-        <mark key="^" line="40" column="20" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" timestamp="1514361288167">
+        <mark key="'" line="39" column="5" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/wemo/Wemo.java" timestamp="1512965769558">
         <mark key="'" line="93" column="36" />
@@ -566,12 +566,11 @@
         <mark key="." line="438" column="49" />
         <mark key="^" line="547" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" timestamp="1514358334512">
-        <mark key="'" line="61" column="4" />
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="36" />
-        <mark key="." line="33" column="15" />
-        <mark key="^" line="33" column="15" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" timestamp="1514361247933">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/application/Call.java" timestamp="1509260792475">
         <mark key="[" line="2" column="19" />
@@ -612,12 +611,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" timestamp="1513987989798">
-        <mark key="'" line="111" column="6" />
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="18" />
-        <mark key="." line="49" column="18" />
-        <mark key="^" line="49" column="18" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" timestamp="1514361240438">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="31" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Invoice.java" timestamp="1513738327387">
         <mark key="[" line="56" column="11" />
@@ -649,27 +647,17 @@
         <mark key="^" line="42" column="23" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" timestamp="1514359269716">
-        <mark key="'" line="30" column="20" />
-        <mark key="[" line="18" column="56" />
-        <mark key="]" line="18" column="63" />
-        <mark key="." line="18" column="63" />
-        <mark key="^" line="18" column="63" />
+      <file name="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" timestamp="1514360857485">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1514357870219">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="116" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="25" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
-      <jump line="36" column="100" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
-      <jump line="31" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="58" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" />
-      <jump line="48" column="64" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="32" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="12" column="64" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
       <jump line="6" column="16" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" />
@@ -761,10 +749,19 @@
       <jump line="13" column="24" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="56" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="25" column="20" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
+      <jump line="42" column="5" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
+      <jump line="49" column="18" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
+      <jump line="92" column="2" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
+      <jump line="143" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
+      <jump line="94" column="21" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
+      <jump line="37" column="15" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
+      <jump line="24" column="10" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
+      <jump line="36" column="9" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlYWQubW92ZSh4TWF4LCB5TWF4KTsK</text>
+      <register name="&quot;" type="4">
+        <text>30</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -776,16 +773,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>head</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMua2V5c1tLZXlFdmVudC5WS19TUEFDRV0pIHsKICAgICAgICBzbmFrZS5hZGQoKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmKHhTcGVlZCA+PSAwKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWQubW92ZSh4TWF4LCB5TWF4KTsK</text>
+        <text encoding="base64">ICAgIGlmKHhTcGVlZCA+PSAwKSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -827,19 +824,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhaWwuZ2V0KDApLmNvcHkoaGVhZCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKGhlYWQueFNwZWVkID49IDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGFkZCkgewogICAgICB0YWlsLmFkZChjdXJyZW50LmNsb25lKCkpOwogICAgICBhZGQgPSBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHRhaWwuYWRkKGhlYWQuY2xvbmUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU25ha2VQYXJ0Cg==</text>
+        <text encoding="base64">CQkJcnVubmluZyA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXhpdCgwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKGFkZCkgewogICAgICB0YWlsLmFkZChjdXJyZW50LmNsb25lKCkpOwogICAgICBhZGQgPSBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -859,16 +856,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNuYWtlUGFydCBjdXJyZW50ID0gaGVhZDsKICAgIGZvcihTbmFrZVBhcnQgcGFydCA6IHRhaWwpIHsKICAgICAgY3VycmVudCA9IHBhcnQ7CiAgICAgIHBhcnQuY29weShjdXJyZW50KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHRhaWwuc3RyZWFtKCkuYW55TWF0Y2gocGFydCAtPiBoZWFkLmNvbGxpZGluZ1dpdGgocGFydCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvcihTbmFrZVBhcnQgcGFydCA6IHRhaWwpIHsKICAgICAgaWYoaGVhZC5jb2xsaWRpbmdXaXRoKHBhcnQpKSB7CgogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRhaWwuYWRkKGhlYWQuY2xvbmUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -913,7 +910,6 @@
         <entry>%s/&quot;crocodilian&quot;/&quot;crocodilians&quot;/g</entry>
         <entry>%s/&quot;turtle&quot;/&quot;turtles&quot;/g</entry>
         <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
-        <entry>2</entry>
         <entry>vs util</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">dyA=</entry>
@@ -926,6 +922,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
