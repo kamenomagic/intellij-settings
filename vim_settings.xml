@@ -211,7 +211,8 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1513060525904">
+      <file name="$USER_HOME$/dev/python/censor/main.py" timestamp="1515600704361" />
+      <file name="/Python Console" timestamp="1515600711953">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Game.java" timestamp="1515289913280">
@@ -572,7 +573,7 @@
       <file name="/dummy.sql" timestamp="1515573001887">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513735964919">
+      <file name="/Dummy.txt" timestamp="1515600601809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -587,6 +588,9 @@
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/MaintenanceActivityService.java" timestamp="1515487929239">
         <mark key="'" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/python/censor/censor.py" timestamp="1515600734415">
+        <mark key="'" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-inverse.py" timestamp="1510881119078">
         <mark key="'" line="5" column="0" />
@@ -641,12 +645,11 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1514362162103">
+      <file name="/fragment.java" timestamp="1515600286609">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="17" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
       <jump line="51" column="15" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="57" column="27" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="13" column="24" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
@@ -746,6 +749,7 @@
       <jump line="172" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="44" column="56" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="24" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
+      <jump line="4" column="15" filename="$USER_HOME$/dev/python/censor/censor.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -857,7 +861,7 @@
         <text encoding="base64">Cgpmcm9tIGRqYW5nby51cmxzIGltcG9ydCBpbmNsdWRlLCBwYXRoCmZyb20gZGphbmdvLmNvbnRyaWIgaW1wb3J0IGFkbWluCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -911,8 +915,8 @@
         <entry>2</entry>
         <entry>noh</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
