@@ -115,6 +115,12 @@
         <mark key="." line="171" column="3" />
         <mark key="^" line="171" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/python/polysleeper/polysleeper/settings.py" timestamp="1515660850642">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="^" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" timestamp="1515291133662">
         <mark key="'" line="6" column="22" />
         <mark key="[" line="44" column="15" />
@@ -466,6 +472,12 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/python/polysleeper/tracker/admin.py" timestamp="1515661316235">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task8.json" timestamp="1513162660269">
         <mark key="'" line="2" column="11" />
         <mark key="[" line="6" column="13" />
@@ -526,6 +538,13 @@
         <mark key="]" line="7" column="28" />
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/python/polysleeper/tracker/models.py" timestamp="1515660774224">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="11" column="60" />
+        <mark key="]" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+        <mark key="^" line="11" column="60" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/build.gradle" timestamp="1511094428139">
         <mark key="'" line="59" column="0" />
@@ -649,10 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="15" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
-      <jump line="57" column="27" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
-      <jump line="13" column="24" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="25" column="20" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="42" column="5" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
       <jump line="49" column="18" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
@@ -749,10 +764,14 @@
       <jump line="44" column="56" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
       <jump line="24" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
       <jump line="4" column="15" filename="$USER_HOME$/dev/python/censor/censor.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -764,16 +783,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>dead</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJ3RyYWNrZXIvJywgaW5jbHVkZSgndHJhY2tlci51cmxzJykpLAo=</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihUYWcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBmb3IoVXNlckNvbXBvbmVudCBzdWJDb21wb25lbnQgOiB1c2VyQ29tcG9uZW50LmdldFN1YkNvbXBvbmVudHMoKSkgewovLyAgICAgICAgdXNlckNvbXBvbmVudFNlcnZpY2UuZGVsZXRlQ29tcG9uZW50UmVzcG9uc2VFbnRpdHkocHJvamVjdElkLCBzdWJDb21wb25lbnQuZ2V0SWQoKSkgOwovLyAgICAgIH0K</text>
+        <text encoding="base64">IyBSZWdpc3RlciB5b3VyIG1vZGVscyBoZXJlLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -816,19 +835,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29tcG9uZW50UmVwb3NpdG9yeS5kZWxldGUoY29tcG9uZW50SWQpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVCBlVCA9IDsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CmNsYXNzIFNsZWVwKG1vZGVscy5Nb2RlbCk6CiAgICBzdGFydF90aW1lID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoKQogICAgZW5kX3RpbWUgPSBtb2RlbHMuRGF0ZVRpbWVGaWVsZCgpCiAgICB0YWcgPSBtb2RlbHMuRm9yZWlnbktleShUYWcpCgoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAVHJhbnNhY3Rpb25hbAo=</text>
+        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXNlckNvbXBvbmVudC5nZXRTdWJDb21wb25lbnRzKCkKICAgICAgICAgICAgICAuZm9yRWFjaChzdWJjb21wb25lbnQgLT4gdXNlckNvbXBvbmVudFNlcnZpY2UuZGVsZXRlQ29tcG9uZW50UmVzcG9uc2VFbnRpdHkocHJvamVjdElkLCBzdWJjb21wb25lbnQuZ2V0SWQoKSkpOwo=</text>
+        <text encoding="base64">Ly8gICAgICBmb3IoVXNlckNvbXBvbmVudCBzdWJDb21wb25lbnQgOiB1c2VyQ29tcG9uZW50LmdldFN1YkNvbXBvbmVudHMoKSkgewovLyAgICAgICAgdXNlckNvbXBvbmVudFNlcnZpY2UuZGVsZXRlQ29tcG9uZW50UmVzcG9uc2VFbnRpdHkocHJvamVjdElkLCBzdWJDb21wb25lbnQuZ2V0SWQoKSkgOwovLyAgICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -848,16 +867,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJDb21wb25lbnRSZXBvc2l0b3J5LmZpbmRCeVByb2plY3RJZEFuZFBhcmVudElzTnVsbChwcm9qZWN0SWQpLmZvckVhY2godXNlckNvbXBvbmVudCAtPiB7CiAgICAgIHVzZXJDb21wb25lbnQuZ2V0U3ViQ29tcG9uZW50cygpLmZvckVhY2godXNlckNvbXBvbmVudFNlcnZpY2U6OmRlbGV0ZTsKICAgICAgdXNlckNvbXBvbmVudFJlcG9zaXRvcnkuZGVsZXRlKHVzZXJDb21wb25lbnQpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50UmVwb3NpdG9yeS5kZWxldGUoY29tcG9uZW50SWQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhdGgoJycsICksCg==</text>
+        <text encoding="base64">ICAgICAgVCBlVCA9IDsK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgpmcm9tIGRqYW5nby51cmxzIGltcG9ydCBpbmNsdWRlLCBwYXRoCmZyb20gZGphbmdvLmNvbnRyaWIgaW1wb3J0IGFkbWluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
