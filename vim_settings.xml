@@ -98,12 +98,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515662590356">
-        <mark key="'" line="57" column="37" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="91" column="5" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515748755833">
+        <mark key="'" line="100" column="6" />
+        <mark key="[" line="141" column="30" />
+        <mark key="]" line="141" column="37" />
+        <mark key="." line="141" column="37" />
+        <mark key="^" line="141" column="37" />
       </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/game/Game.java" timestamp="1513986812120">
         <mark key="'" line="9" column="32" />
@@ -131,12 +131,12 @@
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1515662060692">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1515748738409">
         <mark key="'" line="46" column="40" />
-        <mark key="[" line="50" column="45" />
-        <mark key="]" line="50" column="48" />
-        <mark key="." line="50" column="48" />
-        <mark key="^" line="50" column="48" />
+        <mark key="[" line="54" column="35" />
+        <mark key="]" line="54" column="45" />
+        <mark key="." line="54" column="45" />
+        <mark key="^" line="54" column="45" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/project/TaskController.java" timestamp="1513157715768">
         <mark key="'" line="44" column="27" />
@@ -670,7 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="62" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
       <jump line="13" column="4" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
       <jump line="52" column="4" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
       <jump line="72" column="2" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
@@ -770,10 +769,11 @@
       <jump line="43" column="93" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
       <jump line="103" column="32" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="120" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/MaintenanceActivity.java" />
+      <jump line="100" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>; tomorrow</text>
+        <text>ShortName</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -785,7 +785,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>; tomorrow</text>
+        <text>ShortName</text>
       </register>
       <register name="/" type="4">
         <text>inProgress</text>
@@ -881,7 +881,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -934,9 +934,9 @@
         <entry>.,.+443q</entry>
         <entry>2</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
