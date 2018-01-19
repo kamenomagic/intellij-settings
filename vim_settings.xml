@@ -207,11 +207,12 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/AfternoonCoreAlarm.java" timestamp="1516335930870">
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/AfternoonCoreAlarm.java" timestamp="1516343762502">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task6.json" timestamp="1515663570459">
         <mark key="'" line="16" column="11" />
@@ -454,6 +455,11 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/wemo/Wemo.java" timestamp="1516343876151">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1513279091429">
         <mark key="'" line="30" column="49" />
         <mark key="[" line="33" column="44" />
@@ -475,12 +481,12 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/MorningCoreAlarm.java" timestamp="1516335752826">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="13" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/MorningCoreAlarm.java" timestamp="1516343772536">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/dev/python/polysleeper/tracker/admin.py" timestamp="1515661316235">
         <mark key="[" line="1" column="5" />
@@ -666,11 +672,12 @@
         <mark key="^" line="47" column="39" />
         <mark key="." line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/NightCoreAlarm.java" timestamp="1516335990863">
-        <mark key="[" line="15" column="56" />
-        <mark key="]" line="15" column="57" />
-        <mark key="." line="15" column="57" />
-        <mark key="^" line="15" column="57" />
+      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/NightCoreAlarm.java" timestamp="1516343787429">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" timestamp="1514364474227">
         <mark key="'" line="71" column="0" />
@@ -684,9 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" />
       <jump line="14" column="31" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" />
       <jump line="14" column="35" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
@@ -784,10 +788,13 @@
       <jump line="12" column="17" filename="$USER_HOME$/dev/python/polysleeper/tracker/serializers.py" />
       <jump line="18" column="10" filename="$USER_HOME$/dev/python/polysleeper/tracker/serializers.py" />
       <jump line="20" column="9" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/MorningCoreAlarm.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/AfternoonCoreAlarm.java" />
+      <jump line="13" column="10" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/MorningCoreAlarm.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/NightCoreAlarm.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENhbGVuZGFyIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgIFBhdGggZGlyZWN0b3JpZXMgPSBQYXRocy5nZXQoYXJjaGl2ZVBhdGgsICJzcGlkZXJzIik7CiAgICBTdHJpbmcgZmlsZU5hbWUgPSBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuREFZX09GX01PTlRIKSArICItIiArIGNhbGVuZGFyLmdldChDYWxlbmRhci5IT1VSX09GX0RBWSkgKyAiOiIgKyBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuTUlOVVRFKSArICIuanBnIjsKICAgIHRyeSB7CiAgICAgIEltYWdlSU8ud3JpdGUoc2h1dHRlci5nZXRJbWFnZSgpLCAianBnIiwgUGF0aHMuZ2V0KEZpbGVzLmNyZWF0ZURpcmVjdG9yaWVzKGRpcmVjdG9yaWVzKS50b1N0cmluZygpLCBmaWxlTmFtZSkudG9GaWxlKCkpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgbG9nLmluZm8oIkVycm9yIGFyY2hpdmluZyByZW5lZ2FkZSBpbWFnZSIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0gZmluYWxseSB7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -799,16 +806,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>inProgress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHdlbW8ub24oKTsKICAgIH0gY2F0Y2ggKFN5bmNocm9uaWNpdHlFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHdlbW8ub25PZmZMaW5nZXIoMyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENhbGVuZGFyIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKTsKICAgIFBhdGggZGlyZWN0b3JpZXMgPSBQYXRocy5nZXQoYXJjaGl2ZVBhdGgsICJzcGlkZXJzIik7CiAgICBTdHJpbmcgZmlsZU5hbWUgPSBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuREFZX09GX01PTlRIKSArICItIiArIGNhbGVuZGFyLmdldChDYWxlbmRhci5IT1VSX09GX0RBWSkgKyAiOiIgKyBjYWxlbmRhci5nZXQoQ2FsZW5kYXIuTUlOVVRFKSArICIuanBnIjsKICAgIHRyeSB7CiAgICAgIEltYWdlSU8ud3JpdGUoc2h1dHRlci5nZXRJbWFnZSgpLCAianBnIiwgUGF0aHMuZ2V0KEZpbGVzLmNyZWF0ZURpcmVjdG9yaWVzKGRpcmVjdG9yaWVzKS50b1N0cmluZygpLCBmaWxlTmFtZSkudG9GaWxlKCkpOwogICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgbG9nLmluZm8oIkVycm9yIGFyY2hpdmluZyByZW5lZ2FkZSBpbWFnZSIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0gZmluYWxseSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -851,19 +858,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb2ZmKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXdUcmlnZ2VyKCkud2l0aFNjaGVkdWxlKGRhaWx5QXRIb3VyQW5kTWludXRlKDIsIDApKS5idWlsZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgb2ZmKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZWRfZGF0YSA9IHNlbGYuZGF0YQo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -883,16 +890,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAjIHZhbGlkYXRlZF9kYXRhID0gc2VsZi5kYXRhCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFN5bmNocm9uaWNpdHlFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUYWcub2JqZWN0cy4K</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKFN5bmNocm9uaWNpdHlFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgTGlzdCBhbGwgY29kZSBzbmlwcGV0cywgb3IgY3JlYXRlIGEgbmV3IHNuaXBwZXQuCiAgICAiIiIK</text>
+        <text encoding="base64">CiAgICB0cnkgewogICAgICB3ZW1vLm9uKCk7CiAgICB9IGNhdGNoIChTeW5jaHJvbmljaXR5RXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
