@@ -586,12 +586,12 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1517046955846">
-        <mark key="'" line="15" column="11" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="56" column="15" />
-        <mark key="^" line="56" column="15" />
-        <mark key="." line="56" column="15" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1517048596788">
+        <mark key="'" line="80" column="12" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="18" />
+        <mark key="^" line="55" column="17" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510882849629">
         <mark key="'" line="47" column="0" />
@@ -785,13 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
-      <jump line="171" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
-      <jump line="211" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
-      <jump line="249" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="34" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="69" column="47" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="33" column="61" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="48" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="49" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
@@ -885,10 +878,17 @@
       <jump line="15" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="18" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="81" column="3" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="16" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="41" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="83" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="82" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="80" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uID0gOwo=</text>
+        <text encoding="base64">ICAgICAgc2VuZEVtYWlsKCk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -903,13 +903,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>subscription</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>monthly</text>
+        <text encoding="base64">PFwvYnI+</text>
       </register>
-      <register name="0" type="4">
-        <text>subscriptionToUserType</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2VuZEVtYWlsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uID0gOwo=</text>
@@ -966,17 +966,16 @@
       </register>
     </registers>
     <search>
-      <last-search>monthly</last-search>
+      <last-search encoding="base64">PFwvYnI+</last-search>
       <last-offset />
-      <last-pattern>monthly</last-pattern>
-      <last-replace>,</last-replace>
-      <last-substitute encoding="base64">XCA=</last-substitute>
+      <last-pattern encoding="base64">PFwvYnI+</last-pattern>
+      <last-replace encoding="base64">PGJyPg==</last-replace>
+      <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>keys</entry>
         <entry>head</entry>
         <entry>size</entry>
         <entry>dead</entry>
@@ -996,9 +995,9 @@
         <entry>an</entry>
         <entry>a\ subscription for the logged-in user</entry>
         <entry>monthly</entry>
+        <entry encoding="base64">PFwvYnI+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;lizard&quot;/&quot;lizards&quot;/g</entry>
         <entry>%s/&quot;frog&quot;/&quot;frogs&quot;/g</entry>
         <entry>%s/&quot;salamander&quot;/&quot;salamanders&quot;/g</entry>
         <entry>%s/&quot;crocodilian&quot;/&quot;crocodilians&quot;/g</entry>
@@ -1017,6 +1016,7 @@
         <entry>noh</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
