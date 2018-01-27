@@ -387,8 +387,8 @@
         <mark key="." line="184" column="21" />
         <mark key="^" line="194" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1513142063520">
-        <mark key="'" line="45" column="6" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1517046963222">
+        <mark key="'" line="103" column="0" />
         <mark key="[" line="48" column="24" />
         <mark key="]" line="48" column="33" />
         <mark key="." line="37" column="15" />
@@ -586,8 +586,8 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1517043724719">
-        <mark key="'" line="14" column="17" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1517046955846">
+        <mark key="'" line="15" column="11" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="56" column="15" />
         <mark key="^" line="56" column="15" />
@@ -785,9 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
-      <jump line="67" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
       <jump line="131" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
       <jump line="171" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
       <jump line="211" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
@@ -885,6 +882,9 @@
       <jump line="83" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
       <jump line="30" column="5" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
       <jump line="39" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="15" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="18" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -962,7 +962,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfeWVhcmx5X25ldyIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1016,8 +1016,8 @@
         <entry>2</entry>
         <entry>noh</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
