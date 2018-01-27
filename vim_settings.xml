@@ -75,12 +75,12 @@
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" timestamp="1513163738211">
-        <mark key="'" line="236" column="14" />
-        <mark key="[" line="237" column="107" />
-        <mark key="]" line="237" column="113" />
-        <mark key="." line="237" column="113" />
-        <mark key="^" line="237" column="113" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" timestamp="1517039622603">
+        <mark key="'" line="136" column="32" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="^" line="136" column="94" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515748755833">
         <mark key="'" line="100" column="6" />
@@ -210,6 +210,11 @@
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/AfternoonCoreAlarm.java" timestamp="1516433755155">
         <mark key="'" line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1517039724662">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task6.json" timestamp="1515663570459">
         <mark key="'" line="16" column="11" />
@@ -381,6 +386,12 @@
         <mark key="^" line="171" column="21" />
         <mark key="." line="171" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" timestamp="1517040386773">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="9" column="159" />
+        <mark key="^" line="9" column="159" />
+        <mark key="." line="9" column="159" />
+      </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1513060523767">
         <mark key="'" line="26" column="31" />
         <mark key="[" line="6" column="19" />
@@ -431,6 +442,12 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" timestamp="1517040718343">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="10" column="71" />
+      </file>
       <file name="$USER_HOME$/dev/queueyou/src/main/java/Main.java" timestamp="1515374890245">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="29" />
@@ -458,6 +475,12 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AllAssetController.java" timestamp="1517039772691">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1513279091429">
         <mark key="'" line="30" column="49" />
@@ -540,6 +563,13 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1517040790110">
+        <mark key="'" line="80" column="47" />
+        <mark key="[" line="80" column="36" />
+        <mark key="]" line="80" column="36" />
+        <mark key="^" line="14" column="44" />
+        <mark key="." line="80" column="47" />
+      </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510882849629">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="16" column="4" />
@@ -598,6 +628,9 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="10" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/asset/AssetRepository.java" timestamp="1517039514228">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1516701062286">
         <mark key="'" line="27" column="13" />
@@ -679,6 +712,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/SubscriptionRepository.java" timestamp="1517040842761">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="7" column="74" />
+        <mark key="." line="7" column="74" />
+        <mark key="^" line="7" column="74" />
+      </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511428155766">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="14" column="0" />
@@ -707,81 +746,11 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1516335679604">
+      <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" />
-      <jump line="14" column="35" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/dev/java/snake/src/snake/core/Game.java" />
-      <jump line="133" column="39" filename="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/art/Screen.java" />
-      <jump line="24" column="20" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Game.java" />
-      <jump line="58" column="6" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Game.java" />
-      <jump line="9" column="33" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="14" column="30" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="48" column="4" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="68" column="6" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="128" column="4" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="88" column="4" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="25" column="4" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="37" column="35" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="8" column="23" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="26" column="20" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="30" column="34" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="31" column="29" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="32" column="33" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="33" column="29" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="34" column="31" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="36" column="22" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="10" column="22" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="27" column="18" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Game.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Game.java" />
-      <jump line="7" column="25" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="19" column="19" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="28" column="22" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="35" column="15" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="38" column="37" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="21" column="14" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="43" column="6" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="39" column="26" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="20" column="15" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="41" column="55" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="18" column="19" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="29" column="38" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="6" column="22" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" />
-      <jump line="108" column="4" filename="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" />
-      <jump line="43" column="6" filename="$USER_HOME$/dev/java/snake/src/asteroids/core/Game.java" />
-      <jump line="18" column="17" filename="$USER_HOME$/dev/java/snake/src/asteroids/core/Game.java" />
-      <jump line="41" column="10" filename="$USER_HOME$/dev/java/snake/src/asteroids/core/Game.java" />
-      <jump line="44" column="8" filename="$USER_HOME$/dev/java/snake/src/asteroids/core/Game.java" />
-      <jump line="120" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="21" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/MaintenanceActivityService.java" />
-      <jump line="21" column="37" filename="$USER_HOME$/dev/python/polysleeper/polysleeper/polysleeper/views.py" />
-      <jump line="5" column="66" filename="$USER_HOME$/dev/python/polysleeper/tracker/views.py" />
-      <jump line="0" column="1" filename="$USER_HOME$/dev/python/polysleeper/polysleeper/urls.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/python/polysleeper/polysleeper/urls.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/python/polysleeper/polysleeper/urls.py" />
-      <jump line="20" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="43" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="172" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="44" column="56" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" />
-      <jump line="24" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" />
-      <jump line="4" column="15" filename="$USER_HOME$/dev/python/censor/censor.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
-      <jump line="10" column="4" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/python/polysleeper/tracker/models.py" />
-      <jump line="13" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" />
-      <jump line="46" column="40" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="52" column="120" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="57" column="37" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="30" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
@@ -812,10 +781,80 @@
       <jump line="13" column="10" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/MorningCoreAlarm.java" />
       <jump line="12" column="13" filename="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/NightCoreAlarm.java" />
       <jump line="27" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="91" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="243" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="186" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="158" column="5" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="137" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="78" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="115" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="31" column="24" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/asset/AssetRepository.java" />
+      <jump line="136" column="32" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AllAssetController.java" />
+      <jump line="21" column="33" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AllAssetController.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AllAssetController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="4" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="5" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="6" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="7" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="8" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="9" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="10" column="37" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="15" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="26" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="33" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="71" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="73" column="70" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="14" column="44" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="16" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="17" column="53" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="20" column="52" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="21" column="52" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="24" column="62" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="28" column="70" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="29" column="88" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="32" column="59" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="37" column="41" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="40" column="81" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="41" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="44" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="45" column="71" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="49" column="102" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="50" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="53" column="66" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="54" column="43" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="55" column="44" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="56" column="52" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="57" column="54" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="58" column="48" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="59" column="51" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="60" column="51" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="61" column="47" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="62" column="47" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="63" column="43" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="64" column="44" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="65" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="66" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="67" column="50" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="68" column="53" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="69" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="70" column="52" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="72" column="43" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="76" column="73" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="77" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="80" column="47" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAnRnJlZScsCiAgJ1JhdCAtIE1vbnRobHkgUGxhbicsCiAgJ1JhdCAtIFllYXJseSBQbGFuJywKICAnRG91YmxlIFJhdCAtIE1vbnRobHkgUGxhbicsCiAgJ0RvdWJsZSBSYXQgLSBZZWFybHkgUGxhbicsCiAgJ1JhdCBGaW5rIC0gTW9udGhseSBQbGFuJywKICAnUmF0IEZpbmsgLSBZZWFybHkgUGxhbicsCiAgJ1Byb2Zlc3Npb25hbCAtIE1vbnRobHkgUGxhbicsCiAgJ1Byb2Zlc3Npb25hbCAtIFllYXJseSBQbGFuJwo=</text>
+      <register name="&quot;" type="4">
+        <text>Vendor</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -823,45 +862,72 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
+      <register name="f" type="4">
+        <text>=</text>
+      </register>
       <register name="k" type="4">
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>PROFESSIONAL</text>
+        <text>Vendor</text>
       </register>
       <register name="/" type="4">
-        <text>usertype</text>
+        <text>vendor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBQUk9GRVNTSU9OQUwoIlBST0ZFU1NJT05BTCIpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFN0cmluZyB0ZXh0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnRnJlZScsCiAgJ1JhdCAtIE1vbnRobHkgUGxhbicsCiAgJ1JhdCAtIFllYXJseSBQbGFuJywKICAnRG91YmxlIFJhdCAtIE1vbnRobHkgUGxhbicsCiAgJ0RvdWJsZSBSYXQgLSBZZWFybHkgUGxhbicsCiAgJ1JhdCBGaW5rIC0gTW9udGhseSBQbGFuJywKICAnUmF0IEZpbmsgLSBZZWFybHkgUGxhbicsCiAgJ1Byb2Zlc3Npb25hbCAtIE1vbnRobHkgUGxhbicsCiAgJ1Byb2Zlc3Npb25hbCAtIFllYXJseSBQbGFuJwo=</text>
+        <text encoding="base64">aW1wb3J0IHJlc3RvcmF0LmVudGl0aWVzLmdlbmVyYWwuU3Vic2NyaXB0aW9uOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
           <key char="102" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
           <key char="44" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
-          <key char="108" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXdUcmlnZ2VyKCkud2l0aFNjaGVkdWxlKGNyb25TY2hlZHVsZSgiMCA0MiAwICogKiA/ICoiKSkuYnVpbGQoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICA9ICIiCi8vICAgICAgICAgICAgICAgID0gIiIKLy8gICAgICAgID0gIiIKLy8gICAgICAgICA9ICIiCi8vICAgICAgICAgID0gIiIKLy8gICAgICAgICAgID0gIiIKLy8gICAgICA9ICIiCi8vICAgICAgID0gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gZmluYWxseSB7Cg==</text>
+        <text encoding="base64">ICBQcm9kdWN0TmFtZSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9kdWN0SUQKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb2ZmKCk7Cg==</text>
+        <text encoding="base64">ICBGUkVFKCJGcmVlIiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgQEdldE1hcHBpbmcoIi91bmFzc2lnbmVkVG9Qcm9qZWN0cyIpCiAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICJHZXQgYWxsIGFzc2V0cyB0aGF0IGFyZW4ndCBhdHRhY2hlZCB0byBwcm9qZWN0cyIsIHJlc3BvbnNlID0gQXNzZXQuY2xhc3MsIHJlc3BvbnNlQ29udGFpbmVyID0gIkxpc3QiLCBub3RlcyA9ICJHZXQgYWxsIGFzc2V0cyB0aGF0IGFyZW4ndCBhdHRhY2hlZCB0byBwcm9qZWN0cyIpCiAgQEFwaUltcGxpY2l0UGFyYW1zKHsKICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiQXV0aG9yaXphdGlvbiIsIHZhbHVlID0gIlwiQmVhcmVyIHt0b2tlbn1cIiIsCiAgICAgICAgICAgICAgICAgIHJlcXVpcmVkID0gdHJ1ZSwgZGF0YVR5cGUgPSAic3RyaW5nIiwgcGFyYW1UeXBlID0gImhlYWRlciIpCiAgfSkKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZ2V0QXNzZXRzVW5hc3NpZ25lZFRvUHJvamVjdHMoCiAgICAgICAgICBAUGF0aFZhcmlhYmxlKCJjb2xsZWN0aW9uSWQiKSBsb25nIGNvbGxlY3Rpb25JZCkgewogICAgcmV0dXJuIGFzc2V0U2VydmljZS5nZXRBc3NldHNVbmFzc2lnbmVkVG9Qcm9qZWN0c1Jlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCk7CiAgfQoKICBAUG9zdE1hcHBpbmcKICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIkNyZWF0ZSBhbiBhc3NldCIsIHJlc3BvbnNlID0gQXNzZXQuY2xhc3MsIG5vdGVzID0gIkNyZWF0ZSBhbiBhc3NldCBmb3IgYSBnaXZlbiB1c2VyIGFuZCBjb2xsZWN0aW9uIGlkIikKICBAQXBpSW1wbGljaXRQYXJhbXMoewogICAgICBAQXBpSW1wbGljaXRQYXJhbShuYW1lID0gIkF1dGhvcml6YXRpb24iLCB2YWx1ZSA9ICJcIkJlYXJlciB7dG9rZW59XCIiLAogICAgICAgICAgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJzdHJpbmciLCBwYXJhbVR5cGUgPSAiaGVhZGVyIikKICB9KQogIHB1YmxpYyBSZXNwb25zZUVudGl0eSBjcmVhdGVBc3NldCgKICAgICAgQFBhdGhWYXJpYWJsZSgiY29sbGVjdGlvbklkIikgbG9uZyBjb2xsZWN0aW9uSWQsIEBSZXF1ZXN0Qm9keSBBc3NldCBhc3NldCkgewogICAgcmV0dXJuIGFzc2V0U2VydmljZS5jcmVhdGVBc3NldFJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXQpOwogIH0KCiAgQFB1dE1hcHBpbmcocGF0aCA9ICIve2Fzc2V0SWR9IikKICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIlVwZGF0ZSBhbiBhc3NldCIsIHJlc3BvbnNlID0gQXNzZXQuY2xhc3MsIG5vdGVzID0gIlVwZGF0ZSBhbiBhc3NldCBmb3IgYSBnaXZlbiB1c2VyLCBjb2xsZWN0aW9uLCBhbmQgYXNzZXQgaWQiKQogIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiQXV0aG9yaXphdGlvbiIsIHZhbHVlID0gIlwiQmVhcmVyIHt0b2tlbn1cIiIsCiAgICAgICAgICByZXF1aXJlZCA9IHRydWUsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJoZWFkZXIiKQogIH0pCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IHVwZGF0ZUFzc2V0KAogICAgICBAUGF0aFZhcmlhYmxlKCJjb2xsZWN0aW9uSWQiKSBsb25nIGNvbGxlY3Rpb25JZCwgQFBhdGhWYXJpYWJsZSgiYXNzZXRJZCIpIGxvbmcgYXNzZXRJZCwKICAgICAgQFJlcXVlc3RCb2R5IEFzc2V0IGFzc2V0KSB7CiAgICByZXR1cm4gYXNzZXRTZXJ2aWNlLnVwZGF0ZUFzc2V0UmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkLCBhc3NldCk7CiAgfQoKICBARGVsZXRlTWFwcGluZyhwYXRoID0gIi97YXNzZXRJZH0iKQogIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiRGVsZXRlIGFuIGFzc2V0IiwgcmVzcG9uc2UgPSBBc3NldC5jbGFzcywgbm90ZXMgPSAiRGVsZXRlIGFuIGFzc2V0IGZvciBhIGdpdmVuIHVzZXIsIGNvbGxlY3Rpb24sIGFuZCBhc3NldCBpZCIpCiAgQEFwaUltcGxpY2l0UGFyYW1zKHsKICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJBdXRob3JpemF0aW9uIiwgdmFsdWUgPSAiXCJCZWFyZXIge3Rva2VufVwiIiwKICAgICAgICAgIHJlcXVpcmVkID0gdHJ1ZSwgZGF0YVR5cGUgPSAic3RyaW5nIiwgcGFyYW1UeXBlID0gImhlYWRlciIpCiAgfSkKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZGVsZXRlQXNzZXQoCiAgICAgIEBQYXRoVmFyaWFibGUoImNvbGxlY3Rpb25JZCIpIGxvbmcgY29sbGVjdGlvbklkLCBAUGF0aFZhcmlhYmxlKCJhc3NldElkIikgbG9uZyBhc3NldElkKSB7CiAgICByZXR1cm4gYXNzZXRTZXJ2aWNlLmRlbGV0ZUFzc2V0UmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkKTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb2ZmKCk7Cg==</text>
+        <text encoding="base64">ICBAR2V0TWFwcGluZyhwYXRoID0gIi97YXNzZXRJZH0iKQogIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiR2V0IG9uZSBhc3NldCIsIHJlc3BvbnNlID0gQXNzZXQuY2xhc3MsIG5vdGVzID0gIkdldCB0aGUgYXNzZXQgZm9yIHRoZSBnaXZlbiB1c2VyLCBjb2xsZWN0aW9uLCBhbmQgYXNzZXQgaWQiKQogIEBBcGlJbXBsaWNpdFBhcmFtcyh7CiAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiQXV0aG9yaXphdGlvbiIsIHZhbHVlID0gIlwiQmVhcmVyIHt0b2tlbn1cIiIsCiAgICAgICAgICByZXF1aXJlZCA9IHRydWUsIGRhdGFUeXBlID0gInN0cmluZyIsIHBhcmFtVHlwZSA9ICJoZWFkZXIiKQogIH0pCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IGdldEFzc2V0KEBQYXRoVmFyaWFibGUoImNvbGxlY3Rpb25JZCIpIGxvbmcgY29sbGVjdGlvbklkLCBAUGF0aFZhcmlhYmxlKCJhc3NldElkIikgbG9uZyBhc3NldElkKSB7CiAgICByZXR1cm4gYXNzZXRTZXJ2aWNlLmdldEFzc2V0UmVzcG9uc2VFbnRpdHkoY29sbGVjdGlvbklkLCBhc3NldElkKTsKICB9CgogIEBHZXRNYXBwaW5nKHBhdGggPSAiL3thc3NldElkfS9yZXBvcnQiKQogIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiRW1haWwgb25lIGFzc2V0IHJlcG9ydCIsIHJlc3BvbnNlID0gU3RyaW5nLmNsYXNzLCBub3RlcyA9ICJFbWFpbCB0aGUgYXNzZXQgcmVwb3J0IGZvciB0aGUgZ2l2ZW4gdXNlciwgY29sbGVjdGlvbiwgYW5kIGFzc2V0IGlkIikKICBAQXBpSW1wbGljaXRQYXJhbXMoewogICAgICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJBdXRob3JpemF0aW9uIiwgdmFsdWUgPSAiXCJCZWFyZXIge3Rva2VufVwiIiwKICAgICAgICAgICAgICAgICAgcmVxdWlyZWQgPSB0cnVlLCBkYXRhVHlwZSA9ICJzdHJpbmciLCBwYXJhbVR5cGUgPSAiaGVhZGVyIikKICB9KQogIHB1YmxpYyBSZXNwb25zZUVudGl0eSBnZXRBc3NldFJlcG9ydChAUGF0aFZhcmlhYmxlKCJjb2xsZWN0aW9uSWQiKSBsb25nIGNvbGxlY3Rpb25JZCwgQFBhdGhWYXJpYWJsZSgiYXNzZXRJZCIpIGxvbmcgYXNzZXRJZCkgewogICAgcmV0dXJuIGFzc2V0U2VydmljZS5nZXRBc3NldFJlcG9ydFJlc3BvbnNlRW50aXR5KGNvbGxlY3Rpb25JZCwgYXNzZXRJZCk7CiAgfQoKICBAR2V0TWFwcGluZwogIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiR2V0IGFsbCBhc3NldHMiLCByZXNwb25zZSA9IEFzc2V0LmNsYXNzLCByZXNwb25zZUNvbnRhaW5lciA9ICJMaXN0Iiwgbm90ZXMgPSAiR2V0IGFsbCBhc3NldHMgZm9yIGEgZ2l2ZW4gdXNlciBhbmQgY29sbGVjdGlvbiBpZCIpCiAgQEFwaUltcGxpY2l0UGFyYW1zKHsKICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJBdXRob3JpemF0aW9uIiwgdmFsdWUgPSAiXCJCZWFyZXIge3Rva2VufVwiIiwKICAgICAgICAgIHJlcXVpcmVkID0gdHJ1ZSwgZGF0YVR5cGUgPSAic3RyaW5nIiwgcGFyYW1UeXBlID0gImhlYWRlciIpCiAgfSkKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZ2V0QXNzZXRzKAogICAgICBAUGF0aFZhcmlhYmxlKCJjb2xsZWN0aW9uSWQiKSBsb25nIGNvbGxlY3Rpb25JZCkgewogICAgcmV0dXJuIGFzc2V0U2VydmljZS5nZXRBc3NldHNSZXNwb25zZUVudGl0eShjb2xsZWN0aW9uSWQpOwogIH0KCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -881,38 +947,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">CiAgQEdldE1hcHBpbmcKICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIkdldCBhbGwgYXNzZXRzLCBhIGNvbXBsZXRlIGxpc3QiLCByZXNwb25zZSA9IEFzc2V0LmNsYXNzLCByZXNwb25zZUNvbnRhaW5lciA9ICJMaXN0Iiwgbm90ZXMgPSAiR2V0IGFsbCBhc3NldHMgZm9yIGEgZ2l2ZW4gdXNlciIpCiAgQEFwaUltcGxpY2l0UGFyYW1zKHsKICAgICAgICAgIEBBcGlJbXBsaWNpdFBhcmFtKG5hbWUgPSAiQXV0aG9yaXphdGlvbiIsIHZhbHVlID0gIlwiQmVhcmVyIHt0b2tlbn1cIiIsCiAgICAgICAgICAgICAgICAgIHJlcXVpcmVkID0gdHJ1ZSwgZGF0YVR5cGUgPSAic3RyaW5nIiwgcGFyYW1UeXBlID0gImhlYWRlciIpCiAgfSkKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZ2V0QWxsQXNzZXRzKCkgewogICAgcmV0dXJuIGFzc2V0U2VydmljZS5nZXRBbGxBc3NldHNSZXNwb25zZUVudGl0eSgpOwogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbGxBc3NldHNSZXNwb25zZUVudGl0eTsK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKFN5bmNocm9uaWNpdHlFeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFJlc3BvbnNlRW50aXR5IGFsbEFzc2V0c1Jlc3BvbnNlRW50aXR5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>usertype</last-search>
+      <last-search>vendor</last-search>
       <last-offset />
-      <last-pattern>usertype</last-pattern>
+      <last-pattern>vendor</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute encoding="base64">XCA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Time</entry>
-        <entry>time</entry>
-        <entry>times</entry>
-        <entry>A few days</entry>
-        <entry>userTasks</entry>
-        <entry>pdf</entry>
         <entry>descriptiong</entry>
         <entry>longnam</entry>
         <entry>Vehicle</entry>
@@ -927,6 +987,12 @@
         <entry>shortName</entry>
         <entry>inProgress</entry>
         <entry>usertype</entry>
+        <entry>findByUserId</entry>
+        <entry>userService</entry>
+        <entry>Plan</entry>
+        <entry>com</entry>
+        <entry>Vendor</entry>
+        <entry>vendor</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;lizard&quot;/&quot;lizards&quot;/g</entry>
@@ -944,10 +1010,10 @@
         <entry>%s/\ /,/g</entry>
         <entry>;w</entry>
         <entry>.,.+443q</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>2</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
