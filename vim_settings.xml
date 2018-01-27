@@ -161,12 +161,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1517041263004">
-        <mark key="'" line="249" column="4" />
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="47" column="42" />
-        <mark key="^" line="47" column="42" />
-        <mark key="." line="47" column="42" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1517045220786">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="262" column="3" />
+        <mark key="]" line="262" column="2" />
+        <mark key="^" line="262" column="2" />
+        <mark key="." line="262" column="2" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task5.json" timestamp="1513162831651">
         <mark key="'" line="15" column="12" />
@@ -233,6 +233,13 @@
       </file>
       <file name="/Python Console" timestamp="1515898084811">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1517045722441">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="78" />
       </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
         <mark key="'" line="38" column="10" />
@@ -394,12 +401,12 @@
         <mark key="^" line="171" column="21" />
         <mark key="." line="171" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" timestamp="1517042989920">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="66" column="11" />
-        <mark key="]" line="66" column="62" />
-        <mark key="^" line="66" column="62" />
-        <mark key="." line="66" column="62" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" timestamp="1517045854086">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1513060523767">
         <mark key="'" line="26" column="31" />
@@ -457,10 +464,10 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" timestamp="1517042995122">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" timestamp="1517045539432">
         <mark key="'" line="21" column="0" />
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="64" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="20" column="101" />
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
@@ -778,23 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="67" column="50" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="68" column="53" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="70" column="52" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="72" column="43" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="77" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="80" column="47" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="14" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="29" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="32" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
-      <jump line="45" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="220" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
       <jump line="45" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
       <jump line="67" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
       <jump line="91" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
@@ -878,10 +868,27 @@
       <jump line="95" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" />
       <jump line="14" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="50" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="70" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="40" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="43" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="163" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="203" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="57" column="30" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="240" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="42" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="63" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" />
+      <jump line="30" column="5" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>assets</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uID0gOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -896,65 +903,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>assets</text>
+        <text>subscription</text>
       </register>
       <register name="/" type="4">
         <text>monthly</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdHJhdGlvbkJlYW4uYWRkVXJsUGF0dGVybnMoIi9hc3NldHMiKTsK</text>
+      <register name="0" type="4">
+        <text>subscriptionToUserType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0TW9udGhseShib29sZWFuIG1vbnRobHkpIHsKICAgIGlzTW9udGhseSA9IG1vbnRobHk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uID0gOwo=</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="102" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+        <text>ve&quot;0p0wj</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0TW9udGhseShzdWJzY3JpcHRpb24uaXNNb250aGx5KCkpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">c3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5SQVRfWUVBUkxZLCBVc2VyVHlwZS5SQVRfWUVBUkxZKTsKICAgIHN1LnB1dChTdWJzY3JpcHRpb25Qcm9kdWN0SWQuRE9VQkxFX1JBVF9NT05USExZLCBVc2VyVHlwZS5ET1VCTEVfUkFUX01PTlRITFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5ET1VCTEVfUkFUX1lFQVJMWSwgVXNlclR5cGUuRE9VQkxFX1JBVF9ZRUFSTFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5SQVRfRklOS19NT05USExZLCBVc2VyVHlwZS5SQVRfRklOS19NT05USExZKTsKICAgIHN1LnB1dChTdWJzY3JpcHRpb25Qcm9kdWN0SWQuUkFUX0ZJTktfWUVBUkxZLCBVc2VyVHlwZS5SQVRfRklOS19ZRUFSTFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5QUk9GRVNTSU9OQUxfTU9OVEhMWSwgVXNlclR5cGUuUFJPRkVTU0lPTkFMX01PTlRITFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5QUk9GRVNTSU9OQUxfWUVBUkxZLCBVc2VyVHlwZS5QUk9GRVNTSU9OQUxfWUVBUkxZKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAR2V0TWFwcGluZyhwYXRoID0gIi97c3Vic2NyaXB0aW9uSWR9IikKICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIkdldCBvbmUgc3Vic2NyaXB0aW9uIiwgcmVzcG9uc2UgPSBTdWJzY3JpcHRpb24uY2xhc3MsIG5vdGVzID0gIkdldCB0aGUgU3Vic2NyaXB0aW9uIGZvciB0aGUgZ2l2ZW4gdXNlciwgY29sbGVjdGlvbiwgcHJvamVjdCwgYW5kIHN1YnNjcmlwdGlvbiBpZCIpCiAgQEFwaUltcGxpY2l0UGFyYW1zKHsKICAgICAgQEFwaUltcGxpY2l0UGFyYW0obmFtZSA9ICJBdXRob3JpemF0aW9uIiwgdmFsdWUgPSAiXCJCZWFyZXIge3Rva2VufVwiIiwKICAgICAgICAgIHJlcXVpcmVkID0gdHJ1ZSwgZGF0YVR5cGUgPSAic3RyaW5nIiwgcGFyYW1UeXBlID0gImhlYWRlciIpCiAgfSkKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZ2V0U3Vic2NyaXB0aW9uKEBQYXRoVmFyaWFibGUoInN1YnNjcmlwdGlvbklkIikgbG9uZyBzdWJzY3JpcHRpb25JZCkgewogICAgcmV0dXJuIHN1YnNjcmlwdGlvblNlcnZpY2UuZ2V0U3Vic2NyaXB0aW9uUmVzcG9uc2VFbnRpdHkoc3Vic2NyaXB0aW9uSWQpOwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5wcm9mZXNzaW9uYWxfeWVhcmx5X25ldyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RvcmF0LmVudGl0aWVzLmdlbmVyYWwuU3Vic2NyaXB0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5wcm9mZXNzaW9uYWxfbW9udGhseSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEFwaShkZXNjcmlwdGlvbiA9ICIgcmVsYXRlZCBlbmRwb2ludHMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfZmlua195ZWFybHlfbmV3IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RvcmF0LmVudGl0aWVzLmdlbmVyYWwuVmVuZG9yOwppbXBvcnQgcmVzdG9yYXQuc2VydmljZXMuZ2VuZXJhbC5WZW5kb3JTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfZmlua19tb250aGx5IikK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -974,19 +950,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSBEYXRlIGV4cGlyeURhdGU7CiAgICAgIHByaXZhdGUgU3RyaW5nIGRldmljZVR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5kb3VibGVfcmF0X3llYXJseSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpdmF0ZSBTdWJzY3JpcHRpb25Qcm9kdWN0SWQgcHJvZHVjdElkOwogICAgICBwcml2YXRlIFN0cmluZyBwcm9kdWN0TmFtZTsKICAgICAgcHJpdmF0ZSBib29sZWFuIGlzTW9udGhseSA9IGZhbHNlOwogICAgICBAQ3JlYXRpb25UaW1lc3RhbXAKICAgICAgQFRlbXBvcmFsKFRlbXBvcmFsVHlwZS5USU1FU1RBTVApCiAgICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVkRGF0ZTsKICAgICAgQFVwZGF0ZVRpbWVzdGFtcAogICAgICBAVGVtcG9yYWwoVGVtcG9yYWxUeXBlLlRJTUVTVEFNUCkKICAgICAgcHJpdmF0ZSBEYXRlIG1vZGlmaWVkRGF0ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5kb3VibGVfcmF0X21vbnRobHkiKQo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0TmFtZShzdWJzY3JpcHRpb24uZ2V0TmFtZSgpKTsKICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0RW1haWwoc3Vic2NyaXB0aW9uLmdldEVtYWlsKCkpOwogICAgICBzYXZlZFN1YnNjcmlwdGlvbi5zZXRBY2NvdW50TnVtYmVyKHN1YnNjcmlwdGlvbi5nZXRBY2NvdW50TnVtYmVyKCkpOwogICAgICBzYXZlZFN1YnNjcmlwdGlvbi5zZXRBY2NvdW50UGFzc3dvcmQoc3Vic2NyaXB0aW9uLmdldEFjY291bnRQYXNzd29yZCgpKTsKICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0U3BlY2lhbHR5KHN1YnNjcmlwdGlvbi5nZXRTcGVjaWFsdHkoKSk7CiAgICAgIHNhdmVkU3Vic2NyaXB0aW9uLnNldFNhbGVzVGF4UmF0ZShzdWJzY3JpcHRpb24uZ2V0U2FsZXNUYXhSYXRlKCkpOwogICAgICBzYXZlZFN1YnNjcmlwdGlvbi5zZXREaXNjb3VudFJhdGUoc3Vic2NyaXB0aW9uLmdldERpc2NvdW50UmF0ZSgpKTsKICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0QWRkcmVzczEoc3Vic2NyaXB0aW9uLmdldEFkZHJlc3MxKCkpOwogICAgICBzYXZlZFN1YnNjcmlwdGlvbi5zZXRBZGRyZXNzMihzdWJzY3JpcHRpb24uZ2V0QWRkcmVzczIoKSk7CiAgICAgIHNhdmVkU3Vic2NyaXB0aW9uLnNldENpdHkoc3Vic2NyaXB0aW9uLmdldENpdHkoKSk7CiAgICAgIHNhdmVkU3Vic2NyaXB0aW9uLnNldFN0YXRlKHN1YnNjcmlwdGlvbi5nZXRTdGF0ZSgpKTsKICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0Q291bnRyeShzdWJzY3JpcHRpb24uZ2V0Q291bnRyeSgpKTsKICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0WmlwKHN1YnNjcmlwdGlvbi5nZXRaaXAoKSk7CiAgICAgIHNhdmVkU3Vic2NyaXB0aW9uLnNldFBob25lTnVtYmVyKHN1YnNjcmlwdGlvbi5nZXRQaG9uZU51bWJlcigpKTsKICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0VG9sbEZyZWVOdW1iZXIoc3Vic2NyaXB0aW9uLmdldFRvbGxGcmVlTnVtYmVyKCkpOwogICAgICBzYXZlZFN1YnNjcmlwdGlvbi5zZXRXZWJzaXRlKHN1YnNjcmlwdGlvbi5nZXRXZWJzaXRlKCkpOwogICAgICBzYXZlZFN1YnNjcmlwdGlvbi5zZXRDb250YWN0TnVtYmVyKHN1YnNjcmlwdGlvbi5nZXRDb250YWN0TnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfeWVhcmx5X25ldyIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1039,9 +1015,9 @@
         <entry>.,.+443q</entry>
         <entry>2</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
