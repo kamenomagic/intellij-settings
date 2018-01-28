@@ -783,15 +783,14 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517115002804">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517116093053">
+        <mark key="'" line="7" column="27" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="61" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="48" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="49" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="50" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
@@ -891,10 +890,11 @@
       <jump line="83" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="82" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="80" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="5" column="27" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3BvdGlmeS5jbGllbnRfY3JlZGVudGlhbHNfbWFuYWdlcigpLgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -909,7 +909,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>sp</text>
+        <text encoding="base64">U2VjcmV0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFwvYnI+</text>
@@ -918,25 +918,25 @@
         <text>spotify</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3BvdGlmeS5jbGllbnRfY3JlZGVudGlhbHNfbWFuYWdlcigpLgo=</text>
       </register>
       <register name="q" type="4">
         <text>ve&quot;0p0wj</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBTdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uID0gOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">c3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5SQVRfWUVBUkxZLCBVc2VyVHlwZS5SQVRfWUVBUkxZKTsKICAgIHN1LnB1dChTdWJzY3JpcHRpb25Qcm9kdWN0SWQuRE9VQkxFX1JBVF9NT05USExZLCBVc2VyVHlwZS5ET1VCTEVfUkFUX01PTlRITFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5ET1VCTEVfUkFUX1lFQVJMWSwgVXNlclR5cGUuRE9VQkxFX1JBVF9ZRUFSTFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5SQVRfRklOS19NT05USExZLCBVc2VyVHlwZS5SQVRfRklOS19NT05USExZKTsKICAgIHN1LnB1dChTdWJzY3JpcHRpb25Qcm9kdWN0SWQuUkFUX0ZJTktfWUVBUkxZLCBVc2VyVHlwZS5SQVRfRklOS19ZRUFSTFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5QUk9GRVNTSU9OQUxfTU9OVEhMWSwgVXNlclR5cGUuUFJPRkVTU0lPTkFMX01PTlRITFkpOwogICAgc3UucHV0KFN1YnNjcmlwdGlvblByb2R1Y3RJZC5QUk9GRVNTSU9OQUxfWUVBUkxZLCBVc2VyVHlwZS5QUk9GRVNTSU9OQUxfWUVBUkxZKTsKICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5wcm9mZXNzaW9uYWxfeWVhcmx5X25ldyIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5wcm9mZXNzaW9uYWxfbW9udGhseSIpCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfZmlua195ZWFybHlfbmV3IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5wcm9mZXNzaW9uYWxfbW9udGhseSIpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -956,16 +956,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfZmlua19tb250aGx5IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfZmlua195ZWFybHlfbmV3IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5kb3VibGVfcmF0X3llYXJseSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5yYXRfZmlua19tb250aGx5IikK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5kb3VibGVfcmF0X21vbnRobHkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQEpzb25Qcm9wZXJ0eSgiY29tLnJlc3RvX3JhdC5yZXN0b3JhdC5kb3VibGVfcmF0X3llYXJseSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
