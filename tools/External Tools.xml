@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="pylint" description="Run pylint on the working directoy" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/pylint" />
+      <option name="PARAMETERS" value="-f parseable $FileDir$" />
+      <option name="WORKING_DIRECTORY" value="/usr/local/bin/" />
+    </exec>
+  </tool>
+</toolSet>
