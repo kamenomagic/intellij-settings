@@ -197,7 +197,6 @@
         <mark key="." line="34" column="77" />
         <mark key="^" line="34" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/_gen_omp_nodes.py" timestamp="1517266146211" />
       <file name="$USER_HOME$/dev/python/fish/loss_summer.py" timestamp="1512536784668">
         <mark key="'" line="19" column="19" />
         <mark key="[" line="0" column="16" />
@@ -205,7 +204,6 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/node_transformer.py" timestamp="1517267357115" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" timestamp="1517302664294">
         <mark key="'" line="83" column="35" />
       </file>
@@ -483,7 +481,6 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/for_to_while.py" timestamp="1517268329789" />
       <file name="$USER_HOME$/dev/queueyou/src/main/java/Main.java" timestamp="1515374890245">
         <mark key="[" line="5" column="30" />
         <mark key="]" line="5" column="29" />
@@ -640,7 +637,6 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/static/setNewPassword.html" timestamp="1517326477241" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/asset/AssetRepository.java" timestamp="1517039514228">
         <mark key="'" line="12" column="0" />
       </file>
@@ -677,7 +673,6 @@
       <file name="/dummy.sql" timestamp="1517043204379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/application.properties" timestamp="1517302698735" />
       <file name="/Dummy.txt" timestamp="1517327989152">
         <mark key="[" line="0" column="0" />
       </file>
@@ -697,7 +692,6 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/_omp_ast.cfg" timestamp="1517266344841" />
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-inverse.py" timestamp="1510881119078">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="4" column="0" />
@@ -763,11 +757,11 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517328004599">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517387435290">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="8" />
         <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="0" />
+        <mark key="." line="10" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -873,8 +867,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/python/albumart/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdEb25lJykK</text>
+      <register name="&quot;" type="4">
+        <text>get_</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -889,7 +883,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>get_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFwvYnI+</text>
@@ -958,7 +952,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
