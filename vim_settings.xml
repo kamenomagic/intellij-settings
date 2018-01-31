@@ -596,6 +596,13 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517409652708">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
         <mark key="[" line="7" column="9" />
@@ -765,8 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="51" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="54" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="55" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="47" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
@@ -865,10 +870,12 @@
       <jump line="5" column="27" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="83" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/python/albumart/main.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_</text>
+        <text>ForToWhile</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -883,7 +890,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>get_</text>
+        <text>ForToWhile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFwvYnI+</text>
