@@ -109,6 +109,13 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" timestamp="1517435726500">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="30" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" timestamp="1515291133662">
         <mark key="'" line="6" column="22" />
         <mark key="[" line="44" column="15" />
@@ -204,18 +211,12 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" timestamp="1517302664294">
-        <mark key="'" line="83" column="35" />
-      </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" timestamp="1515291118857">
         <mark key="'" line="108" column="4" />
         <mark key="[" line="14" column="29" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="15" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/AfternoonCoreAlarm.java" timestamp="1516433755155">
-        <mark key="'" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task6.json" timestamp="1515663570459">
         <mark key="'" line="16" column="11" />
@@ -597,8 +598,8 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517409652708">
-        <mark key="'" line="41" column="4" />
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517435190867">
+        <mark key="'" line="14" column="22" />
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
@@ -644,9 +645,6 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/asset/AssetRepository.java" timestamp="1517039514228">
-        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
@@ -774,9 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="26" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="65" column="66" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="71" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="14" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="19" column="41" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
@@ -874,10 +869,13 @@
       <jump line="27" column="25" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="52" column="8" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="14" column="22" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" />
+      <jump line="30" column="9" filename="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>writelines</text>
+        <text>F</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -892,7 +890,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>writelines</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>self</text>
@@ -1000,7 +998,6 @@
         <entry>self</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;frog&quot;/&quot;frogs&quot;/g</entry>
         <entry>%s/&quot;salamander&quot;/&quot;salamanders&quot;/g</entry>
         <entry>%s/&quot;crocodilian&quot;/&quot;crocodilians&quot;/g</entry>
         <entry>%s/&quot;turtle&quot;/&quot;turtles&quot;/g</entry>
@@ -1019,6 +1016,7 @@
         <entry>2</entry>
         <entry>noh</entry>
         <entry>q</entry>
+        <entry>Q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
