@@ -224,7 +224,7 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517327981288">
+      <file name="/Python Console" timestamp="1517420720008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1517045722441">
@@ -320,6 +320,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="/usr/local/lib/python3.6/site-packages/spotipy/client.py" timestamp="1517416312927" />
       <file name="$USER_HOME$/dev/java/snake/src/snake/game/Snake.java" timestamp="1513986069668">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="17" />
@@ -383,12 +384,12 @@
       <file name="$USER_HOME$/dev/python/albumart/.gitignore" timestamp="1517327049846">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/main.py" timestamp="1517328046376">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="$USER_HOME$/dev/python/albumart/main.py" timestamp="1517419997069">
+        <mark key="'" line="3" column="7" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -680,7 +681,7 @@
       <file name="/dummy.sql" timestamp="1517043204379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517327989152">
+      <file name="/Dummy.txt" timestamp="1517420726670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -764,40 +765,15 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517387435290">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="8" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="10" column="8" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517420787595">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+        <mark key="^" line="25" column="41" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="55" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="47" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="25" column="68" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="26" column="78" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="29" column="57" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="42" column="71" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="43" column="37" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="53" column="37" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="56" column="41" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="18" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="52" column="77" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="60" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="10" column="33" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="15" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="23" column="121" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="29" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="33" column="65" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="39" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="43" column="66" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="49" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="53" column="66" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="61" column="26" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="65" column="66" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="71" column="42" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
@@ -872,10 +848,36 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/python/albumart/main.py" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="41" column="4" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="14" column="36" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="23" column="45" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="16" column="7" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="77" column="11" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="4" column="28" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/dev/python/albumart/main.py" />
+      <jump line="10" column="10" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="13" column="7" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="36" column="19" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="40" column="19" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="43" column="20" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="27" column="25" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="52" column="8" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ForToWhile</text>
+        <text>writelines</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -890,34 +892,47 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>ForToWhile</text>
+        <text>writelines</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PFwvYnI+</text>
+        <text>self</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xpZW50X2lkPSd5b3VyIGNsaWVudCBpZCcK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdEb25lJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <text>ve&quot;0p0wj</text>
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="53" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">Y2xhc3MgU3BvdGlmeToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKCiAgICBkZWYgY2xpZW50KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnNwb3RpZnkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJyAnLCBpLCB0WyduYW1lJ10pCg==</text>
+        <text encoding="base64">Z2VucmVzID0gWydIaXAtSG9wJywgJ1BvcCcsICdDb3VudHJ5JywgJ0xhdGluJywgJ0VsZWN0cm9uaWMvRGFuY2UnLAogICAgICAgICAgJ1ImQicsICdSb2NrJywgJ0NocmlzdGlhbicsICdDbGFzc2ljYWwnLCAnSW5kaWUnLAogICAgICAgICAgJ1Jvb3RzICYgQWNvdXN0aWMnLCAnSy1Qb3AnLCAnTWV0YWwnLCAnUmVnZ2FlJywgJ1NvdWwnLAogICAgICAgICAgJ1B1bmsnLCAnQmx1ZXMnLCAnRnVuayddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXRpbC5wcm9tcHRfZm9yX3VzZXJfdG9rZW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHV0aWwub2F1dGgyLlNwb3RpZnlDbGllbnRDcmVkZW50aWFscyhjbGllbnRfaWQ9Y2xpZW50X2lkLCBjbGllbnRfc2VjcmV0PWNsaWVudF9zZWNyZXQpCiAgICAgICAgc2VsZi5zcG90aWZ5ID0gc3BvdGlweS5TcG90aWZ5KHRva2VuLmdldF9hY2Nlc3NfdG9rZW4oKSkKICAgICAgICBzZWxmLm1vbmdvID0gTW9uZ29DbGllbnQoKQogICAgICAgIHNlbGYuZGIgPSBzZWxmLm1vbmdvLmFsYmFydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXRpbC5wcm9tcHRfZm9yX3VzZXJfdG9rZW4oKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xpZW50X2lkID0gJzc4NGU1MmNmOTIzOTQ0ZWZiNDJiOWJjNDYxOTFiY2YzJwpjbGllbnRfc2VjcmV0ID0gJzZjYWUyYzcxMWU0ZDRlMDNiYWMyMmVkM2IyMWU2MThiJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -937,7 +952,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3BvdGlmeS5jbGllbnRfY3JlZGVudGlhbHNfbWFuYWdlcigpLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -946,16 +961,16 @@
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PFwvYnI+</last-search>
+      <last-search>self</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PFwvYnI+</last-pattern>
+      <last-pattern>self</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -963,7 +978,6 @@
     </search>
     <history>
       <history-search>
-        <entry>head</entry>
         <entry>size</entry>
         <entry>dead</entry>
         <entry>shortname</entry>
@@ -983,6 +997,7 @@
         <entry>a\ subscription for the logged-in user</entry>
         <entry>monthly</entry>
         <entry encoding="base64">PFwvYnI+</entry>
+        <entry>self</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;frog&quot;/&quot;frogs&quot;/g</entry>
@@ -998,12 +1013,12 @@
         <entry>%s/\ /,/g</entry>
         <entry>;w</entry>
         <entry>.,.+443q</entry>
-        <entry>2</entry>
-        <entry>noh</entry>
-        <entry>q</entry>
         <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
+        <entry>2</entry>
+        <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
