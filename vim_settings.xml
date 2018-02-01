@@ -321,7 +321,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/spotipy/client.py" timestamp="1517416312927" />
       <file name="$USER_HOME$/dev/java/snake/src/snake/game/Snake.java" timestamp="1513986069668">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="17" />
@@ -598,11 +597,11 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517435190867">
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517525655308">
         <mark key="'" line="14" column="22" />
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
@@ -874,8 +873,8 @@
       <jump line="30" column="9" filename="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>F</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIGNvbmQgaXMgTm9uZToK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -899,7 +898,7 @@
         <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGNvbmQgaXMgTm9uZToK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -918,19 +917,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgU3BvdGlmeToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKCiAgICBkZWYgY2xpZW50KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnNwb3RpZnkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z2VucmVzID0gWydIaXAtSG9wJywgJ1BvcCcsICdDb3VudHJ5JywgJ0xhdGluJywgJ0VsZWN0cm9uaWMvRGFuY2UnLAogICAgICAgICAgJ1ImQicsICdSb2NrJywgJ0NocmlzdGlhbicsICdDbGFzc2ljYWwnLCAnSW5kaWUnLAogICAgICAgICAgJ1Jvb3RzICYgQWNvdXN0aWMnLCAnSy1Qb3AnLCAnTWV0YWwnLCAnUmVnZ2FlJywgJ1NvdWwnLAogICAgICAgICAgJ1B1bmsnLCAnQmx1ZXMnLCAnRnVuayddCg==</text>
+        <text encoding="base64">Y2xhc3MgU3BvdGlmeToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKCiAgICBkZWYgY2xpZW50KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnNwb3RpZnkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHV0aWwub2F1dGgyLlNwb3RpZnlDbGllbnRDcmVkZW50aWFscyhjbGllbnRfaWQ9Y2xpZW50X2lkLCBjbGllbnRfc2VjcmV0PWNsaWVudF9zZWNyZXQpCiAgICAgICAgc2VsZi5zcG90aWZ5ID0gc3BvdGlweS5TcG90aWZ5KHRva2VuLmdldF9hY2Nlc3NfdG9rZW4oKSkKICAgICAgICBzZWxmLm1vbmdvID0gTW9uZ29DbGllbnQoKQogICAgICAgIHNlbGYuZGIgPSBzZWxmLm1vbmdvLmFsYmFydAo=</text>
+        <text encoding="base64">Z2VucmVzID0gWydIaXAtSG9wJywgJ1BvcCcsICdDb3VudHJ5JywgJ0xhdGluJywgJ0VsZWN0cm9uaWMvRGFuY2UnLAogICAgICAgICAgJ1ImQicsICdSb2NrJywgJ0NocmlzdGlhbicsICdDbGFzc2ljYWwnLCAnSW5kaWUnLAogICAgICAgICAgJ1Jvb3RzICYgQWNvdXN0aWMnLCAnSy1Qb3AnLCAnTWV0YWwnLCAnUmVnZ2FlJywgJ1NvdWwnLAogICAgICAgICAgJ1B1bmsnLCAnQmx1ZXMnLCAnRnVuayddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHV0aWwub2F1dGgyLlNwb3RpZnlDbGllbnRDcmVkZW50aWFscyhjbGllbnRfaWQ9Y2xpZW50X2lkLCBjbGllbnRfc2VjcmV0PWNsaWVudF9zZWNyZXQpCiAgICAgICAgc2VsZi5zcG90aWZ5ID0gc3BvdGlweS5TcG90aWZ5KHRva2VuLmdldF9hY2Nlc3NfdG9rZW4oKSkKICAgICAgICBzZWxmLm1vbmdvID0gTW9uZ29DbGllbnQoKQogICAgICAgIHNlbGYuZGIgPSBzZWxmLm1vbmdvLmFsYmFydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -953,7 +952,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
