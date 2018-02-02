@@ -762,16 +762,14 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517420787595">
-        <mark key="'" line="52" column="8" />
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="40" />
-        <mark key="." line="25" column="40" />
-        <mark key="^" line="25" column="41" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517578977163">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="14" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="19" column="41" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="21" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
@@ -864,17 +862,18 @@
       <jump line="36" column="19" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="40" column="19" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="43" column="20" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="18" column="2" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="27" column="25" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="52" column="8" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="14" column="22" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" />
       <jump line="30" column="9" filename="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" />
+      <jump line="18" column="54" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="20" column="18" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbmQgaXMgTm9uZToK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -889,16 +888,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>self</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbmQgaXMgTm9uZToK</text>
+        <text encoding="base64">c29uZ3MuaW5zZXJ0X29uZSh7J3Rlc3QnIDogJ3RoaXMgaXMgYSB0ZXN0JyArIHN0cih0aW1lLnRpbWUoKSl9KQpwcmludChzb25ncy5maW5kKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -917,19 +916,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wcm8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU3BvdGlmeToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKCiAgICBkZWYgY2xpZW50KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnNwb3RpZnkKCg==</text>
+        <text encoding="base64">c29uZ3MuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z2VucmVzID0gWydIaXAtSG9wJywgJ1BvcCcsICdDb3VudHJ5JywgJ0xhdGluJywgJ0VsZWN0cm9uaWMvRGFuY2UnLAogICAgICAgICAgJ1ImQicsICdSb2NrJywgJ0NocmlzdGlhbicsICdDbGFzc2ljYWwnLCAnSW5kaWUnLAogICAgICAgICAgJ1Jvb3RzICYgQWNvdXN0aWMnLCAnSy1Qb3AnLCAnTWV0YWwnLCAnUmVnZ2FlJywgJ1NvdWwnLAogICAgICAgICAgJ1B1bmsnLCAnQmx1ZXMnLCAnRnVuayddCg==</text>
+        <text encoding="base64">ZGIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHV0aWwub2F1dGgyLlNwb3RpZnlDbGllbnRDcmVkZW50aWFscyhjbGllbnRfaWQ9Y2xpZW50X2lkLCBjbGllbnRfc2VjcmV0PWNsaWVudF9zZWNyZXQpCiAgICAgICAgc2VsZi5zcG90aWZ5ID0gc3BvdGlweS5TcG90aWZ5KHRva2VuLmdldF9hY2Nlc3NfdG9rZW4oKSkKICAgICAgICBzZWxmLm1vbmdvID0gTW9uZ29DbGllbnQoKQogICAgICAgIHNlbGYuZGIgPSBzZWxmLm1vbmdvLmFsYmFydAo=</text>
+        <text encoding="base64">ICAgIGlmIGNvbmQgaXMgTm9uZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -949,33 +948,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgU3BvdGlmeToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKCiAgICBkZWYgY2xpZW50KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLnNwb3RpZnkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Z2VucmVzID0gWydIaXAtSG9wJywgJ1BvcCcsICdDb3VudHJ5JywgJ0xhdGluJywgJ0VsZWN0cm9uaWMvRGFuY2UnLAogICAgICAgICAgJ1ImQicsICdSb2NrJywgJ0NocmlzdGlhbicsICdDbGFzc2ljYWwnLCAnSW5kaWUnLAogICAgICAgICAgJ1Jvb3RzICYgQWNvdXN0aWMnLCAnSy1Qb3AnLCAnTWV0YWwnLCAnUmVnZ2FlJywgJ1NvdWwnLAogICAgICAgICAgJ1B1bmsnLCAnQmx1ZXMnLCAnRnVuayddCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbiA9IHV0aWwub2F1dGgyLlNwb3RpZnlDbGllbnRDcmVkZW50aWFscyhjbGllbnRfaWQ9Y2xpZW50X2lkLCBjbGllbnRfc2VjcmV0PWNsaWVudF9zZWNyZXQpCiAgICAgICAgc2VsZi5zcG90aWZ5ID0gc3BvdGlweS5TcG90aWZ5KHRva2VuLmdldF9hY2Nlc3NfdG9rZW4oKSkKICAgICAgICBzZWxmLm1vbmdvID0gTW9uZ29DbGllbnQoKQogICAgICAgIHNlbGYuZGIgPSBzZWxmLm1vbmdvLmFsYmFydAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>self</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>size</entry>
         <entry>dead</entry>
         <entry>shortname</entry>
         <entry>shortName</entry>
@@ -995,6 +993,7 @@
         <entry>monthly</entry>
         <entry encoding="base64">PFwvYnI+</entry>
         <entry>self</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;salamander&quot;/&quot;salamanders&quot;/g</entry>
