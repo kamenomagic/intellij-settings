@@ -228,6 +228,12 @@
       <file name="/Python Console" timestamp="1517581140111">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1517609823820">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1517045722441">
         <mark key="'" line="38" column="4" />
         <mark key="[" line="51" column="0" />
@@ -398,10 +404,12 @@
         <mark key="." line="184" column="21" />
         <mark key="^" line="194" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" timestamp="1517608691415">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" timestamp="1517609728303">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="60" />
+        <mark key="^" line="58" column="11" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1517046963222">
         <mark key="'" line="103" column="0" />
@@ -776,11 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="22" column="165" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="27" column="88" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="28" column="72" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="32" column="136" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="38" column="22" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="42" column="111" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="47" column="80" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
@@ -876,10 +879,15 @@
       <jump line="38" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="59" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="40" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="5" column="57" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2ltcGxlIHdoaWxlCg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -894,16 +902,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>load_or_create_location</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>init_location</text>
+      <register name="0" type="2">
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2ltcGxlIHdoaWxlCg==</text>
+        <text encoding="base64">ICAgIGkrKzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -922,19 +930,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgZ2VucmUgaW4gZW51bWVyYXRlKGdlbnJlcyk6Cg==</text>
+        <text encoding="base64">ICAgIGkrKzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfc2VhcmNoKHF1ZXJ5KToKICAgICMgRGVidWdnaW5nIG1ldGhvZCwgbm90IHBlcm1hbmVudAogICAgaW1wb3J0IHBwcmludAogICAgcHAgPSBwcHJpbnQuUHJldHR5UHJpbnRlcihpbmRlbnQ9MikKCiAgICByZXN1bHRzID0gZGljdChzcG90aWZ5LnNlYXJjaChxPXF1ZXJ5LCBsaW1pdD0zLCBvZmZzZXQ9MCwgdHlwZT0nYWxidW0nKSkKICAgIGZvciBpdGVtIGluIHJlc3VsdHNbJ2FsYnVtcyddWydpdGVtcyddOgogICAgICAgIGl0ZW1bJ2F2YWlsYWJsZV9tYXJrZXRzJ10gPSBOb25lCiAgICBhbGJ1bV9pZCA9IHJlc3VsdHNbJ2FsYnVtcyddWydpdGVtcyddWzBdWydpZCddCiAgICBhbGJ1bV90cmFja3MgPSBzcG90aWZ5LmFsYnVtX3RyYWNrcyhhbGJ1bV9pZClbJ2l0ZW1zJ10KICAgIGZvciB0cmFjayBpbiBhbGJ1bV90cmFja3M6CiAgICAgICAgdHJhY2tfaWQgPSB0cmFja1snaWQnXQogICAgICAgICMgcHAucHByaW50KHNwb3RpZnkuYXVkaW9fYW5hbHlzaXModHJhY2tfaWQpKQogICAgICAgIHByaW50KHNwb3RpZnkuYXVkaW9fZmVhdHVyZXMoW3RyYWNrX2lkXSkpCiAgICAgICAgYnJlYWsKCgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmRlZiB0ZXN0X3NlYXJjaChxdWVyeSk6CiAgICAjIERlYnVnZ2luZyBtZXRob2QsIG5vdCBwZXJtYW5lbnQKICAgIGltcG9ydCBwcHJpbnQKICAgIHBwID0gcHByaW50LlByZXR0eVByaW50ZXIoaW5kZW50PTIpCgogICAgcmVzdWx0cyA9IGRpY3Qoc3BvdGlmeS5zZWFyY2gocT1xdWVyeSwgbGltaXQ9Mywgb2Zmc2V0PTAsIHR5cGU9J2FsYnVtJykpCiAgICBmb3IgaXRlbSBpbiByZXN1bHRzWydhbGJ1bXMnXVsnaXRlbXMnXToKICAgICAgICBpdGVtWydhdmFpbGFibGVfbWFya2V0cyddID0gTm9uZQogICAgYWxidW1faWQgPSByZXN1bHRzWydhbGJ1bXMnXVsnaXRlbXMnXVswXVsnaWQnXQogICAgYWxidW1fdHJhY2tzID0gc3BvdGlmeS5hbGJ1bV90cmFja3MoYWxidW1faWQpWydpdGVtcyddCiAgICBmb3IgdHJhY2sgaW4gYWxidW1fdHJhY2tzOgogICAgICAgIHRyYWNrX2lkID0gdHJhY2tbJ2lkJ10KICAgICAgICAjIHBwLnBwcmludChzcG90aWZ5LmF1ZGlvX2FuYWx5c2lzKHRyYWNrX2lkKSkKICAgICAgICBwcmludChzcG90aWZ5LmF1ZGlvX2ZlYXR1cmVzKFt0cmFja19pZF0pKQogICAgICAgIGJyZWFrCgoK</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbl9zdHJpbmdzID0gbG9jYXRpb25fZmlsZS5yZWFkKCkuc3BsaXQoJy0nKQogICAgICAgIGdlbnJlX2luZGV4ID0gaW50KGxvY2F0aW9uX3N0cmluZ3NbMF0pIGlmIGxvY2F0aW9uX2V4aXN0cyBlbHNlIDAKICAgICAgICBjdXJyZW50X29mZnNldCA9IGludChsb2NhdGlvbl9zdHJpbmdzWzFdKSBpZiBsb2NhdGlvbl9leGlzdHMgZWxzZSAwCiAgICAgICAgc2F2ZV9sb2NhdGlvbihnZW5yZV9pbmRleCwgY3VycmVudF9vZmZzZXQsIGxvY2F0aW9uX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -954,19 +962,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9sb2NhdGlvbi53cml0ZShpLCBjdXJyZW50X29mZnNldCkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5yZV9pbmRleCArPSAxCg==</text>
+        <text encoding="base64">aW50IGogPSAwOwo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbl9maWxlLnNlZWsoMCkKICAgICAgICBsb2NhdGlvbl9maWxlLnRydW5jYXRlKCkKICAgICAgICBsb2NhdGlvbl9maWxlLndyaXRlbGluZXMoJ3t9LXt9Jy5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSkKICAgICAgICBwcmludCgiVXNpbmcgc2F2ZWQgbG9jYXRpb246IHt9LXt9Ii5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1018,10 +1026,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>2</entry>
-        <entry>q</entry>
         <entry>Q</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
