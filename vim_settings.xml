@@ -762,16 +762,15 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517581657695">
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="34" column="14" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="34" column="14" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517607410224">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="57" />
+        <mark key="^" line="28" column="57" />
+        <mark key="." line="28" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
-      <jump line="19" column="41" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="21" column="35" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="22" column="165" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
       <jump line="27" column="88" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" />
@@ -860,20 +859,22 @@
       <jump line="46" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="36" column="19" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="40" column="19" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="43" column="20" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="27" column="25" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="52" column="8" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="14" column="22" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" />
       <jump line="30" column="9" filename="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" />
       <jump line="18" column="54" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="20" column="18" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="40" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9sb2NhdGlvbi53cml0ZShpLCBjdXJyZW50X29mZnNldCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgZ2VucmUgaW4gZW51bWVyYXRlKGdlbnJlcyk6Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -888,16 +889,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>load_or_create_location</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="4">
-        <text>int(saved_location[0])</text>
+        <text>init_location</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9sb2NhdGlvbi53cml0ZShpLCBjdXJyZW50X29mZnNldCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgZ2VucmUgaW4gZW51bWVyYXRlKGdlbnJlcyk6Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -916,19 +917,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5yZV9pbmRleCArPSAxCg==</text>
+        <text encoding="base64">ZGVmIHRlc3Rfc2VhcmNoKHF1ZXJ5KToKICAgICMgRGVidWdnaW5nIG1ldGhvZCwgbm90IHBlcm1hbmVudAogICAgaW1wb3J0IHBwcmludAogICAgcHAgPSBwcHJpbnQuUHJldHR5UHJpbnRlcihpbmRlbnQ9MikKCiAgICByZXN1bHRzID0gZGljdChzcG90aWZ5LnNlYXJjaChxPXF1ZXJ5LCBsaW1pdD0zLCBvZmZzZXQ9MCwgdHlwZT0nYWxidW0nKSkKICAgIGZvciBpdGVtIGluIHJlc3VsdHNbJ2FsYnVtcyddWydpdGVtcyddOgogICAgICAgIGl0ZW1bJ2F2YWlsYWJsZV9tYXJrZXRzJ10gPSBOb25lCiAgICBhbGJ1bV9pZCA9IHJlc3VsdHNbJ2FsYnVtcyddWydpdGVtcyddWzBdWydpZCddCiAgICBhbGJ1bV90cmFja3MgPSBzcG90aWZ5LmFsYnVtX3RyYWNrcyhhbGJ1bV9pZClbJ2l0ZW1zJ10KICAgIGZvciB0cmFjayBpbiBhbGJ1bV90cmFja3M6CiAgICAgICAgdHJhY2tfaWQgPSB0cmFja1snaWQnXQogICAgICAgICMgcHAucHByaW50KHNwb3RpZnkuYXVkaW9fYW5hbHlzaXModHJhY2tfaWQpKQogICAgICAgIHByaW50KHNwb3RpZnkuYXVkaW9fZmVhdHVyZXMoW3RyYWNrX2lkXSkpCiAgICAgICAgYnJlYWsKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbl9maWxlLnNlZWsoMCkKICAgICAgICBsb2NhdGlvbl9maWxlLnRydW5jYXRlKCkKICAgICAgICBsb2NhdGlvbl9maWxlLndyaXRlbGluZXMoJ3t9LXt9Jy5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSkKICAgICAgICBwcmludCgiVXNpbmcgc2F2ZWQgbG9jYXRpb246IHt9LXt9Ii5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wZW4obG8pCg==</text>
+        <text encoding="base64">CmRlZiB0ZXN0X3NlYXJjaChxdWVyeSk6CiAgICAjIERlYnVnZ2luZyBtZXRob2QsIG5vdCBwZXJtYW5lbnQKICAgIGltcG9ydCBwcHJpbnQKICAgIHBwID0gcHByaW50LlByZXR0eVByaW50ZXIoaW5kZW50PTIpCgogICAgcmVzdWx0cyA9IGRpY3Qoc3BvdGlmeS5zZWFyY2gocT1xdWVyeSwgbGltaXQ9Mywgb2Zmc2V0PTAsIHR5cGU9J2FsYnVtJykpCiAgICBmb3IgaXRlbSBpbiByZXN1bHRzWydhbGJ1bXMnXVsnaXRlbXMnXToKICAgICAgICBpdGVtWydhdmFpbGFibGVfbWFya2V0cyddID0gTm9uZQogICAgYWxidW1faWQgPSByZXN1bHRzWydhbGJ1bXMnXVsnaXRlbXMnXVswXVsnaWQnXQogICAgYWxidW1fdHJhY2tzID0gc3BvdGlmeS5hbGJ1bV90cmFja3MoYWxidW1faWQpWydpdGVtcyddCiAgICBmb3IgdHJhY2sgaW4gYWxidW1fdHJhY2tzOgogICAgICAgIHRyYWNrX2lkID0gdHJhY2tbJ2lkJ10KICAgICAgICAjIHBwLnBwcmludChzcG90aWZ5LmF1ZGlvX2FuYWx5c2lzKHRyYWNrX2lkKSkKICAgICAgICBwcmludChzcG90aWZ5LmF1ZGlvX2ZlYXR1cmVzKFt0cmFja19pZF0pKQogICAgICAgIGJyZWFrCgoK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbl9maWxlLndyaXRlbGluZXMoJ3t9LXt9Jy5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSkKICAgICAgICBwcmludCgiVXNpbmcgc2F2ZWQgbG9jYXRpb246IHt9LXt9Ii5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbl9zdHJpbmdzID0gbG9jYXRpb25fZmlsZS5yZWFkKCkuc3BsaXQoJy0nKQogICAgICAgIGdlbnJlX2luZGV4ID0gaW50KGxvY2F0aW9uX3N0cmluZ3NbMF0pIGlmIGxvY2F0aW9uX2V4aXN0cyBlbHNlIDAKICAgICAgICBjdXJyZW50X29mZnNldCA9IGludChsb2NhdGlvbl9zdHJpbmdzWzFdKSBpZiBsb2NhdGlvbl9leGlzdHMgZWxzZSAwCiAgICAgICAgc2F2ZV9sb2NhdGlvbihnZW5yZV9pbmRleCwgY3VycmVudF9vZmZzZXQsIGxvY2F0aW9uX2ZpbGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBsb2NhdGlvbl9zdHJpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudF9sb2NhdGlvbi53cml0ZShpLCBjdXJyZW50X29mZnNldCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -948,16 +949,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBsb2NhdGlvbl9maWxlLnJlYWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBnZW5yZV9pbmRleCArPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zLgo=</text>
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbl9maWxlLnNlZWsoMCkKICAgICAgICBsb2NhdGlvbl9maWxlLnRydW5jYXRlKCkKICAgICAgICBsb2NhdGlvbl9maWxlLndyaXRlbGluZXMoJ3t9LXt9Jy5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSkKICAgICAgICBwcmludCgiVXNpbmcgc2F2ZWQgbG9jYXRpb246IHt9LXt9Ii5mb3JtYXQoZ2VucmVfaW5kZXgsIGN1cnJlbnRfb2Zmc2V0KSkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihjdXJyZW50X2xvY2F0aW9uX2ZpbGVfbmFtZSwgJ3cnKSBhcyBjdXJyZW50X2xvY2F0aW9uOgogICAgICAgIGN1cnJlbnRfbG9jYXRpb24ud3JpdGVsaW5lcygnMC0yJykK</text>
+        <text encoding="base64">ICAgIG9wZW4obG8pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
