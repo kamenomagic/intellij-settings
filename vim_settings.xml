@@ -65,6 +65,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/config.json" timestamp="1517838530383">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" timestamp="1515663608360">
         <mark key="'" line="43" column="93" />
         <mark key="[" line="95" column="7" />
@@ -82,12 +88,12 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1517776051368">
-        <mark key="'" line="5" column="28" />
-        <mark key="[" line="72" column="29" />
-        <mark key="]" line="72" column="29" />
-        <mark key="." line="72" column="29" />
-        <mark key="^" line="72" column="28" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1517838615689">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515748755833">
         <mark key="'" line="100" column="6" />
@@ -801,7 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="83" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="82" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="80" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
@@ -901,10 +906,11 @@
       <jump line="42" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="50" column="14" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="5" column="28" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="67" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, marker='', linestyle='-'</text>
+        <text>data</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -919,7 +925,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>, marker='', linestyle='-'</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>percent</text>
@@ -928,7 +934,7 @@
         <text encoding="base64">ICAgIGF4LnBsb3RfZGF0ZShzdGFydHMsIHZhbHVlcywgbWFya2VyPScnLCBsaW5lc3R5bGU9Jy0nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsdC5wbG90KHN0YXJ0cywgd2FrZXMpCiAgICBwbHQucGxvdChzdGFydHMsIGxpZ2h0cykKICAgIHBsdC5wbG90KHN0YXJ0cywgcmVtcykKICAgIHBsdC5wbG90KHN0YXJ0cywgc3dzcykK</text>
+        <text encoding="base64">Y29uZmlnID0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -959,16 +965,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoKQogICAgYXgucGxvdF9kYXRlKHRpbWUsIHZhbHVlcywgbWFya2VyPScnLCBsaW5lc3R5bGU9Jy0nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIHBsdC5wbG90KHN0YXJ0cywgd2FrZXMpCiAgICBwbHQucGxvdChzdGFydHMsIGxpZ2h0cykKICAgIHBsdC5wbG90KHN0YXJ0cywgcmVtcykKICAgIHBsdC5wbG90KHN0YXJ0cywgc3dzcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoKQogICAgYXgucGxvdF9kYXRlKHRpbWUsIHZhbHVlcywgbWFya2VyPScnLCBsaW5lc3R5bGU9Jy0nKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -991,16 +997,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsdC5sZWdlbmQoKHdha2VbMF0sIGxpZ2h0WzBdLCByZW1bMF0sIHN3c1swXSksICgnV2FrZScsICdMaWdodCcsICdSRU0nLCAnU1dTJykpCg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluZCA9IG5wLmFyYW5nZShsZW4oc3RhcnRzKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoID0gLjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
