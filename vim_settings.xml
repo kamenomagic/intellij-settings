@@ -248,6 +248,13 @@
       <file name="/Python Console" timestamp="1517763631313">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517842939595">
+        <mark key="'" line="15" column="26" />
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="54" />
+        <mark key="^" line="2" column="54" />
+        <mark key="." line="2" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1517609823820">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="30" />
@@ -807,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="82" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="80" column="12" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="5" column="27" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -907,10 +913,11 @@
       <jump line="50" column="14" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="5" column="28" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="67" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="15" column="26" filename="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>ForToWhile</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -925,7 +932,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>ForToWhile</text>
       </register>
       <register name="/" type="4">
         <text>percent</text>
