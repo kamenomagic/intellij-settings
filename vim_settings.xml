@@ -245,15 +245,15 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517763631313">
+      <file name="/Python Console" timestamp="1517866789369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517847137852">
+      <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517866543999">
         <mark key="'" line="15" column="26" />
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="2" column="54" />
-        <mark key="^" line="2" column="54" />
-        <mark key="." line="2" column="54" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1517609823820">
         <mark key="[" line="12" column="9" />
@@ -721,7 +721,7 @@
       <file name="/dummy.sql" timestamp="1517043204379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517763919572">
+      <file name="/Dummy.txt" timestamp="1517866799291">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -805,7 +805,7 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517852025638">
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517866344229">
         <mark key="'" line="95" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -917,7 +917,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAyMDE4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -932,7 +932,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>2000</text>
+        <text>ForToWhile</text>
       </register>
       <register name="/" type="4">
         <text>write</text>
@@ -941,7 +941,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnU2NyYXBpbmcgYWxidW0ge30nLmZvcm1hdChhbGJ1bSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAyMDE4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -972,19 +972,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAxMDAwMDA/Cg==</text>
+        <text encoding="base64">ZnJvbSBoZWxwZXJzIGltcG9ydCBHb2xkZW5UZXN0Q2FzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyA1MAo=</text>
+        <text encoding="base64">IyAyMDE4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">IyAxMDAwMDA/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">IyA1MAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1004,16 +1004,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
