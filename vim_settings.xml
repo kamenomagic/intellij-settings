@@ -805,12 +805,12 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517932622515">
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517933682371">
         <mark key="'" line="67" column="21" />
-        <mark key="[" line="70" column="36" />
-        <mark key="]" line="70" column="42" />
-        <mark key="^" line="70" column="42" />
-        <mark key="." line="70" column="42" />
+        <mark key="[" line="75" column="27" />
+        <mark key="]" line="75" column="42" />
+        <mark key="^" line="75" column="42" />
+        <mark key="." line="75" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -916,8 +916,8 @@
       <jump line="67" column="21" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>analysis[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2tbJ2F2YWlsYWJsZV9tYXJrZXRzJ10gPSBOb25lCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -932,16 +932,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>'codestring'</text>
+        <text>['analysis']</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>analysis[</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2tbJ2FuYWx5c2lzJ11bJ2F2YWlsYWJsZV9tYXJrZXRzJ10gPSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2tbJ2F2YWlsYWJsZV9tYXJrZXRzJ10gPSBOb25lCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,19 +953,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJjb2RlX3ZlcnNpb24iOiAzLjE1LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlY2hvcHJpbnRfdmVyc2lvbiI6IDQuMTIsCg==</text>
+        <text encoding="base64">ICAgICJjb2RlX3ZlcnNpb24iOiAzLjE1LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzeW5jaF92ZXJzaW9uIjogMSwK</text>
+        <text encoding="base64">ICAgICJlY2hvcHJpbnRfdmVyc2lvbiI6IDQuMTIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzeW5jaF92ZXJzaW9uIjogMSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBoZWxwZXJzIGltcG9ydCBHb2xkZW5UZXN0Q2FzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -985,16 +985,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAyMDE4Cg==</text>
+        <text encoding="base64">ZnJvbSBoZWxwZXJzIGltcG9ydCBHb2xkZW5UZXN0Q2FzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAxMDAwMDA/Cg==</text>
+        <text encoding="base64">IyAyMDE4Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyA1MAo=</text>
+        <text encoding="base64">IyAxMDAwMDA/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
