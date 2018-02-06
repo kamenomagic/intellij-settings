@@ -259,14 +259,15 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517957705681">
+      <file name="/Python Console" timestamp="1517958784438">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517957317530">
+      <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517958733476">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1517955955035">
         <mark key="[" line="9" column="0" />
@@ -653,11 +654,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517957504649">
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517959167370">
         <mark key="'" line="14" column="22" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -935,7 +937,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW50IG1haW4oKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -950,16 +952,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>For</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW50IG1haW4oKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>WhileToDoWhile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1004,19 +1006,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnV2hhdFwncyB1cCBkdWRlJykK</text>
+        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdF9mb3JfdG9fd2hpbGUnLAogICAgICAgICd0ZXN0X29tcF9mb3InLAogICAgICAgICd0ZXN0X2RvX3doaWxlX3RvX2dvdG8nLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnV2hhdFwncyB1cCBkdWRlJykK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1036,16 +1038,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAndGVzdF9mb3JfdG9fd2hpbGUnLAogICAgICAgICd0ZXN0X29tcF9mb3InLAogICAgICAgICd0ZXN0X2RvX3doaWxlX3RvX2dvdG8nLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChncm91cCkK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1084,7 +1086,6 @@
         <entry>sort</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;turtle&quot;/&quot;turtles&quot;/g</entry>
         <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
         <entry>vs util</entry>
         <entry encoding="base64">dyA=</entry>
@@ -1103,6 +1104,7 @@
         <entry>2</entry>
         <entry>q</entry>
         <entry>w2</entry>
+        <entry>ew</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
