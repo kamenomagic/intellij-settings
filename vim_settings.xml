@@ -805,16 +805,15 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517866344229">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517923372790">
+        <mark key="'" line="23" column="16" />
+        <mark key="[" line="65" column="81" />
+        <mark key="]" line="65" column="107" />
+        <mark key="^" line="62" column="102" />
+        <mark key="." line="65" column="81" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -914,10 +913,11 @@
       <jump line="44" column="47" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="64" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="98" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="23" column="16" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.encode('ascii', 'ignore')</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -937,8 +937,8 @@
       <register name="/" type="4">
         <text>write</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnU2NyYXBpbmcgYWxidW0ge30nLmZvcm1hdChhbGJ1bSkpCg==</text>
+      <register name="0" type="4">
+        <text>.encode('ascii', 'ignore')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
