@@ -805,12 +805,12 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517931635790">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="81" />
-        <mark key="]" line="65" column="107" />
-        <mark key="^" line="62" column="102" />
-        <mark key="." line="65" column="81" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517932622515">
+        <mark key="'" line="67" column="21" />
+        <mark key="[" line="70" column="36" />
+        <mark key="]" line="70" column="42" />
+        <mark key="^" line="70" column="42" />
+        <mark key="." line="70" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -882,7 +882,6 @@
       <jump line="81" column="30" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="39" column="13" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="43" column="8" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="67" column="35" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="69" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="4" column="5" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -914,10 +913,11 @@
       <jump line="66" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="97" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="67" column="21" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.encode('ascii', 'ignore')</text>
+        <text>analysis[</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -932,59 +932,40 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>ForToWhile</text>
+        <text>'codestring'</text>
       </register>
       <register name="/" type="4">
-        <text>write</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>.encode('ascii', 'ignore')</text>
+        <text>analysis[</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="121" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBoZWxwZXJzIGltcG9ydCBHb2xkZW5UZXN0Q2FzZQo=</text>
+        <text encoding="base64">ICAgICJjb2RlX3ZlcnNpb24iOiAzLjE1LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAyMDE4Cg==</text>
+        <text encoding="base64">ICAgICJlY2hvcHJpbnRfdmVyc2lvbiI6IDQuMTIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAxMDAwMDA/Cg==</text>
+        <text encoding="base64">ICAgICJzeW5jaF92ZXJzaW9uIjogMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyA1MAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ZnJvbSBoZWxwZXJzIGltcG9ydCBHb2xkZW5UZXN0Q2FzZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1004,25 +985,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">IyAyMDE4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">IyAxMDAwMDA/Cg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkK</text>
+        <text encoding="base64">IyA1MAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>write</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>write</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1035,7 +1016,6 @@
         <entry>:</entry>
         <entry>percent</entry>
         <entry>save</entry>
-        <entry>&quot;</entry>
         <entry>for</entry>
         <entry>tqdm</entry>
         <entry>print</entry>
@@ -1050,6 +1030,7 @@
         <entry>80</entry>
         <entry>150</entry>
         <entry>write</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;crocodilian&quot;/&quot;crocodilians&quot;/g</entry>
