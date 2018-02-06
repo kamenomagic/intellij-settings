@@ -805,8 +805,8 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517923372790">
-        <mark key="'" line="23" column="16" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1517928958747">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="81" />
         <mark key="]" line="65" column="107" />
         <mark key="^" line="62" column="102" />
@@ -814,7 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="25" column="44" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -831,7 +830,6 @@
       <jump line="16" column="28" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="38" column="12" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="42" column="39" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="62" column="48" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="70" column="7" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -888,7 +886,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="69" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="4" column="5" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="66" column="25" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="3" column="5" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="35" column="12" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="40" column="16" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -914,6 +911,9 @@
       <jump line="64" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="98" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="23" column="16" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="66" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="97" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
