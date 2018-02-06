@@ -89,12 +89,18 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1517953653723">
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1517955275721">
         <mark key="'" line="47" column="20" />
         <mark key="[" line="52" column="22" />
         <mark key="]" line="52" column="22" />
         <mark key="." line="52" column="22" />
         <mark key="^" line="52" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1517956157815">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515748755833">
         <mark key="'" line="100" column="6" />
@@ -255,18 +261,17 @@
       <file name="/Python Console" timestamp="1517953100614">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517866543999">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517956057718">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1517609823820">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1517955955035">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1517045722441">
         <mark key="'" line="38" column="4" />
@@ -441,12 +446,12 @@
         <mark key="." line="184" column="21" />
         <mark key="^" line="194" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" timestamp="1517609728303">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="60" />
-        <mark key="^" line="58" column="11" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" timestamp="1517956120579">
+        <mark key="'" line="67" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="67" column="9" />
+        <mark key="." line="67" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1517046963222">
         <mark key="'" line="103" column="0" />
@@ -647,12 +652,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517835704474">
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517956021489">
         <mark key="'" line="14" column="22" />
-        <mark key="[" line="16" column="43" />
-        <mark key="]" line="16" column="69" />
-        <mark key="." line="16" column="43" />
-        <mark key="^" line="6" column="19" />
+        <mark key="[" line="12" column="60" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -674,6 +679,11 @@
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_input.c" timestamp="1517956123205">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/game/SnakePart.java" timestamp="1513986948810">
         <mark key="[" line="6" column="15" />
@@ -821,9 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="38" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="32" column="16" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="74" column="69" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="41" column="12" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="4" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer.py" />
@@ -921,10 +928,13 @@
       <jump line="43" column="20" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="45" column="20" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="47" column="20" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="42" column="1" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" />
+      <jump line="67" column="9" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -944,11 +954,11 @@
       <register name="/" type="4">
         <text>sort</text>
       </register>
-      <register name="0" type="4">
-        <text>linestyles[i]</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnV2hhdFwncyB1cCBkdWRlJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -993,19 +1003,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChncm91cCkK</text>
+        <text encoding="base64">ICAgICAgICAndGVzdF9mb3JfdG9fd2hpbGUnLAogICAgICAgICd0ZXN0X29tcF9mb3InLAogICAgICAgICd0ZXN0X2RvX3doaWxlX3RvX2dvdG8nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbmRleCkK</text>
+        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0cy5yZXZlcnNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChncm91cCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHN0YXJ0cywgd2FrZXMsIGxpZ2h0cywgcmVtcywgc3dzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1025,16 +1035,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ID0gaQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbmRleCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyb3dbU1RBUlRdLAogICAgICAgICAgICAgIHJvd1tXQUtFX1RJTUVdLAogICAgICAgICAgICAgIHJvd1tMSUdIVF9USU1FXSwKICAgICAgICAgICAgICByb3dbUkVNX1RJTUVdLAogICAgICAgICAgICAgIHJvd1tTV1NfVElNRV0pCg==</text>
+        <text encoding="base64">ICAgIHN0YXJ0cy5yZXZlcnNlKCkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHN0YXJ0cywgd2FrZXMsIGxpZ2h0cywgcmVtcywgc3dzcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1086,12 +1096,12 @@
         <entry>.,.+443q</entry>
         <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>2</entry>
         <entry>Q</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>kk;w</entry>
         <entry>noh</entry>
+        <entry>2</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
