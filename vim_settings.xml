@@ -654,11 +654,11 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517960608937">
-        <mark key="'" line="14" column="22" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517987263359">
+        <mark key="'" line="25" column="32" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -834,11 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer.py" />
-      <jump line="17" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer.py" />
-      <jump line="15" column="14" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="16" column="5" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="21" column="14" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="20" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="22" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="36" column="15" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -934,10 +929,15 @@
       <jump line="10" column="6" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_input.c" />
       <jump line="1" column="4" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" />
+      <jump line="14" column="15" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="15" column="20" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="0" column="53" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="3" column="39" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="25" column="32" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -952,16 +952,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>For</text>
+        <text encoding="base64">IGluc3RhbmNlb2YgV2hpbGUuY2xhc3M=</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text>for</text>
       </register>
       <register name="0" type="4">
         <text>WhileToDoWhile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1006,19 +1006,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlLmNoaWxkcmVuKCkuYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1038,35 +1038,34 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnV2hhdFwncyB1cCBkdWRlJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdF9mb3JfdG9fd2hpbGUnLAogICAgICAgICd0ZXN0X29tcF9mb3InLAogICAgICAgICd0ZXN0X2RvX3doaWxlX3RvX2dvdG8nLAo=</text>
+        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQoK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnV2hhdFwncyB1cCBkdWRlJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search>for</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
+      <last-pattern>for</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>percent</entry>
         <entry>save</entry>
-        <entry>for</entry>
         <entry>tqdm</entry>
         <entry>print</entry>
         <entry>Starting</entry>
@@ -1084,6 +1083,7 @@
         <entry>st</entry>
         <entry>start</entry>
         <entry>sort</entry>
+        <entry>for</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
@@ -1100,11 +1100,11 @@
         <entry>Q</entry>
         <entry>wq</entry>
         <entry>kk;w</entry>
-        <entry>noh</entry>
         <entry>2</entry>
-        <entry>q</entry>
         <entry>w2</entry>
         <entry>ew</entry>
+        <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
