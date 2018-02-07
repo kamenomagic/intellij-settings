@@ -259,7 +259,7 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517958784438">
+      <file name="/Python Console" timestamp="1517960663893">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517958733476">
@@ -654,12 +654,11 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517959167370">
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517960608937">
         <mark key="'" line="14" column="22" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="5" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -682,11 +681,12 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_input.c" timestamp="1517957631701">
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_input.c" timestamp="1517960657677">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="4" column="4" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/game/SnakePart.java" timestamp="1513986948810">
         <mark key="[" line="6" column="15" />
@@ -937,7 +937,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -961,7 +961,7 @@
         <text>WhileToDoWhile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1006,19 +1006,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnV2hhdFwncyB1cCBkdWRlJykK</text>
+        <text encoding="base64">aW50IGkgPSAwOwp3aGlsZShpIDwgMTApIHsKICAgIGkrKzsKfQoK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1038,16 +1038,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdF9mb3JfdG9fd2hpbGUnLAogICAgICAgICd0ZXN0X29tcF9mb3InLAogICAgICAgICd0ZXN0X2RvX3doaWxlX3RvX2dvdG8nLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnV2hhdFwncyB1cCBkdWRlJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAndGVzdF9mb3JfdG9fd2hpbGUnLAogICAgICAgICd0ZXN0X29tcF9mb3InLAogICAgICAgICd0ZXN0X2RvX3doaWxlX3RvX2dvdG8nLAo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
