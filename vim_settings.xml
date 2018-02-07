@@ -654,12 +654,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518019050238">
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518040934641">
         <mark key="'" line="25" column="32" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="13" />
+        <mark key="[" line="27" column="26" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -937,8 +937,8 @@
       <jump line="47" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>is_instance</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -953,7 +953,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>if within_an_hour and within_twenty_minutes:</text>
+        <text>is_instance</text>
       </register>
       <register name="/" type="4">
         <text>sorte</text>
