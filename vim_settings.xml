@@ -89,11 +89,12 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1517998583198">
-        <mark key="'" line="33" column="59" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518018184042">
+        <mark key="'" line="42" column="30" />
+        <mark key="[" line="54" column="63" />
+        <mark key="]" line="54" column="64" />
+        <mark key="." line="54" column="63" />
+        <mark key="^" line="54" column="63" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1517957638726">
         <mark key="'" line="1" column="4" />
@@ -258,7 +259,7 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1517960663893">
+      <file name="/Python Console" timestamp="1518018725113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" timestamp="1517958733476">
@@ -653,11 +654,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1517987263359">
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518019050238">
         <mark key="'" line="25" column="32" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="16" />
-        <mark key="." line="28" column="16" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="13" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -833,7 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="18" column="7" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="28" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="23" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -904,12 +905,9 @@
       <jump line="58" column="21" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="5" column="34" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="59" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_constants.py" />
       <jump line="7" column="26" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="42" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="19" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="17" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="27" column="42" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="41" column="22" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -933,10 +931,14 @@
       <jump line="29" column="35" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="30" column="19" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="33" column="59" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="59" column="33" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="19" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="36" column="25" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="42" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0ZV90aW1lLmRhdGUoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -951,10 +953,10 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.date()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>date_time</text>
+        <text>wakes</text>
       </register>
       <register name="0" type="4">
         <text>WhileToDoWhile</text>
@@ -1030,18 +1032,16 @@
       </register>
     </registers>
     <search>
-      <last-search>date_time</last-search>
+      <last-search>wakes</last-search>
       <last-offset />
-      <last-pattern>date_time</last-pattern>
+      <last-pattern>wakes</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry>tqdm</entry>
         <entry>print</entry>
         <entry>Starting</entry>
         <entry>70</entry>
@@ -1060,6 +1060,8 @@
         <entry>sort</entry>
         <entry>for</entry>
         <entry>date_time</entry>
+        <entry>Wake</entry>
+        <entry>wakes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
@@ -1079,8 +1081,8 @@
         <entry>2</entry>
         <entry>w2</entry>
         <entry>ew</entry>
-        <entry>noh</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
