@@ -654,12 +654,10 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518040934641">
-        <mark key="'" line="25" column="32" />
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518042093896">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -937,8 +935,8 @@
       <jump line="47" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_instance</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBkZWYgdmlzaXRfQ29tcG91bmQoc2VsZiwgbm9kZSk6ICNweWxpbnQ7IGRpc2FibGU9aW52YWxpZC1uYW1lCiAgICAgICAgbm9kZSA9IHNlbGYuZ2VuZXJpY192aXNpdChub2RlKQogICAgICAgIGZvciBjaGlsZCBpbiBub2RlLmNoaWxkcmVuKCk6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoY2hpbGQsIFdoaWxlKToKICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -962,7 +960,7 @@
         <text>WhileToDoWhile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBkZWYgdmlzaXRfQ29tcG91bmQoc2VsZiwgbm9kZSk6ICNweWxpbnQ7IGRpc2FibGU9aW52YWxpZC1uYW1lCiAgICAgICAgbm9kZSA9IHNlbGYuZ2VuZXJpY192aXNpdChub2RlKQogICAgICAgIGZvciBjaGlsZCBpbiBub2RlLmNoaWxkcmVuKCk6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoY2hpbGQsIFdoaWxlKToKICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -984,19 +982,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBheC5heGhsaW5lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0ZV90aW1lLmRhdGUoKSkK</text>
+        <text encoding="base64">ICAgICAgICBheC5heGhsaW5lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxpbmVzdHlsZXMgPSBbJy0nLCAnLS0nLCAnLS4nLCAnOiddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0ZV90aW1lLmRhdGUoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoKQo=</text>
+        <text encoding="base64">ICAgIGxpbmVzdHlsZXMgPSBbJy0nLCAnLS0nLCAnLS4nLCAnOiddCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1016,16 +1014,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIAo=</text>
+        <text encoding="base64">ICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIAo=</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmNoaWxkcmVuKCkuYwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
