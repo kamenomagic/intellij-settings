@@ -5,9 +5,6 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
