@@ -20,7 +20,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="57" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1518039306154">
+      <file name="/a.dummy" timestamp="1518125905214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510972830990">
@@ -65,12 +65,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/config.json" timestamp="1518081019185">
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/config.json" timestamp="1518124813934">
         <mark key="'" line="5" column="23" />
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="15" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" timestamp="1515663608360">
         <mark key="'" line="43" column="93" />
@@ -89,11 +89,12 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518105849046">
-        <mark key="'" line="62" column="25" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518125654615">
+        <mark key="'" line="80" column="44" />
+        <mark key="[" line="104" column="55" />
+        <mark key="]" line="104" column="66" />
+        <mark key="." line="104" column="66" />
+        <mark key="^" line="104" column="66" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1518077944582">
         <mark key="'" line="2" column="4" />
@@ -386,6 +387,12 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" timestamp="1518126005771">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1513865580424">
         <mark key="'" line="136" column="4" />
         <mark key="[" line="158" column="0" />
@@ -435,10 +442,6 @@
       </file>
       <file name="$USER_HOME$/dev/python/albumart/.gitignore" timestamp="1517327049846">
         <mark key="[" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/python/albumart/main.py" timestamp="1517759214190">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -607,6 +610,12 @@
         <mark key="." line="13" column="65" />
         <mark key="^" line="13" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/PartitionGraph.py" timestamp="1518125886550">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1517302688174">
         <mark key="[" line="70" column="53" />
         <mark key="]" line="70" column="52" />
@@ -666,10 +675,10 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518082013757">
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518124688703">
         <mark key="'" line="1" column="18" />
-        <mark key="[" line="0" column="58" />
-        <mark key="]" line="0" column="57" />
+        <mark key="[" line="1" column="64" />
+        <mark key="]" line="1" column="73" />
         <mark key="." line="0" column="57" />
         <mark key="^" line="0" column="57" />
       </file>
@@ -712,6 +721,12 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/TotalsGraph.py" timestamp="1518125890806">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
@@ -839,14 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="69" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="4" column="5" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="3" column="5" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="35" column="12" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="40" column="16" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="63" column="32" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="76" column="58" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="19" column="26" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -879,7 +886,6 @@
       <jump line="82" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="68" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="58" column="21" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="5" column="34" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_constants.py" />
@@ -899,9 +905,7 @@
       <jump line="3" column="39" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="25" column="32" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="13" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="29" column="35" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="30" column="19" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="59" column="33" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="19" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="36" column="25" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="42" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -921,7 +925,6 @@
       <jump line="1" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" />
       <jump line="57" column="78" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="56" column="58" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="45" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="46" column="36" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="47" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="50" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -939,10 +942,22 @@
       <jump line="35" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="86" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="15" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
+      <jump line="79" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="32" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="59" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="29" column="22" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="89" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="28" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="65" column="39" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="66" column="32" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="5" column="1" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="45" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="80" column="44" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBmaWc9cGx0LmZpZ3VyZShmaWdzaXplPSg4LCA4KSkKICAgIGNvbHVtbnMgPSA0CiAgICByb3dzID0gNQogICAgZm9yIGkgaW4gcmFuZ2UoMSwgY29sdW1ucypyb3dzICsxKToKICAgICAgICBpbWcgPSBucC5yYW5kb20ucmFuZGludCgxMCwgc2l6ZT0oaCx3KSkKICAgICAgICBmaWcuYWRkX3N1YnBsb3Qocm93cywgY29sdW1ucywgaSkKICAgICAgICBwbHQuaW1zaG93KGltZykKICAgIHBsdC5zaG93KCkKCiAgICBmaWcgPSBwbHQuZmlndXJlKGZpZ3NpemU9KGxlbihzbGVlcHMpLCAxMCkpLnN1YnBsb3RzKCkK</text>
+        <text encoding="base64">ICAgIHNlbGYuZm9udCA9IEZvbnRQcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -957,16 +972,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>isMonthly() ? getModifiedDate().setMonth()</text>
+        <text>PartitionGraph</text>
       </register>
       <register name="/" type="4">
-        <text>rem_totals</text>
+        <text>sws_totals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnNob3coKSgpCg==</text>
+        <text encoding="base64">ZnJvbSB6ZW9fZ3JhcGggaW1wb3J0IFplb0dyYXBoCgpjbGFzcyBQYXJ0aXRpb25HcmFwaChaZW9HcmFwaCk6CiAgICBkZWYgaGFuZGxlX3JvdyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBmaWc9cGx0LmZpZ3VyZShmaWdzaXplPSg4LCA4KSkKICAgIGNvbHVtbnMgPSA0CiAgICByb3dzID0gNQogICAgZm9yIGkgaW4gcmFuZ2UoMSwgY29sdW1ucypyb3dzICsxKToKICAgICAgICBpbWcgPSBucC5yYW5kb20ucmFuZGludCgxMCwgc2l6ZT0oaCx3KSkKICAgICAgICBmaWcuYWRkX3N1YnBsb3Qocm93cywgY29sdW1ucywgaSkKICAgICAgICBwbHQuaW1zaG93KGltZykKICAgIHBsdC5zaG93KCkKCiAgICBmaWcgPSBwbHQuZmlndXJlKGZpZ3NpemU9KGxlbihzbGVlcHMpLCAxMCkpLnN1YnBsb3RzKCkK</text>
+        <text encoding="base64">ICAgIHNlbGYuZm9udCA9IEZvbnRQcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -976,19 +991,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlCgo=</text>
+        <text encoding="base64">ICAgIGRlZiAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldE1vZGlmaWVkRGF0ZSgpLnNldChDYWxlbmRhci5NT05USCwgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0RXhwaXJ5RGF0ZShzdWJzY3JpcHRpb24uZ2V0RXhwaXJ5RGF0ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0RXhwaXJ5RGF0ZShEYXRlIGV4cGlyeURhdGUpIHsKICAgIHRoaXMuZXhwaXJ5RGF0ZSA9IGV4cGlyeURhdGU7CiAgfQoK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1008,25 +1023,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlbV9rZXlzID0gc29ydGVkKHJlbV90b3RhbHMua2V5cygpKQogICAgcmVtX3ZhbHVlcyA9IFtyZW1fdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHN3c192YWx1ZXMgPSBbc3dzX3RvdGFsc1trZXldIGZvciBrZXkgaW4gcmVtX2tleXNdCiAgICBsaWdodF92YWx1ZXMgPSBbbGlnaHRfdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHBsdC5maWd1cmUobGVuKHNsZWVwcykpCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKCkKICAgIGF4LnBsb3RfZGF0ZShyZW1fa2V5cywgcmVtX3ZhbHVlcywgbGluZXN0eWxlPSctJykKICAgIGF4LnBsb3RfZGF0ZShyZW1fa2V5cywgc3dzX3ZhbHVlcywgbGluZXN0eWxlPSctJykKICAgIHBsdC5sZWdlbmQoWydUb3RhbCBSRU0nLCAnVG90YWwgU1dTJ10sIGxvYz0ndXBwZXIgbGVmdCcpCiAgICBwbHQueWxhYmVsKCdUb3RhbCBNaW51dGVzJykKICAgIHBsdC50aXRsZSgnUkVNIGFuZCBTV1MgdG90YWwgbWludXRlcyBwZXIgZGF5JykKICAgIGZpZy5hdXRvZm10X3hkYXRlKCkKICAgIHBsdC5zaG93KCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLmZvbnRfbWFuYWdlciBpbXBvcnQgRm9udFByb3BlcnRpZXMKCg==</text>
+      </register>
       <register name="x" type="4">
-        <text>name</text>
+        <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBrZXkgaW4gcmVtX2tleXM6CiAgICAgICAgcHJpbnQoa2V5LCByZW1fdG90YWxzW2tleV0sIHN3c190b3RhbHNba2V5XSkK</text>
+        <text encoding="base64">ICAgIGxlZ2VuZChbcGxvdDFdLCAidGl0bGUiLCBwcm9wPWZvbnRQcm9wZXJ0aWVzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rem_totals</last-search>
+      <last-search>sws_totals</last-search>
       <last-offset />
-      <last-pattern>rem_totals</last-pattern>
+      <last-pattern>sws_totals</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1034,7 +1049,6 @@
     </search>
     <history>
       <history-search>
-        <entry>150</entry>
         <entry>write</entry>
         <entry>&quot;</entry>
         <entry>st</entry>
@@ -1054,9 +1068,9 @@
         <entry>date_</entry>
         <entry>rem</entry>
         <entry>rem_totals</entry>
+        <entry>sws_totals</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
         <entry>vs util</entry>
         <entry encoding="base64">dyA=</entry>
         <entry>.,.+1q</entry>
@@ -1068,13 +1082,14 @@
         <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Q</entry>
-        <entry>wq</entry>
         <entry>kk;w</entry>
         <entry>2</entry>
         <entry>w2</entry>
         <entry>ew</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>noh</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
