@@ -96,12 +96,12 @@
         <mark key="." line="32" column="12" />
         <mark key="^" line="32" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1517957638726">
-        <mark key="'" line="1" column="4" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1518077944582">
+        <mark key="'" line="2" column="4" />
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515748755833">
         <mark key="'" line="100" column="6" />
@@ -654,12 +654,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518076128660">
-        <mark key="'" line="2" column="15" />
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-        <mark key="^" line="19" column="30" />
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518077793051">
+        <mark key="'" line="4" column="44" />
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="18" column="66" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -682,12 +682,11 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_input.c" timestamp="1517960657677">
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_input.c" timestamp="1518077925994">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="4" column="9" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/game/SnakePart.java" timestamp="1513986948810">
         <mark key="[" line="6" column="15" />
@@ -835,7 +834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="7" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="25" column="9" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="26" column="7" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="52" column="35" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -935,10 +933,11 @@
       <jump line="45" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="47" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="2" column="15" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
+      <jump line="4" column="44" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpICs9IDI7CiAgICAgICAgaSAtPSAyOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -953,7 +952,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sorte</text>
@@ -962,7 +961,7 @@
         <text>WhileToDoWhile</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5pbml0LAo=</text>
+        <text encoding="base64">ICAgICAgICBpICs9IDI7CiAgICAgICAgaSAtPSAyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -984,19 +983,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub2RlLmluaXQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIERvV2hpbGUoY29uZCwgc3RtdCwgbm9kZS5jb29yZCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRlZiB0cmFuc2Zvcm1fbG9vcF9zdGF0ZW1lbnQoc3RtdCwgaW5jKToKICAgICIiIlRyYW5zZm9ybSBsb29wIHN0YXRlbWVudCBieSBlbWJlZGRpbmcgZm9yIGxvb3AncyBpbmNyZW1lbnQgc3RhdGVtZW50IiIiCiAgICBjb21wb3VuZCA9IGFwcGVuZF9zdGF0ZW1lbnQoc3RtdCwgaW5jKQogICAgaWYgaW5jIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIGNvbXBvdW5kCiAgICBjb250aW51ZV90cmFuc2Zvcm1lciA9IFByZWZpeENvbnRpbnVlV2l0aE5leHQoaW5jKQogICAgY29tcG91bmQgPSBjb250aW51ZV90cmFuc2Zvcm1lci52aXNpdChjb21wb3VuZCkKICAgIHJldHVybiBjb21wb3VuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIFByZWZpeENvbnRpbnVlV2l0aE5leHQoTm9kZVRyYW5zZm9ybWVyKToKICAgICIiIk5vZGVUcmFuc2Zvcm1lciB0byBwcmVmaXggY29udGludWUgbm9kZXMgd2l0aCBhIHN0YXRlbWVudCIiIgogICAgZGVmIF9faW5pdF9fKHNlbGYsIHByZWZpeCk6CiAgICAgICAgc2VsZi5wcmVmaXggPSBwcmVmaXgKCiAgICBkZWYgc2tpcChzZWxmLCBub2RlKTogI3B5bGludDogZGlzYWJsZT1uby1zZWxmLXVzZQogICAgICAgICIiIkRvbid0IHZpc2l0IGNoaWxkIFdoaWxlIGxvb3BzIiIiCiAgICAgICAgcmV0dXJuIGlzaW5zdGFuY2Uobm9kZSwgV2hpbGUpCgogICAgZGVmIHZpc2l0X0NvbnRpbnVlKHNlbGYsIG5vZGUpOiAjcHlsaW50OiBkaXNhYmxlPWludmFsaWQtbmFtZQogICAgICAgICIiIlByZWZpeCBjb250aW51ZSB3aXRoIHByZWZpeCBub2RlIiIiCiAgICAgICAgcmV0dXJuIENvbXBvdW5kKFtzZWxmLnByZWZpeCwgbm9kZV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpkZWYgdHJhbnNmb3JtX2xvb3BfY29uZGl0aW9uKGNvbmQpOgogICAgIiIiVHJhbnNmb3JtIGVtcHR5IHdoaWxlIGxvb3AgY29uZGl0aW9uIHRvIGEgdHJ1dGh5IHZhbHVlIGZvciBkbyB3aGlsZSBsb29wIiIiCiAgICBpZiBjb25kIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIElEKCJ0cnVlIikKICAgIHJldHVybiBjb25kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1016,16 +1015,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgdmlzaXRfQ29tcG91bmQoc2VsZiwgbm9kZSk6ICNweWxpbnQ7IGRpc2FibGU9aW52YWxpZC1uYW1lCiAgICAgICAgbm9kZSA9IHNlbGYuZ2VuZXJpY192aXNpdChub2RlKQogICAgICAgIGZvciBjaGlsZCBpbiBub2RlLmNoaWxkcmVuKCk6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoY2hpbGQsIFdoaWxlKToKICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZS5pbml0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub2RlLmluaXQgaXMgTm9uZToKICAgICAgICAgICAgcmV0dXJuIERvV2hpbGUoY29uZCwgc3RtdCwgbm9kZS5jb29yZCkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CmRlZiB0cmFuc2Zvcm1fbG9vcF9zdGF0ZW1lbnQoc3RtdCwgaW5jKToKICAgICIiIlRyYW5zZm9ybSBsb29wIHN0YXRlbWVudCBieSBlbWJlZGRpbmcgZm9yIGxvb3AncyBpbmNyZW1lbnQgc3RhdGVtZW50IiIiCiAgICBjb21wb3VuZCA9IGFwcGVuZF9zdGF0ZW1lbnQoc3RtdCwgaW5jKQogICAgaWYgaW5jIGlzIE5vbmU6CiAgICAgICAgcmV0dXJuIGNvbXBvdW5kCiAgICBjb250aW51ZV90cmFuc2Zvcm1lciA9IFByZWZpeENvbnRpbnVlV2l0aE5leHQoaW5jKQogICAgY29tcG91bmQgPSBjb250aW51ZV90cmFuc2Zvcm1lci52aXNpdChjb21wb3VuZCkKICAgIHJldHVybiBjb21wb3VuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
