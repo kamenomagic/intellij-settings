@@ -96,10 +96,17 @@
         <mark key="." line="34" column="92" />
         <mark key="^" line="34" column="92" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1518077944582">
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" timestamp="1518129768231">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1518129674605">
         <mark key="'" line="2" column="4" />
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="11" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="8" column="21" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -116,6 +123,11 @@
         <mark key="]" line="54" column="68" />
         <mark key="^" line="54" column="83" />
         <mark key="." line="54" column="68" />
+      </file>
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nexted_golden.c" timestamp="1518129612932">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" timestamp="1518128812414">
         <mark key="'" line="12" column="8" />
@@ -286,11 +298,11 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1517955955035">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="30" />
+      <file name="$USER_HOME$/dev/python/censor/tests/all_tests.py" timestamp="1518129887084">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="12" column="30" />
+        <mark key="." line="12" column="30" />
+        <mark key="^" line="12" column="30" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1517045722441">
         <mark key="'" line="38" column="4" />
@@ -451,6 +463,12 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_input.c" timestamp="1518129650241">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1513739164707">
         <mark key="'" line="313" column="28" />
         <mark key="[" line="39" column="33" />
@@ -468,12 +486,10 @@
         <mark key="." line="184" column="21" />
         <mark key="^" line="194" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" timestamp="1517956120579">
-        <mark key="'" line="67" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="67" column="9" />
-        <mark key="." line="67" column="9" />
+      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" timestamp="1518129610705">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1517046963222">
         <mark key="'" line="103" column="0" />
@@ -679,12 +695,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="14" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518077793051">
-        <mark key="'" line="4" column="44" />
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="18" column="66" />
+      <file name="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" timestamp="1518130112345">
+        <mark key="'" line="3" column="44" />
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
@@ -872,12 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="13" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="100" column="9" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="18" column="3" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="44" column="47" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="64" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="23" column="16" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="66" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="97" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -972,10 +982,16 @@
       <jump line="29" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/combinations" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nexted_golden.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_input.c" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_input.c" />
+      <jump line="14" column="15" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">aW1wb3J0IHB5Y3BhcnNlcgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -996,10 +1012,10 @@
         <text>plt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgICAgICBpZihqIDwgMTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliLmZvbnRfbWFuYWdlciBpbXBvcnQgRm9udFByb3BlcnRpZXMK</text>
+        <text encoding="base64">aW1wb3J0IHB5Y3BhcnNlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1009,16 +1025,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxpZ2h0X3RvdGFscyA9IHt9CiAgICByZW1fdG90YWxzID0ge30KICAgIHN3c190b3RhbHMgPSB7fQogICAgdG90YWxfZGFpbHlfc2xlZXAgPSB7fQo=</text>
+        <text encoding="base64">ZnJvbSAuaGVscGVycyBpbXBvcnQgYXBwZW5kX3N0YXRlbWVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHdoaWxlKGkgPCAxMCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlbV9rZXlzID0gc29ydGVkKHJlbV90b3RhbHMua2V5cygpKQogICAgcmVtX3ZhbHVlcyA9IFtyZW1fdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHN3c192YWx1ZXMgPSBbc3dzX3RvdGFsc1trZXldIGZvciBrZXkgaW4gcmVtX2tleXNdCiAgICBsaWdodF92YWx1ZXMgPSBbbGlnaHRfdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHRvdGFsX3ZhbHVlcyA9IFt0b3RhbF9kYWlseV9zbGVlcFtrZXldIGZvciBrZXkgaW4gcmVtX2tleXNdCiAgICBwbHQuZmlndXJlKGxlbihzbGVlcHMpKQogICAgZmlnLCBheCA9IHBsdC5zdWJwbG90cygpCiAgICBheC5wbG90X2RhdGUocmVtX2tleXMsIHJlbV92YWx1ZXMsIGxpbmVzdHlsZT0nLScpCiAgICBheC5wbG90X2RhdGUocmVtX2tleXMsIHN3c192YWx1ZXMsIGxpbmVzdHlsZT0nLScpCiAgICBheC5wbG90X2RhdGUocmVtX2tleXMsIGxpZ2h0X3ZhbHVlcywgbGluZXN0eWxlPSctLScpCiAgICBheC5wbG90X2RhdGUocmVtX2tleXMsIHRvdGFsX3ZhbHVlcywgbGluZXN0eWxlPSctLicpCiAgICBwbHQubGVnZW5kKFsnUkVNJywgJ1NXUycsICdMaWdodCcsICdUb3RhbCBTbGVlcCddLCBwcm9wPWZvbnQpCiAgICBwbHQueWxhYmVsKCdUb3RhbCBNaW51dGVzJykKICAgIHBsdC50aXRsZSgnUkVNIGFuZCBTV1MgdG90YWwgbWludXRlcyBwZXIgZGF5JykKICAgIGZpZy5hdXRvZm10X3hkYXRlKCkKICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIGludCBpID0gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuZmlndXJlKGxlbihzbGVlcHMpKQogICAgICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZShqIDwgMTApIHsKICAgICAgICAKICAgICAgICAgICAgaisrOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1041,16 +1057,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIAo=</text>
+        <text encoding="base64">ICAgIGludCBpID0gMDsKICAgIHdoaWxlKGkgPCAxMCkgewogICAgICAgIGkrKzsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW50IGkgPSAwOwppbnQgaiA9IDA7CndoaWxlKGkgPCAxMCkgewogICAgd2hpbGUoaiA8IDEwKSB7CiAgICAgICAgaisrOwogICAgfQogICAgaSsrOwp9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB6ZW9fZ3JhcGggaW1wb3J0IFplb0dyYXBoCg==</text>
+        <text encoding="base64">aW50IG1haW4oKQp7CiAgICBpbnQgaSA9IDA7CiAgICBpZihpIDwgMTApCiAgICAgICAgZG8KICAgICAgICB7CiAgICAgICAgICAgIGkrKzsKICAgICAgICB9CiAgICAgICAgd2hpbGUoaSA8IDEwKTsKCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1104,10 +1120,10 @@
         <entry>2</entry>
         <entry>w2</entry>
         <entry>ew</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>noh</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
