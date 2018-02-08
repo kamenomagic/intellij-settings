@@ -89,12 +89,12 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518082808821">
-        <mark key="'" line="49" column="76" />
-        <mark key="[" line="57" column="63" />
-        <mark key="]" line="57" column="64" />
-        <mark key="." line="57" column="64" />
-        <mark key="^" line="45" column="1" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518083804663">
+        <mark key="'" line="64" column="17" />
+        <mark key="[" line="62" column="25" />
+        <mark key="]" line="62" column="25" />
+        <mark key="." line="62" column="25" />
+        <mark key="^" line="62" column="25" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1518077944582">
         <mark key="'" line="2" column="4" />
@@ -841,14 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="39" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="61" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="55" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="56" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="50" column="14" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="15" column="26" filename="$USER_HOME$/dev/python/censor/tests/test_while_to_do_while.py" />
       <jump line="78" column="10" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="87" column="11" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="85" column="11" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -917,7 +909,6 @@
       <jump line="3" column="39" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="25" column="32" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="13" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="51" column="23" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="29" column="35" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="30" column="19" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="59" column="33" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -927,8 +918,6 @@
       <jump line="39" column="14" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="41" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="43" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="45" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="47" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="2" column="15" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="4" column="44" filename="$USER_HOME$/dev/python/censor/transforms/while_to_do_while.py" />
       <jump line="5" column="23" filename="$USER_HOME$/dev/python/zeoanalyzer/config.json" />
@@ -937,14 +926,25 @@
       <jump line="11" column="29" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="34" column="28" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="33" column="46" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="49" column="76" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="2" column="64" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" />
       <jump line="1" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" />
+      <jump line="57" column="78" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="56" column="58" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="25" column="6" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="45" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="49" column="44" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="46" column="36" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="47" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="48" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="50" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="51" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="52" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="64" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcm93W1RJTUVfVE9fU0xFRVBdLAogICAgICAgICAgICAgICAgICByb3dbTElHSFRfVElNRV0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>'Time to Sleep', 'Light', 'REM', 'SWS'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -959,16 +959,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmxvYXQocm93W1RJTUVfVE9fU0xFRVBdKSArIA==</text>
+        <text>'Time to Sleep', 'Light', 'REM', 'SWS'</text>
       </register>
       <register name="/" type="4">
-        <text>,</text>
+        <text>rem</text>
       </register>
-      <register name="0" type="4">
-        <text>row[TIME_TO_SLEEP], row[LIGHT_TIME], row[REM_TIME], row[SWS_TIME]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwbHQubGVnZW5kKFsnVGltZSB0byBTbGVlcCcsICdMaWdodCcsICdSRU0nLCAnU1dTJ10sIGxvYz0ndXBwZXIgbGVmdCcpCgogICAgICAgIHBsdC55bGFiZWwoJ01pbnV0ZXMnKQogICAgICAgIHBsdC50aXRsZSgnInt9IiBtaW51dGVzIGluIGVhY2ggcGhhc2UnLmZvcm1hdChzbGVlcHNbaV1bJ25hbWUnXSkpCgogICAgICAgIGZpZy5hdXRvZm10X3hkYXRlKCkKICAgICAgICBwbHQuc2hvdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcm93W1RJTUVfVE9fU0xFRVBdLAogICAgICAgICAgICAgICAgICByb3dbTElHSFRfVElNRV0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -978,19 +978,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBncm91cCBpbiBzdGFydHM6CiAgICAgICAgZ3JvdXAuc29ydCgpCiAgICBmb3IgZ3JvdXAgaW4gdGltZXNfdG9fc2xlZXA6CiAgICAgICAgZ3JvdXAuc29ydCgpCiAgICBmb3IgZ3JvdXAgaW4gbGlnaHRzOgogICAgICAgIGdyb3VwLnNvcnQoKQogICAgZm9yIGdyb3VwIGluIHJlbXM6CiAgICAgICAgZ3JvdXAuc29ydCgpCiAgICBmb3IgZ3JvdXAgaW4gc3dzczoKICAgICAgICBncm91cC5zb3J0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc3RhcnRzW2ldID0ge3N0YXJ0c1tpXX0gIAo=</text>
+        <text encoding="base64">ICAgIHN3c19rZXlzID0gc29ydGVkKHN3c190b3RhbHMua2V5cygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBncm91cCBpbiBzdGFydHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyb3cpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbV90b3RhbHNbZGF0ZV90aW1lXSA9IHJvd1tSRU1fVElNRV0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1010,25 +1010,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0ZV90aW1lLmRhdGUoKSwKICAgICAgICAgICAgICAgICAgIyByb3dbVElNRV9UT19TTEVFUF0sCiAgICAgICAgICAgICAgICAgICMgcm93W0xJR0hUX1RJTUVdLAogICAgICAgICAgICAgICAgICByb3dbUkVNX1RJTUVdLAogICAgICAgICAgICAgICAgICByb3dbU1dTX1RJTUVdLAogICAgICAgICAgICAgICAgICBmbG9hdChyb3dbUkVNX1RJTUVdKSArIGZsb2F0KHJvd1tTV1NfVElNRV0pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWludXRlX3RocmVzaG9sZCA9IDIwIGlmIG1pbnV0ZV90aHJlc2hvbGQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcm93W1RJTUVfVE9fU0xFRVBdLAogICAgICAgICAgICAgICAgICByb3dbTElHSFRfVElNRV0sCg==</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aGluX2hvdXJfdGhyZXNob2xkID0gYWJzKGRhdGVfdGltZS50aW1lKCkuaG91ciAtIHNsZWVwc1tpXVsnc3RhcnQnXS5ob3VyKSA8IGhvdXJfdGhyZXNob2xkCiAgICAgICAgICAgIHdpdGhpbl9taW51dGVfdGhyZXNob2xkID0gYWJzKGRhdGVfdGltZS50aW1lKCkubWludXRlIC0gc2xlZXBzW2ldWydzdGFydCddLm1pbnV0ZSkgPCBtaW51dGVfdGhyZXNob2xkCg==</text>
+        <text encoding="base64">ICAgIGZvciBncm91cCBpbiBzdGFydHM6CiAgICAgICAgZ3JvdXAuc29ydCgpCiAgICBmb3IgZ3JvdXAgaW4gdGltZXNfdG9fc2xlZXA6CiAgICAgICAgZ3JvdXAuc29ydCgpCiAgICBmb3IgZ3JvdXAgaW4gbGlnaHRzOgogICAgICAgIGdyb3VwLnNvcnQoKQogICAgZm9yIGdyb3VwIGluIHJlbXM6CiAgICAgICAgZ3JvdXAuc29ydCgpCiAgICBmb3IgZ3JvdXAgaW4gc3dzczoKICAgICAgICBncm91cC5zb3J0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>,</last-search>
+      <last-search>rem</last-search>
       <last-offset />
-      <last-pattern>,</last-pattern>
+      <last-pattern>rem</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1036,11 +1036,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\t</entry>
-        <entry>50</entry>
-        <entry>^</entry>
-        <entry>\^</entry>
-        <entry>60</entry>
         <entry>80</entry>
         <entry>150</entry>
         <entry>write</entry>
@@ -1056,6 +1051,11 @@
         <entry>sorte</entry>
         <entry>row</entry>
         <entry>,</entry>
+        <entry>swss</entry>
+        <entry>REM</entry>
+        <entry>date_tiem</entry>
+        <entry>date_</entry>
+        <entry>rem</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;snake&quot;/&quot;snakes&quot;/g</entry>
