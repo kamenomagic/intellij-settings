@@ -89,7 +89,7 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518084673892">
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518095155232">
         <mark key="'" line="62" column="25" />
         <mark key="[" line="90" column="17" />
         <mark key="]" line="90" column="17" />
@@ -469,12 +469,12 @@
         <mark key="^" line="171" column="21" />
         <mark key="." line="171" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" timestamp="1517045854086">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="24" column="25" />
-        <mark key="^" line="24" column="25" />
-        <mark key="." line="24" column="25" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" timestamp="1518095525950">
+        <mark key="'" line="16" column="4" />
+        <mark key="[" line="87" column="11" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="87" column="28" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/type_model.py" timestamp="1513060523767">
         <mark key="'" line="26" column="31" />
@@ -634,12 +634,11 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1517048596788">
-        <mark key="'" line="80" column="12" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="18" />
-        <mark key="^" line="55" column="17" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1518095531231">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510882849629">
         <mark key="'" line="47" column="0" />
@@ -841,10 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="81" column="30" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="39" column="13" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="43" column="8" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="69" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="4" column="5" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
@@ -941,10 +936,14 @@
       <jump line="53" column="55" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="55" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="62" column="25" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VG90YWwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlCgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -959,16 +958,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VG90YWwg</text>
+        <text>isMonthly() ? getModifiedDate().setMonth()</text>
       </register>
       <register name="/" type="4">
         <text>rem_totals</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF4LnBsb3RfZGF0ZShyZW1fa2V5cywgc3dzX3ZhbHVlcywgbGluZXN0eWxlPSctJykK</text>
+        <text encoding="base64">ICAgICAgY2FsZW5kYXIuYWRkKENhbGVuZGFyLk1PTlRILCAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlbV9rZXlzID0gc29ydGVkKHJlbV90b3RhbHMua2V5cygpKQogICAgcmVtX3ZhbHVlcyA9IFtyZW1fdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHN3c192YWx1ZXMgPSBbc3dzX3RvdGFsc1trZXldIGZvciBrZXkgaW4gcmVtX2tleXNdCiAgICBsaWdodF92YWx1ZXMgPSBbbGlnaHRfdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHBsdC5maWd1cmUobGVuKHNsZWVwcykpCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKCkKICAgIGF4LnBsb3RfZGF0ZShyZW1fa2V5cywgcmVtX3ZhbHVlcywgbGluZXN0eWxlPSctJykKICAgIGF4LnBsb3RfZGF0ZShyZW1fa2V5cywgc3dzX3ZhbHVlcywgbGluZXN0eWxlPSctJykKICAgIHBsdC5sZWdlbmQoWydUb3RhbCBSRU0nLCAnVG90YWwgU1dTJ10sIGxvYz0ndXBwZXIgbGVmdCcpCiAgICBwbHQueWxhYmVsKCdUb3RhbCBNaW51dGVzJykKICAgIHBsdC50aXRsZSgnUkVNIGFuZCBTV1MgdG90YWwgbWludXRlcyBwZXIgZGF5JykKICAgIGZpZy5hdXRvZm10X3hkYXRlKCkKICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICBwcml2YXRlCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -981,16 +980,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBrZXkgaW4gcmVtX2tleXM6CiAgICAgICAgcHJpbnQoa2V5LCByZW1fdG90YWxzW2tleV0sIHN3c190b3RhbHNba2V5XSkK</text>
+        <text encoding="base64">ICAgIGdldE1vZGlmaWVkRGF0ZSgpLnNldChDYWxlbmRhci5NT05USCwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2F2ZWRTdWJzY3JpcHRpb24uc2V0RXhwaXJ5RGF0ZShzdWJzY3JpcHRpb24uZ2V0RXhwaXJ5RGF0ZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHVibGljIHZvaWQgc2V0RXhwaXJ5RGF0ZShEYXRlIGV4cGlyeURhdGUpIHsKICAgIHRoaXMuZXhwaXJ5RGF0ZSA9IGV4cGlyeURhdGU7CiAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN3c19rZXlzID0gc29ydGVkKHN3c190b3RhbHMua2V5cygpKQo=</text>
+        <text encoding="base64">ICAgIHJlbV9rZXlzID0gc29ydGVkKHJlbV90b3RhbHMua2V5cygpKQogICAgcmVtX3ZhbHVlcyA9IFtyZW1fdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHN3c192YWx1ZXMgPSBbc3dzX3RvdGFsc1trZXldIGZvciBrZXkgaW4gcmVtX2tleXNdCiAgICBsaWdodF92YWx1ZXMgPSBbbGlnaHRfdG90YWxzW2tleV0gZm9yIGtleSBpbiByZW1fa2V5c10KICAgIHBsdC5maWd1cmUobGVuKHNsZWVwcykpCiAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKCkKICAgIGF4LnBsb3RfZGF0ZShyZW1fa2V5cywgcmVtX3ZhbHVlcywgbGluZXN0eWxlPSctJykKICAgIGF4LnBsb3RfZGF0ZShyZW1fa2V5cywgc3dzX3ZhbHVlcywgbGluZXN0eWxlPSctJykKICAgIHBsdC5sZWdlbmQoWydUb3RhbCBSRU0nLCAnVG90YWwgU1dTJ10sIGxvYz0ndXBwZXIgbGVmdCcpCiAgICBwbHQueWxhYmVsKCdUb3RhbCBNaW51dGVzJykKICAgIHBsdC50aXRsZSgnUkVNIGFuZCBTV1MgdG90YWwgbWludXRlcyBwZXIgZGF5JykKICAgIGZpZy5hdXRvZm10X3hkYXRlKCkKICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1010,16 +1009,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgIGZvciBrZXkgaW4gcmVtX2tleXM6CiAgICAgICAgcHJpbnQoa2V5LCByZW1fdG90YWxzW2tleV0sIHN3c190b3RhbHNba2V5XSkK</text>
       </register>
       <register name="x" type="4">
         <text>name</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbV90b3RhbHNbZGF0ZV90aW1lXSA9IHJvd1tSRU1fVElNRV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
