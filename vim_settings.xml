@@ -149,12 +149,12 @@
         <mark key="^" line="32" column="17" />
         <mark key="." line="32" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" timestamp="1517435726500">
+      <file name="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" timestamp="1518132547547">
         <mark key="'" line="30" column="9" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="8" />
-        <mark key="^" line="30" column="9" />
-        <mark key="." line="30" column="8" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" timestamp="1515291133662">
         <mark key="'" line="6" column="22" />
@@ -991,7 +991,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHB5Y3BhcnNlcgo=</text>
+        <text encoding="base64">OTIyMzM3MjAzNjU3MTE0OTYwNAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1006,7 +1006,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>, hour_threshould</text>
+        <text>self.index</text>
       </register>
       <register name="/" type="4">
         <text>plt</text>
@@ -1015,7 +1015,7 @@
         <text encoding="base64">ICAgICAgICBpZihqIDwgMTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHB5Y3BhcnNlcgo=</text>
+        <text encoding="base64">OTIyMzM3MjAzNjU3MTE0OTYwNAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1025,19 +1025,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAuaGVscGVycyBpbXBvcnQgYXBwZW5kX3N0YXRlbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluZGV4ICs9IDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoaWxlKGkgPCAxMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBub2RlLmNoaWxkcmVuKCkuaWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZShqIDwgMTApIHsKICAgICAgICAKICAgICAgICAgICAgaisrOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBub2RlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5Y3BhcnNlcgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1057,16 +1057,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gMDsKICAgIHdoaWxlKGkgPCAxMCkgewogICAgICAgIGkrKzsKICAgIH0K</text>
+        <text encoding="base64">ZnJvbSAuaGVscGVycyBpbXBvcnQgYXBwZW5kX3N0YXRlbWVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50IGkgPSAwOwppbnQgaiA9IDA7CndoaWxlKGkgPCAxMCkgewogICAgd2hpbGUoaiA8IDEwKSB7CiAgICAgICAgaisrOwogICAgfQogICAgaSsrOwp9Cg==</text>
+        <text encoding="base64">ICAgIHdoaWxlKGkgPCAxMCkgewo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW50IG1haW4oKQp7CiAgICBpbnQgaSA9IDA7CiAgICBpZihpIDwgMTApCiAgICAgICAgZG8KICAgICAgICB7CiAgICAgICAgICAgIGkrKzsKICAgICAgICB9CiAgICAgICAgd2hpbGUoaSA8IDEwKTsKCn0K</text>
+        <text encoding="base64">ICAgIGludCBpID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
