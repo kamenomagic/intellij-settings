@@ -20,7 +20,7 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="57" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1518126602371">
+      <file name="/a.dummy" timestamp="1518187461276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510972830990">
@@ -89,12 +89,11 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518171875581">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="34" column="93" />
-        <mark key="]" line="34" column="100" />
-        <mark key="." line="34" column="100" />
-        <mark key="^" line="34" column="100" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518189279020">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="48" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" timestamp="1518129768231">
         <mark key="'" line="2" column="0" />
@@ -129,11 +128,12 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" timestamp="1518171824214">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" timestamp="1518188727898">
+        <mark key="'" line="40" column="30" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="47" column="30" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" timestamp="1515573044077">
         <mark key="'" line="43" column="56" />
@@ -162,11 +162,12 @@
         <mark key="." line="44" column="19" />
         <mark key="^" line="44" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" timestamp="1518171866449">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="57" />
-        <mark key="^" line="4" column="57" />
-        <mark key="." line="4" column="57" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" timestamp="1518188700139">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="50" column="58" />
+        <mark key="]" line="33" column="31" />
+        <mark key="." line="50" column="62" />
+        <mark key="^" line="33" column="31" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1515748738409">
         <mark key="'" line="46" column="40" />
@@ -408,10 +409,11 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" timestamp="1518171809093">
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="22" column="41" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" timestamp="1518189088633">
+        <mark key="'" line="21" column="27" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="22" column="41" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1513865580424">
@@ -741,6 +743,13 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" timestamp="1518189258458">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="23" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="45" />
@@ -867,20 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="16" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="66" column="66" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="97" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="67" column="21" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/config.json" />
-      <jump line="8" column="3" filename="$USER_HOME$/dev/python/zeoanalyzer/config.json" />
-      <jump line="2" column="2" filename="$USER_HOME$/dev/python/zeoanalyzer/config.json" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/config.json" />
-      <jump line="63" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="82" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="68" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_constants.py" />
       <jump line="7" column="26" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="17" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -950,7 +945,6 @@
       <jump line="8" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
       <jump line="9" column="28" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
       <jump line="20" column="33" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
-      <jump line="21" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
       <jump line="22" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
       <jump line="23" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
       <jump line="4" column="31" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
@@ -967,10 +961,25 @@
       <jump line="14" column="15" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
+      <jump line="21" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
+      <jump line="12" column="31" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" />
+      <jump line="21" column="27" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
+      <jump line="49" column="32" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
+      <jump line="50" column="62" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
+      <jump line="14" column="40" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/partition_graph.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" />
+      <jump line="40" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" />
+      <jump line="9" column="53" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" />
+      <jump line="6" column="28" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0cyA9IFtbXSBmb3IgXyBpbiByYW5nZShsZW4oc2xlZXBzKSldCiAgICB0aW1lc190b19zbGVlcCA9IFtbXSBmb3IgXyBpbiByYW5nZShsZW4oc2xlZXBzKSldCiAgICBsaWdodHMgPSBbW10gZm9yIF8gaW4gcmFuZ2UobGVuKHNsZWVwcykpXQogICAgcmVtcyA9IFtbXSBmb3IgXyBpbiByYW5nZShsZW4oc2xlZXBzKSldCiAgICBzd3NzID0gW1tdIGZvciBfIGluIHJhbmdlKGxlbihzbGVlcHMpKV0K</text>
+        <text encoding="base64">ICAgIGdyYXBocy5hZGQoVG90YWxzR3JhcGgoZ3JhcGhzLmZpZ3VyZV9pbmRleCkpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -985,16 +994,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>Handler</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>plt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0cyA9IFtbXSBmb3IgXyBpbiByYW5nZShsZW4oc2xlZXBzKSldCiAgICB0aW1lc190b19zbGVlcCA9IFtbXSBmb3IgXyBpbiByYW5nZShsZW4oc2xlZXBzKSldCiAgICBsaWdodHMgPSBbW10gZm9yIF8gaW4gcmFuZ2UobGVuKHNsZWVwcykpXQogICAgcmVtcyA9IFtbXSBmb3IgXyBpbiByYW5nZShsZW4oc2xlZXBzKSldCiAgICBzd3NzID0gW1tdIGZvciBfIGluIHJhbmdlKGxlbihzbGVlcHMpKV0K</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZ3JhcGggaW4gc2VsZi5ncmFwaHMoKToKICAgICAgICAgICAgZ3JhcGguaGFuZGxlX3JvdyhkYXRlX3RpbWUsIHJvdykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpZ2h0X3RvdGFscyA9IHt9CiAgICAgICAgc2VsZi5yZW1fdG90YWxzID0ge30KICAgICAgICBzZWxmLnN3c190b3RhbHMgPSB7fQogICAgICAgIHNlbGYudG90YWxfZGFpbHlfc2xlZXAgPSB7fQo=</text>
+        <text encoding="base64">ICAgIGdyYXBocy5hZGQoVG90YWxzR3JhcGgoZ3JhcGhzLmZpZ3VyZV9pbmRleCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1004,19 +1013,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuZmlndXJlKHNlbGYuZmlndXJlX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuZmlndXJlKGZpZ3VyZV9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBkZWYgcGxvdF9hbmRfc2hvdyhzZWxmLCBmaWcsIGF4KToK</text>
+        <text encoding="base64">ICAgIHBhcnRpdGlvbl9ncmFwaHMucGxvdF9hbmRfc2hvdygpCiAgICB0b3RhbHNfZ3JhcGgucGxvdF9hbmRfc2hvdygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpLnBsb3RfYW5kX3Nob3coZmlnLCBheCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuZmlndXJlKHNlbGYuZmlndXJlX2lkKQogICAgICAgIHBsdC5sZWdlbmQoc2VsZi5sZWdlbmQsIHByb3A9c2VsZi5mb250KQogICAgICAgIHBsdC55bGFiZWwoc2VsZi55bGFiZWwpCiAgICAgICAgcGx0LnRpdGxlKHNlbGYudGl0bGUpCiAgICAgICAgZmlnLmF1dG9mbXRfeGRhdGUoKQogICAgICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1036,16 +1045,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpZywgc2VsZi5heCA9IHBsdC5zdWJwbG90cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJ0aXRpb25fZ3JhcGhzLmhhbmRsZV9yb3coZGF0ZV90aW1lLCByb3cpCiAgICAgICAgdG90YWxzX2dyYXBoLmhhbmRsZV9yb3coZGF0ZV90aW1lLCByb3cpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcsIGF4ID0gcGx0LnN1YnBsb3RzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ayAgICAgICAgcGx0LnRpdGxlKHNlbGYudGl0bGUpCiAgICAgICAgZmlnLmF1dG9mbXRfeGRhdGUoKQogICAgICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
