@@ -385,11 +385,11 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/config_example.py" timestamp="1517327161741">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="$USER_HOME$/dev/python/albumart/config_example.py" timestamp="1518164051037">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="6" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/game/Snake.java" timestamp="1513986069668">
         <mark key="[" line="4" column="18" />
@@ -451,11 +451,11 @@
         <mark key="^" line="16" column="70" />
         <mark key="." line="16" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/config.py" timestamp="1517327153229">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="$USER_HOME$/dev/python/albumart/config.py" timestamp="1518164081098">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_input.c" timestamp="1518129650241">
         <mark key="'" line="1" column="0" />
@@ -972,8 +972,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">OTIyMzM3MjAzNjU3MTE0OTYwNAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">U2VjcmV0OiA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -988,7 +988,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>self.index</text>
+        <text encoding="base64">U2VjcmV0OiA=</text>
       </register>
       <register name="/" type="4">
         <text>plt</text>
@@ -997,7 +997,7 @@
         <text encoding="base64">ICAgICAgICBpZihqIDwgMTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OTIyMzM3MjAzNjU3MTE0OTYwNAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1007,19 +1007,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmluZGV4ICs9IDEK</text>
+        <text encoding="base64">OTIyMzM3MjAzNjU3MTE0OTYwNAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmluZGV4ICs9IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmNoaWxkcmVuKCkuaWQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlCg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlLmNoaWxkcmVuKCkuaWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHB5Y3BhcnNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBub2RlCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1039,19 +1039,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSAuaGVscGVycyBpbXBvcnQgYXBwZW5kX3N0YXRlbWVudAo=</text>
+        <text encoding="base64">aW1wb3J0IHB5Y3BhcnNlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdoaWxlKGkgPCAxMCkgewo=</text>
+        <text encoding="base64">ZnJvbSAuaGVscGVycyBpbXBvcnQgYXBwZW5kX3N0YXRlbWVudAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gMDsK</text>
+        <text encoding="base64">ICAgIHdoaWxlKGkgPCAxMCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1104,9 +1104,9 @@
         <entry>ew</entry>
         <entry>vs</entry>
         <entry>noh</entry>
+        <entry>w</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
