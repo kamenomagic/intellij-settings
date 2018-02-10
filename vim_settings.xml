@@ -933,25 +933,15 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518281320280">
-        <mark key="'" line="51" column="49" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="8" />
-        <mark key="^" line="29" column="22" />
-        <mark key="." line="30" column="8" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518282994350">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="95" column="31" />
+        <mark key="]" line="95" column="30" />
+        <mark key="." line="95" column="30" />
+        <mark key="^" line="95" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="29" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="34" column="28" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="33" column="46" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="2" column="64" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" />
-      <jump line="1" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" />
-      <jump line="57" column="78" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="56" column="58" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="46" column="36" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="47" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="50" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="51" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="52" column="30" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -1042,10 +1032,20 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/graphs/zeo_graph_collection.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/graphs/partition_graph.py" />
       <jump line="49" column="49" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="48" column="19" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="55" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="77" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="85" column="39" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="54" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="47" column="30" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="99" column="4" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
+      <register name="&quot;" type="4">
+        <text>key</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1060,16 +1060,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>annotate</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>figure(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
+      <register name="0" type="4">
+        <text>location_collection</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBheC4K</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uX2ZpbGUuc2VlaygwKQogICAgbG9jYXRpb25fZmlsZS50cnVuY2F0ZSgpCiAgICBsb2NhdGlvbl9maWxlLndyaXRlbGluZXMoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1079,19 +1079,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShheCwgbWF0cGwpCg==</text>
+        <text encoding="base64">ICAgICAgICB0cWRtLndyaXRlKCdcblxuXG5Db21wbGV0ZWx5IGZpbmlzaGVkIHNjcmFwaW5nLCBzbyBkZWxldGluZyBsb2NhdGlvbiBmaWxlLicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuZ3JpZChUcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUobG9jYXRpb25fZmlsZV9uYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggb3Blbihsb2NhdGlvbl9maWxlX25hbWUsICdyKycgaWYgbG9jYXRpb25fZXhpc3RzIGVsc2UgJ3crJykgYXMgbG9jYXRpb25fZmlsZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxvY2F0aW9uX2V4aXN0czoKICAgICAgICAgICAgICAgICAgICBvcy5yZW1vdmUobG9jYXRpb25fZmlsZV9uYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxvY2F0aW9uX2V4aXN0czoKICAgICAgICBwcmludCgnTG9jYXRpb24gZXhpc3RzLCB1c2luZyB7fScuZm9ybWF0KGxvY2F0aW9uX2ZpbGVfbmFtZSkpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1111,16 +1111,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcuc2V0X3NpemVfaW5jaGVzKDEwLCA2KQo=</text>
+        <text encoding="base64">ICAgIGlmIGxvY2F0aW9uIGlzIE5vbmU6Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcuc2V0X3NpemVfaW5jaGVzKDEwLCA2KQo=</text>
+        <text encoding="base64">bG9jYXRpb25fZmlsZV9uYW1lID0gJy90bXAvYWxiYXJ0X2N1cnJlbnRfc2NyYXBlX2xvY2F0aW9uLnR4dCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1164,7 +1164,6 @@
         <entry>w;w</entry>
         <entry>%s/\ /,\ /g</entry>
         <entry>%s/\ /,/g</entry>
-        <entry>;w</entry>
         <entry>.,.+443q</entry>
         <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
         <entry encoding="base64">JzwsJz53</entry>
@@ -1178,6 +1177,7 @@
         <entry>q</entry>
         <entry>kj;w</entry>
         <entry>2</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
