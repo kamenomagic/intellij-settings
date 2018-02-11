@@ -112,12 +112,11 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518304758590">
-        <mark key="'" line="50" column="4" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="22" column="11" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="22" column="11" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518338968922">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" timestamp="1518129768231">
         <mark key="'" line="2" column="0" />
@@ -561,9 +560,6 @@
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/totals_graph.py" timestamp="1518257221410">
         <mark key="'" line="30" column="12" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="22" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Title.java" timestamp="1513134641482">
         <mark key="'" line="39" column="10" />
@@ -765,10 +761,6 @@
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/partition_graph.py" timestamp="1518266616981">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="38" column="70" />
-        <mark key="]" line="38" column="10" />
-        <mark key="." line="38" column="10" />
-        <mark key="^" line="38" column="10" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518124688703">
         <mark key="'" line="1" column="18" />
@@ -939,9 +931,6 @@
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/zeo_graph_collection.py" timestamp="1518257211175">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" timestamp="1514364474227">
         <mark key="'" line="71" column="0" />
@@ -1064,8 +1053,8 @@
       <jump line="91" column="30" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bm90IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Z21haWwgPSBHbWFpbCgpCmdtYWlsLnRlc3QoKQpleGl0KCkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1089,7 +1078,7 @@
         <text>client_secret</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBjb2xsZWN0aW9uCg==</text>
+        <text encoding="base64">Z21haWwgPSBHbWFpbCgpCmdtYWlsLnRlc3QoKQpleGl0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1099,19 +1088,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGxvY2F0aW9uX2V4aXN0czoK</text>
+        <text encoding="base64">CmZyb20gZ21haWwgaW1wb3J0IEdtYWlsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2xvY2F0aW9uKHllYXIsIGN1cnJlbnRfb2Zmc2V0KQogICAgaWYgbm90IGxvY2F0aW9uX2V4aXN0czoK</text>
+        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBjb2xsZWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgbG9jYXRpb25fY29sbGVjdGlvbi5pbnNlcnRfb25lKCkK</text>
+        <text encoding="base64">ICAgIGlmIGxvY2F0aW9uX2V4aXN0czoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2xvY2F0aW9uKHllYXIsIGN1cnJlbnRfb2Zmc2V0KQogICAgaWYgbm90IGxvY2F0aW9uX2V4aXN0czoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uX2NvbGxlY3Rpb24uZGVsZXRlX21hbnkoe30pCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgbG9jYXRpb25fY29sbGVjdGlvbi5pbnNlcnRfb25lKCkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1131,16 +1120,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uX2NvbGxlY3Rpb24uaW5zZXJ0X29uZSgpCg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uX2NvbGxlY3Rpb24uZGVsZXRlX21hbnkoe30pCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uID0gbG9jYXRpb25fY29sbGVjdGlvbi5maW5kT25lKCkKICAgIGxvY2F0aW9uX2V4aXN0cyA9IGxvY2F0aW9uIGlzIG5vdCBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
