@@ -112,11 +112,12 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518338968922">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518392010211">
+        <mark key="'" line="46" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_golden.c" timestamp="1518129768231">
         <mark key="'" line="2" column="0" />
@@ -496,12 +497,6 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/nested_input.c" timestamp="1518129650241">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1513739164707">
         <mark key="'" line="313" column="28" />
@@ -1142,7 +1137,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
