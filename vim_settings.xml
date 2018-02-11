@@ -953,11 +953,12 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518324102058">
-        <mark key="'" line="8" column="29" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518325296326">
+        <mark key="'" line="8" column="28" />
         <mark key="[" line="95" column="54" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -1060,7 +1061,7 @@
       <jump line="22" column="51" filename="$USER_HOME$/dev/python/zeoanalyzer/gmail.py" />
       <jump line="57" column="30" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="94" column="43" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
-      <jump line="8" column="29" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="8" column="28" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
