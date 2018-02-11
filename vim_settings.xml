@@ -953,18 +953,14 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518302536149">
-        <mark key="'" line="93" column="30" />
-        <mark key="[" line="95" column="31" />
-        <mark key="]" line="95" column="30" />
-        <mark key="." line="95" column="30" />
-        <mark key="^" line="95" column="30" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518324102058">
+        <mark key="'" line="8" column="29" />
+        <mark key="[" line="95" column="54" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" />
-      <jump line="79" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="32" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="59" column="12" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="29" column="22" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="89" column="18" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
@@ -1062,10 +1058,13 @@
       <jump line="49" column="4" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
       <jump line="29" column="13" filename="$USER_HOME$/dev/python/zeoanalyzer/gmail.py" />
       <jump line="22" column="51" filename="$USER_HOME$/dev/python/zeoanalyzer/gmail.py" />
+      <jump line="57" column="30" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="94" column="43" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="8" column="29" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplKCkK</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uX2NvbGxlY3Rpb24uZAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1080,7 +1079,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>pymongo.</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -1089,7 +1088,7 @@
         <text>client_secret</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplKCkK</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uX2NvbGxlY3Rpb24uZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1099,19 +1098,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplKCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGFiZWxfaWRfb25lID0gJ0lOQk9YJwpsYWJlbF9pZF90d28gPSAnVU5SRUFEJwp1bnJlYWRfbXNncyA9IEdNQUlMLnVzZXJzKCkubWVzc2FnZXMoKS5saXN0KHVzZXJJZD0nbWUnLCBsYWJlbElkcz1bbGFiZWxfaWRfb25lLCBsYWJlbF9pZF90d29dKS5leGVjdXRlKCkKcHJpbnQodW5yZWFkX21zZ3MpCmV4aXQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjClNDT1BFUyA9ICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL2dtYWlsLnJlYWRvbmx5JwpzdG9yZSA9IGZpbGUuU3RvcmFnZSgnY2xpZW50X3NlY3JldCcpCmNyZWRlbnRpYWxzID0gc3RvcmUuZ2V0KCkKaWYgbm90IGNyZWRlbnRpYWxzIG9yIGNyZWRlbnRpYWxzLmludmFsaWQ6CiAgICBmbG93ID0gY2xpZW50LmZsb3dfZnJvbV9jbGllbnRzZWNyZXRzKCdjbGllbnRfc2VjcmV0Lmpzb24nLCBTQ09QRVMpCiAgICBjcmVkZW50aWFscyA9IHRvb2xzLnJ1bl9mbG93KGZsb3csIHN0b3JlKQpHTUFJTCA9IGRpc2NvdmVyeS5idWlsZCgnZ21haWwnLCAndjEnLCBodHRwPWNyZWRlbnRpYWxzLmF1dGhvcml6ZShIdHRwKCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1131,16 +1130,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBodHRwbGliMiBpbXBvcnQgSHR0cApmcm9tIGFwaWNsaWVudCBpbXBvcnQgZGlzY292ZXJ5CmZyb20gb2F1dGgyY2xpZW50IGltcG9ydCBmaWxlLCBjbGllbnQsIHRvb2xzCmZyb20gb2F1dGgyY2xpZW50LmZpbGUgaW1wb3J0IFN0b3JhZ2UK</text>
+        <text encoding="base64">bGFiZWxfaWRfb25lID0gJ0lOQk9YJwpsYWJlbF9pZF90d28gPSAnVU5SRUFEJwp1bnJlYWRfbXNncyA9IEdNQUlMLnVzZXJzKCkubWVzc2FnZXMoKS5saXN0KHVzZXJJZD0nbWUnLCBsYWJlbElkcz1bbGFiZWxfaWRfb25lLCBsYWJlbF9pZF90d29dKS5leGVjdXRlKCkKcHJpbnQodW5yZWFkX21zZ3MpCmV4aXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjClNDT1BFUyA9ICdodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9hdXRoL2dtYWlsLnJlYWRvbmx5JwpzdG9yZSA9IGZpbGUuU3RvcmFnZSgnY2xpZW50X3NlY3JldCcpCmNyZWRlbnRpYWxzID0gc3RvcmUuZ2V0KCkKaWYgbm90IGNyZWRlbnRpYWxzIG9yIGNyZWRlbnRpYWxzLmludmFsaWQ6CiAgICBmbG93ID0gY2xpZW50LmZsb3dfZnJvbV9jbGllbnRzZWNyZXRzKCdjbGllbnRfc2VjcmV0Lmpzb24nLCBTQ09QRVMpCiAgICBjcmVkZW50aWFscyA9IHRvb2xzLnJ1bl9mbG93KGZsb3csIHN0b3JlKQpHTUFJTCA9IGRpc2NvdmVyeS5idWlsZCgnZ21haWwnLCAndjEnLCBodHRwPWNyZWRlbnRpYWxzLmF1dGhvcml6ZShIdHRwKCkpKQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBUFBMSUNBVElPTl9OQU1FID0K</text>
+        <text encoding="base64">ZnJvbSBodHRwbGliMiBpbXBvcnQgSHR0cApmcm9tIGFwaWNsaWVudCBpbXBvcnQgZGlzY292ZXJ5CmZyb20gb2F1dGgyY2xpZW50IGltcG9ydCBmaWxlLCBjbGllbnQsIHRvb2xzCmZyb20gb2F1dGgyY2xpZW50LmZpbGUgaW1wb3J0IFN0b3JhZ2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
