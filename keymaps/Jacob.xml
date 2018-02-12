@@ -1,10 +1,15 @@
 <keymap version="1" name="Jacob" parent="Mac OS X 10.5+">
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateSciViewToolWindow">
+  <action id="ActivateDocumentationToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="BaseOnThisFunction" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="GoTypeHierarchyPopupMenu.BaseOnThisType" />
   <action id="GotoTest" />
