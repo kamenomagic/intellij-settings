@@ -1006,12 +1006,12 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518442064437">
-        <mark key="'" line="87" column="47" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="87" column="47" />
-        <mark key="^" line="93" column="50" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518457845951">
+        <mark key="'" line="93" column="47" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="20" />
+        <mark key="." line="74" column="20" />
+        <mark key="^" line="56" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -1118,7 +1118,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1133,13 +1133,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>While</text>
+        <text encoding="base64">IEU=</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
       </register>
-      <register name="0" type="4">
-        <text>analysis</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
