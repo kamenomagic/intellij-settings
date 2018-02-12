@@ -315,8 +315,8 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/node_transformer.py" timestamp="1518447187634">
-        <mark key="'" line="41" column="20" />
+      <file name="$USER_HOME$/dev/python/censor/transforms/node_transformer.py" timestamp="1518448221162">
+        <mark key="'" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/GameComponent.java" timestamp="1515291118857">
         <mark key="'" line="108" column="4" />
@@ -1015,7 +1015,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" />
       <jump line="21" column="27" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph.py" />
@@ -1115,6 +1114,7 @@
       <jump line="1" column="5" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/censor/transforms/node_transformer.py" />
       <jump line="41" column="20" filename="$USER_HOME$/dev/python/censor/transforms/node_transformer.py" />
+      <jump line="10" column="28" filename="$USER_HOME$/dev/python/censor/transforms/node_transformer.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
