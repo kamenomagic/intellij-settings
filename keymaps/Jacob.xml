@@ -1,5 +1,11 @@
 <keymap version="1" name="Jacob" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateSciViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="BaseOnThisFunction" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoProject" />
   <action id="GoTypeHierarchyPopupMenu.BaseOnThisType" />
   <action id="GotoTest" />
   <action id="NextSplitter">
