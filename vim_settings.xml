@@ -553,12 +553,12 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/totals_graph.py" timestamp="1518417250764">
+      <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/totals_graph.py" timestamp="1518417549234">
         <mark key="'" line="30" column="12" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="12" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="38" column="12" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="31" />
+        <mark key="^" line="39" column="31" />
+        <mark key="." line="39" column="31" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Title.java" timestamp="1513134641482">
         <mark key="'" line="39" column="10" />
@@ -1052,8 +1052,8 @@
       <jump line="91" column="30" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z21haWwgPSBHbWFpbCgpCmdtYWlsLnRlc3QoKQpleGl0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>, %s)' % xy</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1068,7 +1068,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>, %s)' % xy</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -1077,7 +1077,7 @@
         <text>client_secret</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z21haWwgPSBHbWFpbCgpCmdtYWlsLnRlc3QoKQpleGl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1087,19 +1087,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmZyb20gZ21haWwgaW1wb3J0IEdtYWlsCg==</text>
+        <text encoding="base64">Z21haWwgPSBHbWFpbCgpCmdtYWlsLnRlc3QoKQpleGl0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBjb2xsZWN0aW9uCg==</text>
+        <text encoding="base64">CmZyb20gZ21haWwgaW1wb3J0IEdtYWlsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGxvY2F0aW9uX2V4aXN0czoK</text>
+        <text encoding="base64">ZnJvbSBweW1vbmdvIGltcG9ydCBjb2xsZWN0aW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2xvY2F0aW9uKHllYXIsIGN1cnJlbnRfb2Zmc2V0KQogICAgaWYgbm90IGxvY2F0aW9uX2V4aXN0czoK</text>
+        <text encoding="base64">ICAgIGlmIGxvY2F0aW9uX2V4aXN0czoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgbG9jYXRpb25fY29sbGVjdGlvbi5pbnNlcnRfb25lKCkK</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2xvY2F0aW9uKHllYXIsIGN1cnJlbnRfb2Zmc2V0KQogICAgaWYgbm90IGxvY2F0aW9uX2V4aXN0czoK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1119,16 +1119,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgbG9jYXRpb25fY29sbGVjdGlvbi5pbnNlcnRfb25lKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvY2F0aW9uX2NvbGxlY3Rpb24uZGVsZXRlX21hbnkoe30pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2F0aW9uX2NvbGxlY3Rpb24uZGVsZXRlX21hbnkoe30pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
