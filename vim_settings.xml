@@ -568,11 +568,11 @@
         <mark key="^" line="16" column="70" />
         <mark key="." line="16" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/config.py" timestamp="1518164081098">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
+      <file name="$USER_HOME$/dev/python/albumart/config.py" timestamp="1518627627968">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/cesk/interpret.py" timestamp="1518477529429">
         <mark key="'" line="256" column="0" />
@@ -878,12 +878,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1518626029119">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="19" column="93" />
-        <mark key="]" line="19" column="105" />
-        <mark key="." line="19" column="105" />
-        <mark key="^" line="19" column="105" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1518627503764">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="38" column="49" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Valuation.java" timestamp="1518275742237">
         <mark key="[" line="26" column="0" />
@@ -1212,7 +1212,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>32</text>
+        <text>'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1227,7 +1227,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFwvYnI+</text>
