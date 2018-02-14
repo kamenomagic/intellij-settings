@@ -29,7 +29,7 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="34" />
       </file>
-      <file name="/a.dummy" timestamp="1518541672352">
+      <file name="/a.dummy" timestamp="1518617393997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/data/zeo_data.py" timestamp="1518512434826">
@@ -878,6 +878,13 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1518617866132">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="18" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Valuation.java" timestamp="1518275742237">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="23" />
@@ -1039,12 +1046,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_encoder.py" timestamp="1518455075963">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="17" column="36" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_encoder.py" timestamp="1518617385571">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511428155766">
         <mark key="'" line="43" column="0" />
@@ -1102,18 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/graphs/totals_graph.py" />
-      <jump line="44" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/graphs/totals_graph.py" />
-      <jump line="4" column="17" filename="$USER_HOME$/dev/python/zeoanalyzer/graphs/totals_graph.py" />
-      <jump line="49" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/graphs/totals_graph.py" />
-      <jump line="7" column="13" filename="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/zeoanalyzer" />
-      <jump line="26" column="21" filename="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" />
-      <jump line="22" column="8" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_collection.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_collection.py" />
-      <jump line="6" column="25" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" />
-      <jump line="15" column="35" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="10" column="41" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_collection.py" />
       <jump line="18" column="49" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
@@ -1202,10 +1197,22 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
       <jump line="0" column="28" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/grapher.py" />
       <jump line="29" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/raw/raw_collection.py" />
+      <jump line="11" column="16" filename="$USER_HOME$/dev/python/albumart/spotify_encoder.py" />
+      <jump line="34" column="39" filename="$USER_HOME$/dev/python/albumart/spotify_encoder.py" />
+      <jump line="32" column="12" filename="$USER_HOME$/dev/python/albumart/spotify_encoder.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_encoder.py" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_encoder.py" />
+      <jump line="7" column="16" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="35" column="61" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="3" column="20" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="36" column="28" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>512</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1220,34 +1227,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>512</text>
+        <text>decoder</text>
       </register>
       <register name="/" type="4">
-        <text>visit</text>
+        <text encoding="base64">PFwvYnI+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29udjcgPSB0Zi5sYXllcnMuY29udjJkKGNvbnY2LCBmaWx0ZXJzPTUxMiwga2VybmVsX3NpemU9MykK</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVyMiA9IHRmLmxheWVycy5kZW5zZShkZWNvZGVyMSwgNjQsIGFjdGl2YXRpb249dGYubm4ucmVsdSwgcmV1c2U9cmV1c2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhd19jb2xsZWN0aW9uLnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZW9jaW5nID0gZGVjb2RlcjMK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHNsZWVwIGluIHNsZWVwczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwLnNvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVyMCA9IHRmLmxheWVycy5kZW5zZShzZWxmLmVuY29kaW5nLCAzMiwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIGRlY29kZXIxID0gdGYubGF5ZXJzLmRlbnNlKGRlY29kZXIwLCAzMiwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIGRlY29kZXIyID0gdGYubGF5ZXJzLmRlbnNlKGRlY29kZXIxLCA2NCwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIHNlbGYuZGVjb2RpbmcgPSB0Zi5sYXllcnMuZGVuc2UoZGVjb2RlcjIsIHNlbGYueC5nZXRfc2hhcGUoKSwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1267,33 +1274,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleGVzID0gWzAgZm9yIF8gaW4gZGF0YV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHJhY2tbJ25hbWUnXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgc2xlZXAgaW4gZW51bWVyYXRlKGRhdGEpOgogICAgICAgICAgICBpZiBpbmRleGVzW2ldIDwgbGVuKHNsZWVwKToKICAgICAgICAgICAgICAgIGRhdGUgPSBaZW9EYXRhLnBhcnNlX2RhdGVfdGltZV9yb3coc2xlZXBbaW5kZXhlc1tpXV0pLmRhdGUoKQogICAgICAgICAgICAgICAgZ3JhcGhzW2RhdGVdLmFwcGVuZChSYXdHcmFwaChzbGVlcFtpbmRleGVzW2ldXSkpCiAgICAgICAgICAgICAgICBpbmRleGVzW2ldICs9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KHRyYWNrKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>visit</last-search>
+      <last-search encoding="base64">PFwvYnI+</last-search>
       <last-offset />
-      <last-pattern>visit</last-pattern>
+      <last-pattern encoding="base64">PFwvYnI+</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>date_</entry>
         <entry>rem</entry>
         <entry>rem_totals</entry>
         <entry>sws_totals</entry>
@@ -1313,9 +1319,9 @@
         <entry>class</entry>
         <entry>pass</entry>
         <entry>visit</entry>
+        <entry encoding="base64">PFwvYnI+</entry>
       </history-search>
       <history-cmd>
-        <entry>w;w</entry>
         <entry>%s/\ /,\ /g</entry>
         <entry>%s/\ /,/g</entry>
         <entry>.,.+443q</entry>
@@ -1332,8 +1338,9 @@
         <entry>;w</entry>
         <entry>;wq</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
+        <entry>s</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
