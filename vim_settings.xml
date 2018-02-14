@@ -878,12 +878,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1518617866132">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="18" column="46" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1518626029119">
+        <mark key="'" line="48" column="8" />
+        <mark key="[" line="19" column="93" />
+        <mark key="]" line="19" column="105" />
+        <mark key="." line="19" column="105" />
+        <mark key="^" line="19" column="105" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Valuation.java" timestamp="1518275742237">
         <mark key="[" line="26" column="0" />
@@ -1109,8 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="41" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_collection.py" />
-      <jump line="18" column="49" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="34" column="54" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="7" column="33" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
@@ -1209,10 +1207,12 @@
       <jump line="36" column="28" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="32" column="21" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+      <register name="&quot;" type="4">
+        <text>32</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1227,34 +1227,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>decoder</text>
+        <text>32</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFwvYnI+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVyMiA9IHRmLmxheWVycy5kZW5zZShkZWNvZGVyMSwgNjQsIGFjdGl2YXRpb249dGYubm4ucmVsdSwgcmV1c2U9cmV1c2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVyMCA9IHRmLmxheWVycy5kZW5zZSh4LCAzMiwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1LCByZXVzZT1yZXVzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxlbigpKSAhPSAzNToKICAgICAgICAgICAgICAgIHByaW50KGxlbihzZWxmLmpzb25fdG9fc3BvdGlmeV9mZWF0dXJlKHRyYWNrKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZW9jaW5nID0gZGVjb2RlcjMK</text>
+        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZW9jaW5nID0gZGVjb2RlcjMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNvZGVyMCA9IHRmLmxheWVycy5kZW5zZShzZWxmLmVuY29kaW5nLCAzMiwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIGRlY29kZXIxID0gdGYubGF5ZXJzLmRlbnNlKGRlY29kZXIwLCAzMiwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIGRlY29kZXIyID0gdGYubGF5ZXJzLmRlbnNlKGRlY29kZXIxLCA2NCwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIHNlbGYuZGVjb2RpbmcgPSB0Zi5sYXllcnMuZGVuc2UoZGVjb2RlcjIsIHNlbGYueC5nZXRfc2hhcGUoKSwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1274,16 +1274,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHJhY2tbJ25hbWUnXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBkZWNvZGVyMCA9IHRmLmxheWVycy5kZW5zZShzZWxmLmVuY29kaW5nLCAzMiwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIGRlY29kZXIxID0gdGYubGF5ZXJzLmRlbnNlKGRlY29kZXIwLCAzMiwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIGRlY29kZXIyID0gdGYubGF5ZXJzLmRlbnNlKGRlY29kZXIxLCA2NCwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQogICAgICAgIHNlbGYuZGVjb2RpbmcgPSB0Zi5sYXllcnMuZGVuc2UoZGVjb2RlcjIsIHNlbGYueC5nZXRfc2hhcGUoKSwgYWN0aXZhdGlvbj10Zi5ubi5yZWx1KQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KHRyYWNrKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHJhY2tbJ25hbWUnXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
