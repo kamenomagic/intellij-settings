@@ -47,9 +47,6 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals/totals_graph.py" timestamp="1518544672147">
-        <mark key="'" line="19" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab10/lab10.py" timestamp="1510972830990">
         <mark key="'" line="49" column="26" />
         <mark key="[" line="83" column="70" />
@@ -221,9 +218,6 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="33" column="91" />
       </file>
-      <file name="/usr/local/lib/python3.6/site-packages/pycparser/c_ast.py" timestamp="1518419298361">
-        <mark key="'" line="82" column="6" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/CollectionReport.java" timestamp="1515748738409">
         <mark key="'" line="46" column="40" />
         <mark key="[" line="54" column="35" />
@@ -357,9 +351,6 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/transforms/node_transformer.py" timestamp="1518448221162">
-        <mark key="'" line="10" column="28" />
-      </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/zeoanalyzer" timestamp="1518517131186">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="2" column="28" />
@@ -388,7 +379,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519148158001">
+      <file name="/Python Console" timestamp="1519233640040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -893,12 +884,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1519173107034">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="27" column="71" />
-        <mark key="]" line="27" column="75" />
-        <mark key="." line="27" column="75" />
-        <mark key="^" line="27" column="75" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1519234322585">
+        <mark key="'" line="3" column="28" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="46" column="42" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Valuation.java" timestamp="1518275742237">
         <mark key="[" line="26" column="0" />
@@ -1004,7 +995,7 @@
       <file name="/dummy.sql" timestamp="1517043204379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518667076406">
+      <file name="/Dummy.txt" timestamp="1519233537455">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -1091,9 +1082,6 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/zeo_graph_collection.py" timestamp="1518483510700">
-        <mark key="'" line="4" column="41" />
-      </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/core/Snake.java" timestamp="1514364474227">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="28" column="6" />
@@ -1111,8 +1099,8 @@
       <file name="/fragment.java" timestamp="1517040815970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1518457845951">
-        <mark key="'" line="93" column="47" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1519234273524">
+        <mark key="'" line="43" column="12" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="20" />
         <mark key="." line="74" column="20" />
@@ -1120,16 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="57" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="62" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="69" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="75" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="79" column="8" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="9" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="24" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="30" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="36" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
@@ -1188,8 +1166,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_encoder.py" />
       <jump line="7" column="16" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="35" column="61" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="3" column="20" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="36" column="28" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
@@ -1220,10 +1196,22 @@
       <jump line="33" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="2" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="34" column="38" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="60" column="24" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="61" column="24" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="38" column="38" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="13" column="49" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="62" column="53" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="12" column="35" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="35" column="45" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="43" column="12" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
+      <jump line="37" column="42" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="3" column="28" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1238,34 +1226,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'Epoch {} average training loss: {}'.format(e, current_sum / count)</text>
       </register>
       <register name="/" type="4">
-        <text>load_data</text>
+        <text>float</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1hZ2VfZmlsZXMuc29ydCgpCg==</text>
+      <register name="0" type="4">
+        <text>current_sum</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFubm90YXRpb25fZmlsZXNbaV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhhbm5vdGF0aW9uX2ZpbGVzW2ldKToK</text>
+        <text encoding="base64">ICAgICAgICBzdW0gPSAwCiAgICAgICAgY291bnQgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhpbWFnZV9maWxlc1tpXSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1hZ2VzX3BhdGggPSAKYW5ub3RhdGlvbnNfcGF0aCA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVwb2NkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdCA9IHNlbGYuc2Vzcy5ydW4oc2VsZi5lbmNvZGluZywgZmVlZF9kaWN0PXtzZWxmLng6IFtmZWF0dXJlXX0pCiAgICAgICAgICAgIHByaW50IHRlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZS5zaGFwZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1285,25 +1273,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGltYWdlX2ZpbGVfbmFtZSBpbiA6CiAgICBpbWFnZV9wYXRocy5hcHBlbmQoaW1hZ2VfZmlsZV9uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cm9vdF9mb2xkZXIgPSAnJwppbWFnZV9mb2xkZXIgPSBvcy5wYXRoLmpvaW4ocm9vdF9mb2xkZXIsICkKCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmVhdHVyZSBpbiBzb3J0ZWRfZmVhdHVyZV9zdHJpbmdzOgogICAgICAgICAgICBzcG90aWZ5X2ZlYXR1cmUuYXBwZW5kKDAuMCBpZiBmZWF0dXJlID09ICcnIGVsc2UgZmxvYXQoZmVhdHVyZSkpCiAgICAgICAgZm9yIGZlYXR1cmUgaW4gc3BvdGlmeV9mZWF0dXJlOgogICAgICAgICAgICBwcmludChmZWF0dXJlKQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YW5ub3RhdGlvbl9mb2xkZXIgPSBvcy5wYXRoLmpvaW4ocm9vdF9mb2xkZXIsICdBbm5vdGF0aW9ucycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgICAgICBzcG90aWZ5X2ZlYXR1cmUuYXBwZW5kKDAuMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load_data</last-search>
+      <last-search>float</last-search>
       <last-offset />
-      <last-pattern>load_data</last-pattern>
+      <last-pattern>float</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1311,7 +1299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rem_totals</entry>
         <entry>sws_totals</entry>
         <entry>plt</entry>
         <entry>sleeps</entry>
@@ -1329,8 +1316,9 @@
         <entry>class</entry>
         <entry>pass</entry>
         <entry>visit</entry>
-        <entry encoding="base64">PFwvYnI+</entry>
         <entry>load_data</entry>
+        <entry encoding="base64">PFwvYnI+</entry>
+        <entry>float</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\ /,\ /g</entry>
@@ -1349,8 +1337,8 @@
         <entry>;w</entry>
         <entry>;wq</entry>
         <entry>wq</entry>
-        <entry>s</entry>
         <entry>q</entry>
+        <entry>s</entry>
         <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
