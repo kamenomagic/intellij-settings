@@ -607,11 +607,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519175925186">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="30" />
-        <mark key="^" line="26" column="58" />
-        <mark key="." line="26" column="30" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519177660998">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="10" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1518652490053">
         <mark key="'" line="151" column="8" />
@@ -1113,7 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="54" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="7" column="33" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" />
       <jump line="19" column="16" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals/totals_graph.py" />
@@ -1213,10 +1213,11 @@
       <jump line="32" column="21" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="45" column="8" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PGJyPg==</text>
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1231,7 +1232,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyPg==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFwvYnI+</text>
