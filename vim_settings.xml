@@ -884,12 +884,10 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1519234322585">
-        <mark key="'" line="3" column="28" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="46" column="42" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1519235364071">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Valuation.java" timestamp="1518275742237">
         <mark key="[" line="26" column="0" />
@@ -1108,8 +1106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="36" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="42" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
@@ -1208,10 +1204,12 @@
       <jump line="43" column="12" filename="$USER_HOME$/dev/python/albumart/spotify.py" />
       <jump line="37" column="42" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="3" column="28" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="44" column="25" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="43" column="49" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1226,34 +1224,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>'Epoch {} average training loss: {}'.format(e, current_sum / count)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>float</text>
       </register>
-      <register name="0" type="4">
-        <text>current_sum</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QgPSBzZWxmLnNlc3MucnVuKHNlbGYudHJhaW5pbmdfZGVjb2RlciwgZmVlZF9kaWN0PWZlZWRfZGljdCkKICAgICAgICAgICAgICAgIHByaW50IHRlc3QK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdW0gPSAwCiAgICAgICAgY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QgPSBzZWxmLnNlc3MucnVuKHNlbGYueCwgZmVlZF9kaWN0PWZlZWRfZGljdCkKICAgICAgICAgICAgICAgIHByaW50IHRlc3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmVwb2NkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVzdCA9IHNlbGYuc2Vzcy5ydW4oc2VsZi5lbmNvZGluZywgZmVlZF9kaWN0PXtzZWxmLng6IFtmZWF0dXJlXX0pCiAgICAgICAgICAgIHByaW50IHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICBzdW0gPSAwCiAgICAgICAgY291bnQgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZS5zaGFwZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1273,16 +1271,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmVwb2NkZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmVhdHVyZSBpbiBzb3J0ZWRfZmVhdHVyZV9zdHJpbmdzOgogICAgICAgICAgICBzcG90aWZ5X2ZlYXR1cmUuYXBwZW5kKDAuMCBpZiBmZWF0dXJlID09ICcnIGVsc2UgZmxvYXQoZmVhdHVyZSkpCiAgICAgICAgZm9yIGZlYXR1cmUgaW4gc3BvdGlmeV9mZWF0dXJlOgogICAgICAgICAgICBwcmludChmZWF0dXJlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVzdCA9IHNlbGYuc2Vzcy5ydW4oc2VsZi5lbmNvZGluZywgZmVlZF9kaWN0PXtzZWxmLng6IFtmZWF0dXJlXX0pCiAgICAgICAgICAgIHByaW50IHRlc3QK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IFZhbHVlRXJyb3I6CiAgICAgICAgICAgICAgICBzcG90aWZ5X2ZlYXR1cmUuYXBwZW5kKDAuMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZmVhdHVyZS5zaGFwZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
