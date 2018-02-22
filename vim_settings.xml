@@ -379,7 +379,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519255306096">
+      <file name="/Python Console" timestamp="1519280565245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -605,11 +605,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519208502270">
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="40" column="49" />
-        <mark key="." line="40" column="49" />
-        <mark key="^" line="40" column="48" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519280563054">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+        <mark key="^" line="41" column="61" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1518652490053">
         <mark key="'" line="151" column="8" />
@@ -1108,10 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="42" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="54" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="60" column="14" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
@@ -1208,10 +1205,14 @@
       <jump line="44" column="25" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="43" column="49" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="14" column="49" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="41" column="30" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBwcmludCBzZWxmLnNlc3MucnVuKHNlbGYueCwgZmVlZF9kaWN0PWZlZWRfZGljdCkK</text>
+      <register name="&quot;" type="4">
+        <text>image_files[i]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1226,7 +1227,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>32</text>
+        <text>image_files[i]</text>
       </register>
       <register name="/" type="4">
         <text>float</text>
@@ -1235,25 +1236,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBwcmludCBzZWxmLnNlc3MucnVuKHNlbGYueCwgZmVlZF9kaWN0PWZlZWRfZGljdCkK</text>
+        <text encoding="base64">ICAgIDEgICAgICAgICAgICAgICAgIG1haW4oKQo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaW5nID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IHRoaW5nCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QgPSBzZWxmLnNlc3MucnVuKHNlbGYudHJhaW5pbmdfZGVjb2RlciwgZmVlZF9kaWN0PWZlZWRfZGljdCkKICAgICAgICAgICAgICAgIHByaW50IHRlc3QK</text>
+        <text encoding="base64">ICAgIGUgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIGUucAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlc3QgPSBzZWxmLnNlc3MucnVuKHNlbGYueCwgZmVlZF9kaWN0PWZlZWRfZGljdCkKICAgICAgICAgICAgICAgIHByaW50IHRlc3QK</text>
+        <text encoding="base64">ICAgIHByaW50KGltYWdlX2ZpbGVzW2ldLnNwbGl0KCcuJylbMF0gKyAnID09ICcgKyBhbm5vdGF0aW9uX2ZpbGVzW2ldLnNwbGl0KCcuJylbMF0pCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1273,16 +1274,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCB4bWwuZXRyZWUuRWxlbWVudFRyZWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdW0gPSAwCiAgICAgICAgY291bnQgPSAwCg==</text>
+        <text encoding="base64">ZnJvbSB2b2NfdXRpbHMudm9jX3V0aWxzIGltcG9ydCAqCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBwcmludCBzZWxmLnNlc3MucnVuKHNlbGYueCwgZmVlZF9kaWN0PWZlZWRfZGljdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
