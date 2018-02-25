@@ -283,12 +283,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1518442634394">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1519552354388">
         <mark key="'" line="221" column="28" />
-        <mark key="[" line="263" column="49" />
-        <mark key="]" line="263" column="55" />
-        <mark key="." line="263" column="55" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
         <mark key="^" line="263" column="55" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task5.json" timestamp="1513162831651">
         <mark key="'" line="15" column="12" />
@@ -987,11 +987,6 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/omp/omp_ast.py" timestamp="1518559838348">
-        <mark key="'" line="129" column="7" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="478" column="44" />
-      </file>
       <file name="/dummy.sql" timestamp="1517043204379">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1210,8 +1205,8 @@
       <jump line="10" column="51" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LS0gIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB6aXA7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1235,25 +1230,25 @@
         <text encoding="base64">ICAgICAgICB0Zi5hZGRfdG9fY29sbGVjdGlvbignbG9zcycsIHNlbGYubG9zcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyB6aXA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0YXRlIHN0YXRlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDEgICAgICAgICAgICAgICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICBARW51bWVyYXRlZChFbnVtVHlwZS5TVFJJTkcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGUK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGUgPQo=</text>
+        <text encoding="base64">ICAgIDEgICAgICAgICAgICAgICAgIG1haW4oKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1273,19 +1268,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGUucAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGltYWdlX2ZpbGVzW2ldLnNwbGl0KCcuJylbMF0gKyAnID09ICcgKyBhbm5vdGF0aW9uX2ZpbGVzW2ldLnNwbGl0KCcuJylbMF0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGUK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB4bWwuZXRyZWUuRWxlbWVudFRyZWUK</text>
+        <text encoding="base64">ICAgIGUgPQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1337,10 +1332,10 @@
         <entry>;w</entry>
         <entry>;wq</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>s</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
