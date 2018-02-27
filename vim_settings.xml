@@ -590,12 +590,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519764392579">
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519774884741">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="61" />
-        <mark key="." line="27" column="61" />
-        <mark key="^" line="27" column="61" />
+        <mark key="[" line="60" column="22" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1519737337675">
         <mark key="'" line="20" column="0" />
@@ -1188,7 +1188,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_layer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1203,7 +1203,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>_layer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
