@@ -379,6 +379,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="78" />
       </file>
+      <file name="$USER_HOME$/dev/python/yolo/label.py" timestamp="1519707965941">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="^" line="1" column="51" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
         <mark key="'" line="38" column="10" />
         <mark key="[" line="31" column="17" />
@@ -578,12 +584,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519690707794">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="42" column="75" />
-        <mark key="]" line="43" column="19" />
-        <mark key="." line="43" column="19" />
-        <mark key="^" line="43" column="19" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519708017908">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="109" />
+        <mark key="]" line="44" column="108" />
+        <mark key="." line="44" column="108" />
+        <mark key="^" line="44" column="108" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1518652490053">
         <mark key="'" line="151" column="8" />
@@ -1064,8 +1070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="118" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="123" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="15" column="8" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
@@ -1092,7 +1096,6 @@
       <jump line="15" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="32" column="21" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="80" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="5" column="30" filename="$USER_HOME$/dev/python/yolo/voc_utils/voc_utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/voc_utils/voc_utils.py" />
@@ -1164,10 +1167,13 @@
       <jump line="13" column="23" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
       <jump line="47" column="8" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
       <jump line="48" column="58" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
+      <jump line="45" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1182,34 +1188,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>[1]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>256</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmbGF0LmdldF9zaGFwZSgpCg==</text>
+      <register name="0" type="4">
+        <text>annotation_file</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGUK</text>
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQo=</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgZQo=</text>
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBvdXRfc2l6ZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFubm90YXRpb24uZmluZGFsbCgib2JqZWN0IilbMF0uZmluZCgnbmFtZScpLnRleHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmbGF0LmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh4bWxfb2JqZWN0LCB4bWwuZXRyZWUuRWxlbWVudFRyZWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBibG93b3V0LmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">ICAgIGxhYmVsID0gTGFiZWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBibG93b3V0LmdldF9zaGFwZSgpCg==</text>
+        <text encoding="base64">ICAgIG9iamVjdHMgPSAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1229,16 +1235,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3MgPSB0Zi5TZXNzaW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlc3MgPSB0Zi5TZXNzaW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGUK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
