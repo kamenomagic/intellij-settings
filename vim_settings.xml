@@ -379,11 +379,10 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="78" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/label.py" timestamp="1519707965941">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="51" />
-        <mark key="." line="1" column="20" />
+      <file name="$USER_HOME$/dev/python/yolo/label.py" timestamp="1519708382713">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
         <mark key="'" line="38" column="10" />
@@ -1037,6 +1036,7 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/python/yolo/image_preprocessor.py" timestamp="1519708140324" />
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/NightCoreAlarm.java" timestamp="1516343787429">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="20" column="21" />
@@ -1172,8 +1172,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aF9yYXRpbyA9IGhlaWdodF9yYXRpbyA9IDEK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1188,7 +1188,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>256</text>
@@ -1197,25 +1197,25 @@
         <text>annotation_file</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aF9yYXRpbyA9IGhlaWdodF9yYXRpbyA9IDEK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQoKCg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gcm9vdC5maW5kKCdzaXplJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFubm90YXRpb24uZmluZGFsbCgib2JqZWN0IilbMF0uZmluZCgnbmFtZScpLnRleHQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh4bWxfb2JqZWN0LCB4bWwuZXRyZWUuRWxlbWVudFRyZWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhYmVsID0gTGFiZWwoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGFubm90YXRpb24uZmluZGFsbCgib2JqZWN0IilbMF0uZmluZCgnbmFtZScpLnRleHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9iamVjdHMgPSAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh4bWxfb2JqZWN0LCB4bWwuZXRyZWUuRWxlbWVudFRyZWUpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1235,16 +1235,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGxhYmVsID0gTGFiZWwoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGUK</text>
+        <text encoding="base64">ICAgIG9iamVjdHMgPSAK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgZQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
