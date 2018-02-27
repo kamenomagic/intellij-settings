@@ -583,12 +583,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519718095898">
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519746131160">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="42" column="106" />
-        <mark key="]" line="42" column="105" />
-        <mark key="." line="42" column="105" />
-        <mark key="^" line="42" column="105" />
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="23" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1519737337675">
         <mark key="'" line="20" column="0" />
@@ -1174,8 +1174,8 @@
       <jump line="20" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY2hpbGQgaW4gbm9kZS5jaGlsZHJlbigpOgo=</text>
+      <register name="&quot;" type="4">
+        <text>0xff0000</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1190,7 +1190,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.astype(int)</text>
+        <text>0xff0000</text>
       </register>
       <register name="/" type="4">
         <text>image_files</text>
