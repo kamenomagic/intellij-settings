@@ -583,12 +583,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519711607211">
-        <mark key="'" line="3" column="17" />
-        <mark key="[" line="42" column="101" />
-        <mark key="]" line="42" column="105" />
-        <mark key="." line="42" column="105" />
-        <mark key="^" line="42" column="105" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519712331361">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="42" column="106" />
+        <mark key="]" line="42" column="106" />
+        <mark key="." line="42" column="106" />
+        <mark key="^" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1518652490053">
         <mark key="'" line="151" column="8" />
@@ -1072,8 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="8" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
-      <jump line="152" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="151" column="8" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/raw/raw_collection.py" />
@@ -1129,7 +1127,6 @@
       <jump line="37" column="42" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="44" column="25" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="14" column="49" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="75" column="17" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="10" column="51" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
@@ -1172,10 +1169,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/image_preprocessor.py" />
       <jump line="41" column="15" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="3" column="17" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="42" column="39" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cast</text>
+        <text>.astype(int)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1190,34 +1190,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>cast</text>
+        <text>.astype(int)</text>
       </register>
       <register name="/" type="4">
-        <text>256</text>
+        <text>image_files</text>
       </register>
       <register name="0" type="4">
         <text>annotation_file</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlvLmltc2F2ZSgndGVzdC5wbmcnLCBpby5pbXJlYWQoaW1hZ2VfZmlsZSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB3aWR0aCwgaGVpZ2h0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aF9yYXRpbyA9IGhlaWdodF9yYXRpbyA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB3aWR0aCwgaGVpZ2h0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gcm9vdC5maW5kKCdzaXplJykK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aF9yYXRpbyA9IGhlaWdodF9yYXRpbyA9IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQo=</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gcm9vdC5maW5kKCdzaXplJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQoKCg==</text>
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1237,33 +1237,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFubm90YXRpb24uZmluZGFsbCgib2JqZWN0IilbMF0uZmluZCgnbmFtZScpLnRleHQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHhtbC5ldHJlZS5FbGVtZW50VHJlZQoKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh4bWxfb2JqZWN0LCB4bWwuZXRyZWUuRWxlbWVudFRyZWUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFubm90YXRpb24uZmluZGFsbCgib2JqZWN0IilbMF0uZmluZCgnbmFtZScpLnRleHQpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhYmVsID0gTGFiZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh4bWxfb2JqZWN0LCB4bWwuZXRyZWUuRWxlbWVudFRyZWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>256</last-search>
+      <last-search>image_files</last-search>
       <last-offset />
-      <last-pattern>256</last-pattern>
+      <last-pattern>image_files</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\[i</entry>
         <entry>figure(</entry>
         <entry>id</entry>
         <entry>scoeps</entry>
@@ -1283,6 +1282,7 @@
         <entry>encoding</entry>
         <entry>16</entry>
         <entry>256</entry>
+        <entry>image_files</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\ /,\ /g</entry>
