@@ -349,7 +349,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519780790644">
+      <file name="/Python Console" timestamp="1519782223176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -538,12 +538,12 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/data_handler.py" timestamp="1519778954388">
-        <mark key="'" line="20" column="7" />
-        <mark key="[" line="26" column="79" />
-        <mark key="]" line="26" column="80" />
-        <mark key="." line="26" column="79" />
-        <mark key="^" line="26" column="80" />
+      <file name="$USER_HOME$/dev/python/yolo/data_handler.py" timestamp="1519781216950">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/sleep/AfternoonCoreAlarm.java" timestamp="1516635665062">
         <mark key="[" line="16" column="71" />
@@ -590,12 +590,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519780796832">
-        <mark key="'" line="85" column="12" />
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="67" column="30" />
-        <mark key="^" line="66" column="15" />
-        <mark key="." line="67" column="22" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519782521203">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="113" column="71" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1519737337675">
         <mark key="'" line="20" column="0" />
@@ -1085,10 +1085,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="35" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="113" column="4" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/.gitignore" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="11" column="54" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="45" column="43" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
@@ -1146,9 +1142,7 @@
       <jump line="89" column="16" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="103" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="68" column="16" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="3" column="29" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="44" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="9" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="55" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="40" column="17" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1172,8 +1166,6 @@
       <jump line="57" column="17" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="12" column="31" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="43" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="58" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="48" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="72" column="24" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="61" column="37" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1185,10 +1177,18 @@
       <jump line="76" column="24" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="79" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="87" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="98" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="58" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="81" column="35" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="100" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>log</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1203,7 +1203,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -1212,25 +1212,25 @@
         <text>log_file</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLndyaXRlKCd7fVxuJy5mb3JtYXQodHJhaW5fbG9zcykpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="q" type="4">
         <text>jjjjjp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4odHJhaW5fbG9nLCAnYSsnKSBhcyBsb2c6CiAgICAgICAgICAgIGxvZy53cml0ZSgne31cbicuZm9ybWF0KHRyYWluX2xvc3MpKQogICAgICAgIHdpdGggb3Blbih2YWxpZGF0aW9uX2xvZywgJ2ErJykgYXMgbG9nOgogICAgICAgICAgICBsb2cud3JpdGUoJ3t9XG4nLmZvcm1hdCh0cmFpbl9sb3NzKSkKICAgICAgICB3aXRoIG9wZW4odGVzdF9sb2csICdhKycpIGFzIGxvZzoK</text>
+        <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCBpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBzeXMgaW1wb3J0IG1heGludCwgbWluaW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3MucGF0aC5leGlzdHMoc2VsZi5sb2dfZGlyZWN0b3J5KToKICAgICAgICAgICAgb3MubWtkaXIoc2VsZi5sb2dfZGlyZWN0b3J5KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNsZWFyX2xvZ3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVyYXRlID0geW9sbzEK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbG9hZF9leGlzdGluZ19tb2RlbCBvciA6Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAjIHlvbG8zID0gc2VsZi5hZGRfeW9sb19sYXllcih5b2xvMiwgMTI4KQogICAgICAgICMgeW9sbzQgPSBzZWxmLmFkZF95b2xvX2xheWVyKHlvbG8zLCAyNTYpCiAgICAgICAgIyB5b2xvNSA9IHNlbGYuYWRkX3lvbG9fbGF5ZXIoeW9sbzQsIDUxMik=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1250,16 +1250,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNhdmVyID0gdGYudHJhaW4uU2F2ZXIoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW1hZ2VfZmlsZSwgbGFiZWxfZmlsZSBpbiB6aXAoaW1hZ2VfZmlsZXMsIGxhYmVsX2ZpbGVzKToKICAgICAgICAgICAgc2VsZi5pbWFnZXMuYXBwZW5kKHNlbGYubG9hZF9pbWFnZShpbWFnZV9maWxlKSkKICAgICAgICAgICAgc2VsZi5sYWJlbHMuYXBwZW5kKHNlbGYubG9hZF9sYWJlbF9saXN0KGxhYmVsX2ZpbGUpKQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmltYWdlcyA9IFtdCiAgICAgICAgc2VsZi5sYWJlbHMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
