@@ -591,12 +591,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519975607225">
-        <mark key="'" line="67" column="38" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="73" column="40" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519977468670">
+        <mark key="'" line="59" column="36" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="63" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="109" column="40" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -1080,10 +1080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="36" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
-      <jump line="27" column="49" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
-      <jump line="13" column="23" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
-      <jump line="47" column="8" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
       <jump line="48" column="58" filename="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" />
       <jump line="24" column="46" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="46" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1128,7 +1124,6 @@
       <jump line="126" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="19" column="7" filename="$USER_HOME$/dev/python/yolo/data_handler.py" />
       <jump line="26" column="28" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="59" column="59" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="93" column="49" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="60" column="80" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="69" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1149,7 +1144,6 @@
       <jump line="16" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="98" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="58" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="81" column="35" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="100" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1158,13 +1152,11 @@
       <jump line="67" column="35" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="47" column="24" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="1" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="32" column="24" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="33" column="33" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="37" column="31" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="38" column="34" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="50" column="26" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="51" column="29" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="52" column="45" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="53" column="42" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="54" column="33" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1180,10 +1172,18 @@
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="66" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="68" column="38" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="77" column="40" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="166" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="157" column="9" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="58" column="36" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">CiMgQm94TG9zcyA9IG5hbWVkdHVwbGUoJ3Bvc2l0aW9uJywgJ3NpemUnLCAnb2JqJywgJ25vb2JqJywgJ3Byb3AnKQojIEJveCA9IG5hbWVkdHVwbGUoJ3gnLCAneScsICdoZWlnaHQnLCAnd2lkdGgnLCAnbGFiZWwnLCAncHJvYnMnKQojIF9HQU1NQV9DT09SRCA9IDUuMAojIF9HQU1NRV9OT09CSiA9IDAuNQojCiMgZGVmIGJveF9sb3NzKG9ic19ib3gsIGV4cF9ib3gsIG9ial9hcHBlYXJzKToKIyAgICAgcG9zaXRpb25fbG9zcyA9IG9ial9hcHBlYXJzICogKAojICAgICAgICAgICAgIChvYnNfYm94LnggLSBleHBfYm94LngpICoqIDIgKwojICAgICAgICAgICAgIChvYnNfYm94LnkgLSBleHBfYm94LnkpICoqIDIpCiMgICAgIHNpemVfbG9zcyA9IG9ial9hcHBlYXJzICogKAojICAgICAgICAgICAgIChtYXRoLnNxcnQob2JzLndpZHRoKSAtIG1hdGguc3FydChleHAud2lkdGgpICoqIDIpICsKIyAgICAgICAgICAgICAobWF0aC5zcXJ0KG9icy5oZWlnaHQpIC0gbWF0aC5zcXJ0KGV4cC5oZWlnaHQpICoqIDIpKQojICAgICAjIFRoZSBuZXh0IDIgbGluZXMgYXNzdW1lIGEgYmluYXJ5ICJ3ZSBwcmVkaWN0ZWQgdGhlIHJpZ2h0IGNsYXNzIG9yIG5vdCIuCiMgICAgICMgVGhlIG9yaWdpbmFsIGZvcm11bGEgc3F1YXJlcyBlYWNoIG9uZSwgYnV0IHNpbmNlIEknbSBvbmx5IHVzaW5nIDAgb3IgMSwKIyAgICAgIyB0aGF0IGlzIGFuIHVubmVjZXNzYXJ5IG9wZXJhdGlvbiwgYW5kIEkgY29tbWVudGVkIHRoYXQgcGFydCBvdXQuCiMgICAgIG9ial9sb3NzID0gb2JqX2FwcGVhcnMgKiAoMSBpZiBvYnMubGFiZWwgIT0gZXhwLmxhYmVsIGVsc2UgMCkgIyoqIDIKIyAgICAgbm9vYmpfbG9zcyA9IG5vdCBvYmpfYXBwZWFycyAqICgxIGlmIG9icy5sYWJlbCAhPSBleHAubGFiZWwgZWxzZSAwKSAjKiogMgojCiMgICAgICMgVGhpcyBzaG91bGQgd29yayBpZiB0aGUgQm94LnByb2JzIGVsZW1lbnQgaXMgYSBudW1weSBsaXN0IGNvbnRhaW5pbmcKIyAgICAgIyB0aGUgMjAgcHJvYmFiaWxpdGllcy4gIE1pZ2h0IG5lZWQgdHdlYWtpbmcgdG8gd29yayB3aXRoIHRlbnNvcnMgaW5zdGVhZAojICAgICAjIGRlcGVuZGluZyBvbiBob3cgdGhlIHVuZGVybHlpbmcgc3RydWN0dXJlIHdvcmtzLgojICAgICBwcm9iX2xvc3MgPSBvYmpfYXBwZWFycyAqIG5wLnNxdWFyZShvYnNfYm94LnByb2JzIC0gZXhwX2JveC5wcm9icykKIwojICAgICByZXR1cm4gQm94TG9zcyhwb3NpdGlvbl9sb3NzLCBzaXplX2xvc3MsIG9ial9sb3NzLCBub29ial9sb3NzLCBwcm9iX2xvc3MpCiMKIyBkZWYgbG9zcyhvYnMsIGV4cCk6CiMgIyAxLiBGb3IgZXZlcnkgY2VsbCBpbiB0aGUgMTN4MTMgZ3JpZCwgZ3JhYiB0aGUgNSBib3VuZGluZyBib3hlcyBhbmQgbWFwCiMgIyAgICBlYWNoIGJveCB1c2luZyB0aGUgYm94X2xvc3MgZnVuY3Rpb24uCiMKIyAjIDIuIEZvciBldmVyeSBjZWxsIGluIHRoZSAxM3gxMyBncmlkLCBncmFiIHRoZSBwcm9iYWJpbGl0aWVzIGZvciB0aGUgMjAKIyAjICAgIGNsYXNzZXMsIGFuZCBmaW5kIHRoZSBlcnJvciBmb3IgZWFjaCBvbmUuCiMKIyAjIDMuIE11bHRpcGx5IGVhY2ggY29tcG9uZW50IG9mIDEuIGFuZCAyLiBieSBpdHMgY29lZmZpY2llbnQgYW5kIGFkZCBhbGwKIyAjICAgIHRoZSBjb21wb25lbnRzIHRvZ2V0aGVyIHRvIGNhbGN1bGF0ZSB0aGUgdG90YWwgbG9zcy4K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1201,13 +1201,13 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>5</text>
+        <text>loss_loayer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4X2NlbnRlciA9IChsYWJlbC54bWluICsgbGFiZWwueG1heCkgLyAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">CiMgQm94TG9zcyA9IG5hbWVkdHVwbGUoJ3Bvc2l0aW9uJywgJ3NpemUnLCAnb2JqJywgJ25vb2JqJywgJ3Byb3AnKQojIEJveCA9IG5hbWVkdHVwbGUoJ3gnLCAneScsICdoZWlnaHQnLCAnd2lkdGgnLCAnbGFiZWwnLCAncHJvYnMnKQojIF9HQU1NQV9DT09SRCA9IDUuMAojIF9HQU1NRV9OT09CSiA9IDAuNQojCiMgZGVmIGJveF9sb3NzKG9ic19ib3gsIGV4cF9ib3gsIG9ial9hcHBlYXJzKToKIyAgICAgcG9zaXRpb25fbG9zcyA9IG9ial9hcHBlYXJzICogKAojICAgICAgICAgICAgIChvYnNfYm94LnggLSBleHBfYm94LngpICoqIDIgKwojICAgICAgICAgICAgIChvYnNfYm94LnkgLSBleHBfYm94LnkpICoqIDIpCiMgICAgIHNpemVfbG9zcyA9IG9ial9hcHBlYXJzICogKAojICAgICAgICAgICAgIChtYXRoLnNxcnQob2JzLndpZHRoKSAtIG1hdGguc3FydChleHAud2lkdGgpICoqIDIpICsKIyAgICAgICAgICAgICAobWF0aC5zcXJ0KG9icy5oZWlnaHQpIC0gbWF0aC5zcXJ0KGV4cC5oZWlnaHQpICoqIDIpKQojICAgICAjIFRoZSBuZXh0IDIgbGluZXMgYXNzdW1lIGEgYmluYXJ5ICJ3ZSBwcmVkaWN0ZWQgdGhlIHJpZ2h0IGNsYXNzIG9yIG5vdCIuCiMgICAgICMgVGhlIG9yaWdpbmFsIGZvcm11bGEgc3F1YXJlcyBlYWNoIG9uZSwgYnV0IHNpbmNlIEknbSBvbmx5IHVzaW5nIDAgb3IgMSwKIyAgICAgIyB0aGF0IGlzIGFuIHVubmVjZXNzYXJ5IG9wZXJhdGlvbiwgYW5kIEkgY29tbWVudGVkIHRoYXQgcGFydCBvdXQuCiMgICAgIG9ial9sb3NzID0gb2JqX2FwcGVhcnMgKiAoMSBpZiBvYnMubGFiZWwgIT0gZXhwLmxhYmVsIGVsc2UgMCkgIyoqIDIKIyAgICAgbm9vYmpfbG9zcyA9IG5vdCBvYmpfYXBwZWFycyAqICgxIGlmIG9icy5sYWJlbCAhPSBleHAubGFiZWwgZWxzZSAwKSAjKiogMgojCiMgICAgICMgVGhpcyBzaG91bGQgd29yayBpZiB0aGUgQm94LnByb2JzIGVsZW1lbnQgaXMgYSBudW1weSBsaXN0IGNvbnRhaW5pbmcKIyAgICAgIyB0aGUgMjAgcHJvYmFiaWxpdGllcy4gIE1pZ2h0IG5lZWQgdHdlYWtpbmcgdG8gd29yayB3aXRoIHRlbnNvcnMgaW5zdGVhZAojICAgICAjIGRlcGVuZGluZyBvbiBob3cgdGhlIHVuZGVybHlpbmcgc3RydWN0dXJlIHdvcmtzLgojICAgICBwcm9iX2xvc3MgPSBvYmpfYXBwZWFycyAqIG5wLnNxdWFyZShvYnNfYm94LnByb2JzIC0gZXhwX2JveC5wcm9icykKIwojICAgICByZXR1cm4gQm94TG9zcyhwb3NpdGlvbl9sb3NzLCBzaXplX2xvc3MsIG9ial9sb3NzLCBub29ial9sb3NzLCBwcm9iX2xvc3MpCiMKIyBkZWYgbG9zcyhvYnMsIGV4cCk6CiMgIyAxLiBGb3IgZXZlcnkgY2VsbCBpbiB0aGUgMTN4MTMgZ3JpZCwgZ3JhYiB0aGUgNSBib3VuZGluZyBib3hlcyBhbmQgbWFwCiMgIyAgICBlYWNoIGJveCB1c2luZyB0aGUgYm94X2xvc3MgZnVuY3Rpb24uCiMKIyAjIDIuIEZvciBldmVyeSBjZWxsIGluIHRoZSAxM3gxMyBncmlkLCBncmFiIHRoZSBwcm9iYWJpbGl0aWVzIGZvciB0aGUgMjAKIyAjICAgIGNsYXNzZXMsIGFuZCBmaW5kIHRoZSBlcnJvciBmb3IgZWFjaCBvbmUuCiMKIyAjIDMuIE11bHRpcGx5IGVhY2ggY29tcG9uZW50IG9mIDEuIGFuZCAyLiBieSBpdHMgY29lZmZpY2llbnQgYW5kIGFkZCBhbGwKIyAjICAgIHRoZSBjb21wb25lbnRzIHRvZ2V0aGVyIHRvIGNhbGN1bGF0ZSB0aGUgdG90YWwgbG9zcy4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1272,19 +1272,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjZWxsX3NpemUgPSBzZWxmLmltYWdlX3NoYXBlWzFdIC8gc2VsZi5sYWJlbF9zaGFwZVsxXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZWxsX3NpemUgPSBzZWxmLmltYWdlX3NoYXBlWzFdIC8gc2VsZi5sYWJlbF9zaGFwZVsxXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAgbGFiZWwueG1pbiA8IGNlbGxfY29sdW1uICogY2VsbF9zaXplIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsLnhtYXggPiBjZWxsX2NvbHVtbiAqIGNlbGxfc2l6ZSBvclwKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueW1pbiA8IGNlbGxfcm93ICogY2VsbF9zaXplIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsLnltYXggPiBjZWxsX3JvdyAqIGNlbGxfc2l6ZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhdGNoX3NpemUgPSA2NAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAgbGFiZWwueG1pbiA8IGNlbGxfY29sdW1uICogY2VsbF9zaXplIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsLnhtYXggPiBjZWxsX2NvbHVtbiAqIGNlbGxfc2l6ZSBvclwKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueW1pbiA8IGNlbGxfcm93ICogY2VsbF9zaXplIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsLnltYXggPiBjZWxsX3JvdyAqIGNlbGxfc2l6ZToK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1304,25 +1304,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuYmEK</text>
+        <text encoding="base64">ICAgIGJhdGNoX3NpemUgPSA2NAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW5zb3JbY2VsbF0K</text>
+        <text encoding="base64">ICAgIHNlbGYuYmEK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueG1heCA+IGNlbGxfY29sdW1uICogY2VsbF9zaXplIG9yXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW5zb3JbY2VsbF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>5</last-search>
+      <last-search>loss_loayer</last-search>
       <last-offset />
-      <last-pattern>5</last-pattern>
+      <last-pattern>loss_loayer</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1330,7 +1330,6 @@
     </search>
     <history>
       <history-search>
-        <entry>visit</entry>
         <entry>load_data</entry>
         <entry encoding="base64">PFwvYnI+</entry>
         <entry>float</entry>
@@ -1350,6 +1349,7 @@
         <entry>np</entry>
         <entry>Yolo</entry>
         <entry>5</entry>
+        <entry>loss_loayer</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\ /,/g</entry>
