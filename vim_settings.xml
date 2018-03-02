@@ -591,12 +591,11 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519966846980">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="28" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519971536134">
+        <mark key="'" line="66" column="20" />
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -1143,7 +1142,6 @@
       <jump line="61" column="37" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="63" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="64" column="44" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="66" column="38" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="65" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="76" column="24" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="79" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1180,10 +1178,11 @@
       <jump line="125" column="13" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="92" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="66" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1207,7 +1206,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueW1pbiA8IGNlbGxfcm93ICogY2VsbF9zaXplIG9yXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhdGNoX3NpemUgPSA2NAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1272,19 +1271,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuYmEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW5zb3JbY2VsbF0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueG1heCA+IGNlbGxfY29sdW1uICogY2VsbF9zaXplIG9yXAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAgbGFiZWwueG1pbiA8IGNlbGxfY29sdW1uICogY2VsbF9zaXplIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsLnhtYXggPiBjZWxsX2NvbHVtbiAqIGNlbGxfc2l6ZSBvclwKICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueW1pbiA8IGNlbGxfcm93ICogY2VsbF9zaXplIGFuZCBcCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsLnltYXggPiBjZWxsX3JvdyAqIGNlbGxfc2l6ZToK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJhdGNoX3NpemUgPSA2NAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNlbGYuYmEK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW5zb3JbY2VsbF0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1304,16 +1303,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueG1heCA+IGNlbGxfY29sdW1uICogY2VsbF9zaXplIG9yXAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBsYWJlbCBpbiBsYWJlbHM6Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
