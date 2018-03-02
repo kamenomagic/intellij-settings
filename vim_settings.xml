@@ -591,11 +591,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519971536134">
-        <mark key="'" line="66" column="20" />
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1519973739420">
+        <mark key="'" line="68" column="38" />
+        <mark key="[" line="68" column="51" />
+        <mark key="]" line="68" column="52" />
+        <mark key="." line="68" column="52" />
+        <mark key="^" line="67" column="31" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -1131,7 +1132,6 @@
       <jump line="93" column="49" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="60" column="80" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="69" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="68" column="26" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="20" column="46" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="86" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="82" column="58" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1179,10 +1179,11 @@
       <jump line="92" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="66" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="68" column="38" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4X2NlbnRlciA9IChsYWJlbC54bWluICsgbGFiZWwueG1heCkgLyAyCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1203,7 +1204,7 @@
         <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFiZWwueW1pbiA8IGNlbGxfcm93ICogY2VsbF9zaXplIG9yXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4X2NlbnRlciA9IChsYWJlbC54bWluICsgbGFiZWwueG1heCkgLyAyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1325,7 +1326,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
