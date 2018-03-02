@@ -850,12 +850,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1519852341682">
-        <mark key="'" line="68" column="16" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="61" column="42" />
-        <mark key="^" line="80" column="40" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1519997072943">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="56" column="21" />
+        <mark key="^" line="56" column="21" />
+        <mark key="." line="56" column="21" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518124688703">
         <mark key="'" line="1" column="18" />
@@ -1081,7 +1081,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="46" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="46" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="32" column="41" filename="$USER_HOME$/dev/python/yolo/image_preprocessor.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/image_preprocessor.py" />
@@ -1181,10 +1180,11 @@
       <jump line="14" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="57" column="36" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="31" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="41" column="45" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>8</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1199,7 +1199,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>loss_loayer</text>
