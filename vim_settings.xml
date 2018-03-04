@@ -350,7 +350,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520150260430">
+      <file name="/Python Console" timestamp="1520151648491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -591,12 +591,11 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520150003503">
-        <mark key="'" line="96" column="58" />
-        <mark key="[" line="38" column="67" />
-        <mark key="]" line="38" column="77" />
-        <mark key="." line="38" column="77" />
-        <mark key="^" line="38" column="77" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520151637214">
+        <mark key="[" line="97" column="83" />
+        <mark key="]" line="97" column="83" />
+        <mark key="^" line="97" column="87" />
+        <mark key="." line="97" column="83" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -1187,7 +1186,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>image_shape</text>
+        <text>[1]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1202,7 +1201,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>image_shape</text>
+        <text>[1]</text>
       </register>
       <register name="/" type="4">
         <text>label_shape</text>
