@@ -350,7 +350,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520140319256">
+      <file name="/Python Console" timestamp="1520144239677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -591,12 +591,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520141352854">
-        <mark key="'" line="153" column="12" />
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="55" column="33" />
-        <mark key="^" line="55" column="33" />
-        <mark key="." line="55" column="33" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520144364346">
+        <mark key="'" line="145" column="8" />
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="36" />
+        <mark key="." line="55" column="36" />
+        <mark key="^" line="55" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -952,7 +952,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/application.properties" timestamp="1519979631672" />
-      <file name="/Dummy.txt" timestamp="1520137225629">
+      <file name="/Dummy.txt" timestamp="1520143805135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" timestamp="1519694863052">
@@ -1081,21 +1081,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="89" column="16" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="103" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="68" column="16" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="44" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="40" column="17" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="74" column="51" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="126" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="19" column="7" filename="$USER_HOME$/dev/python/yolo/data_handler.py" />
-      <jump line="26" column="28" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="60" column="80" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="69" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="20" column="46" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="86" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="48" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="61" column="37" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="63" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1103,10 +1090,7 @@
       <jump line="79" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="100" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="32" column="24" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="33" column="33" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1121,7 +1105,6 @@
       <jump line="125" column="13" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="92" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="77" column="40" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="166" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="157" column="9" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1133,7 +1116,6 @@
       <jump line="75" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="93" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="85" column="10" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="31" column="52" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="57" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1141,7 +1123,6 @@
       <jump line="111" column="17" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="164" column="18" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="139" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="124" column="25" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="15" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="43" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="64" column="40" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1149,14 +1130,9 @@
       <jump line="106" column="55" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="104" column="56" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="136" column="17" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="103" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="150" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="113" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="98" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="83" column="32" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="129" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="141" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="10" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="148" column="31" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="1" column="7" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="41" column="29" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1164,7 +1140,6 @@
       <jump line="46" column="36" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="47" column="39" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="67" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="82" column="43" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="91" column="28" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="68" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="72" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1172,22 +1147,47 @@
       <jump line="84" column="15" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="152" column="58" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="66" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="36" column="25" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="51" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="78" column="32" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="99" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="120" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="52" column="25" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="30" column="25" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="55" column="23" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="153" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="77" column="59" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="24" column="45" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="26" column="61" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="70" column="54" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="78" column="79" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="27" column="61" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="83" column="28" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="98" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="113" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="128" column="35" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="143" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="86" column="21" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="36" column="87" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="176" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="127" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="115" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="100" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="69" column="50" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="82" column="32" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="103" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="124" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="145" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="151" column="46" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>target</text>
+        <text>obj_present</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1202,16 +1202,17 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>target</text>
+        <text>obj_present</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>label_shape</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGFuZCBtYXhfbG9zcyAhPSBmbG9hdCgnaW5mJyk=</text>
+        <text>(tf.sqrt(target[:, :, :, 2]) - tf.sqrt(output[:, :, :, 2])) ** 2 +
+                                                 (tf.sqrt(target[:, :, :, 3]) - tf.sqrt(output[:, :, :, 3])) ** 2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBwb3NpdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBvYmpfcHJlc2VudAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1276,19 +1277,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBvdXRwdXQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBzaXplCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGYucmVkdWNlX3N1bShvdXRwdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYudGVzdCA9ICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCA6LCAyXSkgLSB0Zi5zcXJ0KG91dHB1dFs6LCA6LCA6LCAyXSkpICoqIDIgKyAodGYuc3FydCh0YXJnZXRbOiwgOiwgOiwgM10pIC0gdGYuc3FydChvdXRwdXRbOiwgOiwgOiwgM10pKSAqKiAyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBjb252MAo=</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gdGYud2hlcmUodGYuaXNfbmFuKHNpemVfd2l0aF9uYW5zKSwgdGYub25lc19saWtlKHNpemVfd2l0aF9uYW5zKSAqIDAuMCwgc2l6ZV93aXRoX25hbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSB0Zi5yZXNoYXBlKG91dHB1dF9ub3RfcmVzaGFwZWQsIFsxMywgMTMsIDUsIDI1XSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudGVzdCA9ICh0YXJnZXRbOiwgOiwgMDoxXSAtIG91dHB1dFs6LCA6LCAwOjFdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbnNvcltjZWxsX3Jvd11bY2VsbF9jb2x1bW5dIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1308,34 +1309,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBzZWxmLnlvbG80Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbnNvcltjZV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnlvbG80ID0geW9sbzQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBwb3NpdGlvbgo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnlvbG8xID0geW9sbzEK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRlc3QgPSBvdXRwdXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>label_shape</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>label_shape</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
-        <entry>max</entry>
         <entry>test</entry>
         <entry>validation</entry>
         <entry>file</entry>
@@ -1354,6 +1353,8 @@
         <entry>loss</entry>
         <entry>loss_layer</entry>
         <entry>print</entry>
+        <entry>image_shape</entry>
+        <entry>label_shape</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+443q</entry>
