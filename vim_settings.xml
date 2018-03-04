@@ -591,11 +591,11 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520152666477">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="17" />
-        <mark key="^" line="10" column="17" />
-        <mark key="." line="10" column="17" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520155207241">
+        <mark key="[" line="108" column="50" />
+        <mark key="]" line="108" column="57" />
+        <mark key="^" line="108" column="57" />
+        <mark key="." line="108" column="57" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
         <mark key="'" line="218" column="0" />
@@ -1186,7 +1186,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>16</text>
+        <text>average_loss</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1201,7 +1201,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text>average_loss</text>
       </register>
       <register name="/" type="4">
         <text>label_shape</text>
