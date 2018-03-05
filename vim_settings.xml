@@ -591,12 +591,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520232832576">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="119" column="64" />
-        <mark key="]" line="119" column="64" />
-        <mark key="^" line="119" column="64" />
-        <mark key="." line="119" column="64" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520255811612">
+        <mark key="'" line="140" column="27" />
+        <mark key="[" line="105" column="57" />
+        <mark key="]" line="105" column="68" />
+        <mark key="^" line="105" column="68" />
+        <mark key="." line="105" column="68" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1520237216987">
         <mark key="'" line="9" column="28" />
@@ -1084,33 +1084,17 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="81" column="28" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="84" column="15" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="51" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="99" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="120" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="52" column="25" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="30" column="25" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="77" column="59" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="24" column="45" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="26" column="61" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="9" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="70" column="54" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="78" column="79" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="10" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="27" column="61" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="98" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="113" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="143" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="56" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="36" column="87" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="176" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="127" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="115" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="100" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="69" column="50" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="82" column="32" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="103" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="109" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1125,8 +1109,6 @@
       <jump line="95" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="54" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="119" column="86" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="37" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="73" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="96" column="58" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="145" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="72" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1151,7 +1133,6 @@
       <jump line="75" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="93" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="111" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="46" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1169,9 +1150,7 @@
       <jump line="30" column="34" filename="$USER_HOME$/dev/python/yolo/data_handler.py" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="47" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="61" column="37" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="83" column="28" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="217" column="2" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="180" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="162" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1184,13 +1163,34 @@
       <jump line="124" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="48" column="41" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="9" column="28" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
+      <jump line="136" column="35" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="55" column="19" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="60" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="61" column="31" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="63" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="62" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="64" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="66" column="48" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="69" column="33" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="70" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="73" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="91" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="104" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="98" column="15" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="105" column="31" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="140" column="27" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>trange(0, len(data), self.batch_size)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1205,16 +1205,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>trange(0, len(data), self.batch_size)</text>
       </register>
       <register name="/" type="4">
-        <text>=</text>
+        <text>set_des</text>
       </register>
-      <register name="0" type="4">
-        <text>nop</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgIyBwcmludCAncG9zaXRpb249e31cbnNpemU9e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ29ial9wcmVzZW50PXt9XG5ub29ial9wcmVzZW50e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ2NsYXNzX3ByZWRpY3Rpb25fcHJlc2VudD17fVxuY2xhc3NfcHJlZGljdGlvbl9ub3RfcHJlc2VudD17fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAncHJvYmFiaWxpdGllcz17fVxuJy5mb3JtYXQoenAsIHpzLCB6b3AsIHpub3AsIHpjcHAsIHpjcG5wLCB6cHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxvc3MK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1226,19 +1226,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BzID0gW3NlbGYucG9zaXRpb24sIHNlbGYuc2l6ZSwgc2VsZi5vYmpfcHJlc2VudCwgc2VsZi5ub29ial9wcmVzZW50LCBzZWxmLmNsYXNzX3ByZWRpY3Rpb25fcHJlc2VudCwgc2VsZi5jbGFzc19wcmVkaWN0aW9uX25vdF9wcmVzZW50LCBzZWxmLnByb2JhYmlsaXRpZXNdCiAgICAgICAgICAgIHNlbGYuc2Vzcy5ydW4ob3BzLCBmZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wcyA9IFtzZWxmLnBvc2l0aW9uLCBzZWxmLnNpemUsCiAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5vYmpfcHJlc2VudCwgc2VsZi5ub29ial9wcmVzZW50LAogICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY2xhc3NfcHJlZGljdGlvbl9wcmVzZW50LCBzZWxmLmNsYXNzX3ByZWRpY3Rpb25fbm90X3ByZXNlbnQsIHNlbGYucHJvYmFiaWxpdGllc10KICAgICAgICAgICAgICAgIHpwLCB6cywgem9wLCB6bm9wLCB6Y3BwLCB6Y3BucCwgenBzID0gc2VsZi5zZXNzLnJ1bihvcHMsIGZlZWRfZGljdD1mZWVkX2RpY3QpCiAgICAgICAgICAgICAgICAjIHByaW50ICdwb3NpdGlvbj17fVxuc2l6ZT17fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAnb2JqX3ByZXNlbnQ9e31cbm5vb2JqX3ByZXNlbnR7fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAnY2xhc3NfcHJlZGljdGlvbl9wcmVzZW50PXt9XG5jbGFzc19wcmVkaWN0aW9uX25vdF9wcmVzZW50PXt9XG4nIFwKICAgICAgICAgICAgICAgICMgICAgICdwcm9iYWJpbGl0aWVzPXt9XG4nLmZvcm1hdCh6cCwgenMsIHpvcCwgem5vcCwgemNwcCwgemNwbnAsIHpwcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAodGFyZ2V0WzosIDosIDosIDFdIC0gb3V0cHV0WzosIDosIDosIDFdKSAqKiAyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgIyBwcmludCAncG9zaXRpb249e31cbnNpemU9e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ29ial9wcmVzZW50PXt9XG5ub29ial9wcmVzZW50e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ2NsYXNzX3ByZWRpY3Rpb25fcHJlc2VudD17fVxuY2xhc3NfcHJlZGljdGlvbl9ub3RfcHJlc2VudD17fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAncHJvYmFiaWxpdGllcz17fVxuJy5mb3JtYXQoenAsIHpzLCB6b3AsIHpub3AsIHpjcHAsIHpjcG5wLCB6cHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0YXJnZXRbOiwgOiwgOiwgM10gLSBvdXRwdXRbOiwgOiwgOiwgM10pICoqIDIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3BzID0gW3NlbGYucG9zaXRpb24sIHNlbGYuc2l6ZSwgc2VsZi5vYmpfcHJlc2VudCwgc2VsZi5ub29ial9wcmVzZW50LCBzZWxmLmNsYXNzX3ByZWRpY3Rpb25fcHJlc2VudCwgc2VsZi5jbGFzc19wcmVkaWN0aW9uX25vdF9wcmVzZW50LCBzZWxmLnByb2JhYmlsaXRpZXNdCiAgICAgICAgICAgIHNlbGYuc2Vzcy5ydW4ob3BzLCBmZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGYucmVkdWNlX21lYW4oc2VsZi5ub29ial9wcmVzZW50ICogKHRhcmdldFs6LCA6LCA6LCA0XSAtIG91dHB1dFs6LCA6LCA6LCA0XSkgKiogMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAodGFyZ2V0WzosIDosIDosIDFdIC0gb3V0cHV0WzosIDosIDosIDFdKSAqKiAyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0YXJnZXRbOiwgOiwgOiwgM10gLSBvdXRwdXRbOiwgOiwgOiwgM10pICoqIDIpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1258,10 +1258,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0aW9uX2RhdGEgPSBucC5yYW5kb20uY2hvaWNlKHNlbGYuZGF0YV9oYW5kbGVyLnZhbGlkYXRpb25fZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGYucmVkdWNlX21lYW4oc2VsZi5ub29ial9wcmVzZW50ICogKHRhcmdldFs6LCA6LCA6LCA0XSAtIG91dHB1dFs6LCA6LCA6LCA0XSkgKiogMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0X2RhdGEgPSBucC5yYW5kb20uY2hvaWNlKHNlbGYuZGF0YV9oYW5kbGVyLnRlc3RfZGF0YSkK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
@@ -1274,18 +1274,16 @@
       </register>
     </registers>
     <search>
-      <last-search>=</last-search>
+      <last-search>set_des</last-search>
       <last-offset />
-      <last-pattern>=</last-pattern>
+      <last-pattern>set_des</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>loss_loayer</entry>
-        <entry>minimize</entry>
         <entry>log'</entry>
         <entry>log_data</entry>
         <entry encoding="base64">PFwvYnI+</entry>
@@ -1304,6 +1302,8 @@
         <entry>validation</entry>
         <entry>xmin</entry>
         <entry>=</entry>
+        <entry>self</entry>
+        <entry>set_des</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
