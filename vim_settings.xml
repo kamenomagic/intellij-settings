@@ -591,12 +591,12 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520371977874">
-        <mark key="'" line="96" column="16" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="108" column="35" />
-        <mark key="." line="107" column="0" />
-        <mark key="^" line="111" column="57" />
+      <file name="$USER_HOME$/dev/python/yolo/yolo.py" timestamp="1520381438032">
+        <mark key="'" line="97" column="30" />
+        <mark key="[" line="111" column="63" />
+        <mark key="]" line="111" column="80" />
+        <mark key="." line="111" column="80" />
+        <mark key="^" line="111" column="80" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1520237216987">
         <mark key="'" line="9" column="28" />
@@ -1084,14 +1084,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="73" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="164" column="61" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="168" column="26" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="148" column="61" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="12" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="57" column="53" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="75" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="93" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="111" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1184,13 +1181,16 @@
       <jump line="109" column="30" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="127" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="96" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="93" column="30" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="95" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="97" column="30" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgICAgIGN1cnJlbnRfc3VtICs9IGxvc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1205,16 +1205,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>log_data</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmxvZ19kYXRhKGUsIHRyYWluX2xvc3MsIHZhbGlkYXRpb25fbG9zcywgdGVzdF9sb3NzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgICAgIGN1cnJlbnRfc3VtICs9IGxvc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1225,20 +1225,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgICAgIGN1cnJlbnRfc3VtICs9IGxvc3MK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICBjbGFzc19wcmVkaWN0aW9uX3ByZXNlbnQgPSB0Zi5yZWR1Y2VfbWVhbigKICAgICAgICAgICAgb2JqX3ByZXNlbnQgKiAodGFyZ2V0WzosIDosIDosIDRdIC0gb3V0cHV0WzosIDosIDosIDRdKSAqKiAyKQogICAgICAgIGNsYXNzX3ByZWRpY3Rpb25fbm90X3ByZXNlbnQgPSBZb2xvLmxhbWJkYV9ub29iaiAqIFwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGYucmVkdWNlX21lYW4oCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBub29ial9wcmVzZW50ICogKHRhcmdldFs6LCA6LCA6LCA0XSAtIG91dHB1dFs6LCA6LCA6LCA0XSkgKiogMik=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IyEgL3Vzci9iaW4vcHl0aG9uCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwb3NpdGlvbiA9IDAgaWYgdGYuaXNfbmFuKHBvc2l0aW9uKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNwb3RpZnlfZmVhdHVyZXNfc2l6ZSA9IE5vbmUK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxvc3MK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNwb3RpZnlfZmVhdHVyZXNfc2l6ZSA9IE5vbmUK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1258,33 +1258,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wcyA9IFtzZWxmLnBvc2l0aW9uLCBzZWxmLnNpemUsCiAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5vYmpfcHJlc2VudCwgc2VsZi5ub29ial9wcmVzZW50LAogICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY2xhc3NfcHJlZGljdGlvbl9wcmVzZW50LCBzZWxmLmNsYXNzX3ByZWRpY3Rpb25fbm90X3ByZXNlbnQsIHNlbGYucHJvYmFiaWxpdGllc10KICAgICAgICAgICAgICAgIHpwLCB6cywgem9wLCB6bm9wLCB6Y3BwLCB6Y3BucCwgenBzID0gc2VsZi5zZXNzLnJ1bihvcHMsIGZlZWRfZGljdD1mZWVkX2RpY3QpCiAgICAgICAgICAgICAgICAjIHByaW50ICdwb3NpdGlvbj17fVxuc2l6ZT17fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAnb2JqX3ByZXNlbnQ9e31cbm5vb2JqX3ByZXNlbnR7fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAnY2xhc3NfcHJlZGljdGlvbl9wcmVzZW50PXt9XG5jbGFzc19wcmVkaWN0aW9uX25vdF9wcmVzZW50PXt9XG4nIFwKICAgICAgICAgICAgICAgICMgICAgICdwcm9iYWJpbGl0aWVzPXt9XG4nLmZvcm1hdCh6cCwgenMsIHpvcCwgem5vcCwgemNwcCwgemNwbnAsIHpwcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IGxvc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgIyBwcmludCAncG9zaXRpb249e31cbnNpemU9e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ29ial9wcmVzZW50PXt9XG5ub29ial9wcmVzZW50e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ2NsYXNzX3ByZWRpY3Rpb25fcHJlc2VudD17fVxuY2xhc3NfcHJlZGljdGlvbl9ub3RfcHJlc2VudD17fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAncHJvYmFiaWxpdGllcz17fVxuJy5mb3JtYXQoenAsIHpzLCB6b3AsIHpub3AsIHpjcHAsIHpjcG5wLCB6cHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9wcyA9IFtzZWxmLnBvc2l0aW9uLCBzZWxmLnNpemUsCiAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5vYmpfcHJlc2VudCwgc2VsZi5ub29ial9wcmVzZW50LAogICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY2xhc3NfcHJlZGljdGlvbl9wcmVzZW50LCBzZWxmLmNsYXNzX3ByZWRpY3Rpb25fbm90X3ByZXNlbnQsIHNlbGYucHJvYmFiaWxpdGllc10KICAgICAgICAgICAgICAgIHpwLCB6cywgem9wLCB6bm9wLCB6Y3BwLCB6Y3BucCwgenBzID0gc2VsZi5zZXNzLnJ1bihvcHMsIGZlZWRfZGljdD1mZWVkX2RpY3QpCiAgICAgICAgICAgICAgICAjIHByaW50ICdwb3NpdGlvbj17fVxuc2l6ZT17fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAnb2JqX3ByZXNlbnQ9e31cbm5vb2JqX3ByZXNlbnR7fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAnY2xhc3NfcHJlZGljdGlvbl9wcmVzZW50PXt9XG5jbGFzc19wcmVkaWN0aW9uX25vdF9wcmVzZW50PXt9XG4nIFwKICAgICAgICAgICAgICAgICMgICAgICdwcm9iYWJpbGl0aWVzPXt9XG4nLmZvcm1hdCh6cCwgenMsIHpvcCwgem5vcCwgemNwcCwgemNwbnAsIHpwcykK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3BzID0gW3NlbGYucG9zaXRpb24sIHNlbGYuc2l6ZSwgc2VsZi5vYmpfcHJlc2VudCwgc2VsZi5ub29ial9wcmVzZW50LCBzZWxmLmNsYXNzX3ByZWRpY3Rpb25fcHJlc2VudCwgc2VsZi5jbGFzc19wcmVkaWN0aW9uX25vdF9wcmVzZW50LCBzZWxmLnByb2JhYmlsaXRpZXNdCiAgICAgICAgICAgIHNlbGYuc2Vzcy5ydW4ob3BzLCBmZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgIyBwcmludCAncG9zaXRpb249e31cbnNpemU9e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ29ial9wcmVzZW50PXt9XG5ub29ial9wcmVzZW50e31cbicgXAogICAgICAgICAgICAgICAgIyAgICAgJ2NsYXNzX3ByZWRpY3Rpb25fcHJlc2VudD17fVxuY2xhc3NfcHJlZGljdGlvbl9ub3RfcHJlc2VudD17fVxuJyBcCiAgICAgICAgICAgICAgICAjICAgICAncHJvYmFiaWxpdGllcz17fVxuJy5mb3JtYXQoenAsIHpzLCB6b3AsIHpub3AsIHpjcHAsIHpjcG5wLCB6cHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log_data</last-search>
+      <last-search>e</last-search>
       <last-offset />
-      <last-pattern>log_data</last-pattern>
+      <last-pattern>e</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tensor</entry>
         <entry>format_label</entry>
         <entry>loss</entry>
         <entry>loss_layer</entry>
@@ -1304,6 +1303,7 @@
         <entry>spotify_feature</entry>
         <entry>.000</entry>
         <entry>log_data</entry>
+        <entry>e</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
