@@ -349,7 +349,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520499542656">
+      <file name="/Python Console" timestamp="1520634843269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -852,12 +852,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1520454824674">
-        <mark key="'" line="66" column="40" />
-        <mark key="[" line="17" column="85" />
-        <mark key="]" line="17" column="103" />
-        <mark key="." line="17" column="103" />
-        <mark key="^" line="17" column="103" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1520635192221">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="85" column="32" />
+        <mark key="." line="85" column="32" />
+        <mark key="^" line="85" column="32" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518124688703">
         <mark key="'" line="1" column="18" />
@@ -1154,7 +1154,6 @@
       <jump line="18" column="27" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="52" column="48" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="64" column="23" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="91" column="8" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="128" column="33" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
@@ -1182,13 +1181,14 @@
       <jump line="183" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="164" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="191" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.astype(dtype=float)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1203,16 +1203,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>catch</text>
+        <text>.astype(dtype=float)</text>
       </register>
       <register name="/" type="4">
         <text>save_example</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBib3ggaW4gY2VsbDoK</text>
+      <register name="0" type="4">
+        <text>results[key]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1trZXldID0gMC4wIGlmIHN0cih2YWx1ZSkuaXNzcGFjZSgpIG9yIHZhbHVlID09ICcnIGVsc2UgdmFsdWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1224,19 +1224,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IG91dHB1dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1trZXldID0gMC4wIGlmIHN0cih2YWx1ZSkuaXNzcGFjZSgpIG9yIHZhbHVlID09ICcnIGVsc2UgdmFsdWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmRhdGFfaGFuZGxlci5kcmF3X2JveCh0cmFpbl9pbWFnZSwgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmRyYXdfb3V0cHV0X2ltYWdlKHRyYWluX2ltYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50IG91dHB1dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igcm93cyBpbiBvdXRwdXQ6CiAgICAgICAgICAgIGZvciBjb2x1bW5zIGluIHJvd3M6CiAgICAgICAgICAgICAgICBmb3IgYm94IGluIGNvbHVtbnM6CiAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmRhdGFfaGFuZGxlci5kcmF3X2JveCh0cmFpbl9pbWFnZSwgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmRyYXdfb3V0cHV0X2ltYWdlKHRyYWluX2ltYWdlKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1256,16 +1256,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kcmF3X2V4YW1wbGUob3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3Igcm93cyBpbiBvdXRwdXQ6CiAgICAgICAgICAgIGZvciBjb2x1bW5zIGluIHJvd3M6CiAgICAgICAgICAgICAgICBmb3IgYm94IGluIGNvbHVtbnM6CiAgICAgICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcG9zaXRpb24gKyBzaXplCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kcmF3X2V4YW1wbGUob3V0cHV0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1278,7 +1278,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
