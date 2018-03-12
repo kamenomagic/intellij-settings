@@ -597,7 +597,7 @@
         <mark key="." line="171" column="49" />
         <mark key="^" line="171" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1520237216987">
+      <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1520858578920">
         <mark key="'" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1515865171613">
@@ -857,6 +857,11 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/instrumenter/logger.py" timestamp="1520858636411">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518124688703">
         <mark key="'" line="1" column="18" />
         <mark key="[" line="1" column="64" />
@@ -904,6 +909,7 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/yeti/__init__.py" timestamp="1520858125888" />
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" timestamp="1518191264355">
         <mark key="'" line="29" column="10" />
         <mark key="[" line="28" column="0" />
@@ -931,6 +937,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/instrumenter/logger.c" timestamp="1520858688251" />
       <file name="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" timestamp="1514364431834">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="53" />
@@ -951,7 +958,7 @@
       <file name="/dummy.sql" timestamp="1517043204379">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520631662382">
+      <file name="/Dummy.txt" timestamp="1520858361514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" timestamp="1519694863052">
@@ -1186,7 +1193,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShhc3QsIEZpbGVBc3QpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1210,7 +1217,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShhc3QsIEZpbGVBc3QpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1222,19 +1229,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0ID0gc2VsZi5zZXNzLnJ1bihzZWxmLnRyYWluaW5nX2RlY29kZXIsIGZlZWRfZGljdD1mZWVkX2RpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHByZWRpY3RlZCwgZXhwZWN0ZWQgaW4gemlwKG91dHB1dCwgZmVhdHVyZSk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKHN0cihwcmVkaWN0ZWQpICsgIiwgIiArIHN0cihleHBlY3RlZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0ID0gc2VsZi5zZXNzLnJ1bihzZWxmLnRyYWluaW5nX2RlY29kZXIsIGZlZWRfZGljdD1mZWVkX2RpY3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHByZWRpY3RlZCwgZXhwZWN0ZWQgaW4gemlwKG91dHB1dCwgZmVhdHVyZSk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKHN0cihwcmVkaWN0ZWQpICsgIiwgIiArIHN0cihleHBlY3RlZCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgY291bnQgPT0gNToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9zcywgXyA9IHNlbGYuc2Vzcy5ydW4oW3NlbGYubG9zcywgc2VsZi50cmFpbl0sIGZlZWRfZGljdD1mZWVkX2RpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgY291bnQgPT0gNToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1254,7 +1261,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1trZXldID0gMC4wIGlmIHN0cih2YWx1ZSkuaXNzcGFjZSgpIG9yIHZhbHVlID09ICcnIGVsc2UgdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9zcywgXyA9IHNlbGYuc2Vzcy5ydW4oW3NlbGYubG9zcywgc2VsZi50cmFpbl0sIGZlZWRfZGljdD1mZWVkX2RpY3QpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1trZXldID0gMC4wIGlmIHN0cih2YWx1ZSkuaXNzcGFjZSgpIG9yIHZhbHVlID09ICcnIGVsc2UgdmFsdWUK</text>
@@ -1263,7 +1270,7 @@
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0c1trZXldID0gMC4wIGlmIHN0cih2YWx1ZSkuaXNzcGFjZSgpIG9yIHZhbHVlID09ICcnIGVsc2UgdmFsdWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1276,7 +1283,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
