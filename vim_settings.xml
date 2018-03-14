@@ -349,7 +349,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1520634843269">
+      <file name="/Python Console" timestamp="1521044310932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -856,11 +856,12 @@
         <mark key="." line="7" column="8" />
         <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1520973523138">
-        <mark key="[" line="79" column="73" />
-        <mark key="]" line="79" column="72" />
-        <mark key="." line="79" column="72" />
-        <mark key="^" line="79" column="72" />
+      <file name="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" timestamp="1521044443720">
+        <mark key="'" line="101" column="22" />
+        <mark key="[" line="64" column="42" />
+        <mark key="]" line="64" column="42" />
+        <mark key="." line="64" column="42" />
+        <mark key="^" line="64" column="42" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/logger.py" timestamp="1520859078667">
         <mark key="[" line="12" column="0" />
@@ -1099,11 +1100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="22" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="37" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="55" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="73" column="8" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="142" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="92" column="46" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="130" column="101" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1141,7 +1137,6 @@
       <jump line="57" column="8" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="18" column="27" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="37" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="52" column="48" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
@@ -1199,13 +1194,19 @@
       <jump line="115" column="50" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="121" column="50" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
       <jump line="127" column="50" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
+      <jump line="80" column="23" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="99" column="22" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>block</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAndHJhY2tfaHJlZicgaW4gZmVhdHVyZXM6Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1223,31 +1224,31 @@
         <text>block</text>
       </register>
       <register name="/" type="4">
-        <text>block\,</text>
+        <text>json</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBub2RlLmJsb2NrID0gc2VsZi5pbnN0cnVtZW50X29tcF9sb2cobm9kZS5ibG9jaywgJ29kZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAndHJhY2tfaHJlZicgaW4gZmVhdHVyZXM6Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBpZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgc2VsZi5zZXNzLnJ1bihzZWxmLmVuY29kZXIsIGZlZWRfZGljdD1mZWVkX2RpY3QpCiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50IHNlbGYuc2Vzcy5ydW4oc2VsZi50cmFpbmluZ19kZWNvZGVyLCBmZWVkX2RpY3Q9ZmVlZF9kaWN0KQogICAgICAgICAgICAgICAgICAgICAgICBwcmludAogICAgICAgICAgICAgICAgICAgICAgICBwcmludCBbZmVhdHVyZV0K</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X21heF9vcl9taW4oc2VsZiwgbWF4aW11bT1UcnVlKToKICAgICAgICB0cmFja3MgPSBNb25nb0NsaWVudCgpLmFsYmFydC50cmFja3MKICAgICAgICB0ZW1wbGF0ZSA9IHNlbGYuanNvbl90b19zcG90aWZ5X2ZlYXR1cmUodHJhY2tzLmZpbmRfb25lKCksIFRydWUpCiAgICAgICAgYWdncmVnYXRvciA9IHsnX2lkJzogTm9uZX0KICAgICAgICBmb3Iga2V5IGluIHRlbXBsYXRlOgogICAgICAgICAgICBhZ2dyZWdhdG9yW2tleS5zcGxpdCgnLicpWy0xXV0gPSB7JyRtYXgnIGlmIG1heGltdW0gZWxzZSAnJG1pbic6ICckJyArIGtleX0KICAgICAgICByZXN1bHRzID0gdHJhY2tzLmFnZ3JlZ2F0ZShbeyckZ3JvdXAnOiBhZ2dyZWdhdG9yfV0pLm5leHQoKQogICAgICAgIGRlbCByZXN1bHRzWydfaWQnXQogICAgICAgIHZhbHVlcyA9IFtdCiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gcmVzdWx0cy5pdGVyaXRlbXMoKToKICAgICAgICAgICAgcmVzdWx0c1trZXldID0gKDAuMCBpZiBsZW4odmFsdWUpID09IDAgZWxzZSB2YWx1ZVswXSkgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgbGlzdCkgZWxzZSB2YWx1ZQogICAgICAgICAgICByZXN1bHRzW2tleV0gPSAwLjAgaWYgc3RyKHJlc3VsdHNba2V5XSkuaXNzcGFjZSgpIG9yIHJlc3VsdHNba2V5XSA9PSAnJyBlbHNlIHJlc3VsdHNba2V5XQogICAgICAgIGZvciBrZXkgaW4gdGVtcGxhdGU6CiAgICAgICAgICAgIHZhbHVlcy5hcHBlbmQocmVzdWx0c1trZXkuc3BsaXQoJy4nKVstMV1dKQogICAgICAgIHJldHVybiB2YWx1ZXMKCiAgICBkZWYgZ2V0X21heF9hbmRfbWlucyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5nZXRfbWF4X29yX21pbihGYWxzZSksIHNlbGYuZ2V0X21heF9vcl9taW4oVHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShhc3QsIEZpbGVBc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1pbmltdW1zLCBzZWxmLm1heGltdW1zID0gc2VsZi5nZXRfbWF4X2FuZF9taW5zKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3V0cHV0ID0gc2VsZi5zZXNzLnJ1bihzZWxmLnRyYWluaW5nX2RlY29kZXIsIGZlZWRfZGljdD1mZWVkX2RpY3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1267,34 +1268,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHByZWRpY3RlZCwgZXhwZWN0ZWQgaW4gemlwKG91dHB1dCwgZmVhdHVyZSk6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzeXMuc3Rkb3V0LndyaXRlKHN0cihwcmVkaWN0ZWQpICsgIiwgIiArIHN0cihleHBlY3RlZCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQgc2VsZi5zZXNzLnJ1bihzZWxmLmVuY29kZXIsIGZlZWRfZGljdD1mZWVkX2RpY3QpCiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50CiAgICAgICAgICAgICAgICAgICAgICAgIHByaW50IHNlbGYuc2Vzcy5ydW4oc2VsZi50cmFpbmluZ19kZWNvZGVyLCBmZWVkX2RpY3Q9ZmVlZF9kaWN0KQogICAgICAgICAgICAgICAgICAgICAgICBwcmludAogICAgICAgICAgICAgICAgICAgICAgICBwcmludCBbZmVhdHVyZV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByaW50IAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShhc3QsIEZpbGVBc3QpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgY291bnQgPT0gNToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>block\,</last-search>
+      <last-search>json</last-search>
       <last-offset />
-      <last-pattern>block\,</last-pattern>
+      <last-pattern>json</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>validation</entry>
-        <entry>xmin</entry>
         <entry>=</entry>
         <entry>self</entry>
         <entry>set_des</entry>
@@ -1313,6 +1312,8 @@
         <entry>node.block\,</entry>
         <entry>loops</entry>
         <entry>block\,</entry>
+        <entry>href</entry>
+        <entry>json</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPFwvYnI+Lzxicj4vZw==</entry>
