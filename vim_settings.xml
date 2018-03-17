@@ -385,6 +385,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="51" column="78" />
       </file>
+      <file name="$USER_HOME$/dev/python/yolo/label.py" timestamp="1519861255497">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/ChromecastRequest.java" timestamp="1512843784307">
         <mark key="'" line="38" column="10" />
         <mark key="[" line="31" column="17" />
@@ -532,11 +537,12 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="22" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/hub/hub.go" timestamp="1521315115937">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity/hub/hub.go" timestamp="1521316227139">
+        <mark key="'" line="36" column="24" />
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task10.json" timestamp="1513162670294">
         <mark key="'" line="0" column="0" />
@@ -551,6 +557,13 @@
         <mark key="]" line="43" column="33" />
         <mark key="^" line="37" column="71" />
         <mark key="." line="43" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/hub.go" timestamp="1521317695365">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="^" line="40" column="8" />
+        <mark key="." line="40" column="8" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/sleep/AfternoonCoreAlarm.java" timestamp="1516635665062">
         <mark key="[" line="16" column="71" />
@@ -1002,7 +1015,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521307304262">
+      <file name="/Dummy.txt" timestamp="1521317176777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" timestamp="1519694863052">
@@ -1069,6 +1082,11 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/Dockerfile" timestamp="1521316333778">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511428155766">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="14" column="0" />
@@ -1103,11 +1121,12 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521314241580">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="5" column="17" />
+      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521317311716">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
         <mark key="[" line="2" column="12" />
@@ -1134,27 +1153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="4" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="97" column="20" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="83" column="24" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="32" column="29" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="33" column="33" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="11" column="18" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="10" column="18" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
-      <jump line="51" column="82" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="69" column="27" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="107" column="4" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="117" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="112" column="59" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="82" column="4" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="56" column="79" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="60" column="84" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="74" column="8" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="49" column="28" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="53" column="14" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="54" column="18" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="59" column="13" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="61" column="17" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="14" column="11" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="57" column="8" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
@@ -1232,15 +1230,36 @@
       <jump line="12" column="1" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
       <jump line="10" column="54" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="28" column="39" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="27" column="4" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="56" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="5" column="8" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="29" column="24" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
+      <jump line="11" column="6" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
+      <jump line="19" column="14" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="61" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="41" column="8" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="54" column="35" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="15" column="8" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="10" column="15" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
+      <jump line="0" column="2" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
+      <jump line="34" column="18" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="5" column="4" filename="$USER_HOME$/dev/synchronicity/hub.go" />
+      <jump line="35" column="6" filename="$USER_HOME$/dev/synchronicity/hub.go" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CWZtdC5QcmludCh5YW1sRmlsZSkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1255,34 +1274,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hub</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIGdvIGdldCAtZCAtdiAuCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIlZhbHVlOiAlI3ZcbiIsIGNvbmZpZy5yZWFjdG9ycykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CWZtdC5QcmludCh5YW1sRmlsZSkK</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CSJmbXQiCgkiZ29wa2cuaW4veWFtbC52MiIKCSJpby9pb3V0aWwiCgkibG9nIg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CXlhbWxGaWxlLCBlcnIgOj0gaW91dGlsLlJlYWRGaWxlKGZpbGVuYW1lKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I1JVTiBnbyBnZXQgZ29wa2cuaW4veWFtbC52Mgo=</text>
+        <text encoding="base64">CWZtdC5QcmludCgiSGVsbG8iKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgp2YXIgZGF0YSA9IGAKcmVhY3RvcnM6CgktIG9uZQoJLSB0d28KYAoKLy8gTm90ZTogc3RydWN0IGZpZWxkcyBtdXN0IGJlIHB1YmxpYyBpbiBvcmRlciBmb3IgdW5tYXJzaGFsIHRvCi8vIGNvcnJlY3RseSBwb3B1bGF0ZSB0aGUgZGF0YS4KdHlwZSBUIHN0cnVjdCB7CglBIHN0cmluZwoJQiBzdHJ1Y3QgewoJCVJlbmFtZWRDIGludCAgIGB5YW1sOiJjImAKCQlEICAgICAgICBbXWludCBgeWFtbDoiLGZsb3ciYAoJfQp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgYXBhY2hlOgojICAgIGltYWdlOiAnaHR0cGQ6YWxwaW5lJwojICAgIHBvcnRzOgojICAgICAgLSAnOTg3MTo4MCcKIyAgICB2b2x1bWVzOgojICAgICAgLSAuL2FwYWNoZS86L3Vzci9sb2NhbC9hcGFjaGUyL2h0ZG9jcy8K</text>
+        <text encoding="base64">CSJsb2ciCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1302,16 +1321,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW1lc3NhZ2UgOj0gci5VUkwuUGF0aAoJbWVzc2FnZSA9IHN0cmluZ3MuVHJpbVByZWZpeChtZXNzYWdlLCAiL2FwaSIpCgltZXNzYWdlID0gIkFwaSByZXF1ZXN0OiAiICsgbWVzc2FnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1lc3NhZ2UgOj0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1lc3NhZ2UgPQo=</text>
+        <text encoding="base64">cmVhY3RvcnM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
