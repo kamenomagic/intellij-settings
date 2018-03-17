@@ -537,6 +537,7 @@
         <mark key="^" line="22" column="54" />
         <mark key="." line="22" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/hub/hub.go" timestamp="1521311776778" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task10.json" timestamp="1513162670294">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="11" />
@@ -700,6 +701,13 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/hub/Dockerfile" timestamp="1521311906880">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" timestamp="1513580125545">
         <mark key="'" line="34" column="0" />
@@ -1089,11 +1097,11 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521310756227">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521312084128">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
         <mark key="[" line="2" column="12" />
@@ -1120,7 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="30" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="96" column="16" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="93" column="30" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
       <jump line="95" column="12" filename="$USER_HOME$/dev/python/yolo/yolo.py" />
@@ -1220,13 +1227,14 @@
       <jump line="55" column="12" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="62" column="26" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
+      <jump line="9" column="10" filename="$USER_HOME$/dev/synchronicity/hub/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgaHViOgojICAgIGJ1aWxkOiAuL2h1Yi8K</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc5ODcxOjgwJwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1241,35 +1249,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>ss</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmVlZF9kaWN0ID0ge3NlbGYueDogYmF0Y2h9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb3NzLCBfID0gc2VsZi5zZXNzLnJ1bihbc2VsZi5sb3NzLCBzZWxmLnRyYWluXSwgZmVlZF9kaWN0PWZlZWRfZGljdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRfc3VtICs9IGxvc3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhdGNoX2NvdW50ID0gMAogICAgICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc5ODcxOjgwJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgaHViOgojICAgIGJ1aWxkOiAuL2h1Yi8K</text>
+        <text encoding="base64">UlVOIGdvIGdldCAtZCAtdiAuLy4uLgpSVU4gZ28gaW5zdGFsbCAtdiAuLy4uLgoK</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
-      <register name="2" type="4">
-        <text>#  hub:
-#    build: ./hub/</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBodWI6CiAgICBidWlsZDogJwo=</text>
+        <text encoding="base64">Q09QWSAuIC9nbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiCg==</text>
+        <text encoding="base64">Q09QWSAuIC9nbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgaHViOgojICAgIGJ1aWxkOiAuL2h1Yi8K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1288,20 +1295,21 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZlYXR1cmUgPSBzZWxmLmpzb25fdG9fc3BvdGlmeV9mZWF0dXJlKHRyYWNrKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgZmVhdHVyZSBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+      <register name="7" type="4">
+        <text>#  hub:
+#    build: ./hub/</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICBodWI6CiAgICBidWlsZDogJwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1355,8 +1363,8 @@
         <entry>q</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
