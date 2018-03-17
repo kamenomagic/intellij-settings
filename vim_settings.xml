@@ -1089,11 +1089,11 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521309864572">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="6" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521310756227">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
         <mark key="[" line="2" column="12" />
@@ -1225,8 +1225,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ss</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgaHViOgojICAgIGJ1aWxkOiAuL2h1Yi8K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1250,25 +1250,26 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmVlZF9kaWN0ID0ge3NlbGYueDogYmF0Y2h9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb3NzLCBfID0gc2VsZi5zZXNzLnJ1bihbc2VsZi5sb3NzLCBzZWxmLnRyYWluXSwgZmVlZF9kaWN0PWZlZWRfZGljdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRfc3VtICs9IGxvc3MKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhdGNoX2NvdW50ID0gMAogICAgICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBodWI6CiAgICBidWlsZDogJwo=</text>
+        <text encoding="base64">IyAgaHViOgojICAgIGJ1aWxkOiAuL2h1Yi8K</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBiCg==</text>
+      <register name="2" type="4">
+        <text>#  hub:
+#    build: ./hub/</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgPSAwCg==</text>
+        <text encoding="base64">ICBodWI6CiAgICBidWlsZDogJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZlYXR1cmUgPSBzZWxmLmpzb25fdG9fc3BvdGlmeV9mZWF0dXJlKHRyYWNrKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgZmVhdHVyZSBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1288,19 +1289,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZlYXR1cmUgPSBzZWxmLmpzb25fdG9fc3BvdGlmeV9mZWF0dXJlKHRyYWNrKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgZmVhdHVyZSBpcyBOb25lOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYmF0Y2hfY291bnQgPSAwCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1353,9 +1354,9 @@
         <entry>j;w</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
