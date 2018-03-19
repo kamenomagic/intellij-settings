@@ -1194,12 +1194,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/events/app.py" timestamp="1521426336872">
+      <file name="$USER_HOME$/dev/synchronicity/events/app.py" timestamp="1521435329983">
         <mark key="'" line="14" column="12" />
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="78" />
-        <mark key="." line="24" column="78" />
-        <mark key="^" line="24" column="78" />
+        <mark key="[" line="24" column="44" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+        <mark key="^" line="24" column="57" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
@@ -1401,8 +1401,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc4ODg4OjgwJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1417,7 +1417,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
