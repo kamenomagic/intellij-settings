@@ -574,11 +574,11 @@
         <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521426728298">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="56" column="3" />
-        <mark key="]" line="57" column="1" />
-        <mark key="." line="57" column="1" />
-        <mark key="^" line="57" column="1" />
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="58" column="3" />
+        <mark key="]" line="59" column="1" />
+        <mark key="." line="59" column="1" />
+        <mark key="^" line="59" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1521423179439">
         <mark key="[" line="0" column="0" />
@@ -667,6 +667,12 @@
       </file>
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/resources/application.properties" timestamp="1521428308132">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1521403185691">
         <mark key="'" line="29" column="16" />
@@ -940,12 +946,12 @@
         <mark key="^" line="16" column="70" />
         <mark key="." line="16" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/events/reactors.yml" timestamp="1521426015745">
+      <file name="$USER_HOME$/dev/synchronicity/events/reactors.yml" timestamp="1521428294391">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/cesk/interpret.py" timestamp="1518477529429">
         <mark key="'" line="256" column="0" />
@@ -1269,12 +1275,12 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521426188173">
+      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521428317479">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="24" column="10" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="24" column="12" />
-        <mark key="." line="24" column="12" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
         <mark key="[" line="2" column="12" />
@@ -1396,8 +1402,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc4ODg4OjgwJwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1421,25 +1427,25 @@
         <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc4MDo4MCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvY2hyb21lY2FzdCIpCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc4ODg4OjgwJwo=</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIGxzCg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvY2hyb21lY2FzdCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
+        <text encoding="base64">UlVOIGxzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdsYXRlcycpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogJ2V2ZW50cycK</text>
+        <text encoding="base64">ICAgIHByaW50KCdsYXRlcycpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1459,16 +1465,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGxzCg==</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogJ2V2ZW50cycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGRvY2tlciAK</text>
+        <text encoding="base64">UlVOIGxzCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUREIC4uL2RvY2tlci1jb21wb3NlLnltbCAuCg==</text>
+        <text encoding="base64">UlVOIGRvY2tlciAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
