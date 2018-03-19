@@ -117,10 +117,11 @@
         <mark key="." line="54" column="45" />
         <mark key="^" line="54" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/Dockerfile" timestamp="1521419371681">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity/api/Dockerfile" timestamp="1521421562444">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="3" column="45" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/NightCoreStart.java" timestamp="1516336003268">
         <mark key="[" line="15" column="56" />
@@ -272,12 +273,12 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/build.gradle" timestamp="1521321224630">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity/build.gradle" timestamp="1521423888656">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="4" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="4" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521418899113">
         <mark key="[" line="13" column="29" />
@@ -310,6 +311,13 @@
         <mark key="]" line="171" column="21" />
         <mark key="^" line="171" column="21" />
         <mark key="." line="171" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" timestamp="1521419949426">
+        <mark key="'" line="11" column="46" />
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="66" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/partition_graph.py" timestamp="1518541530550">
         <mark key="'" line="38" column="0" />
@@ -441,6 +449,11 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/templates/spring/Dockerfile" timestamp="1521421074810">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
         <mark key="[" line="7" column="9" />
@@ -469,15 +482,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/build.gradle" timestamp="1521419350190">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity/spring.build.gradle" timestamp="1521413634101">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="^" line="14" column="18" />
+      <file name="$USER_HOME$/dev/synchronicity/api/build.gradle" timestamp="1521423899191">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
@@ -505,7 +513,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521323893728">
+      <file name="/Dummy.txt" timestamp="1521425744561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/image_auto_encoder.py" timestamp="1519694863052">
@@ -565,14 +573,14 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521418076169">
-        <mark key="'" line="59" column="2" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="19" column="27" />
+      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521426728298">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="56" column="3" />
+        <mark key="]" line="57" column="1" />
+        <mark key="." line="57" column="1" />
+        <mark key="^" line="57" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1521307309529">
+      <file name="/fragment.java" timestamp="1521423179439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1519839703976">
@@ -660,11 +668,6 @@
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/resources/application.properties" timestamp="1521418015489">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1521403185691">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="29" column="21" />
@@ -693,11 +696,10 @@
         <mark key="." line="37" column="32" />
         <mark key="^" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" timestamp="1521419342865">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="34" />
+      <file name="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" timestamp="1521423891580">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/polysleeper/polysleeper/settings.py" timestamp="1515854271022">
         <mark key="[" line="32" column="18" />
@@ -938,12 +940,12 @@
         <mark key="^" line="16" column="70" />
         <mark key="." line="16" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/events/reactors.yml" timestamp="1521338155008">
+      <file name="$USER_HOME$/dev/synchronicity/events/reactors.yml" timestamp="1521426015745">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/cesk/interpret.py" timestamp="1518477529429">
         <mark key="'" line="256" column="0" />
@@ -1021,10 +1023,12 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/events/Dockerfile" timestamp="1521337979488">
+      <file name="$USER_HOME$/dev/synchronicity/events/Dockerfile" timestamp="1521426079543">
+        <mark key="'" line="3" column="4" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="4" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1515572809230">
         <mark key="'" line="24" column="10" />
@@ -1038,6 +1042,10 @@
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/build.gradle" timestamp="1521419868588">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="62" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/hub/Dockerfile" timestamp="1521334285382">
         <mark key="'" line="5" column="10" />
@@ -1060,11 +1068,17 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromecast/Dockerfile" timestamp="1521412316978">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="33" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="4" column="33" />
+      <file name="$USER_HOME$/dev/synchronicity/chromecast/Dockerfile" timestamp="1521421575333">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/settings.gradle" timestamp="1521421606122">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/test.py" timestamp="1512884395740">
         <mark key="'" line="3" column="23" />
@@ -1174,11 +1188,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/events/app.py" timestamp="1521418382174">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="24" column="21" />
+      <file name="$USER_HOME$/dev/synchronicity/events/app.py" timestamp="1521426336872">
+        <mark key="'" line="14" column="12" />
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="78" />
+        <mark key="." line="24" column="78" />
+        <mark key="^" line="24" column="78" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
@@ -1254,12 +1269,12 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521419402816">
-        <mark key="'" line="2" column="5" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="24" column="29" />
+      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521426188173">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
       </file>
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
         <mark key="[" line="2" column="12" />
@@ -1276,45 +1291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="62" column="26" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/python/albumart/spotify_auto_encoder.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/dev/synchronicity/hub/Dockerfile" />
-      <jump line="12" column="1" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="10" column="54" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="27" column="4" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="5" column="8" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="29" column="24" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity/hub/hub.go" />
-      <jump line="11" column="6" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
-      <jump line="19" column="14" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="41" column="8" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="54" column="35" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="15" column="8" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="10" column="15" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
-      <jump line="0" column="2" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
-      <jump line="34" column="18" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="5" column="4" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="35" column="6" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="28" column="49" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="29" column="4" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="30" column="39" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="31" column="32" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/synchronicity/hub.go" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
-      <jump line="0" column="9" filename="$USER_HOME$/dev/synchronicity/Dockerfile" />
       <jump line="1" column="9" filename="$USER_HOME$/dev/synchronicity/Dockerfile" />
       <jump line="28" column="38" filename="$USER_HOME$/dev/synchronicity/events/events.py" />
       <jump line="19" column="2" filename="$USER_HOME$/dev/synchronicity/haproxy.cfg" />
@@ -1359,8 +1335,6 @@
       <jump line="59" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="109" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="37" column="18" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
-      <jump line="19" column="21" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="48" column="8" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="66" column="8" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
@@ -1376,13 +1350,54 @@
       <jump line="2" column="5" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
       <jump line="65" column="2" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="7" column="45" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" />
+      <jump line="27" column="61" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="28" column="16" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="29" column="66" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
+      <jump line="5" column="17" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
+      <jump line="3" column="4" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
+      <jump line="5" column="83" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
+      <jump line="27" column="61" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
+      <jump line="28" column="66" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
+      <jump line="11" column="46" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
+      <jump line="5" column="17" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="4" column="22" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="7" column="87" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="1" column="4" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="31" column="22" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="32" column="4" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="6" column="8" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
+      <jump line="14" column="12" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
+      <jump line="3" column="4" filename="$USER_HOME$/dev/synchronicity/events/Dockerfile" />
+      <jump line="21" column="12" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9zcHJpbmcuYnVpbGQuZ3JhZGxlOi9hcHAnCg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1397,34 +1412,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9zcHJpbmcuYnVpbGQuZ3JhZGxlOi9hcHAnCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc4MDo4MCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QURECg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvY2hyb21lY2FzdCIpCg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogJ0RvY2tlcmZpbGUtc3ByaW5nJwogICAgICBjb250ZXh0OiAnY2hyb21lY2FzdCcK</text>
+        <text encoding="base64">UlVOIGxzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZG9ja2VyZmlsZTogJ0RvY2tlcmZpbGUtc3ByaW5nJwogICAgICBjb250ZXh0OiAnYXBpJwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9Eb2NrZXJmaWxlLXB5dGhvbjovYXBwJwo=</text>
+        <text encoding="base64">ICAgIHByaW50IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9Eb2NrZXJmaWxlLXNwcmluZzovYXBwJwo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdsYXRlcycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9Eb2NrZXJmaWxlLXNwcmluZzovYXBwJwo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dDogJ2V2ZW50cycK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1444,25 +1459,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSAnLi9Eb2NrZXJmaWxlLXNwcmluZzovYXBwJwo=</text>
+        <text encoding="base64">UlVOIGxzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcGk6CiAgICBidWlsZDoKICAgICAgZG9ja2VyZmlsZTogJ0RvY2tlcmZpbGUtc3ByaW5nJwogICAgICBjb250ZXh0OiAnYXBpJwogICAgdm9sdW1lczoKICAgICAgLSAnLi9hcGkvc3JjL21haW4vcmVzb3VyY2VzL2FwcGxpY2F0aW9uLnByb3BlcnRpZXM6L2FwcC9zcmMvbWFpbi9yZXNvdXJjZXMvYXBwbGljYXRpb24ucHJvcGVydGllcycKCg==</text>
+        <text encoding="base64">UlVOIGRvY2tlciAK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29udGV4dDogJ2V2ZW50cycK</text>
+        <text encoding="base64">QUREIC4uL2RvY2tlci1jb21wb3NlLnltbCAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1476,7 +1491,6 @@
         <entry>.000</entry>
         <entry>log_data</entry>
         <entry>e</entry>
-        <entry>&quot;</entry>
         <entry>maximums</entry>
         <entry>and</entry>
         <entry>max</entry>
@@ -1490,9 +1504,9 @@
         <entry>json</entry>
         <entry>events</entry>
         <entry>log</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>Q</entry>
         <entry>kk;w</entry>
         <entry>w2</entry>
         <entry>ew</entry>
@@ -1506,10 +1520,11 @@
         <entry>w'w</entry>
         <entry>j;w</entry>
         <entry>e</entry>
-        <entry>noh</entry>
         <entry>kj;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
+        <entry>noh</entry>
+        <entry>w:</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
