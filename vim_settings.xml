@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1521413099692">
+      <file name="/a.dummy" timestamp="1521572533794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/data/zeo_data.py" timestamp="1518512434826">
@@ -197,6 +197,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" timestamp="1521417686952">
+        <mark key="'" line="7" column="45" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="49" column="29" />
       </file>
       <file name="$USER_HOME$/dev/python/fish/fish_locator_model.py" timestamp="1513279074372">
         <mark key="'" line="12" column="0" />
@@ -489,6 +494,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/python/speechRecognition/recognizer_trainer.py" timestamp="1521572583830">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="2" column="0" />
@@ -568,6 +579,11 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/python/speechRecognition/sound_handler.py" timestamp="1521572603115">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="48" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521426728298">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="58" column="3" />
@@ -598,6 +614,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="57" column="45" />
+      </file>
+      <file name="$USER_HOME$/dev/python/speechRecognition/test.py" timestamp="1521572602188">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="48" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/raw/raw_graph.py" timestamp="1518597883345">
         <mark key="[" line="13" column="27" />
@@ -763,6 +784,12 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/python/speechRecognition/train_recognizer.py" timestamp="1521572530881">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/zeoanalyzer" timestamp="1518517131186">
         <mark key="'" line="8" column="0" />
@@ -1276,8 +1303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="13" filename="$USER_HOME$/dev/synchronicity/haproxy.cfg" />
-      <jump line="14" column="9" filename="$USER_HOME$/dev/synchronicity/haproxy.cfg" />
       <jump line="17" column="11" filename="$USER_HOME$/dev/synchronicity/haproxy.cfg" />
       <jump line="21" column="28" filename="$USER_HOME$/dev/synchronicity/haproxy.cfg" />
       <jump line="22" column="27" filename="$USER_HOME$/dev/synchronicity/haproxy.cfg" />
@@ -1376,13 +1401,15 @@
       <jump line="7" column="18" filename="$USER_HOME$/dev/python/albumart/weather.py" />
       <jump line="4" column="10" filename="$USER_HOME$/dev/python/albumart/weather.py" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/python/speechRecognition/recognizer_trainer.py" />
+      <jump line="0" column="13" filename="$USER_HOME$/dev/python/speechRecognition/test.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHNvdW5kZmlsZSBhcyBzZgppbXBvcnQgbnVtcHkgYXMgbnAKCmRhdGEsIHNhbXBsZV9yYXRlID0gc2YucmVhZCgibGlicmlzcGVlY2gvZGV2LWNsZWFuLzg0LzEyMTEyMy84NC0xMjExMjMtMDAwMS5mbGFjIikKcHJpbnQoZGF0YS5zaGFwZSkKcHJpbnQoc2FtcGxlX3JhdGUpCnNmLndyaXRlKCJ0ZXN0LmZsYWMiLCBkYXRhLCBpbnQoc2FtcGxlX3JhdGUqLjUpKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1403,28 +1430,28 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X2JhY2tlbmQgcGFnZXMK</text>
+        <text encoding="base64">aW1wb3J0IHNvdW5kZmlsZSBhcyBzZgppbXBvcnQgbnVtcHkgYXMgbnAKCmRhdGEsIHNhbXBsZV9yYXRlID0gc2YucmVhZCgibGlicmlzcGVlY2gvZGV2LWNsZWFuLzg0LzEyMTEyMy84NC0xMjExMjMtMDAwMS5mbGFjIikKcHJpbnQoZGF0YS5zaGFwZSkKcHJpbnQoc2FtcGxlX3JhdGUpCnNmLndyaXRlKCJ0ZXN0LmZsYWMiLCBkYXRhLCBpbnQoc2FtcGxlX3JhdGUqLjUpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wbwo=</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBiaW5kIDo4MAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3ID0gb2JzZXJ2YXRpb24uZ2V0X3dlYXRoZXIoKQo=</text>
+        <text encoding="base64">ICBiaW5kIDo4MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3ID0gb2JzZXJ2YXRpb24uZ2V0X3dlYXRoZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHIodykpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh3LCBweW93bS53ZWJhcGkyNS53ZWF0aGVyLldlYXRoZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdHIodykpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1444,16 +1471,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3LmdldF93aW5kKCkKICAgICAgICB3LmdldF9odW1pZGl0eSgpCiAgICAgICAgdy5nZXRfdGVtcGVyYXR1cmUoJ2ZhaHJlbmhlaXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh3LCBweW93bS53ZWJhcGkyNS53ZWF0aGVyLldlYXRoZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMgU2VhcmNoIGN1cnJlbnQgd2VhdGhlciBvYnNlcnZhdGlvbnMgaW4gdGhlIHN1cnJvdW5kaW5ncyBvZgojIGxhdD0yMi41N1csIGxvbj00My4xMlMgKFJpbyBkZSBKYW5laXJvLCBCUikKb2JzZXJ2YXRpb25fbGlzdCA9IG93bS53ZWF0aGVyX2Fyb3VuZF9jb29yZHMoLTIyLjU3LCAtNDMuMTIpCg==</text>
+        <text encoding="base64">ICAgICAgICB3LmdldF93aW5kKCkKICAgICAgICB3LmdldF9odW1pZGl0eSgpCiAgICAgICAgdy5nZXRfdGVtcGVyYXR1cmUoJ2ZhaHJlbmhlaXQnKQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBXZWF0aGVyIGRldGFpbHMK</text>
+        <text encoding="base64">CiMgU2VhcmNoIGN1cnJlbnQgd2VhdGhlciBvYnNlcnZhdGlvbnMgaW4gdGhlIHN1cnJvdW5kaW5ncyBvZgojIGxhdD0yMi41N1csIGxvbj00My4xMlMgKFJpbyBkZSBKYW5laXJvLCBCUikKb2JzZXJ2YXRpb25fbGlzdCA9IG93bS53ZWF0aGVyX2Fyb3VuZF9jb29yZHMoLTIyLjU3LCAtNDMuMTIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
