@@ -670,12 +670,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1521403185691">
-        <mark key="'" line="29" column="16" />
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="28" column="8" />
+      <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1521562418439">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515748755833">
         <mark key="'" line="100" column="6" />
@@ -1302,7 +1302,6 @@
       <jump line="16" column="0" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
       <jump line="17" column="10" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
       <jump line="19" column="11" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
-      <jump line="27" column="1" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
       <jump line="28" column="27" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
       <jump line="29" column="16" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
       <jump line="18" column="49" filename="$USER_HOME$/dev/synchronicity/events/events.py" />
@@ -1376,13 +1375,14 @@
       <jump line="11" column="15" filename="$USER_HOME$/dev/python/albumart/weather.py" />
       <jump line="7" column="18" filename="$USER_HOME$/dev/python/albumart/weather.py" />
       <jump line="4" column="10" filename="$USER_HOME$/dev/python/albumart/weather.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3ID0gb2JzZXJ2YXRpb24uZ2V0X3dlYXRoZXIoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1403,28 +1403,28 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWcgaW1wb3J0ICoK</text>
+        <text encoding="base64">ICBkZWZhdWx0X2JhY2tlbmQgcGFnZXMK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3ID0gb2JzZXJ2YXRpb24uZ2V0X3dlYXRoZXIoKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBiaW5kIDo4MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHIodykpCg==</text>
+        <text encoding="base64">ICAgICAgICB3ID0gb2JzZXJ2YXRpb24uZ2V0X3dlYXRoZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh3LCBweW93bS53ZWJhcGkyNS53ZWF0aGVyLldlYXRoZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3LmdldF93aW5kKCkKICAgICAgICB3LmdldF9odW1pZGl0eSgpCiAgICAgICAgdy5nZXRfdGVtcGVyYXR1cmUoJ2ZhaHJlbmhlaXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzdHIodykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMgU2VhcmNoIGN1cnJlbnQgd2VhdGhlciBvYnNlcnZhdGlvbnMgaW4gdGhlIHN1cnJvdW5kaW5ncyBvZgojIGxhdD0yMi41N1csIGxvbj00My4xMlMgKFJpbyBkZSBKYW5laXJvLCBCUikKb2JzZXJ2YXRpb25fbGlzdCA9IG93bS53ZWF0aGVyX2Fyb3VuZF9jb29yZHMoLTIyLjU3LCAtNDMuMTIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh3LCBweW93bS53ZWJhcGkyNS53ZWF0aGVyLldlYXRoZXIpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1444,16 +1444,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBXZWF0aGVyIGRldGFpbHMK</text>
+        <text encoding="base64">ICAgICAgICB3LmdldF93aW5kKCkKICAgICAgICB3LmdldF9odW1pZGl0eSgpCiAgICAgICAgdy5nZXRfdGVtcGVyYXR1cmUoJ2ZhaHJlbmhlaXQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMgU2VhcmNoIGN1cnJlbnQgd2VhdGhlciBvYnNlcnZhdGlvbnMgaW4gdGhlIHN1cnJvdW5kaW5ncyBvZgojIGxhdD0yMi41N1csIGxvbj00My4xMlMgKFJpbyBkZSBKYW5laXJvLCBCUikKb2JzZXJ2YXRpb25fbGlzdCA9IG93bS53ZWF0aGVyX2Fyb3VuZF9jb29yZHMoLTIyLjU3LCAtNDMuMTIpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBzdGF0dXM9Q2xvdWRzPgo=</text>
+        <text encoding="base64">IyBXZWF0aGVyIGRldGFpbHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
