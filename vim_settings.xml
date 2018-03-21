@@ -293,9 +293,9 @@
         <mark key="^" line="34" column="16" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521600386252">
-        <mark key="[" line="26" column="55" />
-        <mark key="]" line="26" column="55" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521602081260">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="31" column="58" />
         <mark key="." line="26" column="55" />
         <mark key="^" line="26" column="94" />
       </file>
@@ -590,12 +590,12 @@
         <mark key="]" line="6" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521582250948">
+      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521602147111">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="7" />
+        <mark key="[" line="70" column="23" />
+        <mark key="]" line="70" column="26" />
+        <mark key="." line="70" column="26" />
+        <mark key="^" line="70" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1521591829009">
         <mark key="[" line="0" column="0" />
@@ -1422,7 +1422,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>request.getHeaderNames()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1437,34 +1437,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>request.getHeaderNames()</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0cy5wb3N0KGVuZHBvaW50LCBkYXRhPWRhdGEpIGlmIG1ldGhvZCA9PSAnUE9TVCcgZWxzZSByZXF1ZXN0cy5nZXQoZW5kcG9pbnQpCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXF1ZXN0LmdldEhlYWRlck5hbWVzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihzZXJ2aWNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcG9ydCA9IEludGVnZXIucGFyc2VJbnQoKTsK</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIHRoaXMuY2FzdFVybCh1cmwpOwogICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludCBwb3J0ID0gSW50ZWdlci5wYXJzZUludChTeXN0ZW0uZ2V0ZW52KHNlcnZpY2UudG9Mb3dlckNhc2UoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHl5YW1sCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcG9ydCA9IEludGVnZXIucGFyc2VJbnQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
+        <text encoding="base64">ICAgICAgICAgIGludCBwb3J0ID0gSW50ZWdlci5wYXJzZUludChTeXN0ZW0uZ2V0ZW52KHNlcnZpY2UudG9Mb3dlckNhc2UoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCdyZWFjdG9ycy55bWwnKSBhcyBjb25maWc6CiAgICByZWFjdG9ycyA9IHlhbWwubG9hZChjb25maWcpCg==</text>
+        <text encoding="base64">cHl5YW1sCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1484,16 +1484,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBvcy5nZXRlbnYocmVhY3RvcikKCg==</text>
+        <text encoding="base64">aW1wb3J0IHlhbWwK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGVudl9maWxlOgogICAgICAgIC0gJ3Jlc3BvbmRlcnMuZW52Jw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">d2l0aCBvcGVuKCdyZWFjdG9ycy55bWwnKSBhcyBjb25maWc6CiAgICByZWFjdG9ycyA9IHlhbWwubG9hZChjb25maWcpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlYWN0b3JzLmVudgo=</text>
+        <text encoding="base64">IyBvcy5nZXRlbnYocmVhY3RvcikKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
