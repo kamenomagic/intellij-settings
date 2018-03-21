@@ -287,11 +287,11 @@
         <mark key="^" line="34" column="16" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521418899113">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521594014069">
+        <mark key="[" line="20" column="74" />
+        <mark key="]" line="20" column="79" />
+        <mark key="^" line="20" column="79" />
+        <mark key="." line="20" column="79" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" timestamp="1518541081162">
         <mark key="'" line="8" column="25" />
@@ -526,7 +526,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521572255053">
+      <file name="/Dummy.txt" timestamp="1521591869831">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -591,7 +591,7 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1521423179439">
+      <file name="/fragment.java" timestamp="1521591829009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1521477714830">
@@ -1290,10 +1290,9 @@
         <mark key="^" line="25" column="12" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521575792568">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
         <mark key="[" line="2" column="12" />
@@ -1415,8 +1414,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgdHJhY2ViYWNrCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1431,34 +1430,36 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>observation</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHNvdW5kZmlsZSBhcyBzZgppbXBvcnQgbnVtcHkgYXMgbnAKCmRhdGEsIHNhbXBsZV9yYXRlID0gc2YucmVhZCgibGlicmlzcGVlY2gvZGV2LWNsZWFuLzg0LzEyMTEyMy84NC0xMjExMjMtMDAwMS5mbGFjIikKcHJpbnQoZGF0YS5zaGFwZSkKcHJpbnQoc2FtcGxlX3JhdGUpCnNmLndyaXRlKCJ0ZXN0LmZsYWMiLCBkYXRhLCBpbnQoc2FtcGxlX3JhdGUqLjUpKQo=</text>
+      <register name="0" type="4">
+        <text>HttpServletRequest request) {
+        String restOfTheUrl = (String) request.getAttribute(
+                HandlerMapping.PATH_WITHIN_HANDLER_MAPPING_ATTRIBUTE);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgdHJhY2ViYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyByZXF1ZXN0UGF0aCA9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZSArICI6ICIgKyByZXF1ZXN0UGF0aDsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsyXS50cmltKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiaW5kIDo4MAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGF0aC5jaGFycygpLnJlZHVjZSgwLCAoYSwgYykgLT4gYSArIChjID09ICckJyA/IDEgOiAwKSkgPiAxKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3ID0gb2JzZXJ2YXRpb24uZ2V0X3dlYXRoZXIoKQo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL3tpZH0vKioiKQogICAgcHVibGljIHZvaWQgZm9vKEBQYXRoVmFyaWFibGUoImlkIikgaW50IGlkLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIFN0cmluZyByZXN0T2ZUaGVVcmwgPSAoU3RyaW5nKSByZXF1ZXN0LmdldEF0dHJpYnV0ZSgKICAgICAgICAgICAgICAgIEhhbmRsZXJNYXBwaW5nLlBBVEhfV0lUSElOX0hBTkRMRVJfTUFQUElOR19BVFRSSUJVVEUpOwogICAgLi4uCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgdHJhY2ViYWNrCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1478,16 +1479,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdHIodykpCg==</text>
+        <text encoding="base64">aW1wbwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZSh3LCBweW93bS53ZWJhcGkyNS53ZWF0aGVyLldlYXRoZXIpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3LmdldF93aW5kKCkKICAgICAgICB3LmdldF9odW1pZGl0eSgpCiAgICAgICAgdy5nZXRfdGVtcGVyYXR1cmUoJ2ZhaHJlbmhlaXQnKQo=</text>
+        <text encoding="base64">ICBiaW5kIDo4MAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
