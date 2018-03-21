@@ -287,11 +287,11 @@
         <mark key="^" line="34" column="16" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521594014069">
-        <mark key="[" line="20" column="74" />
-        <mark key="]" line="20" column="79" />
-        <mark key="^" line="20" column="79" />
-        <mark key="." line="20" column="79" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521596500256">
+        <mark key="[" line="30" column="76" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="38" column="43" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" timestamp="1518541081162">
         <mark key="'" line="8" column="25" />
@@ -674,7 +674,6 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/python/albumart/requirements.txt" timestamp="1521477086432" />
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/raw/raw_collection.py" timestamp="1518598289674">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="30" column="17" />
@@ -1068,12 +1067,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/hub/Dockerfile" timestamp="1521334285382">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="5" column="7" />
+      <file name="$USER_HOME$/dev/synchronicity/hub/Dockerfile" timestamp="1521596428183">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/TaskService.java" timestamp="1513580125545">
         <mark key="'" line="34" column="0" />
@@ -1209,11 +1208,12 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/events/app.py" timestamp="1521575730849">
+      <file name="$USER_HOME$/dev/synchronicity/events/app.py" timestamp="1521595990286">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
@@ -1414,8 +1414,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UlVOIGNhdCBjZXJ0cy9sb2NhbGhvc3QucGVtCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1430,7 +1430,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>, method = {RequestMethod.POST, RequestMethod.GET}</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -1441,25 +1441,25 @@
                 HandlerMapping.PATH_WITHIN_HANDLER_MAPPING_ATTRIBUTE);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyByZXF1ZXN0UGF0aCA9Cg==</text>
+        <text encoding="base64">UlVOIGNhdCBjZXJ0cy9sb2NhbGhvc3QucGVtCg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZSArICI6ICIgKyByZXF1ZXN0UGF0aDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdC5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFsyXS50cmltKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGF0aC5jaGFycygpLnJlZHVjZSgwLCAoYSwgYykgLT4gYSArIChjID09ICckJyA/IDEgOiAwKSkgPiAxKSB7CgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL3tpZH0vKioiKQogICAgcHVibGljIHZvaWQgZm9vKEBQYXRoVmFyaWFibGUoImlkIikgaW50IGlkLCBIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewogICAgICAgIFN0cmluZyByZXN0T2ZUaGVVcmwgPSAoU3RyaW5nKSByZXF1ZXN0LmdldEF0dHJpYnV0ZSgKICAgICAgICAgICAgICAgIEhhbmRsZXJNYXBwaW5nLlBBVEhfV0lUSElOX0hBTkRMRVJfTUFQUElOR19BVFRSSUJVVEUpOwogICAgLi4uCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3QuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwppbXBvcnQgdHJhY2ViYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyByZXF1ZXN0UGF0aCA9Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1479,16 +1479,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wbwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VydmljZSArICI6ICIgKyByZXF1ZXN0UGF0aDsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBiaW5kICo6NDQzIHNzbCBjcnQgL3Vzci9sb2NhbC9ldGMvaGFwcm94eS9jZXJ0cy8KICByZWRpcmVjdCBzY2hlbWUgaHR0cHMgaWYgIXsgc3NsX2ZjIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFsyXS50cmltKCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiaW5kIDo4MAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGF0aC5jaGFycygpLnJlZHVjZSgwLCAoYSwgYykgLT4gYSArIChjID09ICckJyA/IDEgOiAwKSkgPiAxKSB7CgogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
