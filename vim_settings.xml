@@ -558,7 +558,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521686411234">
+      <file name="/Dummy.txt" timestamp="1521733789513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1507958683874">
@@ -570,12 +570,6 @@
         <mark key="]" line="90" column="85" />
         <mark key="^" line="90" column="85" />
         <mark key="." line="90" column="85" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity/wemo/build.gradle" timestamp="1521690575104">
-        <mark key="[" line="1" column="52" />
-        <mark key="]" line="1" column="44" />
-        <mark key="." line="1" column="44" />
-        <mark key="^" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/chromeExtension/manifest.json" timestamp="1521694443435">
         <mark key="[" line="4" column="16" />
@@ -1066,12 +1060,12 @@
         <mark key="." line="184" column="21" />
         <mark key="^" line="194" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1518591819102">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="33" />
-        <mark key="." line="37" column="15" />
-        <mark key="^" line="37" column="15" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1521733872462">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="23" column="8" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/__init__.py" timestamp="1518419735484">
         <mark key="[" line="0" column="52" />
@@ -1190,9 +1184,9 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1521629564601">
-        <mark key="'" line="36" column="9" />
-        <mark key="[" line="85" column="41" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1521733864878">
+        <mark key="'" line="34" column="2" />
+        <mark key="[" line="85" column="43" />
         <mark key="]" line="85" column="43" />
         <mark key="." line="85" column="43" />
         <mark key="^" line="85" column="43" />
@@ -1381,9 +1375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="46" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
-      <jump line="5" column="17" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="4" column="22" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
@@ -1481,13 +1472,16 @@
       <jump line="200" column="2" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
       <jump line="49" column="6" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="85" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="34" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5ieXRlZGVjbzpqYXZhY3YtcGxhdGZvcm06MS4zLjMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1502,34 +1496,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>Wemo</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>app.res</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKFdlbW8uY2xhc3MsIGFyZ3MpOwogIH0K</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7c2VydmVyLnJvb3R9IikKICBwcml2YXRlIFN0cmluZyByb290Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5ieXRlZGVjbzpqYXZhY3YtcGxhdGZvcm06MS4zLjMnCg==</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7c2VydmVyLnBvcnR9IikKICBwdWJsaWMgU3RyaW5nIHBvcnQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKCJSZXRyaWV2aW5nIHNuYXBzaG90IGZvciB3ZWJjYW0gIiArIHdlYmNhbS5nZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5ieXRlZGVjbzpqYXZhY3YtcGxhdGZvcm06MS4zLjMnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIldlYmNhbSBkaXNjb25uZWN0ZWQ6ICVzIiwgZXZlbnQuZ2V0V2ViY2FtKCkuZ2V0TmFtZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKCJSZXRyaWV2aW5nIHNuYXBzaG90IGZvciB3ZWJjYW0gIiArIHdlYmNhbS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIldlYmNhbSBjb25uZWN0ZWQ6ICVzIiwgZXZlbnQuZ2V0V2ViY2FtKCkuZ2V0TmFtZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIldlYmNhbSBkaXNjb25uZWN0ZWQ6ICVzIiwgZXZlbnQuZ2V0V2ViY2FtKCkuZ2V0TmFtZSgpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRm91bmQgdW5rbm93biB3ZWJjYW06ICIgKyBuYW1lKTsK</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIldlYmNhbSBjb25uZWN0ZWQ6ICVzIiwgZXZlbnQuZ2V0V2ViY2FtKCkuZ2V0TmFtZSgpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtIFwic2h1dHRlclwiOiAiICsgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRm91bmQgdW5rbm93biB3ZWJjYW06ICIgKyBuYW1lKTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1549,33 +1543,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtIFwiYmxhY2tcIjogIiArIG5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtIFwic2h1dHRlclwiOiAiICsgbmFtZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtOiAiICsgbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtIFwiYmxhY2tcIjogIiArIG5hbWUpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIk1vdGlvbiBkZXRlY3RlZCBvbiAlcyIsIHdlYmNhbU1vdGlvbkV2ZW50LmdldFdlYmNhbSgpLmdldE5hbWUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtOiAiICsgbmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>app.res</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>app.res</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log_data</entry>
         <entry>e</entry>
         <entry>maximums</entry>
         <entry>and</entry>
@@ -1595,6 +1588,7 @@
         <entry>keys</entry>
         <entry>xem</entry>
         <entry>log</entry>
+        <entry>app.res</entry>
       </history-search>
       <history-cmd>
         <entry>kk;w</entry>
