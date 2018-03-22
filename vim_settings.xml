@@ -146,6 +146,9 @@
         <mark key="." line="45" column="21" />
         <mark key="^" line="45" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/java/synchronicity/eyes/Eyes.java" timestamp="1521758514184">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1519552354388">
         <mark key="'" line="221" column="28" />
         <mark key="[" line="34" column="0" />
@@ -204,7 +207,7 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" timestamp="1521750178326">
+      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" timestamp="1521757975176">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="56" column="55" />
@@ -300,12 +303,12 @@
         <mark key="^" line="134" column="2" />
         <mark key="." line="134" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521690170923">
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521758616516">
         <mark key="'" line="38" column="39" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="52" />
-        <mark key="." line="31" column="52" />
-        <mark key="^" line="31" column="52" />
+        <mark key="[" line="42" column="57" />
+        <mark key="]" line="42" column="62" />
+        <mark key="." line="42" column="62" />
+        <mark key="^" line="42" column="62" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" timestamp="1518541081162">
         <mark key="'" line="8" column="25" />
@@ -1330,8 +1333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
-      <jump line="31" column="22" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
       <jump line="32" column="4" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
@@ -1430,13 +1431,15 @@
       <jump line="9" column="19" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
       <jump line="10" column="18" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
       <jump line="19" column="45" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/java/synchronicity/eyes/Eyes.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/java/synchronicity/eyes/Eyes.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>String</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1451,7 +1454,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>os</text>
@@ -1510,7 +1513,7 @@
         <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtOiAiICsgbmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1563,9 +1566,9 @@
         <entry>w:</entry>
         <entry>j;w</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>noh</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
