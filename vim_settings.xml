@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1521572533794">
+      <file name="/a.dummy" timestamp="1521695635872">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/data/zeo_data.py" timestamp="1518512434826">
@@ -96,6 +96,13 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" timestamp="1521696287410">
+        <mark key="'" line="49" column="6" />
+        <mark key="[" line="209" column="26" />
+        <mark key="]" line="209" column="31" />
+        <mark key="." line="209" column="31" />
+        <mark key="^" line="209" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/python/censor/transforms/do_while_to_goto.py" timestamp="1518132547547">
         <mark key="'" line="30" column="9" />
         <mark key="[" line="32" column="0" />
@@ -145,6 +152,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="263" column="55" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Wemo.java" timestamp="1521695855648">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task5.json" timestamp="1513162831651">
         <mark key="'" line="15" column="12" />
@@ -198,10 +209,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" timestamp="1521689919485">
+      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" timestamp="1521695707258">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="14" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="56" column="55" />
       </file>
       <file name="$USER_HOME$/dev/python/fish/fish_locator_model.py" timestamp="1513279074372">
         <mark key="'" line="12" column="0" />
@@ -285,12 +296,19 @@
         <mark key="." line="5" column="43" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/build.gradle" timestamp="1521423888656">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="4" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="34" column="4" />
+      <file name="$USER_HOME$/dev/synchronicity/build.gradle" timestamp="1521696111064">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="78" />
+        <mark key="^" line="35" column="16" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" timestamp="1521696279379">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="134" column="2" />
+        <mark key="^" line="134" column="2" />
+        <mark key="." line="134" column="2" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521690170923">
         <mark key="'" line="38" column="39" />
@@ -311,6 +329,13 @@
         <mark key="]" line="25" column="36" />
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/WebcamDriver.java" timestamp="1521695642676">
+        <mark key="'" line="9" column="34" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/events/requirements.txt" timestamp="1521599942574">
         <mark key="[" line="1" column="0" />
@@ -430,11 +455,6 @@
         <mark key="]" line="1" column="5" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity/reactors_and_responders.env" timestamp="1521690186882">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/MorningCoreAlarm.java" timestamp="1516335605260">
         <mark key="[" line="13" column="51" />
@@ -825,11 +845,6 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" timestamp="1521686253617">
-        <mark key="'" line="27" column="33" />
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="27" column="79" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task6.json" timestamp="1515663570459">
         <mark key="'" line="16" column="11" />
         <mark key="[" line="4" column="0" />
@@ -1100,10 +1115,10 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/build.gradle" timestamp="1521690565669">
+      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/build.gradle" timestamp="1521696143908">
         <mark key="'" line="51" column="31" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="52" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="91" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/hub/Dockerfile" timestamp="1521596428183">
         <mark key="'" line="4" column="10" />
@@ -1132,11 +1147,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/settings.gradle" timestamp="1521690299193">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="12" />
-        <mark key="." line="3" column="12" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/dev/synchronicity/settings.gradle" timestamp="1521695551955">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/test.py" timestamp="1512884395740">
         <mark key="'" line="3" column="23" />
@@ -1284,17 +1299,17 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/webcams/build.gradle" timestamp="1521696417316">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="71" />
+      </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule.java" timestamp="1516335392173">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="51" />
         <mark key="^" line="10" column="26" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity/wemo/src/main/resources/application.properties" timestamp="1521689918156">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-inverse.py" timestamp="1510881119078">
         <mark key="'" line="5" column="0" />
@@ -1337,12 +1352,12 @@
         <mark key="." line="28" column="6" />
         <mark key="^" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521690463747">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1521695728699">
+        <mark key="'" line="46" column="18" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="46" column="18" />
+        <mark key="^" line="46" column="18" />
+        <mark key="." line="46" column="18" />
         <mark key="o" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
@@ -1358,28 +1373,14 @@
         <mark key="." line="12" column="75" />
         <mark key="^" line="12" column="75" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/resources/application.properties" timestamp="1521695717013">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="102" column="2" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
-      <jump line="20" column="23" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Api.java" />
-      <jump line="52" column="12" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Api.java" />
-      <jump line="77" column="2" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Api.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Api.java" />
-      <jump line="13" column="8" filename="$USER_HOME$/dev/synchronicity/spring.build.gradle" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
-      <jump line="2" column="5" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
-      <jump line="65" column="2" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="7" column="45" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" />
-      <jump line="27" column="61" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
-      <jump line="28" column="16" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
-      <jump line="29" column="66" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
-      <jump line="5" column="17" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
-      <jump line="3" column="4" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
-      <jump line="5" column="83" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
-      <jump line="27" column="61" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
-      <jump line="28" column="66" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
       <jump line="11" column="46" filename="$USER_HOME$/dev/synchronicity/templates/spring/build.gradle" />
       <jump line="5" column="17" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
@@ -1460,13 +1461,33 @@
       <jump line="113" column="16" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
       <jump line="94" column="13" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
       <jump line="107" column="13" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="9" column="34" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/WebcamDriver.java" />
+      <jump line="41" column="13" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
+      <jump line="46" column="18" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
+      <jump line="28" column="10" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="45" column="15" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="114" column="4" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="125" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="151" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="157" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="165" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="170" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="200" column="2" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="49" column="6" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5ieXRlZGVjbzpqYXZhY3YtcGxhdGZvcm06MS4zLjMnCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1481,34 +1502,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Wemo</text>
       </register>
       <register name="/" type="4">
-        <text>xem</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">CiAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKFdlbW8uY2xhc3MsIGFyZ3MpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5ieXRlZGVjbzpqYXZhY3YtcGxhdGZvcm06MS4zLjMnCg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKCJSZXRyaWV2aW5nIHNuYXBzaG90IGZvciB3ZWJjYW0gIiArIHdlYmNhbS5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEltcG9zc2libGVNb2RpZmljYXRpb25FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICByZXR1cm4gCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIldlYmNhbSBkaXNjb25uZWN0ZWQ6ICVzIiwgZXZlbnQuZ2V0V2ViY2FtKCkuZ2V0TmFtZSgpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIldlYmNhbSBjb25uZWN0ZWQ6ICVzIiwgZXZlbnQuZ2V0V2ViY2FtKCkuZ2V0TmFtZSgpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEltcG9zc2libGVNb2RpZmljYXRpb25FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRm91bmQgdW5rbm93biB3ZWJjYW06ICIgKyBuYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtIFwic2h1dHRlclwiOiAiICsgbmFtZSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1528,29 +1549,29 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEltcG9zc2libGVNb2RpZmljYXRpb25FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICB0aHJvdyBuZXcgU3luY2hyb25pY2l0eUV4Y2VwdGlvbih0aGlzLmdldENsYXNzKCksIGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtIFwiYmxhY2tcIjogIiArIG5hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgbG9nLmluZm8oIlJlZ2lzdGVyZWQgd2ViY2FtOiAiICsgbmFtZSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIk1vdGlvbiBkZXRlY3RlZCBvbiAlcyIsIHdlYmNhbU1vdGlvbkV2ZW50LmdldFdlYmNhbSgpLmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>xem</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>xem</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1568,12 +1589,12 @@
         <entry>href</entry>
         <entry>json</entry>
         <entry>events</entry>
-        <entry>log</entry>
         <entry>&quot;</entry>
         <entry>body</entry>
         <entry>.tk</entry>
         <entry>keys</entry>
         <entry>xem</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>kk;w</entry>
@@ -1591,11 +1612,11 @@
         <entry>kj;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w:</entry>
-        <entry>noh</entry>
         <entry>j;w</entry>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry>noh</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
