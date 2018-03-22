@@ -292,11 +292,12 @@
         <mark key="^" line="34" column="16" />
         <mark key="." line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" timestamp="1521690677879">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="31" column="21" />
+      <file name="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" timestamp="1521691403130">
+        <mark key="'" line="109" column="13" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="109" column="13" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521690170923">
         <mark key="'" line="38" column="39" />
@@ -608,12 +609,12 @@
         <mark key="]" line="6" column="48" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521686246371">
+      <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1521691874388">
         <mark key="'" line="85" column="23" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="87" column="82" />
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/responders.env" timestamp="1521690189273">
         <mark key="[" line="0" column="0" />
@@ -1355,15 +1356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="63" filename="$USER_HOME$/dev/synchronicity/events/events.py" />
-      <jump line="42" column="2" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="37" column="18" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="66" column="8" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="102" column="2" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
@@ -1455,13 +1447,22 @@
       <jump line="13" column="17" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/chromecast/Wemo.java" />
       <jump line="51" column="31" filename="$USER_HOME$/dev/java/synchronicity-deprecated/build.gradle" />
       <jump line="31" column="37" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="102" column="88" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="118" column="4" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="103" column="0" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="92" column="2" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="79" column="6" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="56" column="12" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="113" column="16" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="94" column="13" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
+      <jump line="107" column="13" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>String value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1476,34 +1477,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>String value</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>xem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5qY2FiaS5pbmN1YmF0b3I6eGVtYmx5OjAuMjInIC8vIHhtbAo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldHMucHV0KERFRkFVTFQsICgpIC0+IGZvcm1hdChpc09uKCkpKTsKICAgIHBlcmZvcm1zLnB1dChERUZBVUxULCB0aGlzOjpzZXQpOwogICAgcGVyZm9ybXMucHV0KCJ0b2dnbGUiLCBpbnB1dCAtPiBmb3JtYXQodG9nZ2xlKGlucHV0KSkpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5bmNocm9uaWNpdHkuYXBwbGljYXRpb24uZXhjZXB0aW9uLlN5bmNocm9uaWNpdHlFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ3N1LmxpdHZhay5jaHJvbWVjYXN0OmFwaS12MjowLjEwLjEnCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEltcG9zc2libGVNb2RpZmljYXRpb25FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICByZXR1cm4gCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc5ODcxOjk4NzEnCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2hyb21lY2FzdD05ODczCg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEltcG9zc2libGVNb2RpZmljYXRpb25FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2Vtbz05ODc0Cg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1523,19 +1524,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2hyb21lY2FzdD05ODczCndlbW89OTg3NAo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEltcG9zc2libGVNb2RpZmljYXRpb25FeGNlcHRpb24gZSkgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICB0aHJvdyBuZXcgU3luY2hyb25pY2l0eUV4Y2VwdGlvbih0aGlzLmdldENsYXNzKCksIGUpOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3luY2hyb25pY2l0eV9jaHJvbWVjYXN0PTk4NzMKc3luY2hyb25pY2l0eV93ZW1vPTk4NzQK</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2hyb21lY2FzdC5kZWZhdWx0LmlkPUNDMUFEODQ1CmNocm9tZWNhc3QuZGFzaGNhc3QuaWQ9REVDQjBGRkQKY2hyb21lY2FzdC5kYXNoY2FzdC5uYW1lc3BhY2U9dXJuOngtY2FzdDplcy5vZmZkLmRhc2hjYXN0CmNocm9tZWNhc3QubmV0ZmxpeC5pZD1DQTVFODQxMgpjaHJvbWVjYXN0LmJhY2tkcm9wLmlkPUU4QzI4RDNDCmNocm9tZWNhc3QueW91dHViZS5pZD0yMzM2MzdERQo=</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1587,10 +1588,10 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w:</entry>
         <entry>noh</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry>j;w</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
