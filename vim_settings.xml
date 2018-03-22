@@ -96,8 +96,8 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" timestamp="1521696287410">
-        <mark key="'" line="49" column="6" />
+      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" timestamp="1521741869617">
+        <mark key="'" line="211" column="0" />
         <mark key="[" line="209" column="26" />
         <mark key="]" line="209" column="31" />
         <mark key="." line="209" column="31" />
@@ -1374,8 +1374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/build.gradle" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="4" column="22" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
       <jump line="7" column="87" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/synchronicity/build.gradle" />
@@ -1457,7 +1455,6 @@
       <jump line="28" column="10" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="45" column="15" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="114" column="4" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="84" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
@@ -1474,6 +1471,9 @@
       <jump line="85" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
       <jump line="34" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="209" column="29" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
