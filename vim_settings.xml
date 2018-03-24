@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1521868083807">
+      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1521869285002">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="64" column="32" />
-        <mark key="^" line="64" column="54" />
-        <mark key="." line="64" column="32" />
+        <mark key="[" line="63" column="33" />
+        <mark key="]" line="63" column="38" />
+        <mark key="^" line="63" column="38" />
+        <mark key="." line="63" column="38" />
       </file>
       <file name="/a.dummy" timestamp="1521695635872">
         <mark key="[" line="0" column="0" />
@@ -1500,7 +1500,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.getText()</text>
+        <text>TeamEvent</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1515,7 +1515,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.getText()</text>
+        <text>TeamEvent</text>
       </register>
       <register name="/" type="4">
         <text>respond</text>
