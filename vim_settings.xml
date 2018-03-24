@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1521864512019">
+      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1521866838263">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="50" />
-        <mark key="^" line="58" column="50" />
-        <mark key="." line="58" column="50" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="22" />
+        <mark key="^" line="70" column="22" />
+        <mark key="." line="70" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1521695635872">
         <mark key="[" line="0" column="0" />
@@ -526,6 +526,11 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
+      <file name="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/java/synchronicity/slack/SlackEvents.java" timestamp="1521865649223">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" timestamp="1518191264355">
         <mark key="'" line="29" column="10" />
         <mark key="[" line="28" column="0" />
@@ -570,7 +575,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521755018015">
+      <file name="/Dummy.txt" timestamp="1521865290522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -661,7 +666,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1521735667391">
+      <file name="/fragment.java" timestamp="1521865284932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1521477714830">
@@ -760,7 +765,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1521562418439">
+      <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1521866092480">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="33" column="2" />
         <mark key="]" line="33" column="3" />
@@ -1321,9 +1326,6 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/webcams/build.gradle" timestamp="1521696417316">
-        <mark key="^" line="1" column="71" />
-      </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule.java" timestamp="1516335392173">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="51" />
@@ -1510,7 +1512,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>slackBody</text>
+        <text>equals</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1525,34 +1527,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>slackBody</text>
+        <text>equals</text>
       </register>
       <register name="/" type="4">
         <text>respond</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbih0ZWFtRXZlbnQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEpTT05PYmplY3Qgc2xhY2tCb2R5ID0gbmV3IEpTT05PYmplY3QoKS5wdXQoInRleHQiLCBib2R5LmdldFN0cmluZygidGV4dCIpKTsK</text>
+        <text encoding="base64">ICAgIC8vIGRvCg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAQWNjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbih0ZWFtRXZlbnQudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRlYW1FdmVudC5nZXRDaGFsbGVuZ2UoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFRlYW1FdmVudC5FdmVudCBldmVudCA9IHRlYW1FdmVudC5nZXRFdmVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBY2Nlc3NFeGNlcHRpb24oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGJvb2xlYW4gc2hvdWxkUmVzcG9uZChUZWFtRXZlbnQgdGVhbUV2ZW50KSB7CiAgfQoK</text>
+        <text encoding="base64">ICAgIHJldHVybiAiIjsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1572,16 +1574,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRlYW1FdmVudC5FdmVudCBldmVudCA9IHRlYW1FdmVudC5nZXRFdmVudCgpOwogICAgcmV0dXJuICFPYmplY3RzLmlzTnVsbChldmVudC5nZXRVc2VyKCkpICYmIGV2ZW50LmdldENoYW5uZWwoKS5lcXVhbHMoY29udmVyc2F0aW9uQ2hhbm5lbElkKTsK</text>
+        <text encoding="base64">Ly8gICAgU3lzdGVtLmVyci5wcmludGxuKHRlYW1FdmVudC50b1N0cmluZygpKTsKLy8gICAgU3lzdGVtLmVyci5wcmludGxuKHRlYW1FdmVudC5nZXRUb2tlbigpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZWFtRXZlbnQuZ2V0Q2hhbGxlbmdlKCk7Cg==</text>
+        <text encoding="base64">ICAgIEpTT05PYmplY3Qgc2xhY2tCb2R5ID0gbmV3IEpTT05PYmplY3QoKS5wdXQoInRleHQiLCBib2R5LmdldFN0cmluZygidGV4dCIpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAUmVxdWVzdE1hcHBpbmcocGF0aCA9ICIvc2xhY2svZXZlbnRzIikKICBwdWJsaWMgU3RyaW5nIGV2ZW50KEBSZXF1ZXN0Qm9keSBUZWFtRXZlbnQgdGVhbUV2ZW50KSB7CiAgICAgIGlmICghc2xhY2sudmFsaWRUb2tlbih0ZWFtRXZlbnQuZ2V0VG9rZW4oKSkpIHsKICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbigpOwogICAgICB9IGVsc2UgaWYgKHNob3VsZFJlc3BvbmQodGVhbUV2ZW50KSkgewogICAgICAgIHJldHVybiB0ZWFtRXZlbnQuZ2V0RXZlbnQoKS5nZXRUZXh0KCk7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigpOwogICAgICB9CiAgfQoKICBwcml2YXRlIGJvb2xlYW4gc2hvdWxkUmVzcG9uZChUZWFtRXZlbnQgdGVhbUV2ZW50KSB7CiAgICBUZWFtRXZlbnQuRXZlbnQgZXZlbnQgPSB0ZWFtRXZlbnQuZ2V0RXZlbnQoKTsKICAgIHJldHVybiAhT2JqZWN0cy5pc051bGwoZXZlbnQuZ2V0VXNlcigpKSAmJiBldmVudC5nZXRDaGFubmVsKCkuZXF1YWxzKHNsYWNrLmNvbnZlcnNhdGlvbkNoYW5uZWxJZCk7CiAgfQo=</text>
+        <text encoding="base64">ICBAQWNjZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1636,9 +1638,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w:</entry>
         <entry>j;w</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
