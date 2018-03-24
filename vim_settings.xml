@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1521866838263">
+      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1521868083807">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="70" column="4" />
-        <mark key="]" line="70" column="22" />
-        <mark key="^" line="70" column="22" />
-        <mark key="." line="70" column="22" />
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="64" column="32" />
+        <mark key="^" line="64" column="54" />
+        <mark key="." line="64" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1521695635872">
         <mark key="[" line="0" column="0" />
@@ -542,12 +542,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/python/speechRecognition/recognizer_trainer.py" timestamp="1521572583830">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
@@ -1293,12 +1287,6 @@
         <mark key="^" line="16" column="62" />
         <mark key="." line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/events/app.py" timestamp="1521754938292">
-        <mark key="'" line="19" column="45" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="45" />
@@ -1512,7 +1500,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>equals</text>
+        <text>.getText()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1527,13 +1515,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>equals</text>
+        <text>.getText()</text>
       </register>
       <register name="/" type="4">
         <text>respond</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbih0ZWFtRXZlbnQuZ2V0RXZlbnQoKS5nZXRUZXh0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vIGRvCg==</text>
