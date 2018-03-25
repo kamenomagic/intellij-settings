@@ -316,12 +316,11 @@
         <mark key="^" line="134" column="2" />
         <mark key="." line="134" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521946030707">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521954826209">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" timestamp="1518541081162">
         <mark key="'" line="8" column="25" />
@@ -538,10 +537,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/build.gradle" timestamp="1521945156502">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="43" />
-        <mark key="." line="1" column="43" />
+      <file name="$USER_HOME$/dev/synchronicity/api/build.gradle" timestamp="1521954978953">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
@@ -569,7 +569,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521865290522">
+      <file name="/Dummy.txt" timestamp="1521951802648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -659,7 +659,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1521865284932">
+      <file name="/fragment.java" timestamp="1521946774427">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1521477714830">
@@ -752,11 +752,12 @@
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1521945040817">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="29" />
-        <mark key="^" line="2" column="29" />
-        <mark key="." line="2" column="29" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1521954131448">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="43" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="^" line="9" column="42" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/resources/application.properties" timestamp="1521428308132">
         <mark key="[" line="0" column="14" />
@@ -1399,12 +1400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="82" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="85" column="23" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="27" column="33" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AssetController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
       <jump line="38" column="39" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" />
@@ -1499,13 +1494,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="102" column="13" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
+      <jump line="16" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
+      <jump line="30" column="22" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5uZXRmbGl4Lnp1dWw6enV1bC1jb3JlOjIuMS4xJwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1520,34 +1521,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICc=</text>
+        <text>1.3.1</text>
       </register>
       <register name="/" type="4">
         <text>respond</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbih0ZWFtRXZlbnQuZ2V0RXZlbnQoKS5nZXRUZXh0KCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5uZXRmbGl4Lnp1dWw6enV1bC1uZXRmbGl4OjEuMy4xJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5uZXRmbGl4Lnp1dWw6enV1bC1jb3JlOjIuMS4xJwo=</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5uZXRmbGl4Lnp1dWw6enV1bC1jb3JlOjIuMS4xIgo=</text>
+        <text encoding="base64">QEVuYWJsZVp1dWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5uZXRmbGl4Lnp1dWw6enV1bC1uZXRmbGl4OjEuMy4xJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZVp1dWxQcm94eQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQubmV0ZmxpeC56dXVsLkVuYWJsZVp1dWxTZXJ2ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUoJ29yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQ6c3ByaW5nLWNsb3VkLXN0YXJ0ZXItenV1bCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgQXBpRmlsdGVyIGZpbHRlcigpIHsKICAgICAgcmV0dXJuIG5ldyBBcGlGaWx0ZXIoKTsKICAgIH0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1567,7 +1568,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBUaHJlYWQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXRmbGl4Lnp1dWwuWnV1bEZpbHRlcjsKaW1wb3J0IGNvbS5uZXRmbGl4Lnp1dWwuY29udGV4dC5SZXF1ZXN0Q29udGV4dDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1576,7 +1577,7 @@
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGRvCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBMb2dnZXIgbG9nID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoQXBpRmlsdGVyLmNsYXNzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
