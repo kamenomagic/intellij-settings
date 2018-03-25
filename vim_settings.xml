@@ -314,10 +314,12 @@
         <mark key="^" line="134" column="2" />
         <mark key="." line="134" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1522004946377">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1522012011675">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" timestamp="1518541081162">
         <mark key="'" line="8" column="25" />
@@ -431,6 +433,12 @@
         <mark key="]" line="14" column="35" />
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/resources/application.properties" timestamp="1522012585994">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="36" />
+        <mark key="^" line="1" column="40" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AllAssetController.java" timestamp="1517039772691">
         <mark key="[" line="30" column="0" />
@@ -751,12 +759,11 @@
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1522004415915">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="36" column="53" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="36" column="63" />
-        <mark key="." line="36" column="63" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1522012678163">
+        <mark key="[" line="38" column="90" />
+        <mark key="]" line="38" column="90" />
+        <mark key="^" line="38" column="90" />
+        <mark key="." line="38" column="90" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/resources/application.properties" timestamp="1521428308132">
         <mark key="[" line="0" column="14" />
@@ -1432,11 +1439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="12" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
-      <jump line="113" column="16" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
-      <jump line="94" column="13" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
-      <jump line="107" column="13" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
-      <jump line="9" column="34" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/WebcamDriver.java" />
       <jump line="41" column="13" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
       <jump line="46" column="18" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
       <jump line="28" column="10" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
@@ -1532,13 +1534,18 @@
       <jump line="32" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" />
       <jump line="30" column="15" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="11" column="38" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
+      <jump line="19" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
+      <jump line="14" column="15" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
+      <jump line="34" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/test</text>
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1553,34 +1560,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>/test</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>respond</text>
+        <text>context</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;/slack/test&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29udGV4dC5nZXRSZXF1ZXN0KCkuZ2V0UmVxdWVzdFVSTCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgenV1bFByb3BlcnRpZXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgenV1bEhhbmRsZXJNYXBwaW5nLgo=</text>
+        <text encoding="base64">ICAgICAgY29udGV4dC5nZXRSZXF1ZXN0KCkuZ2V0UmVxdWVzdFVSTCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgVXJpQ29tcG9uZW50c0J1aWxkZXIuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgVXJpQnVpbGRlci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgenV1bFByb3BlcnRpZXMuZ2V0SWdub3JlZFNlcnZpY2VzKCkK</text>
+        <text encoding="base64">ICAgICAgVVJJQnVpbGRlci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHp1dWxQcm9wZXJ0aWVzLmdldFJvdXRlcygpLmZvckVhY2goKGtleSwgcm91dGUpIC0+ICBTeXN0ZW0uZXJyLnByaW50bG4oa2V5ICsgcm91dGUuZ2V0TG9jYXRpb24oKSArIHJvdXRlLmdldFBhdGgoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgVVJMIHVybCA9IDsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1599,34 +1606,35 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>UriComponentsBuilder.fromUriString(&quot;localhost&quot;)
+              .port(9876)
+              .build().toUri().toURL()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJvdXRlKTsK</text>
+        <text encoding="base64">ICAgICAgUmVxdWVzdENvbnRleHQgY29udGV4dCA9IDsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZCBwcml2YXRlIFp1dWxTZXJ2bGV0IHp1dWxTZXJ2bGV0OwogICAgCiAgICBAQmVhbgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUm91dGVMb2NhdG9yIHJvdXRlTG9jYXRvcigpIHsKICAgICAgICByZXR1cm4gbmV3IFJvdXRlTG9jYXRvcih0aGlzLnp1LmdldFNlcnZsZXRQcmVmaXgoKSwgdGhpcy56dXVsUHJvcGVydGllcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFJlcXVlc3RDb250ZXh0IGNvbnRleHQgPSBSZXF1ZXN0Q29udGV4dC5nZXRDdXJyZW50Q29udGV4dCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>respond</last-search>
+      <last-search>context</last-search>
       <last-offset />
-      <last-pattern>respond</last-pattern>
+      <last-pattern>context</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>max</entry>
         <entry>save_example</entry>
         <entry>\'.*\'</entry>
         <entry>node.block</entry>
@@ -1646,6 +1654,7 @@
         <entry>json</entry>
         <entry>flatten</entry>
         <entry>respond</entry>
+        <entry>context</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
@@ -1665,8 +1674,8 @@
         <entry>noh</entry>
         <entry>kkk;w</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
