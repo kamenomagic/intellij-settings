@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1521869285002">
+      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1522004678849">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="33" />
-        <mark key="]" line="63" column="38" />
-        <mark key="^" line="63" column="38" />
-        <mark key="." line="63" column="38" />
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="27" />
+        <mark key="^" line="43" column="38" />
+        <mark key="." line="43" column="27" />
       </file>
       <file name="/a.dummy" timestamp="1521695635872">
         <mark key="[" line="0" column="0" />
@@ -314,11 +314,10 @@
         <mark key="^" line="134" column="2" />
         <mark key="." line="134" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1521954826209">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-        <mark key="^" line="6" column="16" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" timestamp="1522004946377">
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/totals_graph.py" timestamp="1518541081162">
         <mark key="'" line="8" column="25" />
@@ -567,7 +566,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521994736466">
+      <file name="/Dummy.txt" timestamp="1522001601401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -752,12 +751,12 @@
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1521996508374">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-        <mark key="^" line="29" column="34" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1522004415915">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="36" column="53" />
+        <mark key="]" line="36" column="63" />
+        <mark key="^" line="36" column="63" />
+        <mark key="." line="36" column="63" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/resources/application.properties" timestamp="1521428308132">
         <mark key="[" line="0" column="14" />
@@ -1307,6 +1306,13 @@
         <mark key="^" line="16" column="62" />
         <mark key="." line="16" column="62" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" timestamp="1522002749762">
+        <mark key="'" line="32" column="2" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="^" line="33" column="2" />
+        <mark key="." line="21" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="45" />
@@ -1426,10 +1432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="4" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
-      <jump line="103" column="0" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
-      <jump line="92" column="2" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
-      <jump line="79" column="6" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
       <jump line="56" column="12" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
       <jump line="113" column="16" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
       <jump line="94" column="13" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" />
@@ -1509,7 +1511,6 @@
       <jump line="102" column="13" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
       <jump line="16" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="30" column="22" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
@@ -1526,13 +1527,18 @@
       <jump line="32" column="0" filename="$USER_HOME$/dev/synchronicity/gs-routing-and-filtering/complete/gateway/build.gradle" />
       <jump line="30" column="44" filename="$USER_HOME$/dev/synchronicity/gs-routing-and-filtering/complete/gateway/build.gradle" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/synchronicity/wemo/build.gradle" />
+      <jump line="44" column="1" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" />
+      <jump line="19" column="14" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" />
+      <jump line="32" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" />
+      <jump line="30" column="15" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>/test</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1547,34 +1553,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>/test</text>
       </register>
       <register name="/" type="4">
         <text>respond</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKICAgICAgICBtYXZlbkNlbnRyYWwoKQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>&quot;/slack/test&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgenV1bFByb3BlcnRpZXMuCg==</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgIH0KICAgIGRlcGVuZGVuY2llcyB7Cg==</text>
+        <text encoding="base64">ICAgICAgenV1bEhhbmRsZXJNYXBwaW5nLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKE1hbGZvcm1lZFVSTEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgenV1bFByb3BlcnRpZXMuZ2V0SWdub3JlZFNlcnZpY2VzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgIH0K</text>
+        <text encoding="base64">ICAgIHp1dWxQcm9wZXJ0aWVzLmdldFJvdXRlcygpLmZvckVhY2goKGtleSwgcm91dGUpIC0+ICBTeXN0ZW0uZXJyLnByaW50bG4oa2V5ICsgcm91dGUuZ2V0TG9jYXRpb24oKSArIHJvdXRlLmdldFBhdGgoKSkpOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1594,16 +1600,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBib290SmFyIHsKICAgICAgICBiYXNlTmFtZSA9ICdhcHAnCiAgICAgICAgdmVyc2lvbiA9ICcxLjAnCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaW8uc3ByaW5nLmRlcGVuZGVuY3ktbWFuYWdlbWVudCcK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJvdXRlKTsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcGx5IHBsdWdpbjogJ2lvLnNwcmluZy5kZXBlbmRlbmN5LW1hbmFnZW1lbnQnCg==</text>
+        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZCBwcml2YXRlIFp1dWxTZXJ2bGV0IHp1dWxTZXJ2bGV0OwogICAgCiAgICBAQmVhbgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgUm91dGVMb2NhdG9yIHJvdXRlTG9jYXRvcigpIHsKICAgICAgICByZXR1cm4gbmV3IFJvdXRlTG9jYXRvcih0aGlzLnp1LmdldFNlcnZsZXRQcmVmaXgoKSwgdGhpcy56dXVsUHJvcGVydGllcyk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1659,8 +1665,8 @@
         <entry>noh</entry>
         <entry>kkk;w</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
