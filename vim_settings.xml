@@ -566,7 +566,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521951802648">
+      <file name="/Dummy.txt" timestamp="1521992273456">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1246,10 +1246,12 @@
         <mark key="." line="72" column="36" />
         <mark key="^" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" timestamp="1521988086012">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" timestamp="1521992071024">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="39" column="80" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518124688703">
         <mark key="'" line="1" column="18" />
@@ -1394,11 +1396,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/zuul-test/src/main/java/zuul/Main.java" timestamp="1521987898517">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="29" />
+      <file name="$USER_HOME$/dev/synchronicity/zuul-test/src/main/java/zuul/Main.java" timestamp="1521991717135">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/resources/application.properties" timestamp="1521695717013">
         <mark key="[" line="0" column="16" />
@@ -1408,12 +1410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="39" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" />
-      <jump line="59" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/resources/application.properties" />
-      <jump line="28" column="18" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
       <jump line="26" column="8" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
       <jump line="13" column="17" filename="$USER_HOME$/dev/synchronicity/wemo/src/main/java/chromecast/Wemo.java" />
@@ -1508,13 +1504,19 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
+      <jump line="18" column="26" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb21waWxlICdvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkOnNwcmluZy1jbG91ZC1zdGFydGVyLXp1dWw6MS40LjMuUkVMRUFTRScK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAib3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDpzcHJpbmctY2xvdWQtZGVwZW5kZW5jaWVzOkZpbmNobGV5Lk0zIgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1529,34 +1531,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>Api</text>
+        <text>SR5</text>
       </register>
       <register name="/" type="4">
         <text>respond</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5uZXRmbGl4Lnp1dWw6enV1bC1jb3JlOjIuMS4xIgovLyAgICBjb21waWxlICdvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkOnNwcmluZy1jbG91ZC1zdGFydGVyLXp1dWw6MS40LjMuUkVMRUFTRScKLy8gICAgY29tcGlsZSAnb3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDpzcHJpbmctY2xvdWQtbmV0ZmxpeC1jb3JlOjEuNC4zLlJFTEVBU0UnCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAib3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDpzcHJpbmctY2xvdWQtZGVwZW5kZW5jaWVzOkZpbmNobGV5Lk0zIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21waWxlICdvcmcuc3ByaW5nZnJhbWV3b3JrLmNsb3VkOnNwcmluZy1jbG91ZC1zdGFydGVyLXp1dWw6MS40LjMuUkVMRUFTRScK</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbkJvbSAib3JnLnNwcmluZ2ZyYW1ld29yay5jbG91ZDpzcHJpbmctY2xvdWQtZGVwZW5kZW5jaWVzOkZpbmNobGV5Lk0zIgo=</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZVp1dWxTZXJ2ZXIK</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnc3ByaW5nLWJvb3QnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuU3ByaW5nQXBwbGljYXRpb247CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QuYXV0b2NvbmZpZ3VyZS5TcHJpbmdCb290QXBwbGljYXRpb247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5uZXRmbGl4Lnp1dWw6enV1bC1jb3JlOjIuMS4xJwo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQ6c3ByaW5nLWNsb3VkLXN0YXJ0ZXItenV1bCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEVuYWJsZVp1dWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5uZXRmbGl4Lnp1dWw6enV1bC1uZXRmbGl4OjEuMy4xJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1576,16 +1578,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2xvdWQubmV0ZmxpeC56dXVsLkVuYWJsZVp1dWxTZXJ2ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgQXBpRmlsdGVyIGZpbHRlcigpIHsKICAgICAgcmV0dXJuIG5ldyBBcGlGaWx0ZXIoKTsKICAgIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1634,7 +1636,6 @@
         <entry>d ak;d ak;d ak;ad k;d a ;kd a; kad k; d a;k da ;k d a;k d a;kd ak; d a;k da;k d a;k dak;dak; d ak; da k;dak; d ;kda;k da ;kda k;ad;kda ;kda k;da k;da ;kd; ak;d a;k d;kd ;kad;kda ;k da; kda;k da;k da;k da;k da;k;</entry>
         <entry>s</entry>
         <entry>w'w</entry>
-        <entry>e</entry>
         <entry>kj;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w:</entry>
@@ -1643,6 +1644,7 @@
         <entry>wq</entry>
         <entry>kkk;w</entry>
         <entry>q</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
