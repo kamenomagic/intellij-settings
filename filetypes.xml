@@ -12,7 +12,6 @@
       <mapping pattern="Dockerfile-python" type="PLAIN_TEXT" />
       <mapping ext="ck" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
