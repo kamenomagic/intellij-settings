@@ -4,14 +4,12 @@
       <mapping pattern="1507188232052-9" type="Images" />
       <mapping pattern="1507188231414-5" type="Images" />
       <mapping pattern="1507188231941-7" type="Images" />
-      <removed_mapping ext="cfg" approved="true" type="Ini" />
       <mapping pattern="checkpoint" type="PLAIN_TEXT" />
       <mapping pattern="combinations" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="notes" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-python" type="PLAIN_TEXT" />
       <mapping ext="ck" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
