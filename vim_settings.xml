@@ -758,12 +758,12 @@
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1522025860944">
-        <mark key="'" line="63" column="60" />
-        <mark key="[" line="66" column="29" />
-        <mark key="]" line="66" column="29" />
-        <mark key="^" line="66" column="29" />
-        <mark key="." line="66" column="29" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1522027532117">
+        <mark key="'" line="66" column="60" />
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="44" />
+        <mark key="^" line="35" column="45" />
+        <mark key="." line="35" column="44" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/resources/application.properties" timestamp="1521428308132">
         <mark key="[" line="0" column="14" />
@@ -1544,8 +1544,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUGF0aCBwYXRoID0gOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1560,7 +1560,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
