@@ -6,8 +6,8 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1522023979668">
-        <mark key="'" line="58" column="4" />
+      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1522028962878">
+        <mark key="'" line="45" column="21" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -433,11 +433,11 @@
         <mark key="." line="14" column="35" />
         <mark key="^" line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/resources/application.properties" timestamp="1522012585994">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="40" />
-        <mark key="." line="1" column="36" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/resources/application.properties" timestamp="1522029166032">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/asset/AllAssetController.java" timestamp="1517039772691">
         <mark key="[" line="30" column="0" />
@@ -573,7 +573,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522025753244">
+      <file name="/Dummy.txt" timestamp="1522028747347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -758,12 +758,12 @@
       <file name="/Unnamed.txt.ft" timestamp="1510005504839">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1522027532117">
-        <mark key="'" line="66" column="60" />
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="35" column="45" />
-        <mark key="." line="35" column="44" />
+      <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" timestamp="1522029130458">
+        <mark key="'" line="82" column="6" />
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="42" />
+        <mark key="^" line="71" column="42" />
+        <mark key="." line="71" column="42" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/resources/application.properties" timestamp="1521428308132">
         <mark key="[" line="0" column="14" />
@@ -771,12 +771,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1522024044739">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="32" column="3" />
+      <file name="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" timestamp="1522029227561">
+        <mark key="'" line="29" column="19" />
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="2" />
+        <mark key="." line="29" column="2" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1515748755833">
         <mark key="'" line="100" column="6" />
@@ -1141,6 +1141,11 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/events/Dockerfile" timestamp="1522029194333">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1515572809230">
         <mark key="'" line="24" column="10" />
         <mark key="[" line="110" column="0" />
@@ -1439,26 +1444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
-      <jump line="34" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
-      <jump line="209" column="29" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
-      <jump line="211" column="0" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="28" column="25" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="36" column="13" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="3" column="7" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="8" column="29" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="9" column="19" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="10" column="18" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="19" column="45" filename="$USER_HOME$/dev/synchronicity/events/app.py" />
-      <jump line="143" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/src/main/java/synchronicity/eyes/Eyes.java" />
-      <jump line="23" column="19" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/resources/application.properties" />
-      <jump line="12" column="106" filename="$USER_HOME$/dev/synchronicity/slack/src/main/resources/application.properties" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/java/synchronicity-deprecated/build.gradle" />
-      <jump line="4" column="13" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="42" column="62" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
       <jump line="20" column="21" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
@@ -1494,7 +1479,6 @@
       <jump line="102" column="13" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
       <jump line="16" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
@@ -1518,7 +1502,6 @@
       <jump line="19" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
       <jump line="14" column="15" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="34" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="38" column="16" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="27" column="31" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="60" column="49" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
@@ -1527,7 +1510,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="65" column="29" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
-      <jump line="69" column="25" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="70" column="2" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="73" column="4" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="43" column="2" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
@@ -1539,6 +1521,29 @@
       <jump line="41" column="0" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
       <jump line="64" column="13" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="63" column="60" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="56" column="4" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="34" column="58" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="69" column="31" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="39" column="10" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="33" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="36" column="8" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="52" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="84" column="10" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="94" column="14" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="77" column="5" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="62" column="4" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="47" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="31" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="45" column="21" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
+      <jump line="82" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
+      <jump line="16" column="14" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
+      <jump line="28" column="33" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
+      <jump line="29" column="19" filename="$USER_HOME$/dev/synchronicity/hub/haproxy.cfg" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1563,31 +1568,31 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text>events</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHBhdGguc3VicGF0aCgxLCBwYXRoLmdldE5hbWVDb3VudCgpKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMuYXBpLnVybD1odHRwOi8vbG9jYWxob3N0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUGF0aCBwYXRoID0gOwo=</text>
+        <text encoding="base64">ICBhY2wgYXBpX3BhdGggcGF0aF9iZWcgL2FwaQo=</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBjb250ZXh0LnB1dCgicmVxdWVzdFVSSSIsICIvIiArIHBhdGguc3VicGF0aCgxLCBwYXRoLmdldE5hbWVDb3VudCgpKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">YmFja2VuZCBhcGkKICBzZXJ2ZXIgYXBpX3NlcnZlciBsb2NhbGhvc3Q6OTg3MQogIGFjbCBzeW5jaHJvbmljaXR5X2F1dGhlbnRpY2F0aW9uIGh0dHBfYXV0aChzeW5jaHJvbmljaXR5X3VzZXJzKQogIGh0dHAtcmVxdWVzdCBhdXRoIHJlYWxtIHN5bmNocm9uaWNpdHlfcmVhbG0gaWYgIXN5bmNocm9uaWNpdHlfYXV0aGVudGljYXRpb24KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHVybCk7Cg==</text>
+        <text encoding="base64">ICByZXFyZXAgXihbXlwgXSpcIC8pZXZlbnRzWy9dPyguKikgXDFcMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICBVUkwgdXJsID0gVXJpQ29tcG9uZW50c0J1aWxkZXIuZnJvbVVyaVN0cmluZygiaHR0cDovL2xvY2FsaG9zdDo5ODc2IikuYnVpbGQoKS50b1VyaSgpLnRvVVJMKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHNlcnZpY2UgPSBQYXRocy5nZXQocmVxdWVzdC5nZXRQYXRoKCkpLnN1YnBhdGgoMSwgMikudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucGF0aChwYXRoLnN1YnBhdGgoMSwgcGF0aC5nZXROYW1lQ291bnQoKSkudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2b2lkIGhhbmRsZUV2ZW50cyhSZXF1ZXN0Q29udGV4dCBjb250ZXh0LCBVUkkgcmVxdWVzdCkgewogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHBhdGguZ2V0TmFtZUNvdW50KCkpOwogICAgICBTeXN0ZW0uZXJyLnByaW50bG4ocGF0aC5zdWJwYXRoKDEsIHBhdGguZ2V0TmFtZUNvdW50KCkpLnRvU3RyaW5nKCkpOwogICAgICBTeXN0ZW0uZXJyLnByaW50bG4oc2VydmljZXMuZ2V0KHBhdGguc3VicGF0aCgxLCAyKS50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIE1hcDxTdHJpbmcsIEludGVnZXI+IGJvdGhTZXJ2aWNlcyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1607,39 +1612,37 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHNlcnZpY2VzLmdldChwYXRoLnN1YnBhdGgoMSwgcGF0aC5nZXROYW1lQ291bnQoKSkudG9TdHJpbmcoKSkpOwogICAgICBTeXN0ZW0uZXJyLnByaW50bG4oc2VydmljZXMuZ2V0KHBhdGguc3VicGF0aCgxLCBwYXRoLmdldE5hbWVDb3VudCgpKS50b1N0cmluZygpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvdGhTZXJ2aWNlcy5wdXQoa2V5LnNwbGl0KCJzeW5jaHJvbmljaXR5X2JvdGhfIilbMV0sIEludGVnZXIudmFsdWVPZih2YWx1ZSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAucG9ydCgpCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7CiAgICAgIFVSTCB1cmwgPSBVcmlDb21wb25lbnRzQnVpbGRlci5mcm9tVXJpU3RyaW5nKCJodHRwOi8vbG9jYWxob3N0IikKICAgICAgICAgICAgICAucG9ydChzZXJ2aWNlcy5nZXQoUGF0aHMuZ2V0KHJlcXVlc3QuZ2V0UGF0aCgpKS5zdWJwYXRoKDEsIDIpLnRvU3RyaW5nKCkpKQogICAgICAgICAgICAgIC5idWlsZCgpLnRvVXJpKCkudG9VUkwoKTsKICAgICAgY29udGV4dC5zZXRSb3V0ZUhvc3QodXJsKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLmVyci5wcmludGxuKHBhdGguc3VicGF0aCgxLCBwYXRoLmdldE5hbWVDb3VudCgpKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>path</last-search>
+      <last-search>events</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern>events</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\'.*\'</entry>
         <entry>node.block</entry>
         <entry>node.block\,</entry>
         <entry>loops</entry>
         <entry>block\,</entry>
         <entry>href</entry>
-        <entry>events</entry>
         <entry>&quot;</entry>
         <entry>body</entry>
         <entry>.tk</entry>
@@ -1653,6 +1656,8 @@
         <entry>respond</entry>
         <entry>context</entry>
         <entry>path</entry>
+        <entry>both</entry>
+        <entry>events</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
