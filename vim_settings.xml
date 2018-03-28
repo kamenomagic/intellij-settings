@@ -597,10 +597,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="12" column="106" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromeExtension/manifest.json" timestamp="1521694443435">
+      <file name="$USER_HOME$/dev/synchronicity/chromeExtension/manifest.json" timestamp="1522207206897">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" timestamp="1515866489000">
         <mark key="'" line="105" column="32" />
@@ -1308,11 +1309,11 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/chromeExtension/synchronicity.js" timestamp="1521694259735">
-        <mark key="[" line="16" column="56" />
-        <mark key="]" line="16" column="62" />
-        <mark key="^" line="16" column="62" />
-        <mark key="." line="16" column="62" />
+      <file name="$USER_HOME$/dev/synchronicity/chromeExtension/synchronicity.js" timestamp="1522207187148">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="52" />
+        <mark key="^" line="1" column="52" />
+        <mark key="." line="1" column="52" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" timestamp="1522002749762">
         <mark key="'" line="32" column="2" />
@@ -1613,7 +1614,7 @@
         <text encoding="base64">QEVuYWJsZVp1dWxQcm94eQpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1666,9 +1667,9 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
