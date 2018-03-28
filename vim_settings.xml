@@ -12,7 +12,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1522029513074">
+      <file name="/a.dummy" timestamp="1522198640907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/data/zeo_data.py" timestamp="1518512434826">
@@ -567,7 +567,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522170342858">
+      <file name="/Dummy.txt" timestamp="1522198549312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -652,12 +652,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" timestamp="1522176928305">
-        <mark key="'" line="43" column="10" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="105" column="7" />
+      <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" timestamp="1522198599554">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="130" column="32" />
+        <mark key="]" line="130" column="37" />
+        <mark key="." line="130" column="37" />
+        <mark key="^" line="130" column="37" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/responders.env" timestamp="1521690189273">
         <mark key="[" line="0" column="0" />
@@ -943,6 +943,12 @@
         <mark key="]" line="18" column="20" />
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" timestamp="1522198690715">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="123" column="3" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513875965280">
         <mark key="'" line="86" column="16" />
@@ -1432,19 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="13" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/SlackEvents.java" />
-      <jump line="18" column="38" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/SlackEvents.java" />
-      <jump line="29" column="23" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/SlackEvents.java" />
-      <jump line="40" column="24" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/SlackEvents.java" />
-      <jump line="17" column="16" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/SlackEvents.java" />
-      <jump line="15" column="2" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/SlackEvents.java" />
-      <jump line="48" column="53" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
-      <jump line="51" column="12" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
-      <jump line="10" column="13" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/SlackEvents.java" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/TeamEvent.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/TeamEvent.java" />
       <jump line="66" column="4" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="62" column="6" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
@@ -1532,13 +1525,26 @@
       <jump line="37" column="40" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" />
       <jump line="38" column="53" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" />
       <jump line="43" column="10" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" />
+      <jump line="108" column="10" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" />
+      <jump line="122" column="10" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="100" column="8" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="84" column="2" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="67" column="16" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="83" column="4" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIlVybDogIiArIHVybCk7Cg==</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyBmaWx0ZXJUeXBlKCkgewogICAgcmV0dXJuICJwcmUiOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGludCBmaWx0ZXJPcmRlcigpIHsKICAgIHJldHVybiA2OwogIH0K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1562,25 +1568,25 @@
         <text encoding="base64">ICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIlVybDogIiArIHVybCk7Cg==</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyBmaWx0ZXJUeXBlKCkgewogICAgcmV0dXJuICJwcmUiOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGludCBmaWx0ZXJPcmRlcigpIHsKICAgIHJldHVybiA2OwogIH0K</text>
       </register>
       <register name="q" type="4">
         <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyBmaWx0ZXJUeXBlKCkgewogICAgcmV0dXJuICJwcmUiOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGludCBmaWx0ZXJPcmRlcigpIHsKICAgIHJldHVybiA2OwogIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoUmVzdENsaWVudEV4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSB2b2lkIGhhbmRsZUFwaShSZXF1ZXN0Q29udGV4dCBjb250ZXh0LCBVUkkgdXJpKSB7CiAgICB0cnkgewogICAgICBVUkwgdXJsID0gVXJpQ29tcG9uZW50c0J1aWxkZXIuZnJvbVVyaVN0cmluZygiaHR0cDovL2xvY2FsaG9zdCIpCiAgICAgICAgICAgICAgLnBvcnQoYXBpU2VydmljZXMuZ2V0KFBhdGhzLmdldCh1cmkuZ2V0UGF0aCgpKS5zdWJwYXRoKDEsIDIpLnRvU3RyaW5nKCkpKQogICAgICAgICAgICAgIC5idWlsZCgpLnRvVXJpKCkudG9VUkwoKTsKICAgICAgY29udGV4dC5zZXRSb3V0ZUhvc3QodXJsKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgfQoKICBwcml2YXRlIHZvaWQgaGFuZGxlRXZlbnRzKFJlcXVlc3RDb250ZXh0IGNvbnRleHQsIFVSSSB1cmkpIHsKICAgIFBhdGggcGF0aCA9IFBhdGhzLmdldCh1cmkuZ2V0UGF0aCgpKTsKICAgIGV2ZW50U2VydmljZXMudmFsdWVzKCkuZm9yRWFjaChwb3J0IC0+IHsKICAgICAgdHJ5IHsKICAgICAgICBVUkkgdXJsID0gVXJpQ29tcG9uZW50c0J1aWxkZXIuZnJvbVVyaVN0cmluZygiaHR0cDovL2xvY2FsaG9zdCIpCiAgICAgICAgICAgICAgICAucGF0aChwYXRoLnN1YnBhdGgoMSwgcGF0aC5nZXROYW1lQ291bnQoKSkudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5wb3J0KHBvcnQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKS50b1VyaSgpOwogICAgICAgIElucHV0U3RyZWFtIGluID0gKElucHV0U3RyZWFtKSBjb250ZXh0LmdldCgicmVxdWVzdEVudGl0eSIpOwogICAgICAgIGlmIChpbiA9PSBudWxsKSB7CiAgICAgICAgICBpbiA9IGNvbnRleHQuZ2V0UmVxdWVzdCgpLmdldElucHV0U3RyZWFtKCk7CiAgICAgICAgfQogICAgICAgIFN0cmluZyBib2R5ID0gU3RyZWFtVXRpbHMuY29weVRvU3RyaW5nKGluLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpOwogICAgICAgIEh0dHBIZWFkZXJzIGhlYWRlcnMgPSBuZXcgSHR0cEhlYWRlcnMoKTsKICAgICAgICBjb250ZXh0LmdldFp1dWxSZXF1ZXN0SGVhZGVycygpLmZvckVhY2goKGtleSwgdmFsdWUpIC0+IGhlYWRlcnMucHV0KGtleSwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCh2YWx1ZSkpKTsKICAgICAgICBIdHRwRW50aXR5PFN0cmluZz4gaHR0cEVudGl0eSA9IG5ldyBIdHRwRW50aXR5PD4oYm9keSwgaGVhZGVycyk7CiAgICAgICAgcmVzdC5leGNoYW5nZSh1cmwsIEh0dHBNZXRob2QuR0VULCBodHRwRW50aXR5LCBTdHJpbmcuY2xhc3MpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgfSBjYXRjaCAoUmVzdENsaWVudEV4Y2VwdGlvbiBpZ25vcmVkKSB7CiAgICAgIH0KICAgIH0pOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIE9iamVjdCBydW4oKSB7CiAgICBSZXF1ZXN0Q29udGV4dCBjb250ZXh0ID0gUmVxdWVzdENvbnRleHQuZ2V0Q3VycmVudENvbnRleHQoKTsKICAgIFVSSSB1cmkgPSBVUkkuY3JlYXRlKGNvbnRleHQuZ2V0UmVxdWVzdCgpLmdldFJlcXVlc3RVUkkoKSk7CiAgICBTdHJpbmcgcm9vdFBhdGggPSBQYXRocy5nZXQodXJpLmdldFBhdGgoKSkuc3VicGF0aCgwLCAxKS50b1N0cmluZygpOwogICAgc3dpdGNoIChyb290UGF0aCkgewogICAgICBjYXNlICJhcGkiOgogICAgICAgIGhhbmRsZUFwaShjb250ZXh0LCB1cmkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICJldmVudHMiOgogICAgICBkZWZhdWx0OgogICAgICAgIGhhbmRsZUV2ZW50cyhjb250ZXh0LCB1cmkpOwogICAgICAgIGJyZWFrOwogICAgfQogICAgcmV0dXJuIG51bGw7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV2ZW50U2VydmljZXMudmFsdWVzKCkuZm9yRWFjaChTeXN0ZW0uZXJyOjpwcmludGxuKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oUm91dGVyLmNsYXNzLCBhcmdzKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV2ZW50U2VydmljZXMuZm9yRWFjaCgoc2VydmljZSwgcG9ydCkgLT4gU3lzdGVtLmVyci5wcmludGxuKHNlcnZpY2UgKyAiOiAiICsgcG9ydCkpOwo=</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">QEVuYWJsZVp1dWxQcm94eQpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1600,19 +1606,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYm9keSA9IGNvbnRleHQuZ2V0UmVxdWVzdCgpLmdldFJlYWRlcigpLmxpbmVzKCkuY29sbGVjdChDb2xsZWN0b3JzLmpvaW5pbmcoU3lzdGVtLmxpbmVTZXBhcmF0b3IoKSkpOwo=</text>
+        <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgUm91dGVyRmlsdGVyIHNpbXBsZUZpbHRlcigpIHsKICAgICAgcmV0dXJuIG5ldyBSb3V0ZXJGaWx0ZXIoKTsKICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIlVybDogIiArIHVybCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW1VdGlscy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1666,8 +1672,8 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
