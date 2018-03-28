@@ -55,12 +55,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" timestamp="1515663608360">
-        <mark key="'" line="43" column="93" />
-        <mark key="[" line="95" column="7" />
-        <mark key="]" line="95" column="6" />
-        <mark key="." line="95" column="6" />
-        <mark key="^" line="95" column="6" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" timestamp="1522236254937">
+        <mark key="'" line="102" column="6" />
+        <mark key="[" line="58" column="59" />
+        <mark key="]" line="58" column="61" />
+        <mark key="." line="58" column="61" />
+        <mark key="^" line="58" column="61" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/AssetService.java" timestamp="1517039622603">
         <mark key="'" line="136" column="32" />
@@ -1434,12 +1434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="6" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
-      <jump line="102" column="13" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="16" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/Api.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
@@ -1534,13 +1528,19 @@
       <jump line="128" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
       <jump line="48" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
+      <jump line="151" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
+      <jump line="56" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
+      <jump line="58" column="61" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
+      <jump line="74" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
+      <jump line="102" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.getChallenge()</text>
+        <text>&quot;(All)&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1555,13 +1555,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.getChallenge()</text>
+        <text>&quot;(All)&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PFwvYnI+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEVORElORyA9ICIoUGVuZGluZyBUYXNrcykiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1614,7 +1614,7 @@
         <text encoding="base64">QEVuYWJsZVp1dWxQcm94eQpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1665,11 +1665,11 @@
         <entry>j;w</entry>
         <entry>kkk;w</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
