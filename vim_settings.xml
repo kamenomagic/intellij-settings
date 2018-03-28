@@ -568,7 +568,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522235108185">
+      <file name="/Dummy.txt" timestamp="1522254235087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -896,7 +896,7 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521690083922">
+      <file name="/Python Console" timestamp="1522255709937">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1518684100336">
@@ -1080,6 +1080,12 @@
         <mark key="]" line="6" column="31" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/python/albumart/language.py" timestamp="1522255656612">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1513739164707">
         <mark key="'" line="313" column="28" />
@@ -1322,6 +1328,13 @@
         <mark key="^" line="33" column="2" />
         <mark key="." line="21" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/python/albumart/image_finder.py" timestamp="1522255625067">
+        <mark key="'" line="98" column="24" />
+        <mark key="[" line="17" column="50" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/RestoRatApplication.java" timestamp="1517043783940">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="20" column="45" />
@@ -1434,14 +1447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/api/build.gradle" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
-      <jump line="18" column="26" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/synchronicity/zuul-test/build.gradle" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/synchronicity/gs-routing-and-filtering/complete/gateway/build.gradle" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/synchronicity/gs-routing-and-filtering/complete/gateway/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/gs-routing-and-filtering/complete/gateway/build.gradle" />
@@ -1534,13 +1539,21 @@
       <jump line="58" column="61" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
       <jump line="74" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
       <jump line="102" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/python/albumart/language.py" />
+      <jump line="34" column="8" filename="$USER_HOME$/dev/python/albumart/image_finder.py" />
+      <jump line="37" column="12" filename="$USER_HOME$/dev/python/albumart/image_finder.py" />
+      <jump line="40" column="40" filename="$USER_HOME$/dev/python/albumart/image_finder.py" />
+      <jump line="39" column="18" filename="$USER_HOME$/dev/python/albumart/image_finder.py" />
+      <jump line="56" column="16" filename="$USER_HOME$/dev/python/albumart/image_finder.py" />
+      <jump line="90" column="13" filename="$USER_HOME$/dev/python/albumart/image_finder.py" />
+      <jump line="98" column="24" filename="$USER_HOME$/dev/python/albumart/image_finder.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;(All)&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGltaXQgaXMgbm90IE5vbmUgYW5kIGxlbihyZXN1bHQpID49IGxpbWl0OgogICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1555,34 +1568,39 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;(All)&quot;</text>
+        <text>, limit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">PFwvYnI+</text>
+        <text>actualImages</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUEVORElORyA9ICIoUGVuZGluZyBUYXNrcykiOwo=</text>
+      <register name="0" type="4">
+        <text>actual_images</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGltaXQgaXMgbm90IE5vbmUgYW5kIGxlbihyZXN1bHQpID49IGxpbWl0OgogICAgICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="q" type="4">
-        <text>Y5jpkkkfplye3jf'lvi'pyi'vi'guY0w</text>
+        <keys>
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0ZQo=</text>
+        <text encoding="base64">ICAgIFtdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbih0ZWFtRXZlbnQuZ2V0VG9rZW4oKSArICI6PyIgKyB2ZXJpZmljYXRpb25Ub2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZV90eXBlID0gcXVlcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyBmaWx0ZXJUeXBlKCkgewogICAgcmV0dXJuICJwcmUiOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGludCBmaWx0ZXJPcmRlcigpIHsKICAgIHJldHVybiA2OwogIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIFN0cmluZyBmaWx0ZXJUeXBlKCkgewogICAgcmV0dXJuICJwcmUiOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGludCBmaWx0ZXJPcmRlcigpIHsKICAgIHJldHVybiA2OwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Igbm91biBpbiBub3VuczoKICAgICAgICAgICAgaW1hZ2VzLmFwcGVuZChzZWxmLmdldF9pbWFnZXMobm91biwgMSlbMF0pCiAgICAgICAgcmV0dXJuIGltYWdlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSB2b2lkIGhhbmRsZUFwaShSZXF1ZXN0Q29udGV4dCBjb250ZXh0LCBVUkkgdXJpKSB7CiAgICB0cnkgewogICAgICBVUkwgdXJsID0gVXJpQ29tcG9uZW50c0J1aWxkZXIuZnJvbVVyaVN0cmluZygiaHR0cDovL2xvY2FsaG9zdCIpCiAgICAgICAgICAgICAgLnBvcnQoYXBpU2VydmljZXMuZ2V0KFBhdGhzLmdldCh1cmkuZ2V0UGF0aCgpKS5zdWJwYXRoKDEsIDIpLnRvU3RyaW5nKCkpKQogICAgICAgICAgICAgIC5idWlsZCgpLnRvVXJpKCkudG9VUkwoKTsKICAgICAgY29udGV4dC5zZXRSb3V0ZUhvc3QodXJsKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgfQoKICBwcml2YXRlIHZvaWQgaGFuZGxlRXZlbnRzKFJlcXVlc3RDb250ZXh0IGNvbnRleHQsIFVSSSB1cmkpIHsKICAgIFBhdGggcGF0aCA9IFBhdGhzLmdldCh1cmkuZ2V0UGF0aCgpKTsKICAgIGV2ZW50U2VydmljZXMudmFsdWVzKCkuZm9yRWFjaChwb3J0IC0+IHsKICAgICAgdHJ5IHsKICAgICAgICBVUkkgdXJsID0gVXJpQ29tcG9uZW50c0J1aWxkZXIuZnJvbVVyaVN0cmluZygiaHR0cDovL2xvY2FsaG9zdCIpCiAgICAgICAgICAgICAgICAucGF0aChwYXRoLnN1YnBhdGgoMSwgcGF0aC5nZXROYW1lQ291bnQoKSkudG9TdHJpbmcoKSkKICAgICAgICAgICAgICAgIC5wb3J0KHBvcnQpCiAgICAgICAgICAgICAgICAuYnVpbGQoKS50b1VyaSgpOwogICAgICAgIElucHV0U3RyZWFtIGluID0gKElucHV0U3RyZWFtKSBjb250ZXh0LmdldCgicmVxdWVzdEVudGl0eSIpOwogICAgICAgIGlmIChpbiA9PSBudWxsKSB7CiAgICAgICAgICBpbiA9IGNvbnRleHQuZ2V0UmVxdWVzdCgpLmdldElucHV0U3RyZWFtKCk7CiAgICAgICAgfQogICAgICAgIFN0cmluZyBib2R5ID0gU3RyZWFtVXRpbHMuY29weVRvU3RyaW5nKGluLCBDaGFyc2V0LmZvck5hbWUoIlVURi04IikpOwogICAgICAgIEh0dHBIZWFkZXJzIGhlYWRlcnMgPSBuZXcgSHR0cEhlYWRlcnMoKTsKICAgICAgICBjb250ZXh0LmdldFp1dWxSZXF1ZXN0SGVhZGVycygpLmZvckVhY2goKGtleSwgdmFsdWUpIC0+IGhlYWRlcnMucHV0KGtleSwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCh2YWx1ZSkpKTsKICAgICAgICBIdHRwRW50aXR5PFN0cmluZz4gaHR0cEVudGl0eSA9IG5ldyBIdHRwRW50aXR5PD4oYm9keSwgaGVhZGVycyk7CiAgICAgICAgcmVzdC5leGNoYW5nZSh1cmwsIEh0dHBNZXRob2QuR0VULCBodHRwRW50aXR5LCBTdHJpbmcuY2xhc3MpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgfSBjYXRjaCAoUmVzdENsaWVudEV4Y2VwdGlvbiBpZ25vcmVkKSB7CiAgICAgIH0KICAgIH0pOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIE9iamVjdCBydW4oKSB7CiAgICBSZXF1ZXN0Q29udGV4dCBjb250ZXh0ID0gUmVxdWVzdENvbnRleHQuZ2V0Q3VycmVudENvbnRleHQoKTsKICAgIFVSSSB1cmkgPSBVUkkuY3JlYXRlKGNvbnRleHQuZ2V0UmVxdWVzdCgpLmdldFJlcXVlc3RVUkkoKSk7CiAgICBTdHJpbmcgcm9vdFBhdGggPSBQYXRocy5nZXQodXJpLmdldFBhdGgoKSkuc3VicGF0aCgwLCAxKS50b1N0cmluZygpOwogICAgc3dpdGNoIChyb290UGF0aCkgewogICAgICBjYXNlICJhcGkiOgogICAgICAgIGhhbmRsZUFwaShjb250ZXh0LCB1cmkpOwogICAgICAgIGJyZWFrOwogICAgICBjYXNlICJldmVudHMiOgogICAgICBkZWZhdWx0OgogICAgICAgIGhhbmRsZUV2ZW50cyhjb250ZXh0LCB1cmkpOwogICAgICAgIGJyZWFrOwogICAgfQogICAgcmV0dXJuIG51bGw7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1602,33 +1620,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oUm91dGVyLmNsYXNzLCBhcmdzKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0ZQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEVuYWJsZVp1dWxQcm94eQpAU3ByaW5nQm9vdEFwcGxpY2F0aW9uCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbih0ZWFtRXZlbnQuZ2V0VG9rZW4oKSArICI6PyIgKyB2ZXJpZmljYXRpb25Ub2tlbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">PFwvYnI+</last-search>
+      <last-search>actualImages</last-search>
       <last-offset />
-      <last-pattern encoding="base64">PFwvYnI+</last-pattern>
+      <last-pattern>actualImages</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>href</entry>
         <entry>&quot;</entry>
         <entry>body</entry>
         <entry>.tk</entry>
@@ -1648,6 +1665,7 @@
         <entry>getHttpEn</entry>
         <entry>events</entry>
         <entry encoding="base64">PFwvYnI+</entry>
+        <entry>actualImages</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
@@ -1665,10 +1683,10 @@
         <entry>j;w</entry>
         <entry>kkk;w</entry>
         <entry>e</entry>
-        <entry>noh</entry>
         <entry>s</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
