@@ -6,8 +6,8 @@
       <file name="/start_script.py" timestamp="1507953361588">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1522028962878">
-        <mark key="'" line="45" column="21" />
+      <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1522199579436">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
@@ -1438,7 +1438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="4" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="62" column="6" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
       <jump line="102" column="13" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
@@ -1538,6 +1537,7 @@
       <jump line="114" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
       <jump line="128" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
