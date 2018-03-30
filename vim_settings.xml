@@ -80,8 +80,8 @@
         <mark key="." line="171" column="3" />
         <mark key="^" line="171" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" timestamp="1521862082395">
-        <mark key="'" line="213" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" timestamp="1522370352311">
+        <mark key="'" line="29" column="13" />
         <mark key="[" line="54" column="38" />
         <mark key="]" line="55" column="20" />
         <mark key="." line="55" column="20" />
@@ -731,12 +731,6 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" timestamp="1522198690715">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="123" column="3" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513875965280">
         <mark key="'" line="86" column="16" />
         <mark key="[" line="84" column="32" />
@@ -849,12 +843,6 @@
       </file>
       <file name="/user_component [Resto-Rat]" timestamp="1522323769246">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/python/albumart/language.py" timestamp="1522255656612">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1513739164707">
         <mark key="'" line="313" column="28" />
@@ -1117,7 +1105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="49" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="48" column="33" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="66" column="56" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
@@ -1217,6 +1204,7 @@
       <jump line="69" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="74" column="20" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="23" column="18" filename="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
