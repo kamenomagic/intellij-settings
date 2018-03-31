@@ -473,11 +473,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Collections/Asset5/Asset5.json" timestamp="1522515177522">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Collections/Asset5/Asset5.json" timestamp="1522518638859">
         <mark key="'" line="5" column="39" />
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/MorningCoreAlarm.java" timestamp="1516335605260">
         <mark key="[" line="13" column="51" />
@@ -550,6 +551,13 @@
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
         <mark key="." line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Collections/Asset5/History5.json" timestamp="1522518735527">
+        <mark key="'" line="2" column="1530" />
+        <mark key="[" line="4" column="688" />
+        <mark key="]" line="4" column="717" />
+        <mark key="^" line="4" column="49" />
+        <mark key="." line="4" column="688" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_graph_collection.py" timestamp="1518191264355">
         <mark key="'" line="29" column="10" />
@@ -802,12 +810,12 @@
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1522514707539">
-        <mark key="'" line="60" column="4" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="147" column="63" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1522518711532">
+        <mark key="'" line="77" column="38" />
+        <mark key="[" line="77" column="27" />
+        <mark key="]" line="77" column="49" />
+        <mark key="^" line="77" column="49" />
+        <mark key="." line="77" column="49" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" timestamp="1517042266984">
         <mark key="'" line="54" column="66" />
@@ -1311,7 +1319,7 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" timestamp="1522515956041">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" timestamp="1522518165215">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -1509,10 +1517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="14" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
-      <jump line="77" column="5" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="62" column="4" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="47" column="2" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
       <jump line="31" column="6" filename="$USER_HOME$/dev/synchronicity/api/src/main/java/api/ApiFilter.java" />
@@ -1600,7 +1604,6 @@
       <jump line="151" column="63" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="161" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="179" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
-      <jump line="60" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="5" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Collections/Asset5/Asset5.json" />
       <jump line="25" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
       <jump line="220" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
@@ -1609,13 +1612,18 @@
       <jump line="77" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
       <jump line="60" column="2" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
       <jump line="221" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Asset.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="4" column="48" filename="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Collections/Asset5/History5.json" />
+      <jump line="77" column="38" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
+      <jump line="2" column="1530" filename="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Collections/Asset5/History5.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
+      <register name="&quot;" type="4">
+        <text>Donald T Wilson Jr. very long</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1630,13 +1638,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>asset.getAssetHistory()</text>
       </register>
       <register name="/" type="4">
-        <text>assetSummary</text>
+        <text>mfg</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
+      <register name="0" type="4">
+        <text>Donald T Wilson Jr. very long</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
@@ -1659,10 +1667,10 @@
         <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYXNzZXRIaXN0b3J5IjogIlRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRoaXMgaXMgYSBsb25nIGhpc3Rvcnkgb2YgdGV4dCIK</text>
+        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIsCg==</text>
+        <text encoding="base64">ICAiYXNzZXRIaXN0b3J5IjogIlRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRUaGlzIGlzIGEgbG9uZyBoaXN0b3J5IG9mIHRleHRoaXMgaXMgYSBsb25nIGhpc3Rvcnkgb2YgdGV4dCIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1682,25 +1690,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5uZXh0Um93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydC5wcmludENlbGwoIkFzc2V0IFN0YXR1czoiKTsKICAgIHJlcG9ydC5wcmludENlbGxOZXdSb3coYXNzZXQuZ2V0QXNzZXRTdGF0dXMoKSAhPSBudWxsID8gYXNzZXQuZ2V0QXNzZXRTdGF0dXMoKS5nZXROYW1lKCkgOiAiIiwgcmVwb3J0LmNlbGxTdHlsZUJ1aWxkZXIoKS5ib2xkKCkuYnVpbGQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlcG9ydC5uZXh0Um93KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlcG9ydC5wcmludENlbGwoIkFzc2V0IFN0YXR1czoiKTsKICAgIHJlcG9ydC5wcmludENlbGxOZXdSb3coYXNzZXQuZ2V0QXNzZXRTdGF0dXMoKSAhPSBudWxsID8gYXNzZXQuZ2V0QXNzZXRTdGF0dXMoKS5nZXROYW1lKCkgOiAiIiwgcmVwb3J0LmNlbGxTdHlsZUJ1aWxkZXIoKS5ib2xkKCkuYnVpbGQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>assetSummary</last-search>
+      <last-search>mfg</last-search>
       <last-offset />
-      <last-pattern>assetSummary</last-pattern>
+      <last-pattern>mfg</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1708,7 +1716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>keys</entry>
         <entry>xem</entry>
         <entry>log</entry>
         <entry>app.res</entry>
@@ -1728,6 +1735,7 @@
         <entry>TITLE</entry>
         <entry>part</entry>
         <entry>assetSummary</entry>
+        <entry>mfg</entry>
       </history-search>
       <history-cmd>
         <entry>w2</entry>
@@ -1744,11 +1752,11 @@
         <entry>j;w</entry>
         <entry>kkk;w</entry>
         <entry>s</entry>
-        <entry>q</entry>
-        <entry>noh</entry>
         <entry>e</entry>
         <entry>2</entry>
         <entry>wq</entry>
+        <entry>q</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
