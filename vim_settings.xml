@@ -1030,12 +1030,8 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1522558486479">
-        <mark key="'" line="80" column="15" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="61" column="123" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" timestamp="1522560221467">
+        <mark key="'" line="64" column="21" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo_data.py" timestamp="1518515173654">
         <mark key="'" line="22" column="0" />
@@ -1133,7 +1129,7 @@
       <file name="/user_component [Resto-Rat]" timestamp="1522323769246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1522557252728">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" timestamp="1522560481158">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="111" column="60" />
         <mark key="]" line="111" column="59" />
@@ -1537,9 +1533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="84" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="152" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="168" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="264" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -1637,6 +1630,9 @@
       <jump line="75" column="132" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
       <jump line="80" column="101" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
       <jump line="82" column="15" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="65" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
+      <jump line="157" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
+      <jump line="64" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
