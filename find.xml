@@ -5,36 +5,15 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>C</mask>
-      <mask>Cont</mask>
-      <mask>Contro</mask>
-      <mask>Control</mask>
-      <mask>Controller</mask>
-      <mask>Controller.</mask>
-      <mask>Controller.ja</mask>
-      <mask>Controller.java</mask>
-      <mask>Controller.jav</mask>
-      <mask>*C</mask>
-      <mask>*Cont</mask>
-      <mask>*Contro</mask>
-      <mask>*Control</mask>
-      <mask>*Controller</mask>
-      <mask>*Controller.</mask>
-      <mask>*Controller.ja</mask>
-      <mask>*Controller.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.json</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.java" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
