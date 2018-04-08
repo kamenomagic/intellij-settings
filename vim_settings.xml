@@ -776,7 +776,12 @@
         <mark key="." line="65" column="21" />
         <mark key="^" line="65" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/Authentication.java" timestamp="1523184201830" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/Authentication.java" timestamp="1523185722169">
+        <mark key="[" line="48" column="34" />
+        <mark key="]" line="48" column="106" />
+        <mark key="^" line="48" column="106" />
+        <mark key="." line="48" column="106" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task4.json" timestamp="1522555873975">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="9" column="291" />
@@ -1505,7 +1510,6 @@
         <mark key="^" line="3" column="52" />
         <mark key="." line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/docker-compose.yml" timestamp="1522348086092" />
       <file name="$USER_HOME$/dev/python/yolo/data.py" timestamp="1519748436790">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="3" column="3" />
@@ -1723,7 +1727,7 @@
         <text encoding="base64">ICAgICAgICB3dwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1777,8 +1781,8 @@
         <entry>/newRow</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
