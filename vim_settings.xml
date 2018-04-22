@@ -203,10 +203,10 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/java/sandbox/src/Main.java" timestamp="1524408625274">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="$USER_HOME$/dev/java/sandbox/src/Main.java" timestamp="1524413683976">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
         <mark key="^" line="21" column="26" />
       </file>
       <file name="$USER_HOME$/dev/python/fish/loss_summer.py" timestamp="1512536784668">
@@ -618,6 +618,12 @@
         <mark key="]" line="4" column="17" />
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/java/sandbox/src/ExampleTestClass.java" timestamp="1524413741267">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" timestamp="1522327921952">
         <mark key="'" line="79" column="20" />
@@ -1565,7 +1571,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRyYW5jaGUuZ2V0TnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1580,7 +1586,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>tranche.getNumber()</text>
       </register>
       <register name="/" type="4">
         <text>newrow</text>
@@ -1589,7 +1595,7 @@
         <text encoding="base64">ICAgIGZvcihUcmFuY2hlIHRyYW5jaGU6IHRyYW5jaGVzKSB7CiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0cmFuY2hlLmdldE51bWJlcigpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRyYW5jaGUuZ2V0TnVtYmVyKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1600,19 +1606,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdHJhbmNoZS4K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8iKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zZXRJc3N1ZWRBdChuZXcgRGF0ZSgpKSBhbGxvd3MgZm9yIHVzZXJzIHRvIHN0YXkgbG9nZ2VkIGluIGJldHdlZW4gcnVucyBpZiB0aGlzIGlzIGNvbW1lbnRlZCBvdXQK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICBzZWNyZXRLZXkgPSBLZXlHZW5lcmF0b3IuZ2V0SW5zdGFuY2UoSEFTSElOR19BTEdPUklUSE0pLmdlbmVyYXRlS2V5KCk7CiAgICAgIH0gY2F0Y2ggKE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoU3lzdGVtLm91dCk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgIExpc3Q8VHJhbmNoZT4gdHJhbmNoZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGZvcihpbnQgaSA9IDA7IGkgPCA1OyBpKyspIHsKICAgICAgdHJhbmNoZXMuYWRkKG5ldyBUcmFuY2hlKGkgKiAyICsgMTApKTsKICAgIH0KICAgIGZvcihUcmFuY2hlIHRyYW5jaGU6IHRyYW5jaGVzKSB7CiAgICAgIHRyYW5jaGUubnVtYmVyICs9IDEwOwogICAgfQogICAgZm9yKFRyYW5jaGUgdHJhbmNoZTogdHJhbmNoZXMpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChtZXJnZUNvdW50ID4gMCkgewogICAgICBjZWxsSW5kZXggPSBtZXJnZVJhbmdlKHJvdy5nZXRSb3dOdW0oKSwgcm93LmdldFJvd051bSgpLCBjZWxsSW5kZXgsIGNlbGxJbmRleCArIG1lcmdlQ291bnQpIC0gMTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1632,16 +1638,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0LmNlbGxJCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNsYXNzIFRyYW5jaGVkZCAK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKCkgewogICAgICAgICAgbmVlZGVkcm93cysrOwogICAgICAgICAgY291bnRlciA9IDA7CiAgICAgICAgfQ==</text>
+        <text>{
+    private int number = 0;
+    public Tranche(int number) {
+      this.number = number;
+    }
+
+    public int getNumber() {
+      return number;
+    }
+  }</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVwb3J0LnByaW50Q2VsbHMoIlRlc3QxIiwgIlRlc3QyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRyYW5jaGUuZ2V0TnVtYmVyKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
