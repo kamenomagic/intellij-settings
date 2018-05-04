@@ -16,6 +16,10 @@
         <mark key="." line="63" column="45" />
         <mark key="^" line="63" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/MaintenanceActivity.java" timestamp="1525408188253">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="23" />
+      </file>
       <file name="/a.dummy" timestamp="1522198640907">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,6 +41,11 @@
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Time.java" timestamp="1525408196034">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/InvoiceReport.java" timestamp="1515662682017">
         <mark key="'" line="41" column="122" />
@@ -1262,6 +1271,11 @@
         <mark key="." line="14" column="57" />
         <mark key="^" line="14" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Part.java" timestamp="1525408210054">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task8.json" timestamp="1513162660269">
         <mark key="'" line="2" column="11" />
         <mark key="[" line="6" column="13" />
@@ -1431,11 +1445,11 @@
         <mark key="." line="135" column="38" />
         <mark key="^" line="135" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Invoice.java" timestamp="1513738327387">
-        <mark key="[" line="56" column="11" />
-        <mark key="]" line="56" column="11" />
-        <mark key="." line="56" column="11" />
-        <mark key="^" line="56" column="37" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/project/Invoice.java" timestamp="1525408191633">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="23" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="57" column="37" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/species_identifier.py" timestamp="1511428155766">
         <mark key="'" line="43" column="0" />
@@ -1602,8 +1616,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1624,7 +1638,7 @@
         <text>signature</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZpbGVnZWQ6IHRydWUK</text>
+        <text encoding="base64">ICBAQ29sdW1uKGxlbmd0aD0yMDAwMCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5ldyBUaW1lcigpLnNjaGVkdWxlKG5ldyBUaW1lclRhc2soKSB7CiAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICBkaXNjb3ZlcklwQ2FtcygpOwogICAgICB9CiAgICB9LCAwLCA2MCAqIDEwMDApOwo=</text>
@@ -1734,8 +1748,8 @@
         <entry>;</entry>
         <entry>/newRow</entry>
         <entry encoding="base64">IHc=</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
