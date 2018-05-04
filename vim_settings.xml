@@ -1285,11 +1285,11 @@
         <mark key="." line="87" column="27" />
         <mark key="^" line="87" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1525398237764">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1525407237863">
         <mark key="'" line="85" column="36" />
-        <mark key="[" line="85" column="43" />
-        <mark key="]" line="85" column="43" />
-        <mark key="." line="85" column="43" />
+        <mark key="[" line="85" column="44" />
+        <mark key="]" line="85" column="44" />
+        <mark key="." line="85" column="44" />
         <mark key="^" line="85" column="43" />
       </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510882849629">
@@ -1602,8 +1602,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyBUaW1lcigpLnNjaGVkdWxlKG5ldyBUaW1lclRhc2soKSB7CiAgICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICBkaXNjb3ZlcklwQ2FtcygpOwogICAgICB9CiAgICB9LCAwLCA2MCAqIDEwMDApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1618,7 +1618,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>signature</text>
