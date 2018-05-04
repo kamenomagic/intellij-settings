@@ -330,6 +330,12 @@
         <mark key="^" line="25" column="36" />
         <mark key="." line="25" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/User1.json" timestamp="1525398083812">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="24" column="4" />
+        <mark key="^" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/WebcamDriver.java" timestamp="1521695642676">
         <mark key="'" line="9" column="34" />
         <mark key="[" line="0" column="8" />
@@ -1161,8 +1167,8 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1521733872462">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1525398193200">
+        <mark key="'" line="101" column="11" />
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="8" />
         <mark key="." line="23" column="8" />
@@ -1279,8 +1285,8 @@
         <mark key="." line="87" column="27" />
         <mark key="^" line="87" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1521733864878">
-        <mark key="'" line="34" column="2" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" timestamp="1525398237764">
+        <mark key="'" line="85" column="36" />
         <mark key="[" line="85" column="43" />
         <mark key="]" line="85" column="43" />
         <mark key="." line="85" column="43" />
@@ -1491,10 +1497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="73" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
-      <jump line="84" column="56" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
-      <jump line="140" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="263" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="85" column="26" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="172" column="85" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -1591,6 +1593,10 @@
       <jump line="44" column="23" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="40" column="66" filename="$USER_HOME$/dev/bridge-talent-management/build.gradle" />
+      <jump line="102" column="37" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="101" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
+      <jump line="85" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1615,7 +1621,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ipCamNames</text>
+        <text>signature</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZpbGVnZWQ6IHRydWUK</text>
@@ -1680,9 +1686,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ipCamNames</last-search>
+      <last-search>signature</last-search>
       <last-offset />
-      <last-pattern>ipCamNames</last-pattern>
+      <last-pattern>signature</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1690,7 +1696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createRow</entry>
         <entry>setExistingRowHeight</entry>
         <entry>setExisting</entry>
         <entry>row</entry>
@@ -1710,6 +1715,7 @@
         <entry>newrow</entry>
         <entry>localhost</entry>
         <entry>ipCamNames</entry>
+        <entry>signature</entry>
       </history-search>
       <history-cmd>
         <entry>;q</entry>
@@ -1727,10 +1733,10 @@
         <entry>2</entry>
         <entry>;</entry>
         <entry>/newRow</entry>
-        <entry>q</entry>
-        <entry>noh</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
