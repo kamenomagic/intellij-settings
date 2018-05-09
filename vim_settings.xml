@@ -1241,6 +1241,9 @@
         <mark key="." line="60" column="33" />
         <mark key="^" line="60" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-ddl/script/init_db.sh" timestamp="1525442745114">
+        <mark key="'" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/core/SnakePart.java" timestamp="1514364431834">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="53" />
@@ -1491,7 +1494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="73" column="25" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="84" column="56" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="140" column="14" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -1591,6 +1593,7 @@
       <jump line="44" column="23" filename="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="40" column="66" filename="$USER_HOME$/dev/bridge-talent-management/build.gradle" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-ddl/script/init_db.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1676,7 +1679,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1727,11 +1730,11 @@
         <entry>2</entry>
         <entry>;</entry>
         <entry>/newRow</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
