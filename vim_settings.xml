@@ -419,12 +419,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/tictactoe/src/index.js" timestamp="1526056357667">
+      <file name="$USER_HOME$/dev/tictactoe/src/index.js" timestamp="1526057507568">
         <mark key="'" line="54" column="21" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="16" column="30" />
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="63" />
+        <mark key="." line="7" column="40" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1522555686405">
         <mark key="'" line="176" column="8" />
@@ -1607,7 +1607,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1622,7 +1622,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ipCamNames</text>
