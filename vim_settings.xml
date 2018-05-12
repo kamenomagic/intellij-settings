@@ -419,12 +419,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/tictactoe/src/index.js" timestamp="1526134847873">
-        <mark key="'" line="61" column="46" />
-        <mark key="[" line="59" column="28" />
-        <mark key="]" line="59" column="48" />
-        <mark key="." line="59" column="48" />
-        <mark key="^" line="59" column="48" />
+      <file name="$USER_HOME$/dev/tictactoe/src/index.js" timestamp="1526137572361">
+        <mark key="'" line="111" column="6" />
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+        <mark key="^" line="6" column="59" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1522555686405">
         <mark key="'" line="176" column="8" />
@@ -1501,10 +1501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="52" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="360" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="127" column="87" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
-      <jump line="128" column="136" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
       <jump line="133" column="87" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
       <jump line="97" column="84" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
       <jump line="101" column="84" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
@@ -1592,22 +1588,26 @@
       <jump line="65" column="12" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="53" column="17" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="73" column="4" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
-      <jump line="111" column="6" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="74" column="49" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="98" column="32" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="103" column="10" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="90" column="2" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
-      <jump line="60" column="51" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="94" column="4" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="59" column="6" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="61" column="46" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
+      <jump line="60" column="51" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
+      <jump line="67" column="8" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
+      <jump line="89" column="4" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
+      <jump line="111" column="6" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>history.length - 1</text>
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1622,10 +1622,10 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>history.length - 1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>x_</text>
+        <text>renderSquare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnQgPSBoaXN0b3J5W2hpc3RvcnkubGVuZ3RoIC0gMV07Cg==</text>
@@ -1690,9 +1690,9 @@
       </register>
     </registers>
     <search>
-      <last-search>x_</last-search>
+      <last-search>renderSquare</last-search>
       <last-offset />
-      <last-pattern>x_</last-pattern>
+      <last-pattern>renderSquare</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1700,7 +1700,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setExisting</entry>
         <entry>row</entry>
         <entry>setExist</entry>
         <entry>setHeight</entry>
@@ -1720,9 +1719,9 @@
         <entry>ipCamNames</entry>
         <entry>this</entry>
         <entry>x_</entry>
+        <entry>renderSquare</entry>
       </history-search>
       <history-cmd>
-        <entry>;q</entry>
         <entry>;w</entry>
         <entry>;wq</entry>
         <entry>d ak;d ak;d ak;ad k;d a ;kd a; kad k; d a;k da ;k d a;k d a;kd ak; d a;k da;k d a;k dak;dak; d ak; da k;dak; d ;kda;k da ;kda k;ad;kda ;kda k;da k;da ;kd; ak;d a;k d;kd ;kad;kda ;k da; kda;k da;k da;k da;k da;k;</entry>
@@ -1733,7 +1732,6 @@
         <entry>j;w</entry>
         <entry>kkk;w</entry>
         <entry>s</entry>
-        <entry>e</entry>
         <entry>2</entry>
         <entry>;</entry>
         <entry>/newRow</entry>
@@ -1741,6 +1739,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry>e</entry>
+        <entry>w[</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
