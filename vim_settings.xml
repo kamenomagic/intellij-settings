@@ -1265,6 +1265,9 @@
         <mark key="^" line="73" column="49" />
         <mark key="." line="73" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" timestamp="1526301299330">
+        <mark key="'" line="276" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/Dockerfile" timestamp="1521325167292">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="51" />
@@ -1501,7 +1504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="87" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" />
       <jump line="97" column="84" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
       <jump line="101" column="84" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TimeReport.java" />
       <jump line="339" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -1601,6 +1603,7 @@
       <jump line="67" column="8" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="89" column="4" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
       <jump line="111" column="6" filename="$USER_HOME$/dev/tictactoe/src/index.js" />
+      <jump line="276" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
