@@ -282,7 +282,7 @@
         <mark key="." line="20" column="39" />
         <mark key="^" line="20" column="39" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1510005483187">
+      <file name="/HTML File.txt.ft" timestamp="1526315386723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/UserType.java" timestamp="1516701339736">
@@ -438,6 +438,7 @@
         <mark key="." line="0" column="57" />
         <mark key="^" line="0" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/icon/alert.js" timestamp="1526315088152" />
       <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" timestamp="1522002749762">
         <mark key="'" line="32" column="2" />
         <mark key="[" line="21" column="10" />
@@ -807,6 +808,12 @@
         <mark key="]" line="10" column="15" />
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/flow-stubs/css-module.js" timestamp="1526315347191">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="48" />
+        <mark key="^" line="1" column="48" />
+        <mark key="." line="1" column="48" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/enums/SubscriptionProductId.java" timestamp="1517045539432">
         <mark key="'" line="21" column="0" />
@@ -1607,8 +1614,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8RXNzYXlGb3JtIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1623,7 +1630,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>renderSquare</text>
@@ -1687,7 +1694,7 @@
         <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIoKTsKICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIHNxdWFyZXM6IEFycmF5KDkpLmZpbGwobnVsbCksCiAgICAgIHhfdHVybjogdHJ1ZSwKICAgIH07CiAgfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -1723,7 +1730,6 @@
         <entry>renderSquare</entry>
       </history-search>
       <history-cmd>
-        <entry>;w</entry>
         <entry>;wq</entry>
         <entry>d ak;d ak;d ak;ad k;d a ;kd a; kad k; d a;k da ;k d a;k d a;kd ak; d a;k da;k d a;k dak;dak; d ak; da k;dak; d ;kda;k da ;kda k;ad;kda ;kda k;da k;da ;kd; ak;d a;k d;kd ;kad;kda ;k da; kda;k da;k da;k da;k da;k;</entry>
         <entry>w'w</entry>
@@ -1738,11 +1744,12 @@
         <entry>/newRow</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>e</entry>
         <entry>w[</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
