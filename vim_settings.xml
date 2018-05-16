@@ -841,12 +841,12 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1526471574892">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1526474889015">
         <mark key="'" line="152" column="59" />
-        <mark key="[" line="152" column="47" />
-        <mark key="]" line="152" column="46" />
-        <mark key="^" line="152" column="46" />
-        <mark key="." line="152" column="46" />
+        <mark key="[" line="152" column="61" />
+        <mark key="]" line="152" column="64" />
+        <mark key="^" line="152" column="64" />
+        <mark key="." line="152" column="64" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/SubscriptionController.java" timestamp="1517042266984">
         <mark key="'" line="54" column="66" />
@@ -1635,7 +1635,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getModels</text>
+        <text>Number</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1650,7 +1650,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>getModels</text>
+        <text>Number</text>
       </register>
       <register name="/" type="4">
         <text>getModels</text>
@@ -1714,7 +1714,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1767,9 +1767,9 @@
         <entry>/newRow</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
