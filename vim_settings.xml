@@ -841,8 +841,8 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1526385485199">
-        <mark key="'" line="78" column="60" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1526471574892">
+        <mark key="'" line="152" column="59" />
         <mark key="[" line="152" column="47" />
         <mark key="]" line="152" column="46" />
         <mark key="^" line="152" column="46" />
@@ -1605,7 +1605,6 @@
       <jump line="11" column="13" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="85" column="36" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SubscriptionService.java" />
       <jump line="121" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
-      <jump line="152" column="53" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="141" column="16" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Title.java" />
       <jump line="78" column="60" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
       <jump line="95" column="45" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -1629,6 +1628,7 @@
       <jump line="73" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/ValuationService.java" />
       <jump line="73" column="46" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/TitleService.java" />
       <jump line="73" column="28" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/asset/InsuranceService.java" />
+      <jump line="152" column="59" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
