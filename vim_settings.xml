@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1507953361588">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/asset [Resto-Rat]" timestamp="1522515247763">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python/rosalind/burrows-wheeler-matching.py" timestamp="1510882849629">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="16" column="4" />
@@ -16,18 +10,12 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/Sleep.java" timestamp="1516335298531">
-        <mark key="[" line="2" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" timestamp="1522198599554">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="130" column="32" />
         <mark key="]" line="130" column="37" />
         <mark key="." line="130" column="37" />
         <mark key="^" line="130" column="37" />
-      </file>
-      <file name="/a.dummy" timestamp="1522198640907">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/TeamEvent.java" timestamp="1521863461711">
         <mark key="'" line="168" column="0" />
@@ -98,9 +86,6 @@
         <mark key="]" line="90" column="85" />
         <mark key="^" line="90" column="85" />
         <mark key="." line="90" column="85" />
-      </file>
-      <file name="/Unnamed.txt.ft" timestamp="1510005504839">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task4.json" timestamp="1522555873975">
         <mark key="'" line="16" column="10" />
@@ -194,9 +179,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/" timestamp="1518127361690">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" timestamp="1522031196022">
         <mark key="'" line="111" column="18" />
         <mark key="[" line="130" column="0" />
@@ -218,7 +200,9 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" timestamp="1527607076732" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" timestamp="1527608691398">
+        <mark key="'" line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Api.java" timestamp="1521411714358">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="22" />
@@ -296,9 +280,6 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="/Python Console" timestamp="1522255709937">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/testCast/src/main/java/Main.java" timestamp="1512843877486">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="25" column="74" />
@@ -365,7 +346,6 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/header/index.js" timestamp="1527257737709" />
       <file name="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" timestamp="1514433376917">
         <mark key="'" line="133" column="39" />
         <mark key="[" line="135" column="31" />
@@ -401,18 +381,12 @@
         <mark key="." line="20" column="39" />
         <mark key="^" line="20" column="39" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1526315386723">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python/fish/fish_locator.py" timestamp="1513279091429">
         <mark key="'" line="30" column="49" />
         <mark key="[" line="33" column="44" />
         <mark key="]" line="33" column="47" />
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
-      </file>
-      <file name="/task [Resto-Rat]" timestamp="1522325968392">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1522554840267">
         <mark key="'" line="102" column="11" />
@@ -445,8 +419,12 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/build.gradle" timestamp="1525275359741">
         <mark key="'" line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" timestamp="1527607374479">
-        <mark key="'" line="44" column="13" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" timestamp="1527608720026">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="65" column="28" />
+        <mark key="]" line="65" column="28" />
+        <mark key="^" line="65" column="28" />
+        <mark key="." line="65" column="28" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/test.py" timestamp="1512884395740">
         <mark key="'" line="3" column="23" />
@@ -470,9 +448,6 @@
         <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/index.js" timestamp="1527257577538" />
-      <file name="/user_component [Resto-Rat]" timestamp="1522323769246">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task5.json" timestamp="1513162831651">
         <mark key="'" line="15" column="12" />
         <mark key="[" line="4" column="0" />
@@ -556,9 +531,6 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
-      </file>
-      <file name="/XSLT Stylesheet.txt.ft" timestamp="1510005516667">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" timestamp="1518440562551">
         <mark key="'" line="85" column="28" />
@@ -834,9 +806,6 @@
         <mark key="." line="20" column="21" />
         <mark key="^" line="20" column="21" />
       </file>
-      <file name="/title [Resto-Rat]" timestamp="1522514328085">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo/graphs/raw/raw_collection.py" timestamp="1518598289674">
         <mark key="'" line="29" column="16" />
         <mark key="[" line="30" column="17" />
@@ -957,9 +926,6 @@
         <mark key="^" line="56" column="20" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1522325969143">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/synchronicity/movie_test.py" timestamp="1512962251197">
         <mark key="'" line="12" column="39" />
         <mark key="[" line="18" column="20" />
@@ -981,21 +947,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526055388941">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1507958683874">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" timestamp="1514434231810">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="25" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/application/Call.java" timestamp="1509260792475">
-        <mark key="[" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/wemo/build.gradle" timestamp="1521996158977">
         <mark key="'" line="11" column="0" />
@@ -1067,6 +1024,9 @@
         <mark key="^" line="5" column="84" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/router.js" timestamp="1527608675601">
+        <mark key="'" line="129" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/tictactoe/public/list.html" timestamp="1526392982157">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="9" column="41" />
@@ -1102,16 +1062,8 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1526055289555">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="98" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="63" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
-      <jump line="64" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
-      <jump line="90" column="18" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="189" column="31" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="116" column="18" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="156" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
@@ -1207,6 +1159,11 @@
       <jump line="29" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/reducer.js" />
       <jump line="76" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/reducer.js" />
       <jump line="44" column="13" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/router.js" />
+      <jump line="129" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/router.js" />
+      <jump line="7" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
+      <jump line="34" column="36" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" />
+      <jump line="282" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1231,7 +1188,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>achievement</text>
+        <text>isLoaded</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnQgPSBoaXN0b3J5W2hpc3RvcnkubGVuZ3RoIC0gMV07Cg==</text>
@@ -1296,17 +1253,16 @@
       </register>
     </registers>
     <search>
-      <last-search>achievement</last-search>
+      <last-search>isLoaded</last-search>
       <last-offset />
-      <last-pattern>achievement</last-pattern>
+      <last-pattern>isLoaded</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setcells</entry>
         <entry>mergeRange</entry>
         <entry>area</entry>
         <entry>break</entry>
@@ -1326,6 +1282,7 @@
         <entry>Essay</entry>
         <entry>DELETE</entry>
         <entry>achievement</entry>
+        <entry>isLoaded</entry>
       </history-search>
       <history-cmd>
         <entry>;wq</entry>
