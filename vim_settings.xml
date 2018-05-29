@@ -50,12 +50,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/flow-stubs/css-module.js" timestamp="1526315347191">
-        <mark key="[" line="1" column="48" />
-        <mark key="]" line="1" column="48" />
-        <mark key="^" line="1" column="48" />
-        <mark key="." line="1" column="48" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" timestamp="1524944135955">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="48" column="0" />
@@ -224,6 +218,7 @@
         <mark key="." line="28" column="33" />
         <mark key="^" line="28" column="33" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" timestamp="1527607076732" />
       <file name="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Api.java" timestamp="1521411714358">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="65" column="22" />
@@ -449,6 +444,9 @@
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/build.gradle" timestamp="1525275359741">
         <mark key="'" line="40" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" timestamp="1527607374479">
+        <mark key="'" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/test.py" timestamp="1512884395740">
         <mark key="'" line="3" column="23" />
@@ -1109,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="27" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
       <jump line="80" column="39" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="98" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
       <jump line="63" column="17" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/BudgetReport.java" />
@@ -1209,6 +1206,7 @@
       <jump line="72" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/1-1/actions.js" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/reducer.js" />
       <jump line="76" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/reducer.js" />
+      <jump line="44" column="13" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
