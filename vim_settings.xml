@@ -419,12 +419,12 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/build.gradle" timestamp="1525275359741">
         <mark key="'" line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" timestamp="1527610280535">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" timestamp="1527611672937">
+        <mark key="'" line="62" column="25" />
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="19" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/test.py" timestamp="1512884395740">
         <mark key="'" line="3" column="23" />
@@ -597,6 +597,13 @@
         <mark key="]" line="9" column="109" />
         <mark key="." line="9" column="109" />
         <mark key="^" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" timestamp="1527612151555">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/TaskReport.java" timestamp="1522556951137">
         <mark key="'" line="133" column="87" />
@@ -1064,10 +1071,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/SpreadsheetReport.java" />
-      <jump line="44" column="53" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
-      <jump line="53" column="67" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
-      <jump line="35" column="10" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="94" column="14" filename="$USER_HOME$/dev/synchronicity/docker-compose.yml" />
       <jump line="31" column="13" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
       <jump line="48" column="10" filename="$USER_HOME$/dev/synchronicity/chromecast/src/main/java/chromecast/Chromecast.java" />
@@ -1164,13 +1167,17 @@
       <jump line="57" column="27" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
       <jump line="70" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
+      <jump line="62" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
+      <jump line="76" column="36" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNhc2UgVElNRUxJTkVfQUREX0FDSElFVkVNRU5UX1NVQ0NFU1M6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SUCCESS</text>
       </register>
       <register name="e" type="4">
         <keys>
