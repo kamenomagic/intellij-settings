@@ -179,6 +179,13 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" timestamp="1527774083285">
+        <mark key="'" line="65" column="26" />
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="26" />
+        <mark key="." line="65" column="26" />
+        <mark key="^" line="65" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" timestamp="1522031196022">
         <mark key="'" line="111" column="18" />
         <mark key="[" line="130" column="0" />
@@ -913,11 +920,12 @@
         <mark key="." line="4" column="8" />
         <mark key="^" line="4" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/item-carousel.test.js" timestamp="1527771991027">
-        <mark key="[" line="403" column="9" />
-        <mark key="]" line="403" column="9" />
-        <mark key="^" line="403" column="9" />
-        <mark key="." line="403" column="9" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/item-carousel.test.js" timestamp="1527774267517">
+        <mark key="'" line="376" column="5" />
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="0" />
+        <mark key="^" line="396" column="9" />
+        <mark key="." line="377" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task7.json" timestamp="1513162835449">
         <mark key="'" line="15" column="13" />
@@ -975,7 +983,13 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" timestamp="1527731841105" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" timestamp="1527774219260">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="2" />
+        <mark key="^" line="156" column="22" />
+        <mark key="." line="158" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/image_downloader.py" timestamp="1512962070970">
         <mark key="'" line="26" column="17" />
         <mark key="[" line="7" column="9" />
@@ -1079,10 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/1-1/actions.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/reducer.js" />
-      <jump line="76" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/reducer.js" />
-      <jump line="44" column="13" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
       <jump line="129" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/router.js" />
       <jump line="7" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
       <jump line="34" column="36" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" />
@@ -1179,13 +1189,17 @@
       <jump line="30" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
       <jump line="212" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
       <jump line="255" column="26" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
+      <jump line="149" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" />
+      <jump line="32" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" />
+      <jump line="65" column="26" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
+      <jump line="376" column="5" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/item-carousel.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQo=</text>
+        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgICAgY29uc3Qgb25DbG9zZSA9IGplc3QuZm4oKQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdyg8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gb25DbG9zZT17b25DbG9zZX0gLz4pCiAgICAgIHRyZWUuZmluZCgnQWNoaWV2ZW1lbnRNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgICBleHBlY3Qob25DbG9zZSkudG9IYXZlQmVlbkNhbGxlZCgpCiAgICB9KQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1200,16 +1214,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Achievement</text>
       </register>
       <register name="/" type="4">
-        <text>deleteAchievement</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQo=</text>
+        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgICAgY29uc3Qgb25DbG9zZSA9IGplc3QuZm4oKQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdyg8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gb25DbG9zZT17b25DbG9zZX0gLz4pCiAgICAgIHRyZWUuZmluZCgnQWNoaWV2ZW1lbnRNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgICBleHBlY3Qob25DbG9zZSkudG9IYXZlQmVlbkNhbGxlZCgpCiAgICB9KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1220,19 +1234,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY2hpZXZlbWVudAo=</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhbiBleGlzdGluZyBhY2hpZXZlbWVudCcsICgpID0+IHsKICAgICAgY29uc3QgZGVsZXRlQWNoaWV2ZW1lbnQgPSBqZXN0LmZuKCkKICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdygKICAgICAgICA8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gdGltZWxpbmVBY3Rpb25zPXt7IGRlbGV0ZUFjaGlldmVtZW50IH19IC8+CiAgICAgICkKICAgICAgdHJlZS5maW5kKCdBY2hpZXZlbWVudE1vZGFsJykuc2ltdWxhdGUoJ2RlbGV0ZScsIGFjaGlldmVtZW50LmlkKQogICAgICBleHBlY3QoZGVsZXRlQWNoaWV2ZW1lbnQpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKAogICAgICAgIGFjaGlldmVtZW50LmlkLAogICAgICAgIGFjaGlldmVtZW50CiAgICAgICkKICAgIH0pCgogICAgaXQoJ2hhbmRsZXMgZGVsZXRpbmcgYSBuZXcgYWNoaWV2ZW1lbnQgYnkgc2ltcGx5IGNsb3NpbmcnLCAoKSA9PiB7CiAgICAgIGNvbnN0IG9uQ2xvc2UgPSBqZXN0LmZuKCkKICAgICAgY29uc3QgdHJlZSA9IHNoYWxsb3coPEl0ZW1DYXJvdXNlbCB7Li4uZGVmYXVsdHN9IG9uQ2xvc2U9e29uQ2xvc2V9IC8+KQogICAgICB0cmVlLmZpbmQoJ0FjaGlldmVtZW50TW9kYWwnKS5zaW11bGF0ZSgnZGVsZXRlJywgbnVsbCkKICAgICAgZXhwZWN0KG9uQ2xvc2UpLnRvSGF2ZUJlZW5DYWxsZWQoKQogICAgfSkKICB9KQo=</text>
+        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgICAgY29uc3Qgb25DbG9zZSA9IGplc3QuZm4oKQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdyg8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gb25DbG9zZT17b25DbG9zZX0gLz4pCiAgICAgIHRyZWUuZmluZCgnQWNoaWV2ZW1lbnRNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgICBleHBlY3Qob25DbG9zZSkudG9IYXZlQmVlbkNhbGxlZCgpCiAgICB9KQogIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWNoaWV2ZW1lbnQpCg==</text>
+        <text encoding="base64">ICAgIGl0KCdoYW5kbGVzIGRlbGV0aW5nIGEgbmV3IGFjaGlldmVtZW50IGJ5IHNpbXBseSBjbG9zaW5nJywgKCkgPT4gewogICAgICBjb25zdCBvbkNsb3NlID0gamVzdC5mbigpCiAgICAgIGNvbnN0IHRyZWUgPSBzaGFsbG93KDxJdGVtQ2Fyb3VzZWwgey4uLmRlZmF1bHRzfSBvbkNsb3NlPXtvbkNsb3NlfSAvPikKICAgICAgdHJlZS5maW5kKCdBY2hpZXZlbWVudE1vZGFsJykuc2ltdWxhdGUoJ2RlbGV0ZScsIG51bGwpCiAgICAgIGV4cGVjdChvbkNsb3NlKS50b0hhdmVCZWVuQ2FsbGVkKCkKICAgIH0pCiAgfSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWNoaWV2ZW1lbnQpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGRlbGV0ZUFjaGlldmVtZW50KS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgKICAgICAgICBhY2hpZXZlbWVudC5pZCwKICAgICAgICBhY2hpZXZlbWVudAogICAgICAp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhY2hpZXZlbWVudAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1252,25 +1266,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBoYW5kbGVEZWxldGVBY2hpZXZlbWVudCA9IChhY2hpZXZlbWVudElkPzogbnVtYmVyKSA9PiB7CiAgLy8gICBjb25zdCB7CiAgLy8gICAgIHRpbWVsaW5lQWN0aW9uczogeyBkZWxldGVBY2hpZXZlbWVudCB9LAogIC8vICAgICBvbkNsb3NlCiAgLy8gICB9ID0gdGhpcy5wcm9wcwogIC8vICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBhY2hpZXZlbWVudElkICYmIHRoaXMuZ2V0QWNoaWV2ZW1lbnQoYWNoaWV2ZW1lbnRJZCkKICAvLyAgIGFjaGlldmVtZW50SWQgJiYgYWNoaWV2ZW1lbnQKICAvLyAgICAgPyBkZWxldGVBY2hpZXZlbWVudChhY2hpZXZlbWVudElkLCBhY2hpZXZlbWVudCkKICAvLyAgICAgOiBvbkNsb3NlKCkKICAvLyB9Cgo=</text>
+        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhbiBleGlzdGluZyBhY2hpZXZlbWVudCcsICgpID0+IHsKICAgICAgY29uc3QgZGVsZXRlQWNoaWV2ZW1lbnQgPSBqZXN0LmZuKCkKICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdygKICAgICAgICA8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gdGltZWxpbmVBY3Rpb25zPXt7IGRlbGV0ZUFjaGlldmVtZW50IH19IC8+CiAgICAgICkKICAgICAgdHJlZS5maW5kKCdBY2hpZXZlbWVudE1vZGFsJykuc2ltdWxhdGUoJ2RlbGV0ZScsIGFjaGlldmVtZW50LmlkKQogICAgICBleHBlY3QoZGVsZXRlQWNoaWV2ZW1lbnQpLnRvSGF2ZUJlZW5DYWxsZWRXaXRoKAogICAgICAgIGFjaGlldmVtZW50LmlkLAogICAgICAgIGFjaGlldmVtZW50CiAgICAgICkKICAgIH0pCgogICAgaXQoJ2hhbmRsZXMgZGVsZXRpbmcgYSBuZXcgYWNoaWV2ZW1lbnQgYnkgc2ltcGx5IGNsb3NpbmcnLCAoKSA9PiB7CiAgICAgIGNvbnN0IG9uQ2xvc2UgPSBqZXN0LmZuKCkKICAgICAgY29uc3QgdHJlZSA9IHNoYWxsb3coPEl0ZW1DYXJvdXNlbCB7Li4uZGVmYXVsdHN9IG9uQ2xvc2U9e29uQ2xvc2V9IC8+KQogICAgICB0cmVlLmZpbmQoJ0FjaGlldmVtZW50TW9kYWwnKS5zaW11bGF0ZSgnZGVsZXRlJywgbnVsbCkKICAgICAgZXhwZWN0KG9uQ2xvc2UpLnRvSGF2ZUJlZW5DYWxsZWQoKQogICAgfSkKICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgVElNRUxJTkVfQUREX0FDSElFVkVNRU5UX1NVQ0NFU1M6Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWNoaWV2ZW1lbnQpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpc0xvYWRpbmc6IGZhbHNlLAogICAgICAgIGlzTG9hZGVkOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYWNoaWV2ZW1lbnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteAchievement</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>deleteAchievement</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1278,7 +1292,6 @@
     </search>
     <history>
       <history-search>
-        <entry>x_</entry>
         <entry>renderSquare</entry>
         <entry>Essay</entry>
         <entry>DELETE</entry>
@@ -1298,10 +1311,9 @@
         <entry>onDelete</entry>
         <entry>deleting an</entry>
         <entry>deleteAchievement</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
-        <entry>d ak;d ak;d ak;ad k;d a ;kd a; kad k; d a;k da ;k d a;k d a;kd ak; d a;k da;k d a;k dak;dak; d ak; da k;dak; d ;kda;k da ;kda k;ad;kda ;kda k;da k;da ;kd; ak;d a;k d;kd ;kad;kda ;k da; kda;k da;k da;k da;k da;k;</entry>
-        <entry>w'w</entry>
         <entry>kj;w</entry>
         <entry>w:</entry>
         <entry>j;w</entry>
@@ -1319,6 +1331,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
         <entry encoding="base64">dyA=</entry>
+        <entry>wj</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
