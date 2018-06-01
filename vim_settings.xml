@@ -782,6 +782,13 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/subtask.css" timestamp="1527867113884">
+        <mark key="'" line="8" column="18" />
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab11/lab11.py" timestamp="1511846391184">
         <mark key="'" line="328" column="3" />
         <mark key="[" line="2" column="0" />
@@ -1100,7 +1107,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="36" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" />
       <jump line="89" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" />
       <jump line="41" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
@@ -1200,6 +1206,7 @@
       <jump line="80" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/due-date-picker/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/due-date-picker/index.js" />
       <jump line="277" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" />
+      <jump line="8" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/subtask.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
