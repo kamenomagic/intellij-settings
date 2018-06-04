@@ -778,9 +778,6 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/subtask.css" timestamp="1528121083871">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="33" column="16" />
-        <mark key="]" line="35" column="12" />
-        <mark key="." line="35" column="12" />
-        <mark key="^" line="35" column="12" />
       </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab11/lab11.py" timestamp="1511846391184">
         <mark key="'" line="328" column="3" />
@@ -987,8 +984,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="25" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" timestamp="1528117334303">
-        <mark key="^" line="158" column="29" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" timestamp="1528126692269">
+        <mark key="[" line="159" column="65" />
+        <mark key="]" line="159" column="72" />
+        <mark key="^" line="159" column="72" />
+        <mark key="." line="159" column="72" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/wemo/build.gradle" timestamp="1521996158977">
         <mark key="'" line="11" column="0" />
@@ -1205,8 +1205,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c2VudCA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1221,7 +1221,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.resolvePromise()</text>
+        <text encoding="base64">c2VudCA=</text>
       </register>
       <register name="/" type="4">
         <text>datePicker</text>
@@ -1295,7 +1295,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
