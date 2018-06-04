@@ -775,6 +775,13 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/subtask.css" timestamp="1528121083871">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="35" column="12" />
+        <mark key="." line="35" column="12" />
+        <mark key="^" line="35" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/python/notebooks/lab11/lab11.py" timestamp="1511846391184">
         <mark key="'" line="328" column="3" />
         <mark key="[" line="2" column="0" />
@@ -981,11 +988,7 @@
         <mark key="^" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" timestamp="1528117334303">
-        <mark key="'" line="58" column="60" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="155" column="29" />
+        <mark key="^" line="158" column="29" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/wemo/build.gradle" timestamp="1521996158977">
         <mark key="'" line="11" column="0" />
@@ -1097,7 +1100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
       <jump line="34" column="36" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" />
       <jump line="282" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/actions.js" />
       <jump line="65" column="27" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" />
@@ -1197,13 +1199,14 @@
       <jump line="65" column="26" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
       <jump line="376" column="5" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/item-carousel.test.js" />
       <jump line="58" column="60" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/__tests__/achievement-modal.test.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/subtask.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCByZXNvbHZlT25EZWxldGUK</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1221,13 +1224,13 @@
         <text>.resolvePromise()</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>datePicker</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCByZXNvbHZlT25EZWxldGUK</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1238,19 +1241,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vY2tPbkRlbGV0ZS5yZXNvbHZlUHJvbWlzZSA9IHJlc29sdmVPbkRlbGV0ZQo=</text>
+        <text encoding="base64">ICAgIGxldCByZXNvbHZlT25EZWxldGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHByb21pc2UgPSBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHsKICAgICAgcmVzb2x2ZU9uRGVsZXRlID0gcmVzb2x2ZQogICAgfSkK</text>
+        <text encoding="base64">ICAgIG1vY2tPbkRlbGV0ZS5yZXNvbHZlUHJvbWlzZSA9IHJlc29sdmVPbkRlbGV0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb21pc2UgPSBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHsKICAgICAgcmVzb2x2ZU9uRGVsZXRlID0gcmVzb2x2ZQogICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgIGNvbnN0IG9uQ2xvc2UgPSBqZXN0LmZuKCkKICAgIGNvbnN0IHRyZWUgPSBzaGFsbG93KAogICAgICA8QWNoaWV2ZW1lbnRNb2RhbCB7Li4uYWNoaWV2ZW1lbnRQcm9wc30gb25DbG9zZT17b25DbG9zZX0gLz4KICAgICkKICAgIHRyZWUuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgZXhwZWN0KG9uQ2xvc2UpLnRvSGF2ZUJlZW5DYWxsZWQoKQogIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1270,35 +1273,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgICAgY29uc3Qgb25DbG9zZSA9IGplc3QuZm4oKQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdyg8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gb25DbG9zZT17b25DbG9zZX0gLz4pCiAgICAgIHRyZWUuZmluZCgnQWNoaWV2ZW1lbnRNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgICBleHBlY3Qob25DbG9zZSkudG9IYXZlQmVlbkNhbGxlZCgpCiAgICB9KQo=</text>
+        <text encoding="base64">ICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgIGNvbnN0IG9uQ2xvc2UgPSBqZXN0LmZuKCkKICAgIGNvbnN0IHRyZWUgPSBzaGFsbG93KAogICAgICA8QWNoaWV2ZW1lbnRNb2RhbCB7Li4uYWNoaWV2ZW1lbnRQcm9wc30gb25DbG9zZT17b25DbG9zZX0gLz4KICAgICkKICAgIHRyZWUuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgZXhwZWN0KG9uQ2xvc2UpLnRvSGF2ZUJlZW5DYWxsZWQoKQogIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgICAgY29uc3Qgb25DbG9zZSA9IGplc3QuZm4oKQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdyg8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gb25DbG9zZT17b25DbG9zZX0gLz4pCiAgICAgIHRyZWUuZmluZCgnQWNoaWV2ZW1lbnRNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgICBleHBlY3Qob25DbG9zZSkudG9IYXZlQmVlbkNhbGxlZCgpCiAgICB9KQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBpdCgnaGFuZGxlcyBkZWxldGluZyBhIG5ldyBhY2hpZXZlbWVudCBieSBzaW1wbHkgY2xvc2luZycsICgpID0+IHsKICAgICAgY29uc3Qgb25DbG9zZSA9IGplc3QuZm4oKQogICAgICBjb25zdCB0cmVlID0gc2hhbGxvdyg8SXRlbUNhcm91c2VsIHsuLi5kZWZhdWx0c30gb25DbG9zZT17b25DbG9zZX0gLz4pCiAgICAgIHRyZWUuZmluZCgnQWNoaWV2ZW1lbnRNb2RhbCcpLnNpbXVsYXRlKCdkZWxldGUnLCBudWxsKQogICAgICBleHBlY3Qob25DbG9zZSkudG9IYXZlQmVlbkNhbGxlZCgpCiAgICB9KQogIH0pCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>datePicker</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>datePicker</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mergeRange</entry>
-        <entry>area</entry>
-        <entry>break</entry>
         <entry>vendor</entry>
         <entry>wrap</entry>
         <entry>portrait</entry>
@@ -1316,6 +1316,9 @@
         <entry>DELETE</entry>
         <entry>achievement</entry>
         <entry>isLoaded</entry>
+        <entry>dueDatePikcer</entry>
+        <entry>dueDate</entry>
+        <entry>datePicker</entry>
       </history-search>
       <history-cmd>
         <entry>;wq</entry>
