@@ -180,6 +180,9 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" timestamp="1528304737391">
+        <mark key="'" line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/tictactoe/src/list.css" timestamp="1526392659225">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -252,7 +255,8 @@
         <mark key="." line="64" column="54" />
         <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1528217226686">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1528304786604">
+        <mark key="'" line="52" column="0" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -532,6 +536,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="33" column="60" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" timestamp="1528304579764" />
       <file name="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" timestamp="1518191155137">
         <mark key="'" line="37" column="31" />
         <mark key="[" line="37" column="0" />
@@ -650,8 +655,8 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" timestamp="1527697645993">
-        <mark key="'" line="18" column="25" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" timestamp="1528304819010">
+        <mark key="'" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
@@ -1109,12 +1114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="19" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="115" column="12" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="28" column="21" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="37" column="20" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="39" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="56" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
@@ -1209,6 +1208,12 @@
       <jump line="268" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/reducer.js" />
       <jump line="24" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/reducer.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/goals-rewrite/actions/goal-actions.js" />
+      <jump line="28" column="19" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
+      <jump line="14" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
+      <jump line="15" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="21" column="20" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1233,7 +1238,7 @@
         <text>payload</text>
       </register>
       <register name="/" type="4">
-        <text>GOAL</text>
+        <text>ItemCarousel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBDUkVBVEVfR09BTF9TVUNDRVNTLAo=</text>
@@ -1298,18 +1303,16 @@
       </register>
     </registers>
     <search>
-      <last-search>GOAL</last-search>
+      <last-search>ItemCarousel</last-search>
       <last-offset />
-      <last-pattern>GOAL</last-pattern>
+      <last-pattern>ItemCarousel</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>portrait</entry>
-        <entry>newRow</entry>
         <entry>bottom</entry>
         <entry>center</entry>
         <entry>description</entry>
@@ -1328,6 +1331,8 @@
         <entry>datePicker</entry>
         <entry>addGoal</entry>
         <entry>GOAL</entry>
+        <entry>item-carousel</entry>
+        <entry>ItemCarousel</entry>
       </history-search>
       <history-cmd>
         <entry>;wq</entry>
