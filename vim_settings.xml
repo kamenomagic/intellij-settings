@@ -180,8 +180,8 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" timestamp="1528305072042">
-        <mark key="'" line="15" column="28" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" timestamp="1528414844420">
+        <mark key="'" line="273" column="11" />
       </file>
       <file name="$USER_HOME$/dev/tictactoe/src/list.css" timestamp="1526392659225">
         <mark key="[" line="15" column="0" />
@@ -663,8 +663,8 @@
         <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" timestamp="1528309837110">
-        <mark key="'" line="124" column="14" />
-        <mark key="^" line="182" column="33" />
+        <mark key="'" line="122" column="14" />
+        <mark key="^" line="180" column="33" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
@@ -1122,7 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
       <jump line="70" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
       <jump line="4" column="23" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
       <jump line="5" column="40" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
@@ -1222,6 +1221,7 @@
       <jump line="47" column="40" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="279" column="42" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="280" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="273" column="11" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1246,7 +1246,7 @@
         <text>Done</text>
       </register>
       <register name="/" type="4">
-        <text>isSaving</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlzU2F2aW5nPXtpc1NhdmluZ30K</text>
@@ -1311,9 +1311,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isSaving</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>isSaving</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1321,8 +1321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newrow</entry>
-        <entry>localhost</entry>
         <entry>ipCamNames</entry>
         <entry>this</entry>
         <entry>x_</entry>
@@ -1341,6 +1339,8 @@
         <entry>onDone</entry>
         <entry>children</entry>
         <entry>isSaving</entry>
+        <entry>button</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry>;wq</entry>
