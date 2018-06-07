@@ -280,11 +280,11 @@
         <mark key="." line="85" column="16" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1528387858143">
-        <mark key="'" line="282" column="42" />
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="33" column="20" />
-        <mark key="." line="33" column="20" />
-        <mark key="^" line="33" column="20" />
+        <mark key="'" line="279" column="42" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Title.java" timestamp="1522514340281">
         <mark key="'" line="153" column="0" />
@@ -540,7 +540,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="33" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" timestamp="1528380851302" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" timestamp="1528388982491">
+        <mark key="'" line="279" column="18" />
+        <mark key="^" line="258" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" timestamp="1518191155137">
         <mark key="'" line="37" column="31" />
         <mark key="[" line="37" column="0" />
@@ -1119,7 +1122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
       <jump line="68" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
       <jump line="70" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
       <jump line="4" column="23" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/timeline.js" />
@@ -1219,13 +1221,14 @@
       <jump line="468" column="26" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="47" column="40" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="279" column="42" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="280" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzU2F2aW5nPXtpc1NhdmluZ30K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1243,10 +1246,10 @@
         <text>Done</text>
       </register>
       <register name="/" type="4">
-        <text>children</text>
+        <text>isSaving</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpc1NhdmluZz17aXNTYXZpbmd9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzU2F2aW5nPXtpc1NhdmluZ30K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1308,17 +1311,16 @@
       </register>
     </registers>
     <search>
-      <last-search>children</last-search>
+      <last-search>isSaving</last-search>
       <last-offset />
-      <last-pattern>children</last-pattern>
+      <last-pattern>isSaving</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>description</entry>
         <entry>newrow</entry>
         <entry>localhost</entry>
         <entry>ipCamNames</entry>
@@ -1338,6 +1340,7 @@
         <entry>ItemCarousel</entry>
         <entry>onDone</entry>
         <entry>children</entry>
+        <entry>isSaving</entry>
       </history-search>
       <history-cmd>
         <entry>;wq</entry>
