@@ -548,12 +548,13 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="33" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" timestamp="1528476529296">
-        <mark key="'" line="155" column="9" />
-        <mark key="[" line="77" column="27" />
-        <mark key="]" line="77" column="35" />
-        <mark key="." line="77" column="35" />
-        <mark key="^" line="77" column="35" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" timestamp="1528478131164">
+        <mark key="e" line="78" column="53" />
+        <mark key="'" line="77" column="3" />
+        <mark key="[" line="78" column="107" />
+        <mark key="]" line="79" column="19" />
+        <mark key="^" line="79" column="19" />
+        <mark key="." line="79" column="19" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" timestamp="1518191155137">
         <mark key="'" line="37" column="31" />
@@ -1134,11 +1135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
-      <jump line="15" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
-      <jump line="21" column="20" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
-      <jump line="106" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
-      <jump line="55" column="11" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="466" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="194" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="208" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
@@ -1231,16 +1227,21 @@
       <jump line="211" column="11" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="158" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="105" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
-      <jump line="50" column="73" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
-      <jump line="77" column="80" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="60" column="20" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="29" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="164" column="23" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="155" column="9" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="50" column="73" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="80" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="77" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>props</text>
+        <text>null</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1255,16 +1256,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>getGoa</text>
+        <text>getGoal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkR29hbHM6IHRoaXMucHJvcHMuc2VsZWN0ZWRJZHMubWFwKGlkID0+IHRoaXMuZ2V0R29hbChpZCkpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7c2VsZWN0ZWRHb2FsczogfQo=</text>
+        <text encoding="base64">ICAgICAgbnVsbAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1275,19 +1276,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByZXZTdGF0ZQo=</text>
+        <text encoding="base64">ICBzdGF0aWMgaWRUb0dvYWwgPSAocHJvcHM6IFByb3BzLCBpZDogbnVtYmVyKTogR29hbCA9PiBUaW1lbGluZUl0ZW1DYXJvdXNlbC5nZXRHb2FsKHByb3BzLCBpZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcmV2U3RhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZHMsCg==</text>
+        <text encoding="base64">ICAKICBnZXRHb2FscyhpZDogbnVtdmVyW10pCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1307,33 +1308,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsuLi5wcmV2U3RhdGUsIG5leHRQcm9wczogbmV4dFByb3BzLnNlbGVjdGVkSWRzLm1hcChpZCA9PiB0aGlzLmdldEdvYWwoaWQpKX0KICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Li4ucHJldlN0YXRlLCBuZXh0UHJvcHMuc2VsZWN0ZWRJZHMubWFwKGlkID0+IHRoaXMuZ2V0R29hbChpZCkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiB7c2VsZWN0ZWRHb2FsczogfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getGoa</last-search>
+      <last-search>getGoal</last-search>
       <last-offset />
-      <last-pattern>getGoa</last-pattern>
+      <last-pattern>getGoal</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isLoaded</entry>
         <entry>dueDatePikcer</entry>
         <entry>dueDate</entry>
         <entry>datePicker</entry>
@@ -1351,11 +1351,11 @@
         <entry>selectedId</entry>
         <entry>id</entry>
         <entry>index</entry>
-        <entry>getGoal</entry>
         <entry>getGoa</entry>
+        <entry>any</entry>
+        <entry>getGoal</entry>
       </history-search>
       <history-cmd>
-        <entry>;wq</entry>
         <entry>d ak;d ak;d ak;ad k;d a ;kd a; kad k; d a;k da ;k d a;k d a;kd ak; d a;k da;k d a;k dak;dak; d ak; da k;dak; d ;kda;k da ;kda k;ad;kda ;kda k;da k;da ;kd; ak;d a;k d;kd ;kad;kda ;k da; kda;k da;k da;k da;k da;k;</entry>
         <entry>w'w</entry>
         <entry>kj;w</entry>
@@ -1374,6 +1374,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
+        <entry>;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
