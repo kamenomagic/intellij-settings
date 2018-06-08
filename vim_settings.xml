@@ -259,8 +259,12 @@
         <mark key="." line="64" column="54" />
         <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1528466641402">
-        <mark key="'" line="41" column="8" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1528472072061">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="111" column="49" />
+        <mark key="]" line="111" column="49" />
+        <mark key="^" line="111" column="49" />
+        <mark key="." line="111" column="49" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1515572809230">
         <mark key="'" line="24" column="10" />
@@ -282,6 +286,13 @@
         <mark key="]" line="85" column="16" />
         <mark key="^" line="85" column="16" />
         <mark key="." line="85" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1528472165644">
+        <mark key="'" line="281" column="42" />
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+        <mark key="." line="31" column="21" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/asset/Title.java" timestamp="1522514340281">
         <mark key="'" line="153" column="0" />
@@ -537,7 +548,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="33" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" timestamp="1528466337788">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" timestamp="1528471566810">
         <mark key="'" line="156" column="8" />
         <mark key="^" line="258" column="33" />
       </file>
@@ -659,8 +670,9 @@
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" timestamp="1528466427043">
-        <mark key="^" line="180" column="33" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" timestamp="1528470764976">
+        <mark key="'" line="31" column="2" />
+        <mark key="^" line="182" column="33" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
@@ -811,12 +823,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/reducer.js" timestamp="1527257314963">
-        <mark key="'" line="76" column="4" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1521733872462">
         <mark key="'" line="22" column="0" />
@@ -1125,18 +1131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
-      <jump line="266" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
-      <jump line="135" column="34" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
-      <jump line="140" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
-      <jump line="231" column="55" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" />
-      <jump line="18" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
-      <jump line="69" column="46" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="72" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="85" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="94" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="104" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
-      <jump line="114" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
       <jump line="127" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
       <jump line="140" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
       <jump line="142" column="11" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/achievement-modal.js" />
@@ -1186,7 +1180,6 @@
       <jump line="55" column="11" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="466" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="194" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
-      <jump line="111" column="13" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="208" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="152" column="12" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="173" column="22" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
@@ -1216,22 +1209,35 @@
       <jump line="154" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="156" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="134" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
-      <jump line="42" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
-      <jump line="52" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
-      <jump line="108" column="35" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
-      <jump line="423" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="186" column="14" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="174" column="67" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
-      <jump line="468" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="473" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="145" column="38" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
+      <jump line="111" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
+      <jump line="468" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="41" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="42" column="5" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="108" column="35" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="423" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="111" column="49" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="294" column="42" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="471" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="30" column="7" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="300" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="280" column="42" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgb25Eb25lID0gKCkgPT4gewogICAgbGV0IHByb21pc2UKICAgIGlmICh0aGlzLnByb3BzLnNlbGVjdGVkR29hbElkKSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLnVwZGF0ZUdvYWwodGhpcy5zdGF0ZS5nb2FsLCBmYWxzZSkKICAgIH0gZWxzZSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLnNhdmVHb2FsKHRoaXMuc3RhdGUuZ29hbCkKICAgIH0KICAgIHRoaXMuc2V0U3RhdGUoeyAuLi50aGlzLnN0YXRlLCBpc1NhdmluZzogdHJ1ZSB9KQogICAgcHJvbWlzZS50aGVuKHRoaXMucHJvcHMub25DbG9zZSkKICB9Cg==</text>
+        <text encoding="base64">ICBpc1NhdmluZzogYm9vbGVhbgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1246,16 +1252,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>relative</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>isSaving</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyAuLi50aGlzLnN0YXRlLCBpc1NhdmluZzogdHJ1ZSB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgb25Eb25lID0gKCkgPT4gewogICAgbGV0IHByb21pc2UKICAgIGlmICh0aGlzLnByb3BzLnNlbGVjdGVkR29hbElkKSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLnVwZGF0ZUdvYWwodGhpcy5zdGF0ZS5nb2FsLCBmYWxzZSkKICAgIH0gZWxzZSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLnNhdmVHb2FsKHRoaXMuc3RhdGUuZ29hbCkKICAgIH0KICAgIHRoaXMuc2V0U3RhdGUoeyAuLi50aGlzLnN0YXRlLCBpc1NhdmluZzogdHJ1ZSB9KQogICAgcHJvbWlzZS50aGVuKHRoaXMucHJvcHMub25DbG9zZSkKICB9Cg==</text>
+        <text encoding="base64">ICBpc1NhdmluZzogYm9vbGVhbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1265,20 +1271,20 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgYmFja2dyb3VuZDogdmFyKC0tbmF2eSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBib3JkZXItd2lkdGg6IDA7CiAgcGFkZGluZzogMDsKICBtYXJnaW46IDA7Cg==</text>
+        <text encoding="base64">ICBpc1NhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgb25Eb25lID0gKCkgPT4gewogICAgbGV0IHByb21pc2UKICAgIGlmICh0aGlzLnByb3BzLnNlbGVjdGVkR29hbElkKSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLnVwZGF0ZUdvYWwodGhpcy5zdGF0ZS5nb2FsLCBmYWxzZSkKICAgIH0gZWxzZSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLnNhdmVHb2FsKHRoaXMuc3RhdGUuZ29hbCkKICAgIH0KICAgIHRoaXMuc2V0U3RhdGUoeyAuLi50aGlzLnN0YXRlLCBpc1NhdmluZzogdHJ1ZSB9KQogICAgcHJvbWlzZS50aGVuKHRoaXMucHJvcHMub25DbG9zZSkKICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMTUlOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgYmFja2dyb3VuZDogdmFyKC0tbmF2eSk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJpZ2h0OiAwOwo=</text>
+        <text encoding="base64">ICBib3JkZXItd2lkdGg6IDA7CiAgcGFkZGluZzogMDsKICBtYXJnaW46IDA7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1301,13 +1307,13 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjaXJjbGVkCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMTUlOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJpZ2h0OiAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
