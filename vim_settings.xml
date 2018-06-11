@@ -369,7 +369,7 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/header/index.js" timestamp="1528734959191">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/header/index.js" timestamp="1528736999589">
         <mark key="'" line="94" column="11" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -1283,19 +1283,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdGVkR29hbHM6IEdvYWxbXSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxpZ25Ub1BvcHVwPSJlbmQiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdGVkR29hbHM6IEdvYWxbXSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciB0aGluZzogbnVtYmVyID0+IEdvYWxbXSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdGVkSWRzID0gbmV4dFByb3BzLnNlbGVjdGVkSWRzCg==</text>
+        <text encoding="base64">ICAgIHZhciB0aGluZzogbnVtYmVyID0+IEdvYWxbXSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdGVkSWRzID0gbmV4dFByb3BzLnNlbGVjdGVkSWRzCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1315,16 +1315,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcmV2U3RhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAvLyBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wczogUHJvcHMsIHByZXZTdGF0ZTogU3RhdGUpIHsKICAvLyAgIGlmKG5leHRQcm9wcy5zZWxlY3RlZElkcy5sZW5ndGggPT09IDEgJiYgbmV4dFByb3BzLnNlbGVjdGVkSWRzWzBdID09PSAwKSB7CiAgLy8gICAgIHJldHVybiBwcmV2U3RhdGUKICAvLyAgIH0KICAvLwogIC8vICAgLy8gcmV0dXJuIHtzZWxlY3RlZEdvYWxzOiBuZXh0UHJvcHMuc2VsZWN0ZWRJZHMubWFwKGlkID0+IFRpbWVsaW5lSXRlbUNhcm91c2VsLmdldEdvYWwobmV4dFByb3BzLCBpZCkpfQogIC8vICAgcmV0dXJuIHByZXZTdGF0ZQogIC8vIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBwcmV2U3RhdGUK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbnVsbAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAvLyBzdGF0aWMgZ2V0RGVyaXZlZFN0YXRlRnJvbVByb3BzKG5leHRQcm9wczogUHJvcHMsIHByZXZTdGF0ZTogU3RhdGUpIHsKICAvLyAgIGlmKG5leHRQcm9wcy5zZWxlY3RlZElkcy5sZW5ndGggPT09IDEgJiYgbmV4dFByb3BzLnNlbGVjdGVkSWRzWzBdID09PSAwKSB7CiAgLy8gICAgIHJldHVybiBwcmV2U3RhdGUKICAvLyAgIH0KICAvLwogIC8vICAgLy8gcmV0dXJuIHtzZWxlY3RlZEdvYWxzOiBuZXh0UHJvcHMuc2VsZWN0ZWRJZHMubWFwKGlkID0+IFRpbWVsaW5lSXRlbUNhcm91c2VsLmdldEdvYWwobmV4dFByb3BzLCBpZCkpfQogIC8vICAgcmV0dXJuIHByZXZTdGF0ZQogIC8vIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
