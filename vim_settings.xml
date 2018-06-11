@@ -180,8 +180,8 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" timestamp="1528721290577">
-        <mark key="'" line="282" column="0" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" timestamp="1528731875427">
+        <mark key="'" line="238" column="24" />
         <mark key="[" line="228" column="15" />
         <mark key="]" line="219" column="4" />
         <mark key="^" line="219" column="4" />
@@ -1132,7 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="273" column="11" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
       <jump line="31" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
       <jump line="19" column="34" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.css" />
@@ -1232,6 +1231,7 @@
       <jump line="54" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="56" column="10" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="74" column="55" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
+      <jump line="238" column="24" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1317,7 +1317,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1370,9 +1370,9 @@
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>;w</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
