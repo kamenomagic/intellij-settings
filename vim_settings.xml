@@ -374,6 +374,12 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/header/index.js" timestamp="1528731151969">
+        <mark key="[" line="100" column="31" />
+        <mark key="]" line="100" column="29" />
+        <mark key="^" line="100" column="29" />
+        <mark key="." line="100" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/core/GameComponent.java" timestamp="1514433376917">
         <mark key="'" line="133" column="39" />
         <mark key="[" line="135" column="31" />
@@ -729,12 +735,12 @@
         <mark key="." line="38" column="53" />
         <mark key="^" line="38" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.css" timestamp="1528721469553">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.css" timestamp="1528730815740">
         <mark key="'" line="28" column="8" />
         <mark key="[" line="18" column="19" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" timestamp="1526313723662">
         <mark key="'" line="276" column="2" />
@@ -875,6 +881,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="52" column="58" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/node_modules/@inst/bridge-ui-components/src/menu/popup.js" timestamp="1528731118038">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="25" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task6.json" timestamp="1515663570459">
         <mark key="'" line="16" column="11" />
@@ -1226,7 +1238,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1241,7 +1253,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>selectedIds</text>
