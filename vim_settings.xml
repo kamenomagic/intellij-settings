@@ -876,8 +876,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" timestamp="1528912071479">
-        <mark key="'" line="14" column="62" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" timestamp="1528919710984">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="202" column="37" />
+        <mark key="]" line="202" column="38" />
+        <mark key="." line="202" column="38" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1521733872462">
         <mark key="'" line="22" column="0" />
@@ -1187,8 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
-      <jump line="95" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="228" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/item-carousel.js" />
       <jump line="52" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
@@ -1287,6 +1288,8 @@
       <jump line="35" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="210" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="14" column="62" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
+      <jump line="202" column="37" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
