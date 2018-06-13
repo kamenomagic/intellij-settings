@@ -1317,7 +1317,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>instance</text>
+        <text>snapshot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgYWNoaWV2ZW1lbnQgPSBkZWZhdWx0cy50aW1lbGluZVN0YXRlLmV2ZW50c1swXQogICAgICBjb25zdCBoYW5kbGVyID0gdHJlZS5pbnN0YW5jZSgpLmhhbmRsZVNhdmVBY2hpZXZlbWVudChhY2hpZXZlbWVudCkK</text>
@@ -1382,9 +1382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>instance</last-search>
+      <last-search>snapshot</last-search>
       <last-offset />
-      <last-pattern>instance</last-pattern>
+      <last-pattern>snapshot</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1392,7 +1392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timelineStatus</entry>
         <entry>status</entry>
         <entry>timelinestate</entry>
         <entry>handleSaveAch</entry>
@@ -1412,6 +1411,7 @@
         <entry>handle</entry>
         <entry>handler</entry>
         <entry>instance</entry>
+        <entry>snapshot</entry>
       </history-search>
       <history-cmd>
         <entry>kj;w</entry>
