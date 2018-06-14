@@ -39,12 +39,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" timestamp="1529009601629">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" timestamp="1529010305921">
         <mark key="'" line="81" column="17" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="81" column="15" />
-        <mark key="." line="81" column="15" />
-        <mark key="^" line="81" column="15" />
+        <mark key="[" line="96" column="15" />
+        <mark key="]" line="96" column="23" />
+        <mark key="." line="96" column="23" />
+        <mark key="^" line="96" column="23" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" timestamp="1513725627267">
         <mark key="'" line="21" column="0" />
@@ -257,12 +257,12 @@
         <mark key="." line="64" column="54" />
         <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1529009595517">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1529009948976">
         <mark key="'" line="107" column="4" />
         <mark key="[" line="92" column="22" />
-        <mark key="]" line="92" column="22" />
-        <mark key="^" line="435" column="33" />
-        <mark key="." line="92" column="22" />
+        <mark key="]" line="86" column="19" />
+        <mark key="^" line="86" column="19" />
+        <mark key="." line="86" column="19" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/ComponentService.java" timestamp="1515572809230">
         <mark key="'" line="24" column="10" />
@@ -1271,7 +1271,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSAoY29tcGFueUdvYWxJZDogbnVtYmVyKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgZ29hbDogewogICAgICAgIC4uLnRoaXMuc3RhdGUuZ29hbCwKICAgICAgICBjb21wYW55R29hbElkOiBjb21wYW55R29hbElkIHx8IG51bGwKICAgICAgfQogICAgfSkKICB9CgogIG9uRG9uZSA9ICgpID0+IHsKICAgIGxldCBwcm9taXNlCiAgICBpZiAodGhpcy5wcm9wcy5zZWxlY3RlZEdvYWxJZCkgewogICAgICBwcm9taXNlID0gdGhpcy5wcm9wcy51cGRhdGVHb2FsKHRoaXMuc3RhdGUuZ29hbCwgZmFsc2UpCiAgICB9IGVsc2UgewogICAgICBwcm9taXNlID0gdGhpcy5wcm9wcy5zYXZlR29hbCh0aGlzLnN0YXRlLmdvYWwpCiAgICB9CiAgICB0aGlzLnNldFN0YXRlKHsgaXNTYXZpbmc6IHRydWUgfSkKICAgIHByb21pc2UudGhlbigoKSA9PiA=</text>
+        <text>.isSaving</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1286,16 +1286,23 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGlzU2F2aW5n</text>
+        <text>.isSaving</text>
       </register>
       <register name="/" type="4">
         <text>onclose</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vY2tPbkNhbmNlbCA9IGplc3QuZm4oKQo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cmVlLnN0YXRlLmlzU2F2aW5nKS50b0JlKGZhbHNlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PSAoY29tcGFueUdvYWxJZDogbnVtYmVyKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgZ29hbDogewogICAgICAgIC4uLnRoaXMuc3RhdGUuZ29hbCwKICAgICAgICBjb21wYW55R29hbElkOiBjb21wYW55R29hbElkIHx8IG51bGwKICAgICAgfQogICAgfSkKICB9CgogIG9uRG9uZSA9ICgpID0+IHsKICAgIGxldCBwcm9taXNlCiAgICBpZiAodGhpcy5wcm9wcy5zZWxlY3RlZEdvYWxJZCkgewogICAgICBwcm9taXNlID0gdGhpcy5wcm9wcy51cGRhdGVHb2FsKHRoaXMuc3RhdGUuZ29hbCwgZmFsc2UpCiAgICB9IGVsc2UgewogICAgICBwcm9taXNlID0gdGhpcy5wcm9wcy5zYXZlR29hbCh0aGlzLnN0YXRlLmdvYWwpCiAgICB9CiAgICB0aGlzLnNldFN0YXRlKHsgaXNTYXZpbmc6IHRydWUgfSkKICAgIHByb21pc2UudGhlbigoKSA9PiA=</text>
+        <text>tree.setState({
+      goal: {
+        name: 'Goal Name',
+        companyGoalId: null,
+        userId: 1
+      },
+      readOnly: false
+    }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1306,25 +1313,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRyZWUub25Eb25lKCkKICAgIGF3YWl0IAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cmVlLnN0YXRlLmlzU2F2aW5nKS50b0JlKGZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vY2tPbkRvbmUK</text>
+        <text encoding="base64">ICAgIGV4cGVjdChkb25lQnV0dG9uLmV4aXN0cygpKS50b0JlKHRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmJvZHl9PntjaGlsZHJlbn08L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGV4cGVjdChwcm9wcy5zYXZlR29hbCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoewogICAgICBuYW1lOiAnR29hbCBOYW1lJywKICAgICAgY29tcGFueUdvYWxJZDogbnVsbCwKICAgICAgdXNlcklkOiAxCiAgICB9KQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>#inst.aws.region=US_EAST_2
-#inst.aws.clientAccessKey=my-testing-bucket-access-key
-#inst.aws.clientKeySecret=my-testing-bucket-key-secret
-#inst.aws.tempFilesBucket=instructure-perform-cmh-dev-temp
-#inst.aws.persistentFilesBucket=instructure-perform-cmh-dev-persistent
-#inst.aws.publicFilesBucket=instructure-perform-cmh-dev-public
-#inst.aws.shortLifeUrlTimeToLive=900000</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdChwcm9wcy51cGRhdGVHb2FsKS5ub3QudG9CZUNhbGxlZCgpCiAgICBleHBlY3QocHJvcHMub25DbG9zZSkudG9CZUNhbGxlZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cmVlLnN0YXRlLmlzU2F2aW5nKS50b0JlKGZhbHNlKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1344,16 +1345,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBlc2xpbnQtZGlzYWJsZS1uZXh0LWxpbmUgY2FtZWxjYXNlCiAgVU5TQUZFX2NvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMgPSAobmV3UHJvcHM6IFByb3BzKSA9PiB7CiAgICBjb25zdCB7IHN0YXR1cywgb25DbG9zZSB9ID0gdGhpcy5wcm9wcwogICAgaWYgKHN0YXR1cyA9PT0gJ0xPQURJTkcnICYmIG5ld1Byb3BzLnN0YXR1cyA9PT0gJ0RPTkUnKSB7CiAgICAgIG9uQ2xvc2UoKQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgIHRyZWUub25Eb25lKCkKICAgIGF3YWl0Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">PSAoY29tcGFueUdvYWxJZDogbnVtYmVyKSA9PiB7CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgZ29hbDogewogICAgICAgIC4uLnRoaXMuc3RhdGUuZ29hbCwKICAgICAgICBjb21wYW55R29hbElkOiBjb21wYW55R29hbElkIHx8IG51bGwKICAgICAgfQogICAgfSkKICB9CgogIG9uRG9uZSA9ICgpID0+IHsKICAgIGxldCBwcm9taXNlCiAgICBpZiAodGhpcy5wcm9wcy5zZWxlY3RlZEdvYWxJZCkgewogICAgICBwcm9taXNlID0gdGhpcy5wcm9wcy51cGRhdGVHb2FsKHRoaXMuc3RhdGUuZ29hbCwgZmFsc2UpCiAgICB9IGVsc2UgewogICAgICBwcm9taXNlID0gdGhpcy5wcm9wcy5zYXZlR29hbCh0aGlzLnN0YXRlLmdvYWwpCiAgICB9CiAgICB0aGlzLnNldFN0YXRlKHsgaXNTYXZpbmc6IHRydWUgfSkKICAgIHByb21pc2UudGhlbigoKSA9PiA=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgaXQoJ1JlbmRlcnMgYSBUaW1lbGluZU1vZGFsIGNvbXBvbmVudCcsICgpID0+IHsKICAgICAgY29uc3QgY29tcG9uZW50ID0gc2hhbGxvdyg8VGltZWxpbmVNb2RhbCB7Li4uZGVmYXVsdHN9IC8+KQogICAgICBleHBlY3QoY29tcG9uZW50KS50b01hdGNoU25hcHNob3QoKQogICAgfSkKCiAgICBpdCgnRGlzcGxheXMgdGhlIGNvcnJlc3BvbmRpbmcgaWNvbiB3aGVuIHNhdmluZycsICgpID0+IHsKICAgICAgY29uc3QgY29tcG9uZW50ID0gc2hhbGxvdyg8VGltZWxpbmVNb2RhbCB7Li4uZGVmYXVsdHN9IGlzU2F2aW5nPXt0cnVlfSAvPikKPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIHRyZWUub25Eb25lKCkKICAgIGF3YWl0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
