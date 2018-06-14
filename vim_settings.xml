@@ -39,12 +39,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" timestamp="1529014091222">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" timestamp="1529014876974">
         <mark key="'" line="287" column="6" />
-        <mark key="[" line="289" column="13" />
-        <mark key="]" line="289" column="12" />
-        <mark key="." line="289" column="12" />
-        <mark key="^" line="289" column="12" />
+        <mark key="[" line="288" column="29" />
+        <mark key="]" line="288" column="29" />
+        <mark key="." line="288" column="29" />
+        <mark key="^" line="288" column="14" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" timestamp="1513725627267">
         <mark key="'" line="21" column="0" />
@@ -257,7 +257,7 @@
         <mark key="." line="64" column="54" />
         <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1529011873825">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1529014747860">
         <mark key="'" line="265" column="30" />
         <mark key="[" line="92" column="22" />
         <mark key="]" line="86" column="19" />
@@ -1165,7 +1165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="30" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="52" column="48" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="54" column="39" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="57" column="40" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
@@ -1264,14 +1263,15 @@
       <jump line="282" column="23" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="329" column="39" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="315" column="39" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="431" column="33" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="265" column="30" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm1vZGFsQ29udGVudH0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.textArea</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1286,16 +1286,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.textArea</text>
       </register>
       <register name="/" type="4">
-        <text>iconclear</text>
+        <text>titleinput</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJvb3QKICAgICAgLmZpbmQoJy50aXRsZUlucHV0JykKICAgICAgLmdldEFsbCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm1vZGFsQ29udGVudH0+Cg==</text>
+        <text encoding="base64">ICAgICAgLmZpcnN0KCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1306,19 +1306,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvb3QKICAgICAgLmZpbmQoJy50aXRsZUlucHV0JykKICAgICAgLmdldEFsbCgpLmZvckVhY2goY29uc29sZS5sb2cpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm1vZGFsQ29udGVudH0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvb3QKICAgICAgLmZpbmQoJy50aXRsZUlucHV0JykKICAgICAgLmdldEFsbCgpLmZvckVhY2goY29uc29sZS5sb2cpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvb3QuZmluZCgndGl0bGVJbnB1dCcpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmZpcnN0KCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvb3QuZmluZCgndGl0bGVJbnB1dCcpKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1338,32 +1338,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmZpbmQoJy50ZXh0QXJlYScpCg==</text>
+        <text encoding="base64">ICAgICAgLmZpcnN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0cmVlLnN0YXRlKCdpc1NhdmluZycpKS50b0JlKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgLmZpbmQoJy50ZXh0QXJlYScpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
-      <register name="9" type="4">
-        <text>tree.setState({
-      goal: {
-        name: 'Goal Name',
-        companyGoalId: null,
-        userId: 1
-      },
-      readOnly: false
-    }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGV4cGVjdCh0cmVlLnN0YXRlKCdpc1NhdmluZycpKS50b0JlKHRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iconclear</last-search>
+      <last-search>titleinput</last-search>
       <last-offset />
-      <last-pattern>iconclear</last-pattern>
+      <last-pattern>titleinput</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1371,7 +1364,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getgoal</entry>
         <entry>icon</entry>
         <entry>iconclose</entry>
         <entry>saveachievement</entry>
@@ -1391,6 +1383,7 @@
         <entry>titleInput</entry>
         <entry>children</entry>
         <entry>iconclear</entry>
+        <entry>titleinput</entry>
       </history-search>
       <history-cmd>
         <entry>kj;w</entry>
