@@ -7,18 +7,28 @@
   <action id="ActivateSciViewToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="BaseOnThisFunction" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="GoTypeHierarchyPopupMenu.BaseOnThisType" />
   <action id="GotoTest" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="KotlinShellExecute" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="ViewSource" />
   <action id="tasks.switch">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
