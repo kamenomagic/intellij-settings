@@ -106,8 +106,8 @@
         <mark key="^" line="90" column="85" />
         <mark key="." line="90" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" timestamp="1529153346956">
-        <mark key="'" line="64" column="50" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" timestamp="1529344370218">
+        <mark key="'" line="131" column="18" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/testEntities/Projects/Project1/Task4.json" timestamp="1522555873975">
         <mark key="'" line="16" column="10" />
@@ -1200,11 +1200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="27" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
-      <jump line="179" column="36" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
-      <jump line="182" column="46" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
-      <jump line="187" column="58" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
-      <jump line="192" column="50" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="195" column="44" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="9" column="37" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="12" column="13" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
@@ -1300,6 +1295,11 @@
       <jump line="330" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/item-carousel.test.js" />
       <jump line="356" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/item-carousel.test.js" />
       <jump line="64" column="50" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" />
+      <jump line="118" column="64" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" />
+      <jump line="120" column="34" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" />
+      <jump line="125" column="22" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" />
+      <jump line="131" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/test/java/com/instructure/qa/seleniumspec/tests/asemployee/timeline/TimelineGeneralTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1324,7 +1324,7 @@
         <text>cache</text>
       </register>
       <register name="/" type="4">
-        <text>saveachievement</text>
+        <text>achievement</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KGNvbXBvbmVudCkudG9NYXRjaFNuYXBzaG90KCkK</text>
@@ -1389,18 +1389,16 @@
       </register>
     </registers>
     <search>
-      <last-search>saveachievement</last-search>
+      <last-search>achievement</last-search>
       <last-offset />
-      <last-pattern>saveachievement</last-pattern>
+      <last-pattern>achievement</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ZG9lc24ndCA=</entry>
-        <entry>does</entry>
         <entry>reset</entry>
         <entry>titleInpu</entry>
         <entry>iconclear</entry>
@@ -1419,6 +1417,8 @@
         <entry>mount</entry>
         <entry>saveAchievement</entry>
         <entry>saveachievement</entry>
+        <entry>achievmeent</entry>
+        <entry>achievement</entry>
       </history-search>
       <history-cmd>
         <entry>kj;w</entry>
