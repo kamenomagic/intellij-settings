@@ -280,8 +280,8 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1529416332791">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1529438210201">
+        <mark key="'" line="267" column="25" />
         <mark key="[" line="34" column="60" />
         <mark key="]" line="34" column="66" />
         <mark key="." line="34" column="66" />
@@ -446,11 +446,12 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" timestamp="1529416792102">
-        <mark key="[" line="145" column="16" />
-        <mark key="]" line="145" column="24" />
-        <mark key="^" line="145" column="24" />
-        <mark key="." line="145" column="24" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" timestamp="1529438308016">
+        <mark key="'" line="118" column="6" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="151" column="37" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1522554840267">
         <mark key="'" line="102" column="11" />
@@ -1202,11 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="32" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
-      <jump line="30" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
-      <jump line="89" column="7" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
-      <jump line="161" column="40" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
-      <jump line="171" column="46" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" />
       <jump line="260" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/__snapshots__/index.test.js.snap" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/__snapshots__/index.test.js.snap" />
@@ -1272,7 +1268,6 @@
       <jump line="272" column="11" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="83" column="9" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="207" column="34" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
-      <jump line="146" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="208" column="34" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="79" column="15" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="558" column="36" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
@@ -1302,13 +1297,19 @@
       <jump line="78" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/timeline-item-modal-options.js" />
       <jump line="95" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/timeline-item-modal-options.js" />
       <jump line="117" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/timeline-item-modal-options.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
+      <jump line="146" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
+      <jump line="264" column="23" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="267" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="154" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
+      <jump line="118" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>descriptionField</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1323,16 +1324,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>descriptionField</text>
+        <text>OnChange()</text>
       </register>
       <register name="/" type="4">
-        <text>TextClip</text>
+        <text>handledescriptionchange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsgaXNTYXZpbmc6IGZhbHNlIH0pCg==</text>
+        <text encoding="base64">ICAgIHJvb3QuaW5zdGFuY2UoKS5oYW5kbGVEb25lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkKICAgIC8vIHJvb3QuaW5zdGFuY2UoKS5zdGF0ZS5yZWFkT25seSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1343,19 +1344,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
+        <text encoding="base64">ICAgIHJvb3QKICAgICAgLmZpbmQoJy50aXRsZUlucHV0JykKICAgICAgLnNpbXVsYXRlKCdjaGFuZ2UnLCB7IHRhcmdldDogeyB2YWx1ZTogJ05ldyBUaXRsZScgfSB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvb3QuaW5zdGFuY2UoKQo=</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnLmRlc2NyaXB0aW9uRmllbGQnKS5zaW11bGF0ZSgnY2hhbmdlJywgewogICAgICB0YXJnZXQ6IHsKICAgICAgICB2YWx1ZTogJ05ldyBBY2hpZXZlbWVudCBEZXNjcmlwdGlvbicKICAgICAgfQogICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvb3QuaW5zdGFuCg==</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnLnRpdGxlVGV4dCcpLnNpbXVsYXRlKCdjbGljaycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1375,7 +1376,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
+        <text encoding="base64">ICAgIC8vIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkKICAgIC8vIHJvb3QuaW5zdGFuY2UoKS5zdGF0ZS5yZWFkT25seSA9IGZhbHNlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
@@ -1384,24 +1385,23 @@
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
+        <text encoding="base64">ICAgIHJvb3QuaW5zdGFuY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TextClip</last-search>
+      <last-search>handledescriptionchange</last-search>
       <last-offset />
-      <last-pattern>TextClip</last-pattern>
+      <last-pattern>handledescriptionchange</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>===</entry>
         <entry>====</entry>
         <entry>ondone</entry>
         <entry>issasving</entry>
@@ -1421,6 +1421,7 @@
         <entry>handleEdit</entry>
         <entry>TextClips</entry>
         <entry>TextClip</entry>
+        <entry>handledescriptionchange</entry>
       </history-search>
       <history-cmd>
         <entry>kj;w</entry>
@@ -1438,10 +1439,10 @@
         <entry>q!</entry>
         <entry>close</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>vs</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>vs</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
