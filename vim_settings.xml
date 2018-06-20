@@ -780,12 +780,12 @@
         <mark key="." line="60" column="33" />
         <mark key="^" line="60" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.css" timestamp="1528730815740">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.css" timestamp="1529512304648">
+        <mark key="'" line="26" column="22" />
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1520888211174">
         <mark key="'" line="127" column="50" />
@@ -1203,7 +1203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="18" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/__snapshots__/index.test.js.snap" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/__snapshots__/index.test.js.snap" />
       <jump line="209" column="31" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
@@ -1303,6 +1302,7 @@
       <jump line="267" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="154" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="118" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
+      <jump line="25" column="22" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.css" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1424,7 +1424,6 @@
         <entry>handledescriptionchange</entry>
       </history-search>
       <history-cmd>
-        <entry>kj;w</entry>
         <entry>w:</entry>
         <entry>j;w</entry>
         <entry>kkk;w</entry>
@@ -1440,9 +1439,10 @@
         <entry>close</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>noh</entry>
+        <entry>;q</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
