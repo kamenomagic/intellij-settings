@@ -203,6 +203,12 @@
         <mark key="." line="16" column="53" />
         <mark key="^" line="16" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/marker.css" timestamp="1529513690707">
+        <mark key="[" line="217" column="15" />
+        <mark key="]" line="217" column="3" />
+        <mark key="^" line="217" column="3" />
+        <mark key="." line="217" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/wemo/src/main/java/wemo/Wemo.java" timestamp="1522031196022">
         <mark key="'" line="111" column="18" />
         <mark key="[" line="130" column="0" />
@@ -1309,7 +1315,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1330,10 +1336,10 @@
         <text>handledescriptionchange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJvb3QuaW5zdGFuY2UoKS5oYW5kbGVEb25lKCkK</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
+        <text encoding="base64">ICBtaW4td2lkdGg6IDEwMHB4OwogIG1heC13aWR0aDogNTAlOwogIGxlZnQ6IDUwJTsKICBtYXJnaW4tbGVmdDogLTI1JTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1344,16 +1350,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvb3QKICAgICAgLmZpbmQoJy50aXRsZUlucHV0JykKICAgICAgLnNpbXVsYXRlKCdjaGFuZ2UnLCB7IHRhcmdldDogeyB2YWx1ZTogJ05ldyBUaXRsZScgfSB9KQo=</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJvb3QuZmluZCgnLmRlc2NyaXB0aW9uRmllbGQnKS5zaW11bGF0ZSgnY2hhbmdlJywgewogICAgICB0YXJnZXQ6IHsKICAgICAgICB2YWx1ZTogJ05ldyBBY2hpZXZlbWVudCBEZXNjcmlwdGlvbicKICAgICAgfQogICAgfSkK</text>
+        <text encoding="base64">ICAgIHJvb3QKICAgICAgLmZpbmQoJy50aXRsZUlucHV0JykKICAgICAgLnNpbXVsYXRlKCdjaGFuZ2UnLCB7IHRhcmdldDogeyB2YWx1ZTogJ05ldyBUaXRsZScgfSB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJvb3QuZmluZCgnLnRpdGxlVGV4dCcpLnNpbXVsYXRlKCdjbGljaycpCg==</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnLmRlc2NyaXB0aW9uRmllbGQnKS5zaW11bGF0ZSgnY2hhbmdlJywgewogICAgICB0YXJnZXQ6IHsKICAgICAgICB2YWx1ZTogJ05ldyBBY2hpZXZlbWVudCBEZXNjcmlwdGlvbicKICAgICAgfQogICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnLnRpdGxlVGV4dCcpLnNpbXVsYXRlKCdjbGljaycpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
@@ -1376,16 +1382,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkKICAgIC8vIHJvb3QuaW5zdGFuY2UoKS5zdGF0ZS5yZWFkT25seSA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHJvb3QuZmluZCgnVGltZWxpbmVNb2RhbCcpLnNpbXVsYXRlKCdkb25lJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
+        <text encoding="base64">ICAgIC8vIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkKICAgIC8vIHJvb3QuaW5zdGFuY2UoKS5zdGF0ZS5yZWFkT25seSA9IGZhbHNlCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJvb3QuaW5zdGFuY2UoKQo=</text>
+        <text encoding="base64">ICAgIHJvb3Quc2V0U3RhdGUoeyByZWFkT25seTogZmFsc2UgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
