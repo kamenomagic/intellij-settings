@@ -749,6 +749,9 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline-view.js" timestamp="1529682499573">
+        <mark key="'" line="233" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/__snapshots__/edit-goal-modal.test.js.snap" timestamp="1529076506671">
         <mark key="'" line="234" column="35" />
       </file>
@@ -1222,7 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="93" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="119" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="126" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
@@ -1322,6 +1324,7 @@
       <jump line="55" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/node_modules/@inst/bridge-ui-components/src/text-clip/index.js" />
       <jump line="215" column="35" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
       <jump line="137" column="10" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
+      <jump line="233" column="21" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline-view.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
