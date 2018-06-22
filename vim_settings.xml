@@ -188,8 +188,8 @@
         <mark key="." line="2" column="38" />
         <mark key="^" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" timestamp="1528820036487">
-        <mark key="'" line="46" column="13" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" timestamp="1529674022912">
+        <mark key="'" line="137" column="10" />
         <mark key="[" line="228" column="15" />
         <mark key="]" line="219" column="4" />
         <mark key="^" line="219" column="4" />
@@ -1221,8 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
-      <jump line="33" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="58" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="93" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
       <jump line="119" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/__tests__/index.test.js" />
@@ -1321,6 +1319,8 @@
       <jump line="376" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="55" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/node_modules/@inst/bridge-ui-components/src/text-clip/index.js" />
+      <jump line="215" column="35" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
+      <jump line="137" column="10" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
