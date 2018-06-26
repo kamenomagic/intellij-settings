@@ -261,12 +261,12 @@
         <mark key="." line="64" column="54" />
         <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1530031996438">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1530034860352">
         <mark key="'" line="28" column="7" />
-        <mark key="[" line="457" column="18" />
-        <mark key="]" line="457" column="22" />
-        <mark key="." line="457" column="22" />
-        <mark key="^" line="457" column="22" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="6" />
+        <mark key="." line="122" column="6" />
+        <mark key="^" line="121" column="39" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" timestamp="1515291133662">
         <mark key="'" line="6" column="22" />
@@ -289,12 +289,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530031989998">
-        <mark key="'" line="141" column="28" />
-        <mark key="[" line="144" column="24" />
-        <mark key="]" line="144" column="28" />
-        <mark key="." line="144" column="28" />
-        <mark key="^" line="144" column="28" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530034853281">
+        <mark key="'" line="337" column="0" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="151" column="9" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513875965280">
         <mark key="'" line="86" column="16" />
@@ -728,7 +727,7 @@
         <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" timestamp="1530029749238">
-        <mark key="'" line="164" column="14" />
+        <mark key="'" line="163" column="14" />
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="6" />
         <mark key="^" line="60" column="24" />
@@ -1202,7 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="32" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/__tests__/index.test.js" />
       <jump line="216" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" />
       <jump line="31" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
@@ -1302,13 +1300,14 @@
       <jump line="144" column="21" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="184" column="10" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="141" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="335" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>lose</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goKCkgPT4gewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzU2F2aW5nOiBmYWxzZSB9KQogICAgICAgIH0pCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1323,16 +1322,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>lose</text>
+        <text encoding="base64">LCByZWFkT25seTogdHJ1ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>handle</text>
+        <text>cancel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuc2V0U3RhdGUoeyBpc1NhdmluZzogZmFsc2UsIHJlYWRPbmx5OiB0cnVlIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goKCkgPT4gewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzU2F2aW5nOiBmYWxzZSB9KQogICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1343,19 +1342,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmKGFjaGlldmVtZW50LmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKGFjaGlldmVtZW50LmlkKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU2F2ZT17dGhpcy5oYW5kbGVTYXZlQWNoaWV2ZW1lbnR9Cg==</text>
+        <text encoding="base64">ICAgIGlzTmV3R29hbCA9ICEhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoYW5kbGVTYXZlQWNoaWV2ZW1lbnQgPSAoYWNoaWV2ZW1lbnQ6IFRpbWVsaW5lSXRlbSkgPT4gewogICAgY29uc3QgewogICAgICB0aW1lbGluZUFjdGlvbnM6IHsgYWRkQWNoaWV2ZW1lbnQsIHBhdGNoQWNoaWV2ZW1lbnQgfQogICAgfSA9IHRoaXMucHJvcHMKICAgIGNvbnN0IHsgZW1wbG95ZWVJZCwgdGl0bGUsIGRlc2NyaXB0aW9uLCBldmVudFRpbWUgfSA9IGFjaGlldmVtZW50CiAgfQoK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb21pc2UgPQo=</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1375,33 +1374,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhY2hpZXZlbWVudC5pZAogICAgICA/IHBhdGNoQWNoaWV2ZW1lbnQoYWNoaWV2ZW1lbnQuaWQsIGFjaGlldmVtZW50UGF0Y2gpCiAgICAgIDogYWRkQWNoaWV2ZW1lbnQoYWNoaWV2ZW1lbnQpCg==</text>
+        <text encoding="base64">ICAgICAgaWYoaXNOZXdHb2FsKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjaGlldmVtZW50UGF0Y2ggPSB7CiAgICAgIGl0ZW1UeXBlOiAnQUNISUVWRU1FTlQnLAogICAgICBlbXBsb3llZUlkLAogICAgICB0aXRsZSwKICAgICAgZGVzY3JpcHRpb24sCiAgICAgIGV2ZW50VGltZQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhY2hpZXZlbWVudC5pZAogICAgICA/IHBhdGNoQWNoaWV2ZW1lbnQoYWNoaWV2ZW1lbnQuaWQsIGFjaGlldmVtZW50UGF0Y2gpCiAgICAgIDogYWRkQWNoaWV2ZW1lbnQoYWNoaWV2ZW1lbnQpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzU2F2aW5nOiBmYWxzZSwgcmVhZE9ubHk6IHRydWUgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>handle</last-search>
+      <last-search>cancel</last-search>
       <last-offset />
-      <last-pattern>handle</last-pattern>
+      <last-pattern>cancel</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\.map</entry>
         <entry>\.filter</entry>
         <entry>associated</entry>
         <entry>edit-goal</entry>
@@ -1421,6 +1419,7 @@
         <entry>patchAchievmeent</entry>
         <entry>patchAcehivement</entry>
         <entry>handle</entry>
+        <entry>cancel</entry>
       </history-search>
       <history-cmd>
         <entry>w:</entry>
