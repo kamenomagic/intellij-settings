@@ -261,11 +261,11 @@
         <mark key="." line="64" column="54" />
         <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1530034860352">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1530052421676">
         <mark key="'" line="28" column="7" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="6" />
-        <mark key="." line="122" column="6" />
+        <mark key="[" line="118" column="11" />
+        <mark key="]" line="118" column="11" />
+        <mark key="." line="118" column="11" />
         <mark key="^" line="121" column="39" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" timestamp="1515291133662">
@@ -289,11 +289,11 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530034853281">
-        <mark key="'" line="337" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="151" column="9" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530052468484">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="144" column="13" />
+        <mark key="]" line="144" column="13" />
+        <mark key="." line="144" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513875965280">
         <mark key="'" line="86" column="16" />
@@ -1201,7 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" />
       <jump line="31" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
       <jump line="341" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
@@ -1301,13 +1300,14 @@
       <jump line="184" column="10" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="141" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="335" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuY2F0Y2goKCkgPT4gewogICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzU2F2aW5nOiBmYWxzZSB9KQogICAgICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1322,7 +1322,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCByZWFkT25seTogdHJ1ZSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cancel</text>
