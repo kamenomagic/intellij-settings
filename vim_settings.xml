@@ -260,12 +260,12 @@
         <mark key="." line="64" column="54" />
         <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1529595384424">
-        <mark key="'" line="376" column="8" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="42" />
-        <mark key="^" line="86" column="19" />
-        <mark key="." line="86" column="19" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1530027183653">
+        <mark key="'" line="193" column="13" />
+        <mark key="[" line="110" column="37" />
+        <mark key="]" line="110" column="52" />
+        <mark key="^" line="110" column="52" />
+        <mark key="." line="110" column="52" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/core/Ship.java" timestamp="1515291133662">
         <mark key="'" line="6" column="22" />
@@ -288,12 +288,12 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1529438210201">
-        <mark key="'" line="267" column="25" />
-        <mark key="[" line="34" column="60" />
-        <mark key="]" line="34" column="66" />
-        <mark key="." line="34" column="66" />
-        <mark key="^" line="34" column="66" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530027148879">
+        <mark key="'" line="266" column="25" />
+        <mark key="[" line="121" column="41" />
+        <mark key="]" line="121" column="56" />
+        <mark key="." line="121" column="56" />
+        <mark key="^" line="121" column="56" />
       </file>
       <file name="$USER_HOME$/dev/java/asteroids/src/asteroids/Asteroids.java" timestamp="1513875965280">
         <mark key="'" line="86" column="16" />
@@ -1212,10 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="23" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
-      <jump line="8" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
-      <jump line="113" column="27" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="120" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="114" column="87" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="150" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
@@ -1312,13 +1308,17 @@
       <jump line="216" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/list-view/index.js" />
       <jump line="31" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/timeline.js" />
+      <jump line="341" column="25" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="448" column="10" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="207" column="13" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
+      <jump line="194" column="13" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbWFuYWdlcklkLAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5vbkNsb3NlKCkK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1333,16 +1333,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>isSaving</text>
       </register>
       <register name="/" type="4">
-        <text>manager</text>
+        <text>done</text>
       </register>
       <register name="0" type="4">
         <text>associatedUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbWFuYWdlcklkLAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5wcm9wcy5vbkNsb3NlKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1353,19 +1353,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5hZ2VySWQ9e21hbmFnZXJJZH0K</text>
+        <text encoding="base64">ICAgICAgICAgIG9uQ2xvc2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtYW5hZ2VySWQ/OiBudW1iZXIK</text>
+        <text encoding="base64">ICAgICAgbWFuYWdlcklkLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYW5hZ2VySWQ/OiBudW1iZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBtYW5hZ2VySWQ9e21hbmFnZXJJZH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciBkZXNjcmlwdGlvbiB3aXRoIGVtcGxveWVlIDE6MScsICgpID0+IHsKICAgIGNvbnN0IGV2ZW50cyA9IFsKICAgICAgewogICAgICAgIGl0ZW1UeXBlOiAnT05FX09OX09ORScsCiAgICAgICAgdGl0bGU6ICdKb2luIHRoZSBmb3JjZScsCiAgICAgICAgZGVzY3JpcHRpb246ICdMb3JlbSBpcHN1bS4nLAogICAgICAgIGV2ZW50VGltZTogRGF0ZS5wYXJzZSgnMjAxNC0xMi0xNVQxODowMDowMFonKSwKICAgICAgICBhc3NvY2lhdGVkVXNlcjogewogICAgICAgICAgaWQ6IDUxNDAsCiAgICAgICAgICBmdWxsTmFtZTogJ3RoZU5hbWUnCiAgICAgICAgfQogICAgICB9CiAgICBdCiAgICBjb25zdCBjb21wb25lbnQgPSBzaGFsbG93KAogICAgICA8VGltZWxpbmVMaXN0VmlldyB7Li4uZGVmYXVsdHN9IGV2ZW50cz17ZXZlbnRzfSBtYW5hZ2VySWQ9ezUxMzl9IC8+CiAgICApCiAgICBleHBlY3QoCiAgICAgIGNvbXBvbmVudAogICAgICAgIC5maW5kKCd0Ym9keSB0cicpCiAgICAgICAgLmZpbmQoJy5ldmVudERlc2NyaXB0aW9uJykKICAgICAgICAudGV4dCgpCiAgICApLnRvQmUoJ1dpdGg6IHRoZU5hbWUnKQogIH0pCgo=</text>
+        <text encoding="base64">ICBtYW5hZ2VySWQ/OiBudW1iZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6IGBXaXRoOiAke2Fzc29jaWF0ZWRVc2VyLmZ1bGxOYW1lfWAK</text>
+        <text encoding="base64">ICBtYW5hZ2VySWQ/OiBudW1iZXIsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1385,25 +1385,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPyB0aGlzLnByb3BzLm1hbmFnZXJJZCA9PT0gYXNzb2NpYXRlZFVzZXIuaWQK</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHJlbmRlciBkZXNjcmlwdGlvbiB3aXRoIGVtcGxveWVlIDE6MScsICgpID0+IHsKICAgIGNvbnN0IGV2ZW50cyA9IFsKICAgICAgewogICAgICAgIGl0ZW1UeXBlOiAnT05FX09OX09ORScsCiAgICAgICAgdGl0bGU6ICdKb2luIHRoZSBmb3JjZScsCiAgICAgICAgZGVzY3JpcHRpb246ICdMb3JlbSBpcHN1bS4nLAogICAgICAgIGV2ZW50VGltZTogRGF0ZS5wYXJzZSgnMjAxNC0xMi0xNVQxODowMDowMFonKSwKICAgICAgICBhc3NvY2lhdGVkVXNlcjogewogICAgICAgICAgaWQ6IDUxNDAsCiAgICAgICAgICBmdWxsTmFtZTogJ3RoZU5hbWUnCiAgICAgICAgfQogICAgICB9CiAgICBdCiAgICBjb25zdCBjb21wb25lbnQgPSBzaGFsbG93KAogICAgICA8VGltZWxpbmVMaXN0VmlldyB7Li4uZGVmYXVsdHN9IGV2ZW50cz17ZXZlbnRzfSBtYW5hZ2VySWQ9ezUxMzl9IC8+CiAgICApCiAgICBleHBlY3QoCiAgICAgIGNvbXBvbmVudAogICAgICAgIC5maW5kKCd0Ym9keSB0cicpCiAgICAgICAgLmZpbmQoJy5ldmVudERlc2NyaXB0aW9uJykKICAgICAgICAudGV4dCgpCiAgICApLnRvQmUoJ1dpdGg6IHRoZU5hbWUnKQogIH0pCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL2VkaXQtZ29hbC1tb2RhbC5jc3MnCg==</text>
+        <text encoding="base64">ICAgICAgICA6IGBXaXRoOiAke2Fzc29jaWF0ZWRVc2VyLmZ1bGxOYW1lfWAK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPyB0aGlzLnByb3BzLm1hbmFnZXJJZCA9PT0gYXNzb2NpYXRlZFVzZXIuaWQK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>manager</last-search>
+      <last-search>done</last-search>
       <last-offset />
-      <last-pattern>manager</last-pattern>
+      <last-pattern>done</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1411,7 +1411,6 @@
     </search>
     <history>
       <history-search>
-        <entry>achievement</entry>
         <entry>isSaving</entry>
         <entry>issaving</entry>
         <entry>error</entry>
@@ -1431,6 +1430,7 @@
         <entry>edit-goal</entry>
         <entry>with</entry>
         <entry>manager</entry>
+        <entry>done</entry>
       </history-search>
       <history-cmd>
         <entry>w:</entry>
@@ -1448,11 +1448,11 @@
         <entry>close</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vs</entry>
-        <entry>noh</entry>
         <entry>;q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
