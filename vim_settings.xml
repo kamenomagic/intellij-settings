@@ -38,12 +38,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" timestamp="1530195906991">
-        <mark key="'" line="96" column="21" />
-        <mark key="[" line="96" column="22" />
-        <mark key="]" line="96" column="25" />
-        <mark key="." line="96" column="25" />
-        <mark key="^" line="96" column="25" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" timestamp="1530198707358">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="32" />
+        <mark key="." line="113" column="31" />
+        <mark key="^" line="113" column="31" />
       </file>
       <file name="$USER_HOME$/dev/python/herpedex-learning/type_splitter.py" timestamp="1513725627267">
         <mark key="'" line="21" column="0" />
@@ -282,7 +281,7 @@
         <mark key="." line="0" column="36" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530191074362">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530198882658">
         <mark key="'" line="144" column="12" />
         <mark key="[" line="144" column="13" />
         <mark key="]" line="144" column="13" />
@@ -441,12 +440,15 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" timestamp="1530195084973">
-        <mark key="'" line="123" column="102" />
-        <mark key="[" line="123" column="68" />
-        <mark key="]" line="123" column="73" />
-        <mark key="^" line="123" column="73" />
-        <mark key="." line="123" column="73" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/1-1/private-notes/__tests__/index.test.js" timestamp="1530199097294">
+        <mark key="'" line="157" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" timestamp="1530199032913">
+        <mark key="'" line="124" column="102" />
+        <mark key="[" line="128" column="43" />
+        <mark key="]" line="128" column="49" />
+        <mark key="." line="128" column="49" />
+        <mark key="^" line="128" column="49" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/reports/AssetReport.java" timestamp="1522554840267">
         <mark key="'" line="102" column="11" />
@@ -618,6 +620,9 @@
         <mark key="]" line="13" column="29" />
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/components/timeline/utils/__tests__/image-sizes.test.js" timestamp="1530199140665">
+        <mark key="'" line="53" column="17" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/Subscription.java" timestamp="1518440562551">
         <mark key="'" line="85" column="28" />
@@ -854,10 +859,6 @@
         <mark key="^" line="30" column="43" />
         <mark key="." line="30" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.css" timestamp="1529595345282">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-      </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/movies/Movies.java" timestamp="1512973563850">
         <mark key="'" line="36" column="27" />
         <mark key="[" line="25" column="3" />
@@ -1008,7 +1009,7 @@
         <mark key="." line="171" column="49" />
         <mark key="^" line="171" column="49" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530195233635">
+      <file name="/JavaScript Console" timestamp="1530198646436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/config.py" timestamp="1518512814027">
@@ -1193,9 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="8" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
-      <jump line="93" column="27" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
-      <jump line="190" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="136" column="44" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="137" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="138" column="30" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
@@ -1291,15 +1289,18 @@
       <jump line="220" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="207" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
       <jump line="526" column="22" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/settings/1-1/question-bank/__tests__/topic-list.test.js" />
-      <jump line="96" column="21" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
+      <jump line="96" column="15" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
+      <jump line="157" column="26" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/1-1/private-notes/__tests__/index.test.js" />
+      <jump line="53" column="17" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/components/timeline/utils/__tests__/image-sizes.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.catch()</text>
+        <text>toBe</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1314,16 +1315,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.catch()</text>
+        <text>toBe</text>
       </register>
       <register name="/" type="4">
-        <text>promise</text>
+        <text>catch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJvb3QgPSBzaGFsbG93KDxBY2hpZXZlbWVudE1vZGFsIHsuLi5uZXdBY2hpZXZlbWVudFByb3BzfSAvPikK</text>
+        <text encoding="base64">ICAgIGF3YWl0IG1vY2tIYW5kbGVDcmVhdGUuY2F0Y2gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFByb21pc2UuCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChtb2NrSGFuZGxlQ3JlYXRlLnJlamUpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1334,19 +1335,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgpCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0cmVlLmluc3RhbmNlKCkuaGFuZGxlRWRpdENvbXBsZXRlKS50b0hhdmVCZWVuQ2FsbGVkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRyZWUgPSBzaGFsbG93KDxFZGl0R29hbE1vZGFsIHsuLi5wcm9wc30gY3JlYXRlR29hbD17bW9ja0hhbmRsZUNyZWF0ZX0gLz4pCiAgICB0cmVlLnNldFN0YXRlKHsKICAgICAgZ29hbDogewogICAgICAgIG5hbWU6ICdHb2FsIE5hbWUnLAogICAgICAgIGNvbXBhbnlHb2FsSWQ6IG51bGwsCiAgICAgICAgdXNlcklkOiAxCiAgICAgIH0sCiAgICAgIHJlYWRPbmx5OiBmYWxzZQogICAgfSkK</text>
+        <text encoding="base64">ICAgIFByb21pc2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXJjaGl2ZWQ6IGFjaGlldmVtZW50LmFyY2hpdmVkCg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWQ6IGFjaGlldmVtZW50LmlkLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRyZWUgPSBzaGFsbG93KDxFZGl0R29hbE1vZGFsIHsuLi5wcm9wc30gY3JlYXRlR29hbD17bW9ja0hhbmRsZUNyZWF0ZX0gLz4pCiAgICB0cmVlLnNldFN0YXRlKHsKICAgICAgZ29hbDogewogICAgICAgIG5hbWU6ICdHb2FsIE5hbWUnLAogICAgICAgIGNvbXBhbnlHb2FsSWQ6IG51bGwsCiAgICAgICAgdXNlcklkOiAxCiAgICAgIH0sCiAgICAgIHJlYWRPbmx5OiBmYWxzZQogICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWQ6IGFjaGlldmVtZW50LmlkLAo=</text>
+        <text encoding="base64">ICAgICAgYXJjaGl2ZWQ6IGFjaGlldmVtZW50LmFyY2hpdmVkCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1366,25 +1367,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBpdCgnc2F2ZXMgdGhlIGFjaGlldmVtZW50IHdoZW4gY2xpY2tpbmcgb24gRG9uZSAnLCAoKSA9PiB7CiAgLy8gICBjb25zdCBtb2NrT25TYXZlID0gamVzdC5mbigoKSA9PiBQcm9taXNlLnJlc29sdmUoKSkKICAvLyAgIGNvbnN0IHJvb3QgPSBzaGFsbG93KAogIC8vICAgICA8QWNoaWV2ZW1lbnRNb2RhbCB7Li4uYWNoaWV2ZW1lbnRQcm9wc30gb25TYXZlPXttb2NrT25TYXZlfSAvPgogIC8vICAgKQogIC8vICAgcm9vdC5pbnN0YW5jZSgpLmhhbmRsZVRpdGxlU2VsZWN0ZWQoKQogIC8vICAgcm9vdC5pbnN0YW5jZSgpLmhhbmRsZURlc2NyaXB0aW9uQ2hhbmdlKHsKICAvLyAgICAgdGFyZ2V0OiB7CiAgLy8gICAgICAgdmFsdWU6ICdOZXcgQWNoaWV2ZW1lbnQgRGVzY3JpcHRpb24nCiAgLy8gICAgIH0KICAvLyAgIH0pCiAgLy8gICByb290Lmluc3RhbmNlKCkuaGFuZGxlVGl0bGVDaGFuZ2UoewogIC8vICAgICB0YXJnZXQ6IHsKICAvLyAgICAgICB2YWx1ZTogJ05ldyBUaXRsZScKICAvLyAgICAgfQogIC8vICAgfSkKICAvLyAgIHJvb3QuaW5zdGFuY2UoKS5oYW5kbGVEb25lKCkKICAvLyAgIGV4cGVjdChtb2NrT25TYXZlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7CiAgLy8gICAgIGlkOiBhY2hpZXZlbWVudC5pZCwKICAvLyAgICAgZW1wbG95ZWVJZDogYWNoaWV2ZW1lbnQuZW1wbG95ZWVJZCwKICAvLyAgICAgdGl0bGU6ICdOZXcgVGl0bGUnLAogIC8vICAgICBkZXNjcmlwdGlvbjogJ05ldyBBY2hpZXZlbWVudCBEZXNjcmlwdGlvbicsCiAgLy8gICAgIGV2ZW50VGltZTogYWNoaWV2ZW1lbnQuZXZlbnRUaW1lLAogIC8vICAgICBpdGVtVHlwZTogJ0FDSElFVkVNRU5UJywKICAvLyAgICAgYXJjaGl2ZWQ6IGFjaGlldmVtZW50LmFyY2hpdmVkCiAgLy8gICB9KQogIC8vIH0pCg==</text>
+        <text encoding="base64">ICAgICAgaWQ6IGFjaGlldmVtZW50LmlkLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlQWNoaWV2ZW1lbnQ6IGplc3QuZm4oKCkgPT4gUHJvbWlzZS5yZXNvbHZlKCkpLAo=</text>
+        <text encoding="base64">ICAgICAgaWQ6IGFjaGlldmVtZW50LmlkLAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYWNoaWV2ZW1lbnQ6IG5ld0FjaGlldmVtZW50LAogICAgICBjcmVhdGVBY2hpZXZlbWVudDogamVzdC5mbigoKSA9PiBQcm9taXNlLnJlc29sdmUoKSksCg==</text>
+        <text encoding="base64">ICAvLyBpdCgnc2F2ZXMgdGhlIGFjaGlldmVtZW50IHdoZW4gY2xpY2tpbmcgb24gRG9uZSAnLCAoKSA9PiB7CiAgLy8gICBjb25zdCBtb2NrT25TYXZlID0gamVzdC5mbigoKSA9PiBQcm9taXNlLnJlc29sdmUoKSkKICAvLyAgIGNvbnN0IHJvb3QgPSBzaGFsbG93KAogIC8vICAgICA8QWNoaWV2ZW1lbnRNb2RhbCB7Li4uYWNoaWV2ZW1lbnRQcm9wc30gb25TYXZlPXttb2NrT25TYXZlfSAvPgogIC8vICAgKQogIC8vICAgcm9vdC5pbnN0YW5jZSgpLmhhbmRsZVRpdGxlU2VsZWN0ZWQoKQogIC8vICAgcm9vdC5pbnN0YW5jZSgpLmhhbmRsZURlc2NyaXB0aW9uQ2hhbmdlKHsKICAvLyAgICAgdGFyZ2V0OiB7CiAgLy8gICAgICAgdmFsdWU6ICdOZXcgQWNoaWV2ZW1lbnQgRGVzY3JpcHRpb24nCiAgLy8gICAgIH0KICAvLyAgIH0pCiAgLy8gICByb290Lmluc3RhbmNlKCkuaGFuZGxlVGl0bGVDaGFuZ2UoewogIC8vICAgICB0YXJnZXQ6IHsKICAvLyAgICAgICB2YWx1ZTogJ05ldyBUaXRsZScKICAvLyAgICAgfQogIC8vICAgfSkKICAvLyAgIHJvb3QuaW5zdGFuY2UoKS5oYW5kbGVEb25lKCkKICAvLyAgIGV4cGVjdChtb2NrT25TYXZlKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7CiAgLy8gICAgIGlkOiBhY2hpZXZlbWVudC5pZCwKICAvLyAgICAgZW1wbG95ZWVJZDogYWNoaWV2ZW1lbnQuZW1wbG95ZWVJZCwKICAvLyAgICAgdGl0bGU6ICdOZXcgVGl0bGUnLAogIC8vICAgICBkZXNjcmlwdGlvbjogJ05ldyBBY2hpZXZlbWVudCBEZXNjcmlwdGlvbicsCiAgLy8gICAgIGV2ZW50VGltZTogYWNoaWV2ZW1lbnQuZXZlbnRUaW1lLAogIC8vICAgICBpdGVtVHlwZTogJ0FDSElFVkVNRU5UJywKICAvLyAgICAgYXJjaGl2ZWQ6IGFjaGlldmVtZW50LmFyY2hpdmVkCiAgLy8gICB9KQogIC8vIH0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>promise</last-search>
+      <last-search>catch</last-search>
       <last-offset />
-      <last-pattern>promise</last-pattern>
+      <last-pattern>catch</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1392,7 +1393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onClose</entry>
         <entry>ondone</entry>
         <entry>fale</entry>
         <entry>isSaving</entry>
@@ -1412,6 +1412,7 @@
         <entry>update</entry>
         <entry>done</entry>
         <entry>promise</entry>
+        <entry>catch</entry>
       </history-search>
       <history-cmd>
         <entry>w:</entry>
@@ -1432,8 +1433,8 @@
         <entry>wq</entry>
         <entry>vs</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
