@@ -163,7 +163,7 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/regression/tests/test_instrumenter.py" timestamp="1530210542820" />
+      <file name="$USER_HOME$/dev/python/censor/regression/tests/test_instrumenter.py" timestamp="1530299653326" />
       <file name="$USER_HOME$/dev/python/censor/tests/fixtures/while_to_do_while/simple_golden.c" timestamp="1518129674605">
         <mark key="'" line="2" column="4" />
         <mark key="[" line="2" column="0" />
@@ -363,7 +363,7 @@
         <mark key="." line="31" column="32" />
         <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/main.py" timestamp="1518476469679">
+      <file name="$USER_HOME$/dev/python/censor/main.py" timestamp="1530299585708">
         <mark key="'" line="50" column="16" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
@@ -1316,7 +1316,7 @@
         <text>saveAchievement</text>
       </register>
       <register name="/" type="4">
-        <text>switch</text>
+        <text>instrument</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KGNvbXBvbmVudCkudG9NYXRjaFNuYXBzaG90KCkK</text>
@@ -1381,9 +1381,9 @@
       </register>
     </registers>
     <search>
-      <last-search>switch</last-search>
+      <last-search>instrument</last-search>
       <last-offset />
-      <last-pattern>switch</last-pattern>
+      <last-pattern>instrument</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -1391,7 +1391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectedgoalId</entry>
         <entry>selectedId</entry>
         <entry>id</entry>
         <entry>index</entry>
@@ -1411,6 +1410,7 @@
         <entry>goals</entry>
         <entry>handles saving an</entry>
         <entry>switch</entry>
+        <entry>instrument</entry>
       </history-search>
       <history-cmd>
         <entry>w'w</entry>
