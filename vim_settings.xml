@@ -196,12 +196,12 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/flow-typed/app-state.js" timestamp="1526315844001">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/utils.py" timestamp="1530912071206">
+      <file name="$USER_HOME$/dev/python/censor/utils.py" timestamp="1530912163491">
         <mark key="'" line="68" column="34" />
-        <mark key="[" line="76" column="38" />
-        <mark key="]" line="76" column="38" />
-        <mark key="^" line="76" column="47" />
-        <mark key="." line="76" column="38" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="76" column="40" />
+        <mark key="^" line="76" column="40" />
+        <mark key="." line="76" column="40" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/item-carousel.js" timestamp="1527731613834">
         <mark key="'" line="255" column="26" />
@@ -1437,7 +1437,7 @@
         <text encoding="base64">ICAgICAgICBpbmRleCA9IHNvdXJjZS5maW5kKCdpbnB1dCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1491,8 +1491,8 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
