@@ -972,12 +972,12 @@
         <mark key="." line="171" column="49" />
         <mark key="^" line="171" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1530906604428">
-        <mark key="'" line="108" column="44" />
-        <mark key="[" line="66" column="65" />
-        <mark key="]" line="66" column="66" />
-        <mark key="." line="66" column="65" />
-        <mark key="^" line="66" column="68" />
+      <file name="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" timestamp="1530907714211">
+        <mark key="'" line="156" column="32" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1522555686405">
         <mark key="'" line="176" column="8" />
@@ -1119,7 +1119,7 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/reducer.js" timestamp="1529684135082">
         <mark key="'" line="24" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/python/censor/instrumenter/logger.py" timestamp="1530823333875">
+      <file name="$USER_HOME$/dev/python/censor/instrumenter/logger.py" timestamp="1530907781687">
         <mark key="'" line="114" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeo-02-08.csv" timestamp="1518124688703">
@@ -1268,7 +1268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="27" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="190" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="136" column="44" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="137" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
@@ -1368,6 +1367,7 @@
       <jump line="6" column="15" filename="$USER_HOME$/dev/python/censor/transforms/lift_node.py" />
       <jump line="114" column="0" filename="$USER_HOME$/dev/python/censor/instrumenter/logger.py" />
       <jump line="108" column="44" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
+      <jump line="156" column="32" filename="$USER_HOME$/dev/python/censor/instrumenter/instrumenter.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
