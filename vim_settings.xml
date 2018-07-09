@@ -661,6 +661,7 @@
       <file name="/fragment.java" timestamp="1528816837377">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/types.js" timestamp="1531144856139" />
       <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" timestamp="1522198599554">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="130" column="32" />
@@ -1182,6 +1183,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" timestamp="1531144699534">
+        <mark key="'" line="21" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/MorningCoreAlarm.java" timestamp="1516433928047">
         <mark key="'" line="12" column="10" />
         <mark key="[" line="14" column="57" />
@@ -1233,8 +1237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="139" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="177" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="156" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
@@ -1333,6 +1335,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/goal/actions.js" />
       <jump line="331" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/goal/actions.js" />
       <jump line="260" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/goal/actions.js" />
+      <jump line="37" column="45" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" />
+      <jump line="21" column="48" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
