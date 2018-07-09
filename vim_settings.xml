@@ -65,11 +65,11 @@
         <mark key="." line="17" column="33" />
         <mark key="^" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/agenda-modal.js" timestamp="1531150144153">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="21" column="33" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/agenda-modal.js" timestamp="1531151299398">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/zeoanalyzer" timestamp="1518516609106">
         <mark key="'" line="26" column="21" />
@@ -272,6 +272,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/util/routes.js" timestamp="1531151768477">
+        <mark key="'" line="210" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/reducer.js" timestamp="1527696932249">
         <mark key="'" line="12" column="25" />
       </file>
@@ -338,9 +341,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="33" column="60" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/77f6389e-30f9-43aa-93f8-70715c60fe1f/console.sql" timestamp="1529158147352">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/totals_graph.py" timestamp="1518191155137">
         <mark key="'" line="37" column="31" />
         <mark key="[" line="37" column="0" />
@@ -381,9 +381,6 @@
         <mark key="]" line="104" column="24" />
         <mark key="." line="104" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/toolbar/toggle-view.css" timestamp="1528733241318">
-        <mark key="[" line="6" column="21" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" timestamp="1522002749762">
         <mark key="'" line="32" column="2" />
         <mark key="[" line="21" column="10" />
@@ -404,6 +401,7 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/item-carousel.js" timestamp="1531151595234" />
       <file name="$USER_HOME$/dev/python/zeoanalyzer/gmail.py" timestamp="1518332083104">
         <mark key="'" line="22" column="51" />
         <mark key="[" line="22" column="52" />
@@ -509,6 +507,7 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/timeline.js" timestamp="1531151820013" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/project/ProjectService.java" timestamp="1515573044077">
         <mark key="'" line="43" column="56" />
         <mark key="[" line="171" column="4" />
@@ -602,9 +601,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529158110766">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/snake/src/snake/art/Screen.java" timestamp="1514434231810">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="0" />
@@ -664,9 +660,7 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1528816837377">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/types.js" timestamp="1531151717908" />
       <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/RouterFilter.java" timestamp="1522198599554">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="130" column="32" />
@@ -1061,6 +1055,13 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/router.js" timestamp="1531151701309">
+        <mark key="'" line="131" column="24" />
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="66" />
+        <mark key="^" line="6" column="66" />
+        <mark key="." line="6" column="66" />
+      </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-ddl/script/init_db.sh" timestamp="1525442745114">
         <mark key="'" line="43" column="0" />
       </file>
@@ -1166,9 +1167,6 @@
         <mark key="^" line="46" column="131" />
         <mark key="." line="46" column="131" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530207565623">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity/webcams/src/main/java/webcams/Webcams.java" timestamp="1524943171097">
         <mark key="'" line="44" column="23" />
         <mark key="[" line="57" column="0" />
@@ -1189,7 +1187,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" timestamp="1531144699534">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" timestamp="1531151606124">
         <mark key="'" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/dev/java/synchronicity/src/main/java/synchronicity/schedule/SleepSchedule/MorningCoreAlarm.java" timestamp="1516433928047">
@@ -1243,11 +1241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
-      <jump line="177" column="16" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
-      <jump line="156" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
-      <jump line="144" column="12" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" />
       <jump line="101" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="114" column="21" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="116" column="68" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
@@ -1343,13 +1336,18 @@
       <jump line="260" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/goal/actions.js" />
       <jump line="37" column="45" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" />
       <jump line="21" column="48" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" />
+      <jump line="38" column="12" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/router.js" />
+      <jump line="52" column="22" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/router.js" />
+      <jump line="131" column="24" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/router.js" />
+      <jump line="46" column="29" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/util/routes.js" />
+      <jump line="210" column="5" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/util/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>edit-goal-modal</text>
+        <text>e</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1364,10 +1362,10 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>edit-goal-modal</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>creators</text>
+        <text>timeline</text>
       </register>
       <register name="0" type="4">
         <text>, isSaving: false</text>
@@ -1432,18 +1430,16 @@
       </register>
     </registers>
     <search>
-      <last-search>creators</last-search>
+      <last-search>timeline</last-search>
       <last-offset />
-      <last-pattern>creators</last-pattern>
+      <last-pattern>timeline</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onsave</entry>
-        <entry>mockoncreate</entry>
         <entry>achievementprops</entry>
         <entry>newAchievement</entry>
         <entry>mock</entry>
@@ -1462,6 +1458,8 @@
         <entry>complete</entry>
         <entry>router</entry>
         <entry>creators</entry>
+        <entry>type</entry>
+        <entry>timeline</entry>
       </history-search>
       <history-cmd>
         <entry>w:</entry>
