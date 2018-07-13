@@ -85,12 +85,12 @@
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/router.js" timestamp="1530551121300">
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/router.js" timestamp="1531481834492">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="285" column="86" />
-        <mark key="]" line="285" column="86" />
-        <mark key="." line="285" column="86" />
-        <mark key="^" line="285" column="86" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="2" />
+        <mark key="." line="275" column="2" />
+        <mark key="^" line="275" column="1" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1522348091636">
         <mark key="'" line="23" column="18" />
@@ -1335,7 +1335,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy15OiB2aXNpYmxlOwo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1350,16 +1350,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>scroll</text>
+        <text>{ context: { isFeatureEnabled } }</text>
       </register>
       <register name="/" type="4">
         <text>timeline</text>
       </register>
-      <register name="0" type="4">
-        <text>x</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAubGF6eShnb2FscygpLCAoeyBjb250ZXh0OiB7IGlzRmVhdHVyZUVuYWJsZWQgfSB9KSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy15OiB2aXNpYmxlOwo=</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1370,19 +1370,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy14OiBoaWRkZW47Cg==</text>
+        <text encoding="base64">ICAubGF6eShnb2FscygpLCAoKSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy14OiBzY3JvbGw7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy15OiB2aXNpYmxlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdy15OiB2aXNpYmxlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdy14OiBoaWRkZW47Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1402,16 +1402,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdy14OiBzY3JvbGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB8ICdnb2Fsc19yZXdyaXRlJwo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdy15OiB2aXNpYmxlOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZChpbXBvcnQoJy4uL2dvYWwvcm91dGVyJyAvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiZ29hbHMiICovKSkK</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
