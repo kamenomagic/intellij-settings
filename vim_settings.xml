@@ -93,9 +93,6 @@
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/router.js" timestamp="1531755597746">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="10" />
-        <mark key="." line="252" column="10" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/slack/src/main/java/slack/Slack.java" timestamp="1522348091636">
         <mark key="'" line="23" column="18" />
@@ -384,12 +381,6 @@
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" timestamp="1527612151555">
         <mark key="'" line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/team/router.js" timestamp="1530551132483">
-        <mark key="'" line="107" column="84" />
-        <mark key="[" line="104" column="24" />
-        <mark key="]" line="104" column="24" />
-        <mark key="." line="104" column="24" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/api/src/main/java/api/RouteLocator.java" timestamp="1522002749762">
         <mark key="'" line="32" column="2" />
@@ -847,7 +838,12 @@
         <mark key="^" line="25" column="94" />
         <mark key="." line="25" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/main/resources/features.yml" timestamp="1531499668349" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/src/main/resources/features.yml" timestamp="1531915059569">
+        <mark key="[" line="163" column="23" />
+        <mark key="]" line="163" column="27" />
+        <mark key="." line="163" column="27" />
+        <mark key="^" line="163" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/DataLoader.java" timestamp="1516701062286">
         <mark key="'" line="27" column="13" />
         <mark key="[" line="438" column="49" />
@@ -1044,12 +1040,6 @@
         <mark key="]" line="137" column="0" />
         <mark key="^" line="136" column="94" />
         <mark key="." line="137" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline-modal/index.js" timestamp="1530189185627">
-        <mark key="'" line="189" column="32" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="6" />
-        <mark key="." line="19" column="6" />
       </file>
       <file name="$USER_HOME$/dev/python/zeoanalyzer/graphs/graph_builder.py" timestamp="1518515596092">
         <mark key="'" line="8" column="13" />
@@ -1370,8 +1360,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgaXQoJ3Bhc3NlcyB0aGUgc2VsZWN0ZWQgZGF0ZSB0byB0aGUgdGltZWxpbmUgY29tcG9uZW50JywgKCkgPT4gewogICAgY29uc3QgZGF0ZSA9IG5ldyBEYXRlKDIwMTcsIDksIDIwLCAxMCwgNSkKICAgIGNvbnN0IGxvY2F0aW9uID0gewogICAgICAuLi5kZWZhdWx0cy5sb2NhdGlvbiwKICAgICAgcXVlcnk6IHsgYXQ6ICtkYXRlIH0KICAgIH0KICAgIGNvbnN0IHJvb3QgPSBzaGFsbG93KDxQYWdlIHsuLi5kZWZhdWx0c30gbG9jYXRpb249e2xvY2F0aW9ufSAvPikKICAgIGV4cGVjdChyb290LmZpbmQoJ1RpbWVsaW5lJykucHJvcCgnc2VsZWN0ZWREYXRlJykpLnRvRXF1YWwoZGF0ZSkKICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1386,7 +1376,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>:type?/:itemIds?</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>router</text>
