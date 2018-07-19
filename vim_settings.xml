@@ -632,7 +632,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1528816837377">
+      <file name="/fragment.java" timestamp="1532034220329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/albumart/spotify.py" timestamp="1521477714830">
@@ -1067,6 +1067,12 @@
         <mark key="." line="111" column="15" />
         <mark key="^" line="111" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/OMPCGRaceDetector.java" timestamp="1532034202142">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="38" />
+        <mark key="^" line="3" column="38" />
+        <mark key="." line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/hub/Dockerfile" timestamp="1521596428183">
         <mark key="'" line="4" column="10" />
         <mark key="[" line="3" column="0" />
@@ -1417,8 +1423,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBZGRlZCBtYWMgc3VwcG9ydCBhbmQgZ290IGluc3RydW1lbnRlciBydW5uaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1433,7 +1439,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>yeti</text>
