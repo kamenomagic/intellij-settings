@@ -1070,11 +1070,11 @@
         <mark key="." line="111" column="15" />
         <mark key="^" line="111" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/OMPCGRaceDetector.java" timestamp="1532039210449">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/OMPCGRaceDetector.java" timestamp="1532116419862">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="4" column="36" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/hub/Dockerfile" timestamp="1521596428183">
         <mark key="'" line="4" column="10" />
@@ -1439,8 +1439,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -1464,7 +1464,7 @@
         <text>, isSaving: false</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1478,16 +1478,16 @@
         <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB8ICdnb2Fsc19yZXdyaXRlJwo=</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZChpbXBvcnQoJy4uL2dvYWwvcm91dGVyJyAvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiZ29hbHMiICovKSkK</text>
+        <text encoding="base64">ICB8ICdnb2Fsc19yZXdyaXRlJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlzRmVhdHVyZUVuYWJsZWQoJ2dvYWxzX3Jld3JpdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZChpbXBvcnQoJy4uL2dvYWwvcm91dGVyJyAvKiB3ZWJwYWNrQ2h1bmtOYW1lOiAiZ29hbHMiICovKSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -1507,16 +1507,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPyBsb2FkKAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlzRmVhdHVyZUVuYWJsZWQoJ2dvYWxzX3Jld3JpdGUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCiAgICAgIDogbG9hZChpbXBvcnQoJy4vcGFnZXMvZ29hbC9yb3V0ZXInIC8qIHdlYnBhY2tDaHVua05hbWU6ICJnb2FscyIgKi8pKQo=</text>
+        <text encoding="base64">ICAgICAgPyBsb2FkKAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLnNlbGVjdGVkR29hbElkKSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLnVwZGF0ZUdvYWwodGhpcy5zdGF0ZS5nb2FsLCBmYWxzZSkKICAgIH0gZWxzZSB7CiAgICAgIHByb21pc2UgPSB0aGlzLnByb3BzLmNyZWF0ZUdvYWwodGhpcy5zdGF0ZS5nb2FsKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICApCiAgICAgIDogbG9hZChpbXBvcnQoJy4vcGFnZXMvZ29hbC9yb3V0ZXInIC8qIHdlYnBhY2tDaHVua05hbWU6ICJnb2FscyIgKi8pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
