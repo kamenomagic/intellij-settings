@@ -69,6 +69,13 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/1-1/private-notes/__tests__/index.test.js" timestamp="1530199097294">
         <mark key="'" line="157" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/runOne.sh" timestamp="1532380129683">
+        <mark key="'" line="21" column="37" />
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/77f6389e-30f9-43aa-93f8-70715c60fe1f/console.sql" timestamp="1529158147352">
         <mark key="[" line="0" column="0" />
       </file>
@@ -86,6 +93,11 @@
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/summary/__tests__/reducer.test.js" timestamp="1527612151555">
         <mark key="'" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/compileTool.sh" timestamp="1532380110358">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/scripts/sandbox/yeti_instrumented.c" timestamp="1531251974362">
         <mark key="'" line="85" column="0" />
@@ -269,10 +281,14 @@
       <file name="/fragment.java" timestamp="1532118864612">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/runAll.sh" timestamp="1532380325617">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="3" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
-      <jump line="89" column="2" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="151" column="44" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="149" column="5" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="34" column="6" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
@@ -371,13 +387,15 @@
       <jump line="155" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
       <jump line="178" column="12" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
       <jump line="197" column="4" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/ArrayList.java" />
+      <jump line="18" column="37" filename="$USER_HOME$/dev/java/spicy-bench/runOne.sh" />
+      <jump line="9" column="1" filename="$USER_HOME$/dev/java/spicy-bench/compileTool.sh" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgWyAkU1BJQ1lfQkVOQ0hfUk9PVCAteiBdOyB0aGVuCiAgICBTUElDWV9CRU5DSF9ST09UPSQxCmZpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -392,13 +410,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text encoding="base64">L3Vzci9iaW4vdGltZSAtZiAiTmF0aXZlIFJ1bm5pbmcgVGltZTogJWUgc2Vjb25kcyIg</text>
       </register>
       <register name="/" type="4">
-        <text>read</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgcHVibGljIGJvb2xlYW4gaXNSZWFkKCkgewogICAgcmV0dXJuIGdldExvd2VzdENsYXNzKHRoaXMpLmVxdWFscyhSZWFkLmNsYXNzKTsKICB9Cg==</text>
+        <text encoding="base64">aWYgWyAkU1BJQ1lfQkVOQ0hfUk9PVCAteiBdOyB0aGVuCiAgICBTUElDWV9CRU5DSF9ST09UPSQxCmZpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -466,17 +484,16 @@
       </register>
     </registers>
     <search>
-      <last-search>read</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>read</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>newAchievement</entry>
         <entry>mock</entry>
         <entry>times</entry>
         <entry>tree</entry>
@@ -496,6 +513,7 @@
         <entry>yeti</entry>
         <entry>parentThreadId</entry>
         <entry>read</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>w:</entry>
