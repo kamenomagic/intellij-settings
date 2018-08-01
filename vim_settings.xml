@@ -101,11 +101,11 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/assessment/actions.js" timestamp="1526316027185">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/summary/index.css" timestamp="1533143222244">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="33" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/summary/index.css" timestamp="1533144688230">
+        <mark key="'" line="33" column="18" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="1" column="33" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-ddl/script/init_db.sh" timestamp="1525442745114">
@@ -409,7 +409,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IHZhcigtLWhlYWRlci1jb250ZW50LWhlaWdodCk7Cg==</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -433,7 +433,7 @@
         <text encoding="base64">aWYgWyAkU1BJQ1lfQkVOQ0hfUk9PVCAteiBdOyB0aGVuCiAgICBTUElDWV9CRU5DSF9ST09UPSQxCmZpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IHZhcigtLWhlYWRlci1jb250ZW50LWhlaWdodCk7Cg==</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,19 +450,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogcmVkOwo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IHZhcigtLWhlYWRlci1jb250ZW50LWhlaWdodCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogcmVkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiB2YXIoLS1zZWN0aW9uLW1hcmdpbi1ib3R0b20pOwo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiB2YXIoLS1zZWN0aW9uLW1hcmdpbi1ib3R0b20pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogNTAlOwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiB2YXIoLS1zZWN0aW9uLW1hcmdpbi1ib3R0b20pOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -482,16 +482,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+        <text encoding="base64">ICB3aWR0aDogNTAlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
+        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LXNlbGY6IGNlbnRlcjsK</text>
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
