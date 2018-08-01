@@ -30,6 +30,7 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/1-1/actions.js" timestamp="1527257216167">
         <mark key="'" line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/career/page.css" timestamp="1533146049624" />
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/node_modules/@inst/bridge-ui-components/src/text-clip/index.js" timestamp="1529595411233">
         <mark key="'" line="55" column="4" />
       </file>
@@ -101,12 +102,12 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/assessment/actions.js" timestamp="1526316027185">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/summary/index.css" timestamp="1533144688230">
-        <mark key="'" line="33" column="18" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="1" column="33" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/summary/index.css" timestamp="1533147220084">
+        <mark key="'" line="36" column="18" />
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-ddl/script/init_db.sh" timestamp="1525442745114">
         <mark key="'" line="43" column="0" />
@@ -132,6 +133,7 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/timeline.css" timestamp="1533145803158" />
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/flow-typed/common-types.js" timestamp="1530631965438">
         <mark key="[" line="766" column="0" />
         <mark key="]" line="766" column="0" />
@@ -143,10 +145,11 @@
         <mark key="^" line="4" column="38" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/header/index.css" timestamp="1533142726459">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/header/index.css" timestamp="1533145865938">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/instrumenter/scripts/sandbox/yeti_out.log" timestamp="1532118467585">
         <mark key="'" line="1016" column="0" />
@@ -408,8 +411,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -424,7 +427,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>background</text>
@@ -433,7 +436,7 @@
         <text encoding="base64">aWYgWyAkU1BJQ1lfQkVOQ0hfUk9PVCAteiBdOyB0aGVuCiAgICBTUElDWV9CRU5DSF9ST09UPSQxCmZpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogZ3JlZW47Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,16 +453,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IHZhcigtLWhlYWRlci1jb250ZW50LWhlaWdodCk7Cg==</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogcmVkOwo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IHZhcigtLWhlYWRlci1jb250ZW50LWhlaWdodCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogcmVkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiB2YXIoLS1zZWN0aW9uLW1hcmdpbi1ib3R0b20pOwo=</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiB2YXIoLS1zZWN0aW9uLW1hcmdpbi1ib3R0b20pOwo=</text>
@@ -482,16 +485,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aWR0aDogNTAlOwo=</text>
+        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiB2YXIoLS1zZWN0aW9uLW1hcmdpbi1ib3R0b20pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
+        <text encoding="base64">ICB3aWR0aDogNTAlOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
+        <text encoding="base64">ICBmbGV4OiAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
