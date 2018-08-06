@@ -162,12 +162,10 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" timestamp="1533593375840">
-        <mark key="'" line="73" column="6" />
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="8" />
-        <mark key="^" line="74" column="8" />
-        <mark key="." line="74" column="8" />
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" timestamp="1533594289834">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" timestamp="1531151606124">
         <mark key="'" line="21" column="48" />
@@ -321,8 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
-      <jump line="96" column="31" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/achievement-modal.test.js" />
       <jump line="11" column="28" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/edit-goal-modal.test.js" />
       <jump line="250" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/__tests__/item-carousel.test.js" />
@@ -421,13 +417,15 @@
       <jump line="19" column="32" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
       <jump line="73" column="6" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
+      <jump line="80" column="27" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFRhcmphbkxvd2VzdENvbW1vbkFuY2VzdG9yIG1lZXQgPSBuZXcgVGFyamFuTG93ZXN0Q29tbW9uQW5jZXN0b3IoZ3JhcGgpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -442,7 +440,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>new Tarja</text>
       </register>
       <register name="/" type="4">
         <text>checkpair</text>
@@ -451,7 +449,7 @@
         <text encoding="base64">RGlyZWN0ZWRBY3ljbGljR3JhcGg8Tm9kZSwgRGVmYXVsdEVkZ2U+IGdyYXBo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIFRhcmphbkxvd2VzdENvbW1vbkFuY2VzdG9yIG1lZXQgPSBuZXcgVGFyamFuTG93ZXN0Q29tbW9uQW5jZXN0b3IoZ3JhcGgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -468,19 +466,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lZXQuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBhbmFseXplKERpcmVjdGVkQWN5Y2xpY0dyYXBoPE5vZGUsIERlZmF1bHRFZGdlPiBncmFwaCwgTGlzdDxOb2RlPiBpc29sYXRpb25Ob2RlcykgewogICAgICBaaXBwZXJBbmFseXplci5pc29sYXRpb25Ob2RlcyA9IGlzb2xhdGlvbk5vZGVzOwoKICAgIH0KCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdXBaaXBTdGFydDsKICAgICAgICBpbnQgZG93blppcFN0YXJ0Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBhbmFseXplKERpcmVjdGVkQWN5Y2xpY0dyYXBoPE5vZGUsIERlZmF1bHRFZGdlPiBncmFwaCwgTGlzdDxOb2RlPiBpc29sYXRpb25Ob2RlcykgewogICAgICBaaXBwZXJBbmFseXplci5pc29sYXRpb25Ob2RlcyA9IGlzb2xhdGlvbk5vZGVzOwoKICAgIH0KCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIENoZWNrUGFpciB7CiAgICAgICAgTm9kZSBmaXJzdDsKICAgICAgICBOb2RlIHNlY29uZDsKCiAgICAgICAgcHVibGljIENoZWNrUGFpcihOb2RlIGZpcnN0LCBOb2RlIHNlY29uZCkgewogICAgICAgICAgICB0aGlzLmZpcnN0ID0gZmlyc3Q7CiAgICAgICAgICAgIHRoaXMuc2Vjb25kID0gc2Vjb25kOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdXBaaXBTdGFydDsKICAgICAgICBpbnQgZG93blppcFN0YXJ0Owo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -500,16 +498,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8Tm9kZT4gaXNvbGF0aW9uTm9kZXM7Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIENoZWNrUGFpciB7CiAgICAgICAgTm9kZSBmaXJzdDsKICAgICAgICBOb2RlIHNlY29uZDsKCiAgICAgICAgcHVibGljIENoZWNrUGFpcihOb2RlIGZpcnN0LCBOb2RlIHNlY29uZCkgewogICAgICAgICAgICB0aGlzLmZpcnN0ID0gZmlyc3Q7CiAgICAgICAgICAgIHRoaXMuc2Vjb25kID0gc2Vjb25kOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
