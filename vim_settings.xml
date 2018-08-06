@@ -88,6 +88,12 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/toolbar/toggle-view.css" timestamp="1528733241318">
         <mark key="[" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/ZipperAnalyzer.java" timestamp="1533590433582">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
+      </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/node_modules/@inst/bridge-ui-components/src/text-clip/index.js" timestamp="1529595411233">
         <mark key="'" line="55" column="4" />
       </file>
@@ -412,8 +418,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -434,10 +440,10 @@
         <text>isIsolation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIG1ldGhvZCBkb2Vzbid0IGV4aXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgdXBaaXA7CiAgICAgICAgaW50IGRvd25aaXA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -454,19 +460,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBvY2tldCBuZXdQb2NrZXQgPSBuZXcgUG9ja2V0KHNlcmllc05vZGVzLCBudWxsLCBzQWZ0ZXJEb3duKTsKICAgICAgICAgICAgICAgIHNCYWcuYWRkKG5ld1BvY2tldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8UG9ja2V0PiB1cFBvY2tldHM7CiAgICAgICAgQXJyYXlMaXN0PFBvY2tldD4gZG93blBvY2tldHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIGxhbWJkYVppcHBlciBleHRlbmRzIFppcHBlciB7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogZ3JlZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8UG9ja2V0PiB1cFBvY2tldHM7CiAgICAgICAgQXJyYXlMaXN0PFBvY2tldD4gZG93blBvY2tldHM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IHZhcigtLWhlYWRlci1jb250ZW50LWhlaWdodCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBvY2tldCBuZXdQb2NrZXQgPSBuZXcgUG9ja2V0KHNlcmllc05vZGVzLCBudWxsLCBzQWZ0ZXJEb3duKTsKICAgICAgICAgICAgICAgIHNCYWcuYWRkKG5ld1BvY2tldCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -486,16 +492,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogcmVkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjazsK</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogZ3JlZW47Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiB2YXIoLS1zZWN0aW9uLW1hcmdpbi1ib3R0b20pOwo=</text>
+        <text encoding="base64">YmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
