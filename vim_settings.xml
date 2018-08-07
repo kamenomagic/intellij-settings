@@ -162,13 +162,6 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" timestamp="1533594422986">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="119" column="33" />
-        <mark key="]" line="119" column="33" />
-        <mark key="^" line="119" column="33" />
-        <mark key="." line="119" column="33" />
-      </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/actions.js" timestamp="1531151606124">
         <mark key="'" line="21" column="48" />
       </file>
@@ -321,8 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="10" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/achievement-modal.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/edit-goal-modal.js" />
       <jump line="70" column="41" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/edit-goal-modal.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/achievement-modal.js" />
       <jump line="84" column="4" filename="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/achievement-modal.js" />
@@ -421,13 +412,15 @@
       <jump line="22" column="15" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
       <jump line="105" column="0" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
+      <jump line="64" column="14" filename="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/zipper/ZipperAnalyzer.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -451,7 +444,7 @@
         <text encoding="base64">RGlyZWN0ZWRBY3ljbGljR3JhcGg8Tm9kZSwgRGVmYXVsdEVkZ2U+IGdyYXBo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -468,19 +461,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFRhcmphbkxvd2VzdENvbW1vbkFuY2VzdG9yIG1lZXQgPSBuZXcgVGFyamFuTG93ZXN0Q29tbW9uQW5jZXN0b3IoZ3JhcGgpOwo=</text>
+        <text encoding="base64">ICAgICAgU29ydGVkTGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lZXQuCg==</text>
+        <text encoding="base64">ICAgICAgbGFtYmRhWmlwcGVyLmRvd25Qb2NrZXRzLnNldChuLmdldEluZGV4KCksICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgTGlzdDxQb2NrZXQ+IGdldERvd25Qb2NrZXRzKCkgewogICAgICByZXR1cm4gZG93blBvY2tldHM7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBhbmFseXplKERpcmVjdGVkQWN5Y2xpY0dyYXBoPE5vZGUsIERlZmF1bHRFZGdlPiBncmFwaCwgTGlzdDxOb2RlPiBpc29sYXRpb25Ob2RlcykgewogICAgICBaaXBwZXJBbmFseXplci5pc29sYXRpb25Ob2RlcyA9IGlzb2xhdGlvbk5vZGVzOwoKICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgUG9ja2V0IGdldFVwUG9ja2V0KGludCBpKSB7CiAgICAgIHJldHVybiB1cFBvY2tldHMuZ2V0KGkpOwogICAgfQoKICAgIHB1YmxpYyBQb2NrZXQgZ2V0RG93blBvY2tldChpbnQgaSkgewogICAgICByZXR1cm4gZG93blBvY2tldHMuZ2V0KGkpOwogICAgfQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -500,7 +493,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgdXBaaXBTdGFydDsKICAgICAgICBpbnQgZG93blppcFN0YXJ0Owo=</text>
+        <text encoding="base64">ICBwcmVkZWNlc3NvcnMgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -509,7 +502,7 @@
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGNsYXNzIENoZWNrUGFpciB7CiAgICAgICAgTm9kZSBmaXJzdDsKICAgICAgICBOb2RlIHNlY29uZDsKCiAgICAgICAgcHVibGljIENoZWNrUGFpcihOb2RlIGZpcnN0LCBOb2RlIHNlY29uZCkgewogICAgICAgICAgICB0aGlzLmZpcnN0ID0gZmlyc3Q7CiAgICAgICAgICAgIHRoaXMuc2Vjb25kID0gc2Vjb25kOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIFRhcmphbkxvd2VzdENvbW1vbkFuY2VzdG9yIG1lZXQgPSBuZXcgVGFyamFuTG93ZXN0Q29tbW9uQW5jZXN0b3IoZ3JhcGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
