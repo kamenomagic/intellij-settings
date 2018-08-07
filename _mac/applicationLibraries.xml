@@ -197,6 +197,55 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/capybara-3.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.9.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/childprocess-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/childprocess-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v1.2.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/chromedriver-helper-1.2.0/concourse" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/chromedriver-helper-1.2.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/chromedriver-helper-1.2.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/chromedriver-helper-1.2.0/concourse" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/chromedriver-helper-1.2.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/chromedriver-helper-1.2.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.2.2, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coffee-rails-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coffee-rails-4.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script (v2.4.1, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coffee-script-2.4.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coffee-script-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-script-source (v1.12.2, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coffee-script-source-1.12.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/coffee-script-source-1.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, ruby-2.3.7-p456) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
@@ -237,6 +286,28 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="execjs (v2.7.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.25, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ffi-1.9.25/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ffi-1.9.25/samples" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ffi-1.9.25/ext" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ffi-1.9.25/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ffi-1.9.25/samples" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ffi-1.9.25/ext" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.4.1, ruby-2.3.7-p456) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/globalid-0.4.1/lib" />
@@ -266,6 +337,17 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="jbuilder (v2.7.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jbuilder-2.7.0/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jbuilder-2.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jbuilder-2.7.0/gemfiles" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/jbuilder-2.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3.1, ruby-2.3.7-p456) [gem]">
       <CLASSES>
         <root url="file:///usr/lib/ruby/2.3.0/json/add" />
@@ -273,6 +355,17 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/lib/ruby/2.3.0/json/add" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.1.5, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/listen-3.1.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/listen-3.1.5/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/listen-3.1.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/listen-3.1.5/bin" />
       </SOURCES>
     </library>
     <library name="loofah (v2.2.2, ruby-2.3.7-p456) [gem]">
@@ -381,6 +474,15 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/msgpack-1.2.4/ext" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.13.1, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="net-telnet (v0.1.1, ruby-2.3.7-p456) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/net-telnet-0.1.1/lib" />
@@ -459,6 +561,21 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/public_suffix-3.0.2/data" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/public_suffix-3.0.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/public_suffix-3.0.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="puma (v3.12.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/tools" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/puma-3.12.0/tools" />
       </SOURCES>
     </library>
     <library name="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7) interpreter library">
@@ -625,6 +742,28 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-12.3.1/bin" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.10.3, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-fsevent-0.10.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-fsevent-0.10.3/ext" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-fsevent-0.10.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-fsevent-0.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.10, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-inotify-0.9.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rb-inotify-0.9.10/lib" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.2.1, ruby-2.3.7-p456) [gem]">
       <CLASSES>
         <root url="file:///usr/lib/ruby/2.3.0/rdoc/markup" />
@@ -654,6 +793,88 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="ruby_dep (v1.5.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby_dep-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.1, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubyzip-1.2.1/samples" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubyzip-1.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubyzip-1.2.1/samples" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/rubyzip-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.5.7, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/rails" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/extra" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/rails" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/extra" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-3.5.7/bin" />
+      </SOURCES>
+    </library>
+    <library name="sass-listen (v4.0.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-listen-4.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-listen-4.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sass-rails (v5.0.7, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-rails-5.0.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sass-rails-5.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.14.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/selenium-webdriver-3.14.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/selenium-webdriver-3.14.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="spring (v2.0.2, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/spring-2.0.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/spring-2.0.2/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/spring-2.0.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/spring-2.0.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="spring-watcher-listen (v2.0.1, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/spring-watcher-listen-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/spring-watcher-listen-2.0.1/lib" />
+      </SOURCES>
     </library>
     <library name="sprockets (v3.7.2, ruby-2.3.7-p456) [gem]">
       <CLASSES>
@@ -710,6 +931,19 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/tasks" />
+      </SOURCES>
+    </library>
+    <library name="tilt (v2.0.8, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.8/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.8/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.8/bin" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.8/man" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.5, ruby-2.3.7-p456) [gem]">
