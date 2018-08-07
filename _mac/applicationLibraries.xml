@@ -896,6 +896,17 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="sqlite3-ruby (v1.3.3, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sqlite3-ruby-1.3.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sqlite3-ruby-1.3.3/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sqlite3-ruby-1.3.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/sqlite3-ruby-1.3.3/bin" />
+      </SOURCES>
+    </library>
     <library name="test-unit (v3.1.5, ruby-2.3.7-p456) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/lib" />
@@ -946,6 +957,24 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tilt-2.0.8/man" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v5.1.1, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/turbolinks-5.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/turbolinks-5.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.1.0, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/turbolinks-source-5.1.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/turbolinks-source-5.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="tzinfo (v1.2.5, ruby-2.3.7-p456) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/lib" />
@@ -953,6 +982,24 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.17, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/uglifier-4.1.17/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/uglifier-4.1.17/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.6.2, ruby-2.3.7-p456) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/web-console-3.6.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.3.0/gems/web-console-3.6.2/lib" />
       </SOURCES>
     </library>
     <library name="websocket-driver (v0.7.0, ruby-2.3.7-p456) [gem]">
