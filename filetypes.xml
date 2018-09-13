@@ -11,6 +11,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-python" type="PLAIN_TEXT" />
       <mapping ext="ck" type="PLAIN_TEXT" />
+      <mapping ext="gch" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
