@@ -129,6 +129,12 @@
         <mark key="^" line="36" column="23" />
         <mark key="." line="36" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/resources/application.properties" timestamp="1541724452783">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="35" />
+        <mark key="." line="2" column="35" />
+        <mark key="^" line="2" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1541721333256">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -340,8 +346,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>none</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -356,7 +362,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
         <text>forall</text>
