@@ -10,6 +10,12 @@
         <mark key="." line="32" column="41" />
         <mark key="^" line="32" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/python/censor/instrumenter/scripts/yeti" timestamp="1531163990111">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/achievement-modal.js" timestamp="1530280327149">
         <mark key="[" line="117" column="55" />
         <mark key="]" line="117" column="71" />
@@ -19,117 +25,18 @@
       <file name="/a.dummy" timestamp="1536869610041">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/trace/ReadWrite.java" timestamp="1532119383301">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/toolbar/toggle-view.js" timestamp="1530886639908">
-        <mark key="[" line="36" column="29" />
-        <mark key="]" line="36" column="29" />
-        <mark key="^" line="36" column="29" />
-        <mark key="." line="36" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/OMPCGRaceDetector.java" timestamp="1532117819381">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/components/timeline/goal/goal-toggle.css" timestamp="1530631769384">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/runOne.sh" timestamp="1532382724372">
-        <mark key="'" line="21" column="37" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/77f6389e-30f9-43aa-93f8-70715c60fe1f/console.sql" timestamp="1529158147352">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/agenda-modal.js" timestamp="1531151299398">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="21" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/toolbar/toggle-view.css" timestamp="1528733241318">
-        <mark key="[" line="6" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/ZipperAnalyzer.java" timestamp="1533592474998">
-        <mark key="'" line="41" column="15" />
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1541721333256">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="46" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/compileTool.sh" timestamp="1532382959410">
-        <mark key="'" line="9" column="1" />
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/Write.java" timestamp="1532118870978">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="39" />
-        <mark key="^" line="4" column="39" />
-        <mark key="." line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/components/timeline/goal/goal-align.css" timestamp="1530631774903">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/ThreadEvent.java" timestamp="1532118582034">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="16" column="2" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1530280365608">
-        <mark key="[" line="118" column="1" />
-        <mark key="]" line="124" column="10" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="117" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/PhotoController.java" timestamp="1541742207468">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/header/index.css" timestamp="1533145865938">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/dev/python/censor/instrumenter/scripts/yeti" timestamp="1531163990111">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-      </file>
       <file name="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/PolybenchTimer.java" timestamp="1536355066952">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="24" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/trace/ReadWrite.java" timestamp="1532119383301">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/dev/java/spicy-bench/benchmarks/CFiles/working/DRB041-3mm-parallel-no.c" timestamp="1536954395816">
         <mark key="'" line="13" column="27" />
@@ -155,7 +62,35 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/toolbar/toggle-view.js" timestamp="1530886639908">
+        <mark key="[" line="36" column="29" />
+        <mark key="]" line="36" column="29" />
+        <mark key="^" line="36" column="29" />
+        <mark key="." line="36" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/OMPCGRaceDetector.java" timestamp="1532117819381">
+        <mark key="[" line="7" column="42" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/components/timeline/goal/goal-toggle.css" timestamp="1530631769384">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="/JavaScript Console" timestamp="1530207565623">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/runOne.sh" timestamp="1532382724372">
+        <mark key="'" line="21" column="37" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/77f6389e-30f9-43aa-93f8-70715c60fe1f/console.sql" timestamp="1529158147352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/Post.java" timestamp="1532118629031">
@@ -171,6 +106,22 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline_old/agenda-modal.js" timestamp="1531151299398">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/toolbar/toggle-view.css" timestamp="1528733241318">
+        <mark key="[" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/ZipperAnalyzer.java" timestamp="1533592474998">
+        <mark key="'" line="41" column="15" />
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="18" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/ReadWrite.java" timestamp="1532118842244">
         <mark key="'" line="33" column="17" />
         <mark key="[" line="6" column="0" />
@@ -183,6 +134,12 @@
         <mark key="]" line="22" column="36" />
         <mark key="." line="22" column="36" />
         <mark key="^" line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/build.gradle" timestamp="1541721333256">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1531163446583">
         <mark key="[" line="0" column="0" />
@@ -200,11 +157,38 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1541743499776">
-        <mark key="[" line="51" column="2" />
-        <mark key="]" line="51" column="7" />
-        <mark key="." line="51" column="7" />
-        <mark key="^" line="51" column="7" />
+      <file name="$USER_HOME$/dev/java/spicy-bench/compileTool.sh" timestamp="1532382959410">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" timestamp="1541879382906">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="143" column="39" />
+        <mark key="]" line="143" column="47" />
+        <mark key="." line="143" column="47" />
+        <mark key="^" line="143" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/Write.java" timestamp="1532118870978">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/components/timeline/goal/goal-align.css" timestamp="1530631774903">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/java/spicy-bench/jpf-hj/comp_graph/cg/omp/ThreadEvent.java" timestamp="1532118582034">
+        <mark key="'" line="3" column="15" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="16" column="2" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/summary/index.css" timestamp="1533147220084">
         <mark key="'" line="36" column="18" />
@@ -212,6 +196,12 @@
         <mark key="]" line="18" column="14" />
         <mark key="." line="18" column="14" />
         <mark key="^" line="18" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline_old/edit-goal-modal.js" timestamp="1530280365608">
+        <mark key="[" line="118" column="1" />
+        <mark key="]" line="124" column="10" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="117" column="3" />
       </file>
       <file name="$USER_HOME$/dev/python/censor/.gitignore" timestamp="1531164072753">
         <mark key="[" line="12" column="16" />
@@ -240,13 +230,22 @@
         <mark key="." line="631" column="31" />
         <mark key="^" line="631" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1541743509416">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="85" column="39" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/TestDataLoader.java" timestamp="1541879302315">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1541743150105" />
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/PhotoController.java" timestamp="1541742207468">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/pages/timeline/header/index.css" timestamp="1533145865938">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+      </file>
       <file name="/fragment.java" timestamp="1536867626867">
         <mark key="[" line="0" column="0" />
       </file>
@@ -258,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="14" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="367" column="14" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="378" column="14" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="389" column="14" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
@@ -358,13 +356,14 @@
       <jump line="655" column="10" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="13" column="27" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/CFiles/working/DRB041-3mm-parallel-no.c" />
       <jump line="131" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/PhotoService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBob3RvU2VydmljZS4K</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -379,16 +378,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>forall</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAVmFsdWUoIiR7czMua2V5LnNlY3JldH0iKQogIHByaXZhdGUgU3RyaW5nIHMzU2VjcmV0S2V5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBob3RvU2VydmljZS4K</text>
+        <text encoding="base64">ICAgIExpc3Q8QnVja2V0PiBidWNrZXRzID0gcGhvdG9TZXJ2aWNlLnMzY2xpZW50Lmxpc3RCdWNrZXRzKCk7CiAgICBmb3IoQnVja2V0IGJ1Y2tldCA6IGJ1Y2tldHMpIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKGJ1Y2tldC5nZXROYW1lKCkpOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -405,19 +404,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFXU0NyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBob3RvU2VydmljZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFuZCB0aGVuIGNvbmZpZ3VyZSB0aGUgY2xpZW50OgoKICAgIDEKICAgIDIKICAgIDMKICAgIDQKICAgIDUK</text>
+        <text encoding="base64">ICAgIEFXU0NyZWRlbnRpYWxzIGNyZWRlbnRpYWxzID0gOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA9QUtJQUpVTUpSQTIySFNXTUNQNUEKICA9dXRKajZlU1hmeEFRQ2ZQMUZKNXcySk9xNHBhR2xuTmZqU3EzdEhCUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgQEF1dG93aXJlZAogIHByaXZhdGUgVXNlclNlcnZpY2UgdXNlclNlcnZpY2U7CiAgQEF1dG93aXJlZAogIHByaXZhdGUgQXNzZXRTZXJ2aWNlIGFzc2V0U2VydmljZTsKICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBQaG90b1JlcG9zaXRvcnkgcGhvdG9SZXBvc2l0b3J5OwogIEBBdXRvd2lyZWQKICBwcml2YXRlIFBob3RvVHlwZVJlcG9zaXRvcnkgcGhvdG9UeXBlUmVwb3NpdG9yeTsKICBAVmFsdWUoIiR7czMua2V5LmFjY2Vzc30iKQogIHByaXZhdGUgU3RyaW5nIHNtdHBUaW1lb3V0OwogIEBWYWx1ZSgiJHttYWlsLnNtdHAudGltZW91dH0iKQogIHByaXZhdGUgU3RyaW5nIHNtdHBUaW1lb3V0OwogID1BS0lBSlVNSlJBMjJIU1dNQ1A1QQogIHMzLmtleS5zZWNyZXQ9dXRKajZlU1hmeEFRQ2ZQMUZKNXcySk9xNHBhR2xuTmZqU3EzdEhCUwoKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZ2V0UGhvdG9SZXNwb25zZUVudGl0eShsb25nIHBob3RvSWQpIHsKICAgIGlmKCFwaG90b1JlcG9zaXRvcnkuZXhpc3RzKHBob3RvSWQpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICBQaG90byBwaG90byA9IHBob3RvUmVwb3NpdG9yeS5maW5kT25lKHBob3RvSWQpOwogICAgICBpZihwaG90by5nZXRQaG90b1R5cGUoKSA9PSBudWxsKSB7CiAgICAgICAgcGhvdG8uc2V0UGhvdG9UeXBlKHBob3RvVHlwZVJlcG9zaXRvcnkuZmluZEJ5TmFtZSgiQWxsIikpOwogICAgICB9CiAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHkocGhvdG8sIEh0dHBTdGF0dXMuT0spOwogICAgfQogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IGdldFBob3Rvc1Jlc3BvbnNlRW50aXR5KCkgewogICAgaWYgKCF1c2VyU2VydmljZS51c2VyRXhpc3RzKCkpIHsKICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm5vdEZvdW5kKCkuYnVpbGQoKTsKICAgIH0gZWxzZSB7CiAgICAgIExpc3Q8UGhvdG8+IHBob3RvcyA9IHBob3RvUmVwb3NpdG9yeS5maW5kQnlVc2VySWQodXNlclNlcnZpY2UuZ2V0VXNlcigpLmdldElkKCkpOwogICAgICBwaG90b3Muc3RyZWFtKCkuZmlsdGVyKHBob3RvIC0+IHBob3RvLmdldFBob3RvVHlwZSgpID09IG51bGwpLmZvckVhY2gocGhvdG8gLT4gcGhvdG8uc2V0UGhvdG9UeXBlKHBob3RvVHlwZVJlcG9zaXRvcnkuZmluZEJ5TmFtZSgiQWxsIikpKTsKICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShwaG90b3MsIEh0dHBTdGF0dXMuT0spOwogICAgfQogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IGNyZWF0ZVBob3RvUmVzcG9uc2VFbnRpdHkoUGhvdG8gcGhvdG8pIHsKICAgIGlmICghdXNlclNlcnZpY2UudXNlckV4aXN0cygpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICBwaG90by5zZXRVc2VyKHVzZXJTZXJ2aWNlLmdldFVzZXIoKSk7CiAgICAgIHBob3RvLnNldEZpbGVQYXRoKFN0cmluZy5mb3JtYXQoInRlbXAiKSk7CiAgICAgIHBob3RvID0gcGhvdG9SZXBvc2l0b3J5LnNhdmUocGhvdG8pOwogICAgICBwaG90by5zZXRGaWxlUGF0aChTdHJpbmcuZm9ybWF0KCJwaG90b3MvJWQtJWQiLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSwgcGhvdG8uZ2V0SWQoKSkpOwogICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5KHBob3RvUmVwb3NpdG9yeS5zYXZlKHBob3RvKSwgSHR0cFN0YXR1cy5DUkVBVEVEKTsKICAgIH0KICB9CgogIHB1YmxpYyBSZXNwb25zZUVudGl0eSB1cGRhdGVQaG90b1Jlc3BvbnNlRW50aXR5KGxvbmcgcGhvdG9JZCwgUGhvdG8gcGhvdG8pIHsKICAgIGlmICghdXNlclNlcnZpY2UudXNlckV4aXN0cygpIHx8ICFwaG90b1JlcG9zaXRvcnkuZXhpc3RzKHBob3RvSWQpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgaWYgKHBob3RvUmVwb3NpdG9yeS5maW5kT25lKHBob3RvSWQpLmdldFVzZXIoKS5nZXRJZCgpICE9IHVzZXJTZXJ2aWNlLmdldFVzZXIoKS5nZXRJZCgpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYnVpbGQoKTsKICAgIH0gZWxzZSB7CiAgICAgIFBob3RvIHNhdmVkUGhvdG8gPSBwaG90b1JlcG9zaXRvcnkuZmluZE9uZShwaG90b0lkKTsKICAgICAgaWYocGhvdG8uZ2V0QXNzZXQoKSAhPSBudWxsICYmCiAgICAgICAgICBhc3NldFNlcnZpY2UuYXNzZXRFeGlzdHMocGhvdG8uZ2V0QXNzZXQoKS5nZXRJZCgpKSAmJgogICAgICAgICAgYXNzZXRTZXJ2aWNlLmdldEFzc2V0KHBob3RvLmdldEFzc2V0KCkuZ2V0SWQoKSkuZ2V0VXNlcigpLmdldElkKCkgPT0gdXNlclNlcnZpY2UuZ2V0VXNlcigpLmdldElkKCkpIHsKICAgICAgICBzYXZlZFBob3RvLnNldEFzc2V0KHBob3RvLmdldEFzc2V0KCkpOwogICAgICB9CiAgICAgIHNhdmVkUGhvdG8uc2V0UGhvdG9UeXBlKHBob3RvLmdldFBob3RvVHlwZSgpKTsKICAgICAgc2F2ZWRQaG90by5zZXRDb21wb25lbnQocGhvdG8uZ2V0Q29tcG9uZW50KCkpOwogICAgICBzYXZlZFBob3RvLnNldERlc2NyaXB0aW9uKHBob3RvLmdldERlc2NyaXB0aW9uKCkpOwogICAgICBzYXZlZFBob3RvLnNldE5vdGUocGhvdG8uZ2V0Tm90ZSgpKTsKICAgICAgc2F2ZWRQaG90by5zZXREYXRlVGFrZW4ocGhvdG8uZ2V0RGF0ZVRha2VuKCkpOwogICAgICBzYXZlZFBob3RvLnNldExvY2F0aW9uVGFrZW4ocGhvdG8uZ2V0TG9jYXRpb25UYWtlbigpKTsKICAgICAgc2F2ZWRQaG90by5zZXRQaG90b01ldGFkYXRhKHBob3RvLmdldFBob3RvTWV0YWRhdGEoKSk7CiAgICAgIHNhdmVkUGhvdG8uc2V0VGFnKHBob3RvLmdldFRhZygpKTsKICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShwaG90b1JlcG9zaXRvcnkuc2F2ZShzYXZlZFBob3RvKSwgSHR0cFN0YXR1cy5PSyk7CiAgICB9CiAgfQoKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZGVsZXRlUGhvdG9SZXNwb25zZUVudGl0eShsb25nIHBob3RvSWQpIHsKICAgIGlmICghdXNlclNlcnZpY2UudXNlckV4aXN0cygpIHx8ICFwaG90b1JlcG9zaXRvcnkuZXhpc3RzKHBob3RvSWQpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9CiAgICBQaG90byBwaG90byA9IHBob3RvUmVwb3NpdG9yeS5maW5kT25lKHBob3RvSWQpOwogICAgaWYgKHBob3RvLmdldFVzZXIoKS5nZXRJZCgpICE9IHVzZXJTZXJ2aWNlLmdldFVzZXIoKS5nZXRJZCgpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsKICAgIH0gZWxzZSB7CiAgICAgIGFzc2V0U2VydmljZS51bmFzc2lnblBob3RvKHBob3RvKTsKICAgICAgcGhvdG9SZXBvc2l0b3J5LmRlbGV0ZShwaG90b0lkKTsKICAgICAgbmV3IEZpbGUocGhvdG8uZ2V0RmlsZVBhdGgoKSkuZGVsZXRlKCk7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub0NvbnRlbnQoKS5idWlsZCgpOwogICAgfQogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IGRvd25sb2FkUGhvdG9SZXNwb25zZUVudGl0eShsb25nIHBob3RvSWQsIGJvb2xlYW4gdGh1bWJuYWlsKSB7CiAgICBpZiAoIXVzZXJTZXJ2aWNlLnVzZXJFeGlzdHMoKSkgewogICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkubm90Rm91bmQoKS5idWlsZCgpOwogICAgfQogICAgUGhvdG8gcGhvdG8gPSBwaG90b1JlcG9zaXRvcnkuZmluZE9uZShwaG90b0lkKTsKICAgIGlmIChwaG90by5nZXRVc2VyKCkuZ2V0SWQoKSAhPSB1c2VyU2VydmljZS5nZXRVc2VyKCkuZ2V0SWQoKSkgewogICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuc3RhdHVzKEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QpLmJ1aWxkKCk7CiAgICB9IGVsc2UgaWYoIUZpbGVzLmV4aXN0cyhQYXRocy5nZXQocGhvdG8uZ2V0RmlsZVBhdGgoKSkpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICB0cnkgewogICAgICAgIGlmKHRodW1ibmFpbCkgewogICAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShnZXRJbWFnZVRodW1ibmFpbChwaG90by5nZXRGaWxlUGF0aCgpLCAyNTYpLCBIdHRwU3RhdHVzLk9LKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShJT1V0aWxzLnRvQnl0ZUFycmF5KG5ldyBGaWxlSW5wdXRTdHJlYW0ocGhvdG8uZ2V0RmlsZVBhdGgoKSkpLCBIdHRwU3RhdHVzLk9LKTsKICAgICAgICB9CiAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICBlLnByaW50U3RhY2tUcmFjZShTeXN0ZW0ub3V0KTsKICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuc3RhdHVzKEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SKS5idWlsZCgpOwogICAgICB9CiAgICB9CiAgfQoKICBwdWJsaWMgc3RhdGljIGJ5dGVbXSB0b0J5dGVBcnJheShCdWZmZXJlZEltYWdlIGltYWdlLCBTdHJpbmcgZm9ybWF0KSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIGJ1ZmZlciA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsIGZvcm1hdCwgYnVmZmVyKTsKICAgIHJldHVybiBidWZmZXIudG9CeXRlQXJyYXkoKTsKICB9CgogIHB1YmxpYyBzdGF0aWMgYnl0ZVtdIHRvQnl0ZUFycmF5KEJ1ZmZlcmVkSW1hZ2UgaW1hZ2UpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICByZXR1cm4gdG9CeXRlQXJyYXkoaW1hZ2UsICJqcGVnIik7CiAgfQoKICBwdWJsaWMgc3RhdGljIGJ5dGVbXSBzcHJlYWRzaGVldEZvcm1hdHRlZEltYWdlKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIHJldHVybiB0b0J5dGVBcnJheShjcm9wQ2VudGVyKEltYWdlSU8ucmVhZChuZXcgRmlsZShmaWxlUGF0aCkpKSk7CiAgfQoKICBwdWJsaWMgc3RhdGljIEJ1ZmZlcmVkSW1hZ2UgY3JvcENlbnRlcihCdWZmZXJlZEltYWdlIGlucHV0SW1hZ2UpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICBpbnQgc2l6ZSA9IE1hdGgubWluKGlucHV0SW1hZ2UuZ2V0V2lkdGgoKSwgaW5wdXRJbWFnZS5nZXRIZWlnaHQoKSk7CiAgICBib29sZWFuIGlzV2lkZSA9IGlucHV0SW1hZ2UuZ2V0V2lkdGgoKSA+PSBpbnB1dEltYWdlLmdldEhlaWdodCgpOwogICAgaWYoaXNXaWRlKSB7CiAgICAgIHJldHVybiBpbnB1dEltYWdlLmdldFN1YmltYWdlKChpbnB1dEltYWdlLmdldFdpZHRoKCkgLSBzaXplKSAvIDIsIDAsIHNpemUsIHNpemUpOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIGlucHV0SW1hZ2UuZ2V0U3ViaW1hZ2UoMCwgKGlucHV0SW1hZ2UuZ2V0SGVpZ2h0KCkgLSBzaXplKSAvIDIsIHNpemUsIHNpemUpOwogICAgfQogIH0KCiAgcHVibGljIHN0YXRpYyBCdWZmZXJlZEltYWdlIHNjYWxlSW1hZ2UoQnVmZmVyZWRJbWFnZSBpbnB1dEltYWdlLCBpbnQgc2NhbGVkU2l6ZSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIGludCBjcm9wVmFsdWUgPSBNYXRoLm1pbihpbnB1dEltYWdlLmdldFdpZHRoKCksIGlucHV0SW1hZ2UuZ2V0SGVpZ2h0KCkpIC0gMTsKICAgIGlucHV0SW1hZ2UgPSBpbnB1dEltYWdlLmdldFN1YmltYWdlKDAsIDAsIGNyb3BWYWx1ZSwgY3JvcFZhbHVlKTsKICAgIEJ1ZmZlcmVkSW1hZ2Ugb3V0cHV0SW1hZ2UgPSBuZXcgQnVmZmVyZWRJbWFnZShzY2FsZWRTaXplLCBzY2FsZWRTaXplLCBpbnB1dEltYWdlLmdldFR5cGUoKSk7CiAgICBHcmFwaGljczJEIGcyZCA9IG91dHB1dEltYWdlLmNyZWF0ZUdyYXBoaWNzKCk7CiAgICBnMmQuZHJhd0ltYWdlKGlucHV0SW1hZ2UsIDAsIDAsIHNjYWxlZFNpemUsIHNjYWxlZFNpemUsIG51bGwpOwogICAgZzJkLmRpc3Bvc2UoKTsKICAgIHJldHVybiBvdXRwdXRJbWFnZTsKICB9CgogIHB1YmxpYyBzdGF0aWMgYnl0ZVtdIGdldEltYWdlVGh1bWJuYWlsKFN0cmluZyBmaWxlUGF0aCwgaW50IHNjYWxlZFNpemUpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICByZXR1cm4gdG9CeXRlQXJyYXkoc2NhbGVJbWFnZShJbWFnZUlPLnJlYWQobmV3IEZpbGUoZmlsZVBhdGgpKSwgc2NhbGVkU2l6ZSkpOwogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IHVwbG9hZFBob3RvUmVzcG9uc2VFbnRpdHkobG9uZyBwaG90b0lkLCBNdWx0aXBhcnRGaWxlIG11bHRpcGFydEZpbGUsIFVyaUNvbXBvbmVudHNCdWlsZGVyIHVyaUNvbXBvbmVudHNCdWlsZGVyKSB7CiAgICBQaG90byBzYXZlZFBob3RvID0gcGhvdG9SZXBvc2l0b3J5LmZpbmRPbmUocGhvdG9JZCk7CiAgICBpZiAoc2F2ZWRQaG90byA9PSBudWxsIHx8ICF1c2VyU2VydmljZS51c2VyRXhpc3RzKCkpIHsKICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm5vdEZvdW5kKCkuYnVpbGQoKTsKICAgIH0gZWxzZSBpZiAoc2F2ZWRQaG90by5nZXRVc2VyKCkuZ2V0SWQoKSAhPSB1c2VyU2VydmljZS5nZXRVc2VyKCkuZ2V0SWQoKSkgewogICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuYmFkUmVxdWVzdCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICB0cnkgewogICAgICAgIEZpbGVzLmRlbGV0ZUlmRXhpc3RzKFBhdGhzLmdldChzYXZlZFBob3RvLmdldEZpbGVQYXRoKCkpKTsKICAgICAgICBieXRlW10gYnl0ZXMgPSBtdWx0aXBhcnRGaWxlLmdldEJ5dGVzKCk7CiAgICAgICAgUGF0aCBwYXRoID0gUGF0aHMuZ2V0KHNhdmVkUGhvdG8uZ2V0RmlsZVBhdGgoKSk7CiAgICAgICAgaWYgKCFGaWxlcy5leGlzdHMocGF0aC5nZXRQYXJlbnQoKSkpCiAgICAgICAgICBGaWxlcy5jcmVhdGVEaXJlY3RvcmllcyhwYXRoLmdldFBhcmVudCgpKTsKICAgICAgICBGaWxlcy53cml0ZShwYXRoLCBieXRlcyk7CiAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShzYXZlZFBob3RvLCBIdHRwU3RhdHVzLkNSRUFURUQpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoU3lzdGVtLm91dCk7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5LnN0YXR1cyhIdHRwU3RhdHVzLklOVEVSTkFMX1NFUlZFUl9FUlJPUikuYnVpbGQoKTsKICAgICAgfQogICAgfQogIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFuZCB0aGVuIGNvbmZpZ3VyZSB0aGUgY2xpZW50OgoKICAgIDEKICAgIDIKICAgIDMKICAgIDQKICAgIDUK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -437,33 +436,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U2VjcmV0IEFjY2VzcyBLZXk6Cg==</text>
+        <text encoding="base64">ICA9QUtJQUpVTUpSQTIySFNXTUNQNUEKICA9dXRKajZlU1hmeEFRQ2ZQMUZKNXcySk9xNHBhR2xuTmZqU3EzdEhCUwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgQEF1dG93aXJlZAogIHByaXZhdGUgVXNlclNlcnZpY2UgdXNlclNlcnZpY2U7CiAgQEF1dG93aXJlZAogIHByaXZhdGUgQXNzZXRTZXJ2aWNlIGFzc2V0U2VydmljZTsKICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBQaG90b1JlcG9zaXRvcnkgcGhvdG9SZXBvc2l0b3J5OwogIEBBdXRvd2lyZWQKICBwcml2YXRlIFBob3RvVHlwZVJlcG9zaXRvcnkgcGhvdG9UeXBlUmVwb3NpdG9yeTsKICBAVmFsdWUoIiR7czMua2V5LmFjY2Vzc30iKQogIHByaXZhdGUgU3RyaW5nIHNtdHBUaW1lb3V0OwogIEBWYWx1ZSgiJHttYWlsLnNtdHAudGltZW91dH0iKQogIHByaXZhdGUgU3RyaW5nIHNtdHBUaW1lb3V0OwogID1BS0lBSlVNSlJBMjJIU1dNQ1A1QQogIHMzLmtleS5zZWNyZXQ9dXRKajZlU1hmeEFRQ2ZQMUZKNXcySk9xNHBhR2xuTmZqU3EzdEhCUwoKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZ2V0UGhvdG9SZXNwb25zZUVudGl0eShsb25nIHBob3RvSWQpIHsKICAgIGlmKCFwaG90b1JlcG9zaXRvcnkuZXhpc3RzKHBob3RvSWQpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICBQaG90byBwaG90byA9IHBob3RvUmVwb3NpdG9yeS5maW5kT25lKHBob3RvSWQpOwogICAgICBpZihwaG90by5nZXRQaG90b1R5cGUoKSA9PSBudWxsKSB7CiAgICAgICAgcGhvdG8uc2V0UGhvdG9UeXBlKHBob3RvVHlwZVJlcG9zaXRvcnkuZmluZEJ5TmFtZSgiQWxsIikpOwogICAgICB9CiAgICAgIHJldHVybiBuZXcgUmVzcG9uc2VFbnRpdHkocGhvdG8sIEh0dHBTdGF0dXMuT0spOwogICAgfQogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IGdldFBob3Rvc1Jlc3BvbnNlRW50aXR5KCkgewogICAgaWYgKCF1c2VyU2VydmljZS51c2VyRXhpc3RzKCkpIHsKICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm5vdEZvdW5kKCkuYnVpbGQoKTsKICAgIH0gZWxzZSB7CiAgICAgIExpc3Q8UGhvdG8+IHBob3RvcyA9IHBob3RvUmVwb3NpdG9yeS5maW5kQnlVc2VySWQodXNlclNlcnZpY2UuZ2V0VXNlcigpLmdldElkKCkpOwogICAgICBwaG90b3Muc3RyZWFtKCkuZmlsdGVyKHBob3RvIC0+IHBob3RvLmdldFBob3RvVHlwZSgpID09IG51bGwpLmZvckVhY2gocGhvdG8gLT4gcGhvdG8uc2V0UGhvdG9UeXBlKHBob3RvVHlwZVJlcG9zaXRvcnkuZmluZEJ5TmFtZSgiQWxsIikpKTsKICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShwaG90b3MsIEh0dHBTdGF0dXMuT0spOwogICAgfQogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IGNyZWF0ZVBob3RvUmVzcG9uc2VFbnRpdHkoUGhvdG8gcGhvdG8pIHsKICAgIGlmICghdXNlclNlcnZpY2UudXNlckV4aXN0cygpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICBwaG90by5zZXRVc2VyKHVzZXJTZXJ2aWNlLmdldFVzZXIoKSk7CiAgICAgIHBob3RvLnNldEZpbGVQYXRoKFN0cmluZy5mb3JtYXQoInRlbXAiKSk7CiAgICAgIHBob3RvID0gcGhvdG9SZXBvc2l0b3J5LnNhdmUocGhvdG8pOwogICAgICBwaG90by5zZXRGaWxlUGF0aChTdHJpbmcuZm9ybWF0KCJwaG90b3MvJWQtJWQiLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSwgcGhvdG8uZ2V0SWQoKSkpOwogICAgICByZXR1cm4gbmV3IFJlc3BvbnNlRW50aXR5KHBob3RvUmVwb3NpdG9yeS5zYXZlKHBob3RvKSwgSHR0cFN0YXR1cy5DUkVBVEVEKTsKICAgIH0KICB9CgogIHB1YmxpYyBSZXNwb25zZUVudGl0eSB1cGRhdGVQaG90b1Jlc3BvbnNlRW50aXR5KGxvbmcgcGhvdG9JZCwgUGhvdG8gcGhvdG8pIHsKICAgIGlmICghdXNlclNlcnZpY2UudXNlckV4aXN0cygpIHx8ICFwaG90b1JlcG9zaXRvcnkuZXhpc3RzKHBob3RvSWQpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgaWYgKHBob3RvUmVwb3NpdG9yeS5maW5kT25lKHBob3RvSWQpLmdldFVzZXIoKS5nZXRJZCgpICE9IHVzZXJTZXJ2aWNlLmdldFVzZXIoKS5nZXRJZCgpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5iYWRSZXF1ZXN0KCkuYnVpbGQoKTsKICAgIH0gZWxzZSB7CiAgICAgIFBob3RvIHNhdmVkUGhvdG8gPSBwaG90b1JlcG9zaXRvcnkuZmluZE9uZShwaG90b0lkKTsKICAgICAgaWYocGhvdG8uZ2V0QXNzZXQoKSAhPSBudWxsICYmCiAgICAgICAgICBhc3NldFNlcnZpY2UuYXNzZXRFeGlzdHMocGhvdG8uZ2V0QXNzZXQoKS5nZXRJZCgpKSAmJgogICAgICAgICAgYXNzZXRTZXJ2aWNlLmdldEFzc2V0KHBob3RvLmdldEFzc2V0KCkuZ2V0SWQoKSkuZ2V0VXNlcigpLmdldElkKCkgPT0gdXNlclNlcnZpY2UuZ2V0VXNlcigpLmdldElkKCkpIHsKICAgICAgICBzYXZlZFBob3RvLnNldEFzc2V0KHBob3RvLmdldEFzc2V0KCkpOwogICAgICB9CiAgICAgIHNhdmVkUGhvdG8uc2V0UGhvdG9UeXBlKHBob3RvLmdldFBob3RvVHlwZSgpKTsKICAgICAgc2F2ZWRQaG90by5zZXRDb21wb25lbnQocGhvdG8uZ2V0Q29tcG9uZW50KCkpOwogICAgICBzYXZlZFBob3RvLnNldERlc2NyaXB0aW9uKHBob3RvLmdldERlc2NyaXB0aW9uKCkpOwogICAgICBzYXZlZFBob3RvLnNldE5vdGUocGhvdG8uZ2V0Tm90ZSgpKTsKICAgICAgc2F2ZWRQaG90by5zZXREYXRlVGFrZW4ocGhvdG8uZ2V0RGF0ZVRha2VuKCkpOwogICAgICBzYXZlZFBob3RvLnNldExvY2F0aW9uVGFrZW4ocGhvdG8uZ2V0TG9jYXRpb25UYWtlbigpKTsKICAgICAgc2F2ZWRQaG90by5zZXRQaG90b01ldGFkYXRhKHBob3RvLmdldFBob3RvTWV0YWRhdGEoKSk7CiAgICAgIHNhdmVkUGhvdG8uc2V0VGFnKHBob3RvLmdldFRhZygpKTsKICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShwaG90b1JlcG9zaXRvcnkuc2F2ZShzYXZlZFBob3RvKSwgSHR0cFN0YXR1cy5PSyk7CiAgICB9CiAgfQoKICBwdWJsaWMgUmVzcG9uc2VFbnRpdHkgZGVsZXRlUGhvdG9SZXNwb25zZUVudGl0eShsb25nIHBob3RvSWQpIHsKICAgIGlmICghdXNlclNlcnZpY2UudXNlckV4aXN0cygpIHx8ICFwaG90b1JlcG9zaXRvcnkuZXhpc3RzKHBob3RvSWQpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9CiAgICBQaG90byBwaG90byA9IHBob3RvUmVwb3NpdG9yeS5maW5kT25lKHBob3RvSWQpOwogICAgaWYgKHBob3RvLmdldFVzZXIoKS5nZXRJZCgpICE9IHVzZXJTZXJ2aWNlLmdldFVzZXIoKS5nZXRJZCgpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5zdGF0dXMoSHR0cFN0YXR1cy5CQURfUkVRVUVTVCkuYnVpbGQoKTsKICAgIH0gZWxzZSB7CiAgICAgIGFzc2V0U2VydmljZS51bmFzc2lnblBob3RvKHBob3RvKTsKICAgICAgcGhvdG9SZXBvc2l0b3J5LmRlbGV0ZShwaG90b0lkKTsKICAgICAgbmV3IEZpbGUocGhvdG8uZ2V0RmlsZVBhdGgoKSkuZGVsZXRlKCk7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub0NvbnRlbnQoKS5idWlsZCgpOwogICAgfQogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IGRvd25sb2FkUGhvdG9SZXNwb25zZUVudGl0eShsb25nIHBob3RvSWQsIGJvb2xlYW4gdGh1bWJuYWlsKSB7CiAgICBpZiAoIXVzZXJTZXJ2aWNlLnVzZXJFeGlzdHMoKSkgewogICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkubm90Rm91bmQoKS5idWlsZCgpOwogICAgfQogICAgUGhvdG8gcGhvdG8gPSBwaG90b1JlcG9zaXRvcnkuZmluZE9uZShwaG90b0lkKTsKICAgIGlmIChwaG90by5nZXRVc2VyKCkuZ2V0SWQoKSAhPSB1c2VyU2VydmljZS5nZXRVc2VyKCkuZ2V0SWQoKSkgewogICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuc3RhdHVzKEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QpLmJ1aWxkKCk7CiAgICB9IGVsc2UgaWYoIUZpbGVzLmV4aXN0cyhQYXRocy5nZXQocGhvdG8uZ2V0RmlsZVBhdGgoKSkpKSB7CiAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5ub3RGb3VuZCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICB0cnkgewogICAgICAgIGlmKHRodW1ibmFpbCkgewogICAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShnZXRJbWFnZVRodW1ibmFpbChwaG90by5nZXRGaWxlUGF0aCgpLCAyNTYpLCBIdHRwU3RhdHVzLk9LKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShJT1V0aWxzLnRvQnl0ZUFycmF5KG5ldyBGaWxlSW5wdXRTdHJlYW0ocGhvdG8uZ2V0RmlsZVBhdGgoKSkpLCBIdHRwU3RhdHVzLk9LKTsKICAgICAgICB9CiAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICBlLnByaW50U3RhY2tUcmFjZShTeXN0ZW0ub3V0KTsKICAgICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuc3RhdHVzKEh0dHBTdGF0dXMuSU5URVJOQUxfU0VSVkVSX0VSUk9SKS5idWlsZCgpOwogICAgICB9CiAgICB9CiAgfQoKICBwdWJsaWMgc3RhdGljIGJ5dGVbXSB0b0J5dGVBcnJheShCdWZmZXJlZEltYWdlIGltYWdlLCBTdHJpbmcgZm9ybWF0KSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgQnl0ZUFycmF5T3V0cHV0U3RyZWFtIGJ1ZmZlciA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsIGZvcm1hdCwgYnVmZmVyKTsKICAgIHJldHVybiBidWZmZXIudG9CeXRlQXJyYXkoKTsKICB9CgogIHB1YmxpYyBzdGF0aWMgYnl0ZVtdIHRvQnl0ZUFycmF5KEJ1ZmZlcmVkSW1hZ2UgaW1hZ2UpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICByZXR1cm4gdG9CeXRlQXJyYXkoaW1hZ2UsICJqcGVnIik7CiAgfQoKICBwdWJsaWMgc3RhdGljIGJ5dGVbXSBzcHJlYWRzaGVldEZvcm1hdHRlZEltYWdlKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIHJldHVybiB0b0J5dGVBcnJheShjcm9wQ2VudGVyKEltYWdlSU8ucmVhZChuZXcgRmlsZShmaWxlUGF0aCkpKSk7CiAgfQoKICBwdWJsaWMgc3RhdGljIEJ1ZmZlcmVkSW1hZ2UgY3JvcENlbnRlcihCdWZmZXJlZEltYWdlIGlucHV0SW1hZ2UpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICBpbnQgc2l6ZSA9IE1hdGgubWluKGlucHV0SW1hZ2UuZ2V0V2lkdGgoKSwgaW5wdXRJbWFnZS5nZXRIZWlnaHQoKSk7CiAgICBib29sZWFuIGlzV2lkZSA9IGlucHV0SW1hZ2UuZ2V0V2lkdGgoKSA+PSBpbnB1dEltYWdlLmdldEhlaWdodCgpOwogICAgaWYoaXNXaWRlKSB7CiAgICAgIHJldHVybiBpbnB1dEltYWdlLmdldFN1YmltYWdlKChpbnB1dEltYWdlLmdldFdpZHRoKCkgLSBzaXplKSAvIDIsIDAsIHNpemUsIHNpemUpOwogICAgfSBlbHNlIHsKICAgICAgcmV0dXJuIGlucHV0SW1hZ2UuZ2V0U3ViaW1hZ2UoMCwgKGlucHV0SW1hZ2UuZ2V0SGVpZ2h0KCkgLSBzaXplKSAvIDIsIHNpemUsIHNpemUpOwogICAgfQogIH0KCiAgcHVibGljIHN0YXRpYyBCdWZmZXJlZEltYWdlIHNjYWxlSW1hZ2UoQnVmZmVyZWRJbWFnZSBpbnB1dEltYWdlLCBpbnQgc2NhbGVkU2l6ZSkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgIGludCBjcm9wVmFsdWUgPSBNYXRoLm1pbihpbnB1dEltYWdlLmdldFdpZHRoKCksIGlucHV0SW1hZ2UuZ2V0SGVpZ2h0KCkpIC0gMTsKICAgIGlucHV0SW1hZ2UgPSBpbnB1dEltYWdlLmdldFN1YmltYWdlKDAsIDAsIGNyb3BWYWx1ZSwgY3JvcFZhbHVlKTsKICAgIEJ1ZmZlcmVkSW1hZ2Ugb3V0cHV0SW1hZ2UgPSBuZXcgQnVmZmVyZWRJbWFnZShzY2FsZWRTaXplLCBzY2FsZWRTaXplLCBpbnB1dEltYWdlLmdldFR5cGUoKSk7CiAgICBHcmFwaGljczJEIGcyZCA9IG91dHB1dEltYWdlLmNyZWF0ZUdyYXBoaWNzKCk7CiAgICBnMmQuZHJhd0ltYWdlKGlucHV0SW1hZ2UsIDAsIDAsIHNjYWxlZFNpemUsIHNjYWxlZFNpemUsIG51bGwpOwogICAgZzJkLmRpc3Bvc2UoKTsKICAgIHJldHVybiBvdXRwdXRJbWFnZTsKICB9CgogIHB1YmxpYyBzdGF0aWMgYnl0ZVtdIGdldEltYWdlVGh1bWJuYWlsKFN0cmluZyBmaWxlUGF0aCwgaW50IHNjYWxlZFNpemUpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICByZXR1cm4gdG9CeXRlQXJyYXkoc2NhbGVJbWFnZShJbWFnZUlPLnJlYWQobmV3IEZpbGUoZmlsZVBhdGgpKSwgc2NhbGVkU2l6ZSkpOwogIH0KCiAgcHVibGljIFJlc3BvbnNlRW50aXR5IHVwbG9hZFBob3RvUmVzcG9uc2VFbnRpdHkobG9uZyBwaG90b0lkLCBNdWx0aXBhcnRGaWxlIG11bHRpcGFydEZpbGUsIFVyaUNvbXBvbmVudHNCdWlsZGVyIHVyaUNvbXBvbmVudHNCdWlsZGVyKSB7CiAgICBQaG90byBzYXZlZFBob3RvID0gcGhvdG9SZXBvc2l0b3J5LmZpbmRPbmUocGhvdG9JZCk7CiAgICBpZiAoc2F2ZWRQaG90byA9PSBudWxsIHx8ICF1c2VyU2VydmljZS51c2VyRXhpc3RzKCkpIHsKICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5Lm5vdEZvdW5kKCkuYnVpbGQoKTsKICAgIH0gZWxzZSBpZiAoc2F2ZWRQaG90by5nZXRVc2VyKCkuZ2V0SWQoKSAhPSB1c2VyU2VydmljZS5nZXRVc2VyKCkuZ2V0SWQoKSkgewogICAgICByZXR1cm4gUmVzcG9uc2VFbnRpdHkuYmFkUmVxdWVzdCgpLmJ1aWxkKCk7CiAgICB9IGVsc2UgewogICAgICB0cnkgewogICAgICAgIEZpbGVzLmRlbGV0ZUlmRXhpc3RzKFBhdGhzLmdldChzYXZlZFBob3RvLmdldEZpbGVQYXRoKCkpKTsKICAgICAgICBieXRlW10gYnl0ZXMgPSBtdWx0aXBhcnRGaWxlLmdldEJ5dGVzKCk7CiAgICAgICAgUGF0aCBwYXRoID0gUGF0aHMuZ2V0KHNhdmVkUGhvdG8uZ2V0RmlsZVBhdGgoKSk7CiAgICAgICAgaWYgKCFGaWxlcy5leGlzdHMocGF0aC5nZXRQYXJlbnQoKSkpCiAgICAgICAgICBGaWxlcy5jcmVhdGVEaXJlY3RvcmllcyhwYXRoLmdldFBhcmVudCgpKTsKICAgICAgICBGaWxlcy53cml0ZShwYXRoLCBieXRlcyk7CiAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eShzYXZlZFBob3RvLCBIdHRwU3RhdHVzLkNSRUFURUQpOwogICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoU3lzdGVtLm91dCk7CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlRW50aXR5LnN0YXR1cyhIdHRwU3RhdHVzLklOVEVSTkFMX1NFUlZFUl9FUlJPUikuYnVpbGQoKTsKICAgICAgfQogICAgfQogIH0=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2VjcmV0IEFjY2VzcyBLZXk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>forall</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>forall</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>creators</entry>
         <entry>yeti</entry>
         <entry>parentThreadId</entry>
         <entry>read</entry>
@@ -483,6 +481,7 @@
         <entry encoding="base64">PD0=</entry>
         <entry>c1</entry>
         <entry>forall</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>w:</entry>
