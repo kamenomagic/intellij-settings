@@ -13,6 +13,13 @@
       <file name="$USER_HOME$/dev/bridge-talent-management/bridge-talent-web/ui/src/timeline/toolbar/toggle-view.css" timestamp="1528733241318">
         <mark key="[" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/ricefutures/FuturesTool.java" timestamp="1544130001464">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+        <mark key="^" line="35" column="23" />
+      </file>
       <file name="/photo [Resto-Rat]" timestamp="1541880597850">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,8 +40,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="48" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
-      <jump line="59" column="31" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="64" column="48" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="68" column="48" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="72" column="86" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
@@ -133,13 +138,15 @@
       <jump line="179" column="12" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/util/StructuredParallelRaceDetector.java" />
       <jump line="182" column="26" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/util/StructuredParallelRaceDetector.java" />
       <jump line="178" column="20" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/util/StructuredParallelRaceDetector.java" />
+      <jump line="40" column="24" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/ricefutures/FuturesTool.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/ricefutures/FuturesTool.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CGRaceDetector</text>
+        <text>MAX_INT</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -154,7 +161,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>CGRaceDetector</text>
+        <text>MAX_INT</text>
       </register>
       <register name="/" type="4">
         <text>acquire</text>
@@ -163,7 +170,7 @@
         <text>photo/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBAVmFsdWUoIiR7czMucHJldml4fSIpCiAgcHJpdmF0ZSBTdHJpbmcgcHJlZml4ID0gInBob3RvLyI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IERpc2pvaW50U2V0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -180,19 +187,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBwcmVmaXggPSAidGVzdC8iOwo=</text>
+        <text encoding="base64">ICBAVmFsdWUoIiR7czMucHJldml4fSIpCiAgcHJpdmF0ZSBTdHJpbmcgcHJlZml4ID0gInBob3RvLyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRldGF0aWMgU3RyaW5nIHMzQnVja2V0TmFtZTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBwcmVmaXggPSAidGVzdC8iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBidWNrZXQ7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRldGF0aWMgU3RyaW5nIHMzQnVja2V0TmFtZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNlcnZpY2UK</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBidWNrZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMzY2xpZW50ID0gQW1hem9uUzNDbGllbnRCdWlsZGVyCiAgICAgICAgICAgIC5zdGFuZGFyZCgpCiAgICAgICAgICAgIC53aXRoQ3JlZGVudGlhbHMobmV3IEFXU1N0YXRpY0NyZWRlbnRpYWxzUHJvdmlkZXIobmV3IEJhc2ljQVdTQ3JlZGVudGlhbHMoczNBY2Nlc3NLZXksIHMzU2VjcmV0S2V5KSkpCiAgICAgICAgICAgIC53aXRoUmVnaW9uKFJlZ2lvbnMuVVNfV0VTVF8xKQogICAgICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">QFNlcnZpY2UK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -212,10 +219,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMzY2xpZW50ID0gQW1hem9uUzNDbGllbnRCdWlsZGVyCg==</text>
+        <text encoding="base64">ICAgIHMzY2xpZW50ID0gQW1hem9uUzNDbGllbnRCdWlsZGVyCiAgICAgICAgICAgIC5zdGFuZGFyZCgpCiAgICAgICAgICAgIC53aXRoQ3JlZGVudGlhbHMobmV3IEFXU1N0YXRpY0NyZWRlbnRpYWxzUHJvdmlkZXIobmV3IEJhc2ljQVdTQ3JlZGVudGlhbHMoczNBY2Nlc3NLZXksIHMzU2VjcmV0S2V5KSkpCiAgICAgICAgICAgIC53aXRoUmVnaW9uKFJlZ2lvbnMuVVNfV0VTVF8xKQogICAgICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMzY2xpZW50ID0gQW1hem9uUzNDbGllbnRCdWlsZGVyCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
