@@ -16,12 +16,12 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1545025499090">
+      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1545026913278">
         <mark key="'" line="30" column="2" />
-        <mark key="[" line="95" column="82" />
-        <mark key="]" line="95" column="90" />
-        <mark key="^" line="95" column="90" />
-        <mark key="." line="95" column="90" />
+        <mark key="[" line="95" column="136" />
+        <mark key="]" line="95" column="136" />
+        <mark key="^" line="95" column="120" />
+        <mark key="." line="95" column="136" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/static/setNewPassword.html" timestamp="1545022632344" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1545025476431">
@@ -201,7 +201,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsgc2lnbmF0dXJl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -216,7 +216,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgc2lnbmF0dXJl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>acquire</text>
