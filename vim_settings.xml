@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiDetector.java" timestamp="1547074957053">
+        <mark key="'" line="12" column="48" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjSyncPolicy.java" timestamp="1547067685618" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1545028438187">
         <mark key="'" line="56" column="45" />
@@ -14,6 +21,9 @@
       <file name="/a.dummy" timestamp="1543601106948">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiChecker.java" timestamp="1547074759257">
+        <mark key="'" line="10" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1545028151323">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="25" column="0" />
@@ -22,6 +32,19 @@
         <mark key="." line="94" column="98" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/static/setNewPassword.html" timestamp="1545022632344" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/benchmarks/DRB002_Antidep1VarYes.java" timestamp="1547074243030" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/config/yeti.jpf" timestamp="1547073365803">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/compgraph/CompGraphTool.java" timestamp="1547073926533" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/scripts/runOne.sh" timestamp="1547073278479">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1530207565623">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,12 +59,6 @@
       </file>
       <file name="/dummy.sql" timestamp="1545025522501">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/SecondaryUser.java" timestamp="1545019957128">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/resources/application.properties" timestamp="1545022093872">
         <mark key="[" line="9" column="67" />
@@ -85,12 +102,6 @@
       <file name="/photo [Resto-Rat]" timestamp="1541880597850">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/GenericUser.java" timestamp="1545019982311">
-        <mark key="'" line="277" column="0" />
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="277" column="3" />
-        <mark key="." line="270" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/SecondaryUserRepository.java" timestamp="1545029168458">
         <mark key="'" line="19" column="10" />
         <mark key="[" line="19" column="56" />
@@ -118,16 +129,18 @@
         <mark key="^" line="102" column="88" />
         <mark key="." line="103" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" timestamp="1547074398077">
+        <mark key="'" line="3" column="33" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1536867626867">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="6" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
-      <jump line="372" column="6" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
-      <jump line="383" column="6" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
-      <jump line="392" column="4" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
-      <jump line="34" column="54" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="722" column="0" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="655" column="10" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/HJFiles/DRB041_3mmParallelNo.java" />
       <jump line="13" column="27" filename="$USER_HOME$/dev/java/spicy-bench/benchmarks/CFiles/working/DRB041-3mm-parallel-no.c" />
@@ -223,13 +236,18 @@
       <jump line="46" column="65" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="45" column="57" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="42" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
+      <jump line="19" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiDetector.java" />
+      <jump line="2" column="40" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" />
+      <jump line="3" column="33" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" />
+      <jump line="10" column="49" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiChecker.java" />
+      <jump line="12" column="48" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiDetector.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -244,16 +262,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>conf</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>tiem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBMaXN0PFVzZXI+IGZpbmRCeVVuc3Vic2NyaWJlZEZhbHNlQW5kVmVyaWZpZWRBbmROb3RpZmljYXRpb25GcmVxdWVuY3koTm90aWZpY2F0aW9uRnJlcXVlbmN5IG5vdGlmaWNhdGlvbkZyZXF1ZW5jeSk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mID09IG51bGwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -270,19 +288,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZih1c2VyLmlzVmVyaWZpZWQoKSkgewo=</text>
+        <text encoding="base64">Ly8gICAgc3VwZXIoY29uZiwganBmLCBuZXcgWWV0aVRvb2woKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mID09IG51bGwpOwogICAgU3lzdGVtLm91dC5wcmludGxuKGpwZiA9PSBudWxsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mID09IG51bGwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZih1c2VyLmlzVmVyaWZpZWQoKSkgewogICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb25mID09IG51bGwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBocmVmID0gU3RyaW5nLmZvcm1hdCgiPGEgaHJlZj1cIiVzP2VtYWlsPSVzXCI+XCJWZXJpZnkgRW1haWxcIjwvYT4iLCB2ZXJpZnlFbWFpbExpbmssIHNlY29uZGFyeVVzZXIuZ2V0RW1haWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -302,25 +320,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAQXV0b3dpcmVkCiAgcHJpdmF0ZSBFbWFpbFNlcnZpY2UgZW1haWxTZXJ2aWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIlBsZWFzZSBzZW5kIHlvdXIgZmVlZGJhY2sgYnkgZW1haWxpbmcgdXMgYXQgJXMuICIgKwo=</text>
+        <text encoding="base64">ICAgICAgICBpZih1c2VyLmlzVmVyaWZpZWQoKSkgewo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIldlIGhvcGUgdGhhdCB5b3UgZW5qb3kgb3VyIGFwcCBhbmQgb25saW5lIGZvcnVtIGV4cGVyaWVuY2UuICIgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>tiem</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>tiem</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -328,8 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isIsolation</entry>
-        <entry>checkpair</entry>
         <entry>threows</entry>
         <entry>forAll</entry>
         <entry>for</entry>
@@ -348,6 +364,8 @@
         <entry>acquire</entry>
         <entry>savedUser</entry>
         <entry>user</entry>
+        <entry>time</entry>
+        <entry>tiem</entry>
       </history-search>
       <history-cmd>
         <entry>w:</entry>
@@ -365,11 +383,11 @@
         <entry>;q</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>noh</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
