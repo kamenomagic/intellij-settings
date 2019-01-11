@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiTool.java" timestamp="1547244635076">
+        <mark key="[" line="124" column="21" />
+        <mark key="]" line="124" column="21" />
+        <mark key="." line="124" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiDetector.java" timestamp="1547152057934">
         <mark key="'" line="12" column="48" />
         <mark key="[" line="19" column="24" />
@@ -25,12 +30,11 @@
         <mark key="." line="12" column="9" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/config/compgraph.jpf" timestamp="1547150511256" />
-      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1547242407602">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="31" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1547245404414">
+        <mark key="'" line="51" column="14" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="5" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/benchmarks/DRB002_Antidep1VarYes.java" timestamp="1547074243030" />
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphRaceDetector.java" timestamp="1547154855191">
@@ -84,10 +88,10 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjListener.java" timestamp="1547240091169">
         <mark key="'" line="338" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/jpf.properties" timestamp="1547242134966">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/jpf.properties" timestamp="1547243539523">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
         <mark key="^" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/resources/scripts/runOne.sh" timestamp="1547238211174">
@@ -186,7 +190,7 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547240557111">
+      <file name="/Dummy.txt" timestamp="1547244512493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/UserRepository.java" timestamp="1545029157686">
@@ -248,11 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="121" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="134" column="4" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="57" column="81" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
       <jump line="68" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
       <jump line="132" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
       <jump line="96" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
@@ -348,13 +347,18 @@
       <jump line="18" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjListener.java" />
       <jump line="338" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjListener.java" />
       <jump line="11" column="20" filename="$USER_HOME$/dev/java/jpf-hj/src/ricefutures/FuturesTool.java" />
+      <jump line="6" column="11" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="44" column="8" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="49" column="14" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -369,16 +373,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IC1QYmVuY2htYXJrPUFkZA==</text>
       </register>
       <register name="/" type="4">
         <text>node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAke2pwZi1jb3JlfS9idWlsZC9jbGFzc2VzL2phdmEvbWFpbjtcCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIitjbGFzc3BhdGg9YnVpbGQvYmVuY2htYXJrcyIsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -395,19 +399,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAke2pwZi1jb3JlfS9idWlsZDtcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMjIyMjIiKTsK</text>
+        <text encoding="base64">ZGVmIHJ1bkpQRih0b29sLCBiZW5jaG1hcmspIHsKICAgIGphdmFleGVjIHsKICAgICAgICBtYWluID0gIi1qYXIiOwogICAgICAgIGFyZ3MgPSBbCiAgICAgICAgICAgICAgICAiLURqYXZhLmF3dC5oZWFkbGVzcz10cnVlIiwKICAgICAgICAgICAgICAgICJsaWIvUnVuSlBGLmphciIsCiAgICAgICAgICAgICAgICAiY29uZmlnLyR7dG9vbH0uanBmIiwKICAgICAgICAgICAgICAgICIrdGFyZ2V0PWJlbmNobWFya3MuJHtiZW5jaG1hcmt9IgogICAgICAgIF0KICAgIH0KfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvamVjdC50YXNrcy5yZW1vdmUoamFyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaWIvUnVuSlBGLmphciIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZW5jaG1hcmsgPSAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -427,16 +431,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuU3RydWN0dXJlZFBhcmFsbGVsUmFjZURldGVjdG9yOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IERpc2pvaW50U2V0Owo=</text>
+        <text encoding="base64">Ly9SdW4gbGlrZSB0aGlzOiAuL2dyYWRsZXcgcnVuT25lIC1QdG9vbD15ZXRpIC1QYmVuY2htYXJrPUFkZAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvamVjdC5idWlsZERpciA9ICdidWlsZCcK</text>
+        <text encoding="base64">Ly8gICAgbWFpbiA9ICItamFyIjsKLy8gICAgYXJncyA9IFsKLy8gICAgICAgICAgICAibGliL1J1bkpQRi5qYXIiLAovLyAgICAgICAgICAgICJjb25maWcvJHt0b29sfS5qcGYiLAovLyAgICAgICAgICAgICIrdGFyZ2V0PWJlbmNobWFya3MuJHtiZW5jaG1hcmt9IgovLyAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
