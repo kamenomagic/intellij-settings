@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiTool.java" timestamp="1547244635076">
-        <mark key="[" line="124" column="21" />
-        <mark key="]" line="124" column="21" />
-        <mark key="." line="124" column="21" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiTool.java" timestamp="1547503078294">
+        <mark key="'" line="126" column="25" />
+        <mark key="[" line="126" column="26" />
+        <mark key="]" line="126" column="26" />
+        <mark key="." line="126" column="26" />
+        <mark key="^" line="126" column="33" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiDetector.java" timestamp="1547152057934">
         <mark key="'" line="12" column="48" />
@@ -18,6 +20,9 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjSyncPolicy.java" timestamp="1547067685618" />
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphTool.java" timestamp="1547154174277">
         <mark key="'" line="7" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/util/graph/Graph.java" timestamp="1547502836083">
+        <mark key="'" line="105" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1543601106948">
         <mark key="[" line="0" column="0" />
@@ -252,11 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="8" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="132" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="96" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="141" column="6" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" />
-      <jump line="48" column="11" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" />
       <jump line="72" column="21" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" />
@@ -352,13 +352,18 @@
       <jump line="44" column="8" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="31" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="49" column="14" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="124" column="17" filename="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiTool.java" />
+      <jump line="103" column="32" filename="$USER_HOME$/dev/java/jpf-hj/src/util/graph/Graph.java" />
+      <jump line="137" column="37" filename="$USER_HOME$/dev/java/jpf-hj/src/util/graph/Graph.java" />
+      <jump line="105" column="32" filename="$USER_HOME$/dev/java/jpf-hj/src/util/graph/Graph.java" />
+      <jump line="125" column="25" filename="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiTool.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new Path(&quot;graphs&quot;)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -373,10 +378,10 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC1QYmVuY2htYXJrPUFkZA==</text>
+        <text>new Path(&quot;graphs&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>fname</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -447,9 +452,9 @@
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>fname</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>fname</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -457,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>forall</entry>
         <entry>path</entry>
         <entry>file</entry>
         <entry>photos</entry>
@@ -477,6 +481,7 @@
         <entry>javac</entry>
         <entry>graph</entry>
         <entry>node</entry>
+        <entry>fname</entry>
       </history-search>
       <history-cmd>
         <entry>j;w</entry>
@@ -496,8 +501,8 @@
         <entry>vs</entry>
         <entry>wqa</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
