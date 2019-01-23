@@ -16,6 +16,9 @@
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1548201913254">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiChecker.java" timestamp="1547150670023">
         <mark key="'" line="11" column="49" />
         <mark key="[" line="12" column="9" />
@@ -49,11 +52,6 @@
       <file name="$USER_HOME$/dev/synchronicity/java/todo/chromecast/build.gradle" timestamp="1548272308530">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity/java/todo/chromecast/src/main/resources/application.properties" timestamp="1548272395194">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="36" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/SecondaryUser.java" timestamp="1545019957128">
         <mark key="'" line="15" column="0" />
@@ -99,6 +97,12 @@
         <mark key="[" line="270" column="0" />
         <mark key="]" line="277" column="3" />
         <mark key="." line="270" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity/router/build.gradle" timestamp="1548274567711">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/SecondaryUserRepository.java" timestamp="1545029168458">
         <mark key="'" line="19" column="10" />
@@ -160,10 +164,12 @@
         <mark key="^" line="94" column="98" />
         <mark key="." line="94" column="98" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/java/todo/wemo/src/main/resources/application.properties" timestamp="1548272461762">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="15" />
+      <file name="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" timestamp="1548279082636">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="28" column="67" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiDetector.java" timestamp="1547238187279">
         <mark key="'" line="19" column="28" />
@@ -196,11 +202,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/java/todo/slack/src/main/resources/application.properties" timestamp="1548272386060">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="105" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1545026061809">
         <mark key="[" line="103" column="34" />
         <mark key="]" line="103" column="34" />
@@ -213,6 +214,13 @@
         <mark key="]" line="135" column="53" />
         <mark key="." line="135" column="53" />
         <mark key="^" line="135" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548270942601">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/resources/yeti.jpf" timestamp="1547161554303">
         <mark key="[" line="3" column="0" />
@@ -285,6 +293,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1548278097274">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/java/src/main/java/webcams/Webcams.java" timestamp="1548273341020">
         <mark key="'" line="163" column="0" />
         <mark key="[" line="7" column="0" />
@@ -322,17 +333,18 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/router/src/main/resources/application.properties" timestamp="1548279012074">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" timestamp="1545029433436">
         <mark key="'" line="42" column="29" />
         <mark key="[" line="46" column="64" />
         <mark key="]" line="46" column="67" />
         <mark key="." line="46" column="67" />
         <mark key="^" line="46" column="67" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity/java/todo/webcams/src/main/resources/application.properties" timestamp="1548272458211">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/resources/scripts/compileTools.sh" timestamp="1547237908045">
         <mark key="[" line="5" column="26" />
@@ -366,24 +378,11 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
+      <file name="/fragment.java" timestamp="1548278097264">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="34" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/CompGraphTool.java" />
-      <jump line="92" column="21" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/util/ConditionalChoiceGenerator.java" />
-      <jump line="55" column="34" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/CompGraphTool.java" />
-      <jump line="50" column="28" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/CompGraphRaceDetector.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/CompGraphTool.java" />
-      <jump line="172" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/CompGraphTool.java" />
-      <jump line="15" column="11" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" />
-      <jump line="16" column="28" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" />
-      <jump line="30" column="16" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" />
-      <jump line="164" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" />
-      <jump line="15" column="29" filename="$USER_HOME$/dev/java/jpf-hj/scripts/runOne.sh" />
-      <jump line="17" column="14" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiTool.java" />
-      <jump line="15" column="16" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiTool.java" />
-      <jump line="12" column="16" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiTool.java" />
-      <jump line="55" column="28" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiTool.java" />
-      <jump line="2" column="21" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/util/graph/Graph.java" />
       <jump line="144" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/util/graph/Graph.java" />
       <jump line="8" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/util/graph/Graph.java" />
       <jump line="57" column="40" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiTool.java" />
@@ -468,13 +467,29 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/synchronicity/java/src/main/resources/application.properties" />
       <jump line="7" column="36" filename="$USER_HOME$/dev/synchronicity/java/src/main/java/Application.java" />
       <jump line="5" column="13" filename="$USER_HOME$/dev/synchronicity/java/src/main/java/Application.java" />
+      <jump line="34" column="15" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="124" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="106" column="8" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="56" column="15" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="68" column="15" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="102" column="8" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="99" column="13" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="110" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="66" column="15" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="79" column="4" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="84" column="40" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="45" column="15" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="49" column="49" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/synchronicity/router/src/main/java/router/Router.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">enV1bC5yb3V0ZXMuZXZlbnQudXJsPWh0dHA6Ly9sb2NhbGhvc3QvCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -492,13 +507,13 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>detector</text>
+        <text>handle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ29yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDpzcHJpbmctYm9vdC1ncmFkbGUtcGx1Z2luOjIuMC4wLlJFTEVBU0UnCg==</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMudXJsPWh0dHA6Ly9sb2NhbGhvc3QvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNocm9tZWNhc3QuQ2hyb21lY2FzdDsK</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMuZXZlbnQudXJsPWh0dHA6Ly9sb2NhbGhvc3QvCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -515,19 +530,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9OTg3Ngo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9OTg3NQo=</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMud2Vtby51cmw9aHR0cDovL2xvY2FsaG9zdC8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9OTg3NAo=</text>
+        <text encoding="base64">QEVuYWJsZVp1dWxQcm94eQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5TcHJpbmdBcHBsaWNhdGlvbjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMudXJsPWh0dHA6Ly9sb2NhbGhvc3QvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5TcHJpbmdBcHBsaWNhdGlvbjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMudXJsCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -547,25 +562,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5TcHJpbmdBcHBsaWNhdGlvbjsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdC5hdXRvY29uZmlndXJlLlNwcmluZ0Jvb3RBcHBsaWNhdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PcHRpb25hbDsK</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMuZXZlbnQudXJsPWh0dHA6Ly9sb2NhbGhvc3QK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN1LmxpdHZhay5jaHJvbWVjYXN0LmFwaS52Mi5DaHJvbWVDYXN0czsK</text>
+        <text encoding="base64">enV1bC5yb3V0ZXMuZXZlbnRzLnVybD1odHRwOi8vbG9jYWxob3N0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>detector</last-search>
+      <last-search>handle</last-search>
       <last-offset />
-      <last-pattern>detector</last-pattern>
+      <last-pattern>handle</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -573,8 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handleacquire</entry>
-        <entry>acquire</entry>
         <entry>savedUser</entry>
         <entry>user</entry>
         <entry>time</entry>
@@ -593,6 +606,8 @@
         <entry>graphs</entry>
         <entry>tool</entry>
         <entry>detector</entry>
+        <entry>apiServices</entry>
+        <entry>handle</entry>
       </history-search>
       <history-cmd>
         <entry>j;w</entry>
@@ -609,11 +624,11 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vs</entry>
         <entry>wqa</entry>
-        <entry>e</entry>
         <entry>2</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>e</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
