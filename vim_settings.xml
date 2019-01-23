@@ -104,12 +104,15 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity/java/build.gradle" timestamp="1548271593330">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="16" column="46" />
-        <mark key="m" line="20" column="18" />
-        <mark key="^" line="16" column="46" />
-        <mark key="." line="16" column="46" />
+      <file name="$USER_HOME$/dev/synchronicity/java/build.gradle" timestamp="1548271866952">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/cg/omp/OMPCGRaceDetector.java" timestamp="1547152707276">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/util/graph/Graph.java" timestamp="1547154028283">
         <mark key="'" line="8" column="29" />
@@ -117,6 +120,11 @@
         <mark key="]" line="2" column="21" />
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/search/util/Search.java" timestamp="1548200612023">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1545028151323">
         <mark key="'" line="89" column="0" />
@@ -146,6 +154,11 @@
         <mark key="^" line="12" column="50" />
         <mark key="." line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/java/settings.gradle" timestamp="1548271870380">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547583416059">
         <mark key="[" line="0" column="0" />
       </file>
@@ -162,6 +175,11 @@
         <mark key="]" line="46" column="67" />
         <mark key="." line="46" column="67" />
         <mark key="^" line="46" column="67" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiDetector.java" timestamp="1547242062427">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/ricefutures/FuturesTool.java" timestamp="1547241686265">
         <mark key="'" line="11" column="20" />
@@ -186,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="57" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="42" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="19" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiDetector.java" />
       <jump line="2" column="40" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiTool.java" />
@@ -286,13 +303,14 @@
       <jump line="49" column="12" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="28" column="25" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/synchronicity/java/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>chromecast</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cm9vdFByb2plY3QubmFtZSA9ICdqYXZhJwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -316,7 +334,7 @@
         <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaW8uc3ByaW5nLmRlcGVuZGVuY3ktbWFuYWdlbWVudCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JwphcHBseSBwbHVnaW46ICdpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50Jwo=</text>
+        <text encoding="base64">cm9vdFByb2plY3QubmFtZSA9ICdqYXZhJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,19 +351,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuYXJyYXkuUGFpcjsKCg==</text>
+        <text encoding="base64">Z3JvdXAgJ2phdmEnCnZlcnNpb24gJzEuMC1TTkFQU0hPVCcKCmFwcGx5IHBsdWdpbjogJ2phdmEnCgpzb3VyY2VDb21wYXRpYmlsaXR5ID0gMS44CgpyZXBvc2l0b3JpZXMgewogICAgbWF2ZW5DZW50cmFsKCkKfQoKZGVwZW5kZW5jaWVzIHsKICAgIHRlc3RDb21waWxlIGdyb3VwOiAnanVuaXQnLCBuYW1lOiAnanVuaXQnLCB2ZXJzaW9uOiAnNC4xMicKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBmaWxlKCdwcm9qZWN0RmlsZXNCYWNrdXAnKQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JwphcHBseSBwbHVnaW46ICdpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgZG90c0ZvbGRlci5ta2RpcnMoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwuYXJyYXkuUGFpcjsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBmaWxlKCdwcm9qZWN0RmlsZXNCYWNrdXAnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsZWFuRG90cygpCg==</text>
+        <text encoding="base64">Ly8gICAgZG90c0ZvbGRlci5ta2RpcnMoKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -368,16 +386,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGNsZWFuRG90cygpIHsKICAgIHByaW50ICJNZXRob2QgQSIKfQoKCg==</text>
+        <text encoding="base64">ICAgIGNsZWFuRG90cygpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnRhc2tzWydjbGVhbiddLmRvTGFzdCh7CiAgICBjbGVhbkRvdHMoKQp9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -430,9 +448,9 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>2</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
