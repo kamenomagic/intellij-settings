@@ -104,6 +104,13 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="59" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity/java/build.gradle" timestamp="1548271593330">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="16" column="46" />
+        <mark key="m" line="20" column="18" />
+        <mark key="^" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/util/graph/Graph.java" timestamp="1547154028283">
         <mark key="'" line="8" column="29" />
         <mark key="[" line="2" column="17" />
@@ -285,7 +292,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tool</text>
+        <text>chromecast</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -300,16 +307,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>tool</text>
+        <text>chromecast</text>
       </register>
       <register name="/" type="4">
         <text>detector</text>
       </register>
-      <register name="0" type="4">
-        <text>dotsFolder</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaW8uc3ByaW5nLmRlcGVuZGVuY3ktbWFuYWdlbWVudCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuYXJyYXkuUGFpcjsKCg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290JwphcHBseSBwbHVnaW46ICdpby5zcHJpbmcuZGVwZW5kZW5jeS1tYW5hZ2VtZW50Jwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -326,19 +333,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZSBmaWxlKCdwcm9qZWN0RmlsZXNCYWNrdXAnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWwuYXJyYXkuUGFpcjsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgZG90c0ZvbGRlci5ta2RpcnMoKQo=</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBmaWxlKCdwcm9qZWN0RmlsZXNCYWNrdXAnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZG90c0ZvbGRlci5ta2RpcnMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsZWFuRG90cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsZWFuRG90cygpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -358,16 +365,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGNsZWFuRG90cygpIHsKICAgIHByaW50ICJNZXRob2QgQSIKfQoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnRhc2tzWydjbGVhbiddLmRvTGFzdCh7CiAgICBjbGVhbkRvdHMoKQp9KQo=</text>
+        <text encoding="base64">ZGVmIGNsZWFuRG90cygpIHsKICAgIHByaW50ICJNZXRob2QgQSIKfQoKCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SW4gYnVpbGQuZ3JhZGxlOgoK</text>
+        <text encoding="base64">CnRhc2tzWydjbGVhbiddLmRvTGFzdCh7CiAgICBjbGVhbkRvdHMoKQp9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
