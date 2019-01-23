@@ -27,6 +27,13 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548270942601">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/DoAllIsolated.java" timestamp="1547679234561">
         <mark key="'" line="17" column="13" />
         <mark key="[" line="0" column="0" />
@@ -172,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="10" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/SecondaryUserRepository.java" />
-      <jump line="46" column="65" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="45" column="57" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="42" column="29" filename="$USER_HOME$/dev/java/restorat/src/main/java/restorat/notifications/Weekly.java" />
       <jump line="19" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/YetiDetector.java" />
@@ -272,6 +277,8 @@
       <jump line="12" column="48" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/CompGraphRaceDetector.java" />
       <jump line="31" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="49" column="12" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
+      <jump line="28" column="25" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
