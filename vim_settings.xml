@@ -33,25 +33,17 @@
         <mark key="^" line="10" column="23" />
         <mark key="." line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/HBDetector.java" timestamp="1548283802061">
-        <mark key="'" line="134" column="11" />
-        <mark key="[" line="161" column="11" />
-        <mark key="]" line="161" column="14" />
-        <mark key="^" line="161" column="14" />
-        <mark key="." line="161" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/config/compgraph.jpf" timestamp="1548284640016">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="19" />
-        <mark key="^" line="6" column="19" />
-        <mark key="." line="6" column="19" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548369125281">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="67" column="1" />
-        <mark key="]" line="69" column="3" />
-        <mark key="." line="69" column="3" />
-        <mark key="^" line="69" column="3" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548701915030">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="100" column="12" />
+        <mark key="]" line="100" column="12" />
+        <mark key="." line="100" column="12" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphRaceDetector.java" timestamp="1547154855191">
         <mark key="'" line="49" column="24" />
@@ -104,6 +96,7 @@
         <mark key="." line="18" column="9" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class" timestamp="1548699649210" />
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/ricefutures/FuturesTool.java" timestamp="1544130001464">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="39" column="24" />
@@ -292,6 +285,11 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/config/default.jpf" timestamp="1548701710453">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/zipper/ZipperTool.java" timestamp="1547154301860">
         <mark key="'" line="51" column="10" />
       </file>
@@ -327,33 +325,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="28" filename="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiDetector.java" />
-      <jump line="34" column="1" filename="$USER_HOME$/dev/java/jpf-hj/scripts/runOne.sh" />
-      <jump line="18" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjListener.java" />
-      <jump line="338" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjListener.java" />
-      <jump line="11" column="20" filename="$USER_HOME$/dev/java/jpf-hj/src/ricefutures/FuturesTool.java" />
-      <jump line="6" column="11" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="49" column="14" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="124" column="17" filename="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiTool.java" />
-      <jump line="103" column="32" filename="$USER_HOME$/dev/java/jpf-hj/src/util/graph/Graph.java" />
-      <jump line="137" column="37" filename="$USER_HOME$/dev/java/jpf-hj/src/util/graph/Graph.java" />
-      <jump line="105" column="32" filename="$USER_HOME$/dev/java/jpf-hj/src/util/graph/Graph.java" />
-      <jump line="125" column="25" filename="$USER_HOME$/dev/java/jpf-hj/src/yeti/YetiTool.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="62" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="46" column="11" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="37" column="4" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="44" column="4" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="58" column="4" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="1" column="4" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="63" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="71" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="21" column="16" filename="$USER_HOME$/dev/java/jpf-hj/src/util/ConditionalChoiceGenerator.java" />
       <jump line="61" column="9" filename="$USER_HOME$/dev/java/jpf-hj/src/compgraph/CompGraphTool.java" />
       <jump line="16" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/DoAllIsolated.java" />
@@ -427,13 +399,39 @@
       <jump line="142" column="28" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="49" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
+      <jump line="113" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="30" column="18" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="102" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="43" column="19" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="48" column="25" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="51" column="27" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="55" column="18" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="58" column="79" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="88" column="56" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="95" column="47" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="75" column="44" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="74" column="19" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="76" column="45" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="73" column="16" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="71" column="8" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="78" column="54" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="79" column="49" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="80" column="50" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="77" column="51" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="100" column="12" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="107" column="5" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="62" column="4" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="112" column="16" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="63" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="108" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="61" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(Detector) Class.forName(conf.getString(&quot;detector&quot;)).newInstance();</text>
+        <text encoding="base64">ZGVmIA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -448,16 +446,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>(Detector) Class.forName(conf.getString(&quot;detector&quot;)).newInstance();</text>
+        <text encoding="base64">ZGVmIA==</text>
       </register>
       <register name="/" type="4">
-        <text>isdependent</text>
+        <text>dotToPng</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLmRldGVjdG9yID0gKERldGVjdG9yKSBDbGFzcy5mb3JOYW1lKGNvbmYuZ2V0U3RyaW5nKCJkZXRlY3RvciIpKS5uZXdJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYocHJvamVjdC5oYXNQcm9wZXJ0eSgiYmVuY2htYXJrIikpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CnRhc2sgcnVuKCkgewogICAgZG9MYXN0IHsKICAgICAgICBpZihwcm9qZWN0Lmhhc1Byb3BlcnR5KCJjb25maWciKSkgewogICAgICAgICAgICBydW5KUEZDb25maWcoY29uZmlnKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgaWYoIXByb2plY3QuaGFzUHJvcGVydHkoImRldGVjdG9yIikpIHsKCiAgICAgICAgfQogICAgICAgIGlmKHByb2plY3QuaGFzUHJvcGVydHkoImJlbmNobWFyayIpKSB7CiAgICAgICAgICAgIHJ1bkpQRihwcm9qZWN0Lmhhc1Byb3BlcnR5KCJkZXRlY3RvciIpID8gZGV0ZWN0b3IgOiBkZWZhdWx0RGV0ZWN0b3IsIHByb2plY3QuaGFzUHJvcGVydHkoImJlbmNobWFyayIpID8gYmVuY2htYXJrIDogZGVmYXVsdEJlbmNobWFyaykKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBmaWxlVHJlZSgiYnVpbGQvYmVuY2htYXJrcyIpLnZpc2l0IHsgRmlsZVZpc2l0RGV0YWlscyBkZXRhaWxzIC0+CiAgICAgICAgICAgICAgICBydW5KUEYocHJvamVjdC5oYXNQcm9wZXJ0eSgiZGV0ZWN0b3IiKSA/IGRldGVjdG9yIDogZGVmYXVsdERldGVjdG9yLCBkZXRhaWxzLmZpbGUubmFtZS5zcGxpdCgnLmNsYXNzJylbMF0pCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICB9CiAgICB9Cn0KCnRhc2sgZG90c1RvUG5ncyB7CiAgICBkb0xhc3R7CiAgICAgICAgZmlsZVRyZWUoImRvdHMiKS52aXNpdCB7IEZpbGVWaXNpdERldGFpbHMgZGV0YWlscyAtPgogICAgICAgICAgICBkZWYgZmlsZU5hbWUgPSBkZXRhaWxzLmZpbGUubmFtZS5zcGxpdCgnLmNsYXNzJylbMF0KICAgICAgICAgICAgaWYoZmlsZU5hbWUuY29udGFpbnMoIi5kb3QiKSAmJiAhZmlsZU5hbWUuY29udGFpbnMoIi5wbmciKSkgewogICAgICAgICAgICAgICAgZXhlYyB7CiAgICAgICAgICAgICAgICAgICAgd29ya2luZ0RpciAiZG90cyIKICAgICAgICAgICAgICAgICAgICBjb21tYW5kTGluZSAiZG90IiwgIi1UIiwgInBuZyIsICItTyIsIGRvdEZpbGUKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -474,19 +472,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ZGVmIGRvdFRvUG5nKGRvdEZpbGUpIHsKfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdFRvUG5nKGZpbGVOYW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXNlRFBPUiA9IGNvbmYuZ2V0Qm9vbGVhbigiRFBPUiIpOwogICAgICBkZWJ1ZyA9IGNvbmYuZ2V0Qm9vbGVhbigiZGVidWciKTsKICAgICAgdHJ5IHsKICAgICAgICB0aGlzLmRldGVjdG9yID0gKERldGVjdG9yKSBDbGFzcy5mb3JOYW1lKGNvbmYuZ2V0U3RyaW5nKCJkZXRlY3RvciIpKS5uZXdJbnN0YW5jZSgpOwogICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIkNvdWxkIG5vdCBsb2NhdGUgZGV0ZWN0b3IgYnkgdGhlIG5hbWUgXCIiICsKICAgICAgICAgICAgICAgIGNvbmYuZ2V0U3RyaW5nKCJkZXRlY3RvciIpICsKICAgICAgICAgICAgICAgICJcIi4gUGxlYXNlIHNwZWNpZnkgdGhlIGZ1bGwgcGFja2FnZSBhbmQgY2xhc3MgbmFtZSBpZiB0aGUgYXV0by1maW5kZXIgZG9lc24ndCB3b3JrLiIpOwogICAgICB9CiAgICAgIGRldGVjdG9yLm93bmVyID0gdGhpczsKICAgICAgaW5pdGlhbFN0YXRlID0gdGhpcy5kZXRlY3Rvci5nZXRJbW11dGFibGVTdGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgIGV4ZWMgewogICAgICAgIHdvcmtpbmdEaXIgImRvdHMiCiAgICAgICAgY29tbWFuZExpbmUgImRvdCIsICItVCIsICJwbmciLCAiLU8iLCBkb3RGaWxlCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbnN0YW50aWF0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmIGRldGVjdG9yCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -506,25 +504,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgRFBPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiTm8gcGFyYW1ldGVycyBnaXZlbjsgcnVubmluZyBkZWZhdWx0IGNvbmZpZ3VyYXRpb24uLi4iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVuSlBGKCkK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbigiRFBPUiBub3QgaW1wbGVtZW50ZWQgaW4gZGV0ZWN0b3IuIik7Cg==</text>
+        <text encoding="base64">dGFyZ2V0PVNFRF9XSUxMX1JFUExBQ0UKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isdependent</last-search>
+      <last-search>dotToPng</last-search>
       <last-offset />
-      <last-pattern>isdependent</last-pattern>
+      <last-pattern>dotToPng</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -532,17 +530,8 @@
     </search>
     <history>
       <history-search>
-        <entry>compgraphnode</entry>
-        <entry>compgraph</entry>
-        <entry>compgraphtool</entry>
-        <entry>iterator</entry>
-        <entry>config</entry>
-        <entry>javac</entry>
-        <entry>graph</entry>
-        <entry>node</entry>
         <entry>fname</entry>
         <entry>graphs</entry>
-        <entry>tool</entry>
         <entry>detector</entry>
         <entry>apiServices</entry>
         <entry>handle</entry>
@@ -552,6 +541,15 @@
         <entry>race</entry>
         <entry>hasRace</entry>
         <entry>isdependent</entry>
+        <entry>Tool</entry>
+        <entry>tool</entry>
+        <entry>filename</entry>
+        <entry>name</entry>
+        <entry>file</entry>
+        <entry>match</entry>
+        <entry>expanded</entry>
+        <entry>dotsToPngs</entry>
+        <entry>dotToPng</entry>
       </history-search>
       <history-cmd>
         <entry>j;w</entry>
