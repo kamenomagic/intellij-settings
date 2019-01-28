@@ -39,12 +39,12 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548706610904">
-        <mark key="'" line="71" column="41" />
-        <mark key="[" line="67" column="62" />
-        <mark key="]" line="67" column="67" />
-        <mark key="^" line="67" column="67" />
-        <mark key="." line="67" column="67" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548710387798">
+        <mark key="'" line="111" column="15" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="52" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="75" column="38" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphRaceDetector.java" timestamp="1547154855191">
         <mark key="'" line="49" column="24" />
@@ -70,6 +70,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/gradle/wrapper/gradle-wrapper.properties" timestamp="1548709409007">
+        <mark key="[" line="5" column="77" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/CompGraphRaceDetector.java" timestamp="1547150802334">
         <mark key="'" line="47" column="28" />
@@ -228,6 +234,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="53" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/README.md" timestamp="1548710633663">
+        <mark key="[" line="5" column="208" />
+        <mark key="]" line="5" column="222" />
+        <mark key="^" line="5" column="222" />
+        <mark key="." line="5" column="222" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/tool/graph/hb/CompGraphRaceDetector.java" timestamp="1548201226925">
         <mark key="'" line="49" column="18" />
       </file>
@@ -321,17 +333,11 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1548278097264">
+      <file name="/fragment.java" timestamp="1548710779029">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/synchronicity/java/todo/wemo/build.gradle" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/synchronicity/java/build.gradle" />
-      <jump line="29" column="4" filename="$USER_HOME$/dev/synchronicity/java/build.gradle" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity/java/build.gradle" />
-      <jump line="12" column="13" filename="$USER_HOME$/dev/synchronicity/java/src/main/java/slack/Slack.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/synchronicity/java/src/main/java/slack/Slack.java" />
       <jump line="8" column="23" filename="$USER_HOME$/dev/synchronicity/java/build.gradle" />
       <jump line="90" column="24" filename="$USER_HOME$/dev/synchronicity/java/src/main/java/chromecast/Chromecast.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity/java/src/main/java/chromecast/Chromecast.java" />
@@ -387,19 +393,14 @@
       <jump line="58" column="79" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="88" column="56" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="95" column="47" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="75" column="44" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="74" column="19" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="76" column="45" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="73" column="16" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="78" column="54" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="80" column="50" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="100" column="12" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="62" column="4" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="112" column="16" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="37" column="14" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="69" column="58" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="68" column="8" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="92" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
@@ -410,7 +411,6 @@
       <jump line="108" column="46" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="123" column="42" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="107" column="57" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="72" column="16" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="50" column="19" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="116" column="43" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
@@ -421,18 +421,30 @@
       <jump line="126" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="75" column="43" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="67" column="35" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="77" column="12" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="99" column="20" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="89" column="45" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="46" column="42" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
-      <jump line="71" column="41" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="91" column="16" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="84" column="11" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="85" column="19" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="110" column="0" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="69" column="43" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="71" column="10" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="72" column="45" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="74" column="10" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="75" column="41" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="77" column="10" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="99" column="10" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="81" column="46" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="80" column="10" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="78" column="27" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
+      <jump line="106" column="15" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>detector</text>
+        <text>=dumb</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -447,16 +459,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>detector</text>
+        <text>=dumb</text>
       </register>
       <register name="/" type="4">
-        <text>split</text>
+        <text>in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJEUE9SIFNlYXJjaDogJHtkcG9yID8gJ09OJyA6ICdPRkYnfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiVXNpbmcgYmVuY2htYXJrOiAke2JlbmNobWFya30iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJEUE9SIFNlYXJjaDogJHtkcG9yID8gJ09OJyA6ICdPRkYnfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdCA9IFN5c3RlbS5jb25zb2xlKCkucmVhZExpbmUoIkhJIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -465,19 +477,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZih0aGlzLmRldGVjdG9yID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiRmFpbGVkIHRvIGxvYWQgZGV0ZWN0b3IuIik7CiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249ZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjciKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjgiKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjciKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -497,25 +509,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIjMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHByb2plY3QuaGFzUHJvcGVydHkoImNvbmZpZyIpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>split</last-search>
+      <last-search>in</last-search>
       <last-offset />
-      <last-pattern>split</last-pattern>
+      <last-pattern>in</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -523,8 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apiServices</entry>
-        <entry>handle</entry>
         <entry>depend</entry>
         <entry>check</entry>
         <entry>checkGraph</entry>
@@ -543,6 +553,8 @@
         <entry>detector</entry>
         <entry>useDpor</entry>
         <entry>split</entry>
+        <entry>newReader</entry>
+        <entry>in</entry>
       </history-search>
       <history-cmd>
         <entry>j;w</entry>
@@ -560,10 +572,10 @@
         <entry>vs</entry>
         <entry>wqa</entry>
         <entry>2</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
         <entry>e</entry>
+        <entry>wq</entry>
         <entry>noh</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
