@@ -39,12 +39,11 @@
         <mark key="^" line="7" column="19" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548710387798">
+      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548785284017">
         <mark key="'" line="111" column="15" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="52" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="75" column="38" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphRaceDetector.java" timestamp="1547154855191">
         <mark key="'" line="49" column="24" />
@@ -443,8 +442,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>=dumb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CnRhc2sgY29tcGFyZSgpIHsKICAgIGRvTGFzdCB7CiAgICAgICAgcHJvamVjdC5zZXRQcm9wZXJ0eSgpCiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -468,7 +467,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigiVXNpbmcgYmVuY2htYXJrOiAke2JlbmNobWFya30iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgdCA9IFN5c3RlbS5jb25zb2xlKCkucmVhZExpbmUoIkhJIikK</text>
+        <text encoding="base64">CnRhc2sgY29tcGFyZSgpIHsKICAgIGRvTGFzdCB7CiAgICAgICAgcHJvamVjdC5zZXRQcm9wZXJ0eSgpCiAgICAgICAgCiAgICB9Cn0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -477,13 +476,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249ZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBwcm9qZWN0LnNldFByb3BlcnR5KCkKICAgICAgICBjb21wYXJlLmZpbmFsaXplZEJ5KHJ1bikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdCA9IFN5c3RlbS5jb25zb2xlKCkucmVhZExpbmUoIkhJIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">b3JnLmdyYWRsZS5kYWVtb249ZmFsc2UK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
@@ -512,16 +511,16 @@
         <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHByb2plY3QuaGFzUHJvcGVydHkoImNvbmZpZyIpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -573,10 +572,10 @@
         <entry>wqa</entry>
         <entry>2</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
