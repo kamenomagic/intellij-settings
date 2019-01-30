@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphTool.java" timestamp="1547154174277">
         <mark key="'" line="7" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1548866420952">
+      <file name="/a.dummy" timestamp="1548879744940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/util/Node.java" timestamp="1548871884397">
@@ -38,12 +38,6 @@
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/HBDetector.java" timestamp="1548874581747">
         <mark key="'" line="52" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/config/compgraph.jpf" timestamp="1548702848267">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548866618633">
         <mark key="'" line="61" column="49" />
@@ -121,12 +115,10 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/AsyncNode.java" timestamp="1548874383048">
-        <mark key="'" line="3" column="19" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/AsyncNode.java" timestamp="1548879666905">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="4" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjListener.java" timestamp="1547240091169">
         <mark key="'" line="338" column="0" />
@@ -147,11 +139,11 @@
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" timestamp="1548874481882">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="3" column="12" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" timestamp="1548879346779">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="3" column="1" />
+        <mark key="^" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1545027706291">
         <mark key="'" line="34" column="0" />
@@ -199,12 +191,12 @@
         <mark key="." line="81" column="0" />
         <mark key="^" line="90" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" timestamp="1548874631263">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="62" column="11" />
-        <mark key="]" line="62" column="11" />
-        <mark key="^" line="62" column="11" />
-        <mark key="." line="62" column="11" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" timestamp="1548880280607">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" timestamp="1545022405578">
         <mark key="'" line="0" column="0" />
@@ -219,8 +211,10 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/zipper/ZipperRaceDetector.java" timestamp="1547154296339">
         <mark key="'" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RegularNode.java" timestamp="1548874494458">
-        <mark key="^" line="11" column="21" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RegularNode.java" timestamp="1548879344228">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1545028438187">
         <mark key="'" line="56" column="45" />
@@ -287,8 +281,20 @@
         <mark key="^" line="5" column="222" />
         <mark key="." line="5" column="222" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/SyncNode.java" timestamp="1548880228756">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/tool/graph/hb/CompGraphRaceDetector.java" timestamp="1548201226925">
         <mark key="'" line="49" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ForkNode.java" timestamp="1548879759891">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/CompGraphRaceDetector.java" timestamp="1548283672438">
         <mark key="'" line="48" column="24" />
@@ -367,11 +373,11 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" timestamp="1548874909233">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" timestamp="1548879763699">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="5" column="41" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/User.java" timestamp="1545019946523">
         <mark key="'" line="18" column="0" />
@@ -393,12 +399,11 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1548872505631">
+      <file name="/fragment.java" timestamp="1548879733593">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="43" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="67" column="35" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="89" column="45" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
       <jump line="46" column="42" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
@@ -498,13 +503,14 @@
       <jump line="52" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/HBDetector.java" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>addChild</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -519,16 +525,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>addChild</text>
       </register>
       <register name="/" type="4">
         <text>intersect</text>
       </register>
-      <register name="0" type="4">
-        <text>isolated</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBwcm90ZWN0ZWQgWmlwcGVyTm9kZSBjaGlsZCA9IG51bGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgcHVibGljIFJlZ3VsYXJOb2RlKCkgewogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -537,19 +543,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgUmVndWxhck5vZGUoKSB7CiAgfQoK</text>
+        <text encoding="base64">ICBwdWJsaWMgWmlwcGVyTm9kZSBhZHZhbmNlKFppcHBlck5vZGUgbm9kZSkgewogICAgcmV0dXJuIGFkZENoaWxkKG5vZGUpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNoaWxkID0gbm9kZTsKICAgIG5vZGUucGFyZW50ID0gdGhpczsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgcHVibGljIFppcHBlck5vZGUoKSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -569,16 +575,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIG5vZGUuc3luYyA9IHN5bmM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgcHVibGljIFppcHBlck5vZGUoKSB7CiAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKG5vZGUgaW5zdGFuY2VvZiBJc29sYXRlZE5vZGUgfHwgbm9kZSBpbnN0YW5jZW9mIEZvcmtOb2RlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -591,7 +597,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -634,8 +640,8 @@
         <entry>1</entry>
         <entry>;w</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
