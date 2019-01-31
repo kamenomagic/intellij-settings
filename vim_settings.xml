@@ -39,24 +39,12 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/HBDetector.java" timestamp="1548874581747">
         <mark key="'" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/config/compgraph.jpf" timestamp="1548702848267">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1548866618633">
-        <mark key="'" line="61" column="49" />
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1548888962035">
-        <mark key="'" line="38" column="34" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="28" />
-        <mark key="." line="66" column="28" />
-        <mark key="^" line="66" column="65" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1548905062341">
+        <mark key="'" line="46" column="36" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphRaceDetector.java" timestamp="1547154855191">
         <mark key="'" line="49" column="24" />
@@ -152,11 +140,10 @@
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" timestamp="1548888392483">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" timestamp="1548903946461">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1545027706291">
         <mark key="'" line="34" column="0" />
@@ -197,19 +184,19 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" timestamp="1548872843356">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" timestamp="1548905082325">
         <mark key="'" line="203" column="16" />
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="54" />
         <mark key="." line="81" column="0" />
         <mark key="^" line="90" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" timestamp="1548888751856">
-        <mark key="'" line="23" column="11" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="38" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" timestamp="1548904882449">
+        <mark key="'" line="14" column="7" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/controllers/general/UserController.java" timestamp="1545022405578">
         <mark key="'" line="0" column="0" />
@@ -224,11 +211,10 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/zipper/ZipperRaceDetector.java" timestamp="1547154296339">
         <mark key="'" line="33" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RegularNode.java" timestamp="1548888858292">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="41" />
-        <mark key="^" line="4" column="41" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RegularNode.java" timestamp="1548903855828">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/SecondaryUserService.java" timestamp="1545028438187">
         <mark key="'" line="56" column="45" />
@@ -305,11 +291,12 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/tool/graph/hb/CompGraphRaceDetector.java" timestamp="1548201226925">
         <mark key="'" line="49" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ForkNode.java" timestamp="1548888159201">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ForkNode.java" timestamp="1548902433326">
         <mark key="'" line="10" column="39" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/CompGraphRaceDetector.java" timestamp="1548283672438">
         <mark key="'" line="48" column="24" />
@@ -324,7 +311,7 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548884427820">
+      <file name="/Dummy.txt" timestamp="1548904805221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFState.java" timestamp="1548874131049">
@@ -367,11 +354,12 @@
         <mark key="." line="46" column="67" />
         <mark key="^" line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" timestamp="1548892544337">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" timestamp="1548904948704">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="32" column="66" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="33" column="6" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/resources/scripts/compileTools.sh" timestamp="1547237908045">
         <mark key="[" line="5" column="26" />
@@ -394,12 +382,12 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" timestamp="1548888853225">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="6" column="42" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" timestamp="1548904575041">
+        <mark key="'" line="25" column="18" />
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="18" />
+        <mark key="." line="26" column="20" />
+        <mark key="^" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/User.java" timestamp="1545019946523">
         <mark key="'" line="18" column="0" />
@@ -421,7 +409,7 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1548888828353">
+      <file name="/fragment.java" timestamp="1548904805223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="23" />
@@ -429,14 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="11" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/NodeList.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="63" column="38" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="22" column="10" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="5" column="44" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="61" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
@@ -457,7 +437,6 @@
       <jump line="83" column="21" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="84" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
-      <jump line="44" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="22" column="19" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="30" column="19" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="28" column="2" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
@@ -488,7 +467,6 @@
       <jump line="52" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/HBDetector.java" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="59" column="21" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="60" column="16" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="63" column="8" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
@@ -509,7 +487,6 @@
       <jump line="27" column="2" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="74" column="74" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="45" column="3" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
-      <jump line="14" column="2" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="28" column="22" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="54" column="4" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
@@ -526,16 +503,27 @@
       <jump line="37" column="14" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="18" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" />
-      <jump line="38" column="34" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="43" column="9" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="23" column="11" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="38" column="34" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
+      <jump line="42" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="44" column="15" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="46" column="36" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
+      <jump line="85" column="10" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
+      <jump line="119" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="14" column="7" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
+      <jump line="25" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
+      <jump line="8" column="2" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -550,16 +538,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>access</text>
+        <text>gettid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnROb2Rlcy5wdXQodGlkLCBjdXJyZW50LmNoaWxkKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0QWNjZXNzPiBvYmplY3RBY2Nlc3NlcywgTWFwPFN0cmluZywgQXJyYXlBY2Nlc3M+IGFycmF5QWNjZXNzZXM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9CiAgICBzeW5jLnZhbHVlcygpLmZvckVhY2gobm9kZSAtPiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -625,19 +613,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgbm9kZS5jb25mbGljdHMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY2hlY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLmNoZWNrUmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgY2hlY2tSYWNlKCkgewoKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgaWYobm9kZS5jaGlsZCBpbnN0YW5jZW9mIEpvaW5Ob2RlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgQE92ZXJyaWRlCiAgcHVibGljIHZvaWQgY2hlY2tSYWNlKCkgewoKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -657,33 +645,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETwo=</text>
+        <text encoding="base64">CiAgICBpZihub2RlLmNoaWxkIGluc3RhbmNlb2YgSm9pbk5vZGUpCiAgICByZXR1cm4gY2hlY2tSYWNlKG5vZGUuY2hpbGQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>access</last-search>
+      <last-search>gettid</last-search>
       <last-offset />
-      <last-pattern>access</last-pattern>
+      <last-pattern>gettid</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>split</entry>
         <entry>newReader</entry>
         <entry>in</entry>
         <entry>runjpf</entry>
@@ -703,6 +690,7 @@
         <entry>threadId</entry>
         <entry>k</entry>
         <entry>access</entry>
+        <entry>gettid</entry>
       </history-search>
       <history-cmd>
         <entry>kkk;w</entry>
@@ -717,12 +705,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vs</entry>
         <entry>wqa</entry>
-        <entry>e</entry>
         <entry>2</entry>
         <entry>1</entry>
         <entry>;w</entry>
         <entry>noh</entry>
         <entry>q</entry>
+        <entry>e</entry>
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
