@@ -41,8 +41,8 @@
         <mark key="." line="126" column="26" />
         <mark key="^" line="126" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1549057576494">
-        <mark key="'" line="53" column="32" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1549399758294">
+        <mark key="'" line="54" column="40" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
@@ -510,8 +510,8 @@
       <jump line="90" column="23" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/HBDetector.java" />
       <jump line="52" column="30" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="20" column="69" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/DisjointIsolated.java" />
-      <jump line="54" column="47" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="53" column="32" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
+      <jump line="54" column="40" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
