@@ -41,11 +41,11 @@
         <mark key="." line="126" column="26" />
         <mark key="^" line="126" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1549402197992">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1549409234759">
         <mark key="'" line="54" column="41" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" timestamp="1549401800598">
         <mark key="'" line="38" column="29" />
@@ -519,7 +519,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIHBhcmVudC5hZGRBY2Nlc3MoY3VycmVudC5XKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -543,7 +543,7 @@
         <text encoding="base64">ZGV0ZWN0b3I9Z3JhcGguemlwcGVyLm90Zi5aaXBwZXJPVEZEZXRlY3Rvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgIHBhcmVudC5hZGRBY2Nlc3MoY3VycmVudC5XKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -609,19 +609,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnQuYWRkQWNjZXNzKGxhYmVsLCB3cml0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnQuYWRkQWNjZXNzKGxhYmVsLCB3cml0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGN1cnJlbnQuYWRkQWNjZXNzKGxhYmVsLCB3cml0ZSk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -641,16 +641,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2RldGVjdG9yPWdyYXBoLmhiLkhCRGV0ZWN0b3IK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQuYWRkQWNjZXNzKGxhYmVsLCB3cml0ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">I2RldGVjdG9yPWdyYXBoLmhiLkhCRGV0ZWN0b3IK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsYWJlbC5zdGFydHNXaXRoKCJ1dGlsLmFycmF5IikpIHsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
