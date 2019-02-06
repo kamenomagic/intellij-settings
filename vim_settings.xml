@@ -355,11 +355,11 @@
         <mark key="." line="46" column="67" />
         <mark key="^" line="46" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" timestamp="1549052744431">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" timestamp="1549488382851">
         <mark key="'" line="13" column="108" />
-        <mark key="[" line="13" column="108" />
-        <mark key="]" line="13" column="108" />
-        <mark key="." line="13" column="108" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="13" column="108" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/resources/scripts/compileTools.sh" timestamp="1547237908045">
@@ -520,8 +520,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DisjointIsolated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgWmlwcGVyTm9kZSBub2RlID0gcGFpci5nZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -544,12 +544,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY3VycmVudC5hZGRBY2Nlc3MobGFiZWwsIHdyaXRlKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>else if(((IsolatedNode) current).incoming.isEmpty()){
-          current.parent.addAccess(label, write);
-        } else {
-          current.addAccess(label, write);
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgWmlwcGVyTm9kZSBub2RlID0gcGFpci5nZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -615,19 +611,23 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHBhaXIuZ2V0S2V5KCkgIT0gdGlkKSB7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>else if(((IsolatedNode) current).incoming.isEmpty()){
+          current.parent.addAccess(label, write);
+        } else {
+          current.addAccess(label, write);
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudC4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -650,13 +650,13 @@
         <text encoding="base64">ICAgICAgY3VycmVudC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICgoSXNvbGF0ZWROb2RlKSBjdXJyZW50KS5hZGRXY3BBY2Nlc3MobGFiZWwsIHdyaXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50Lgo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY3VycmVudC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
