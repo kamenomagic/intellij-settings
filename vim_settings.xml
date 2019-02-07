@@ -113,6 +113,12 @@
         <mark key="." line="12" column="13" />
         <mark key="^" line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/java/visitor-skeleton/src/test/java/edu/byu/yc/ForLoopInitializersTest.java" timestamp="1549572645953">
+        <mark key="[" line="58" column="45" />
+        <mark key="]" line="59" column="45" />
+        <mark key="^" line="59" column="45" />
+        <mark key="." line="59" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/HappensBeforeCheck.java" timestamp="1547150640559">
         <mark key="'" line="17" column="16" />
         <mark key="[" line="9" column="13" />
@@ -133,11 +139,6 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/AsyncNode.java" timestamp="1548879666905">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/HjListener.java" timestamp="1547240091169">
         <mark key="'" line="338" column="0" />
       </file>
@@ -156,11 +157,6 @@
         <mark key="]" line="40" column="45" />
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
-      </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" timestamp="1548903946461">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1545027706291">
         <mark key="'" line="34" column="0" />
@@ -226,11 +222,6 @@
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/zipper/ZipperRaceDetector.java" timestamp="1547154296339">
         <mark key="'" line="33" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RegularNode.java" timestamp="1548903855828">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/util/DataRaceException.java" timestamp="1549051706467">
         <mark key="[" line="4" column="17" />
@@ -396,11 +387,6 @@
         <mark key="]" line="5" column="26" />
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/config/default.jpf" timestamp="1548701710453">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/zipper/ZipperTool.java" timestamp="1547154301860">
         <mark key="'" line="51" column="10" />
