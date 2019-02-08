@@ -59,12 +59,12 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphRaceDetector.java" timestamp="1547154855191">
         <mark key="'" line="49" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" timestamp="1549662940789">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" timestamp="1549666157052">
         <mark key="'" line="61" column="69" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="11" column="0" />
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="40" />
+        <mark key="^" line="60" column="40" />
+        <mark key="." line="60" column="40" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/config/yeti.jpf" timestamp="1548284421366">
         <mark key="[" line="4" column="30" />
@@ -537,8 +537,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE1hcDxDb25kaXRpb25hbENob2ljZUdlbmVyYXRvciwgSXNvbGF0ZWROb2RlPiBjaG9pY2VHZW5lcmF0b3JzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getNextChoice</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -553,7 +553,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>outgoing</text>
+        <text>getNextChoice</text>
       </register>
       <register name="/" type="4">
         <text>outgoing</text>
