@@ -59,12 +59,12 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/compgraph/CompGraphRaceDetector.java" timestamp="1547154855191">
         <mark key="'" line="49" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" timestamp="1549661936980">
-        <mark key="'" line="38" column="29" />
-        <mark key="[" line="62" column="71" />
-        <mark key="]" line="62" column="72" />
-        <mark key="." line="62" column="72" />
-        <mark key="^" line="62" column="57" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" timestamp="1549662940789">
+        <mark key="'" line="61" column="69" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/config/yeti.jpf" timestamp="1548284421366">
         <mark key="[" line="4" column="30" />
@@ -432,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="14" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="18" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/JoinNode.java" />
       <jump line="23" column="11" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
@@ -532,13 +531,14 @@
       <jump line="32" column="0" filename="$USER_HOME$/dev/java/visitor-skeleton/pom.xml" />
       <jump line="23" column="8" filename="$USER_HOME$/dev/java/visitor-skeleton/pom.xml" />
       <jump line="60" column="56" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
+      <jump line="62" column="69" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5vZGUub3V0Z29pbmcuYWRkKHRoaXMpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIE1hcDxDb25kaXRpb25hbENob2ljZUdlbmVyYXRvciwgSXNvbGF0ZWROb2RlPiBjaG9pY2VHZW5lcmF0b3JzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -562,7 +562,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5vZGUub3V0Z29pbmcuYWRkKHRoaXMpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIE1hcDxDb25kaXRpb25hbENob2ljZUdlbmVyYXRvciwgSXNvbGF0ZWROb2RlPiBjaG9pY2VHZW5lcmF0b3JzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -628,19 +628,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU2V0PElzb2xhdGVkTm9kZT4gb3V0Z29pbmcgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY2hvaWNlR2VuZXJhdG9ycy5wdXQoY2csIHN0YXRlLmlzb2xhdGVFbmQodGlkKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vZGUub3V0Z29pbmcuYWRkKHRoaXMpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIE1hcDxDb25kaXRpb25hbENob2ljZUdlbmVyYXRvciwgSXNvbGF0ZWROb2RlPiBjaG9pY2VHZW5lcmF0b3JzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgU2V0PElzb2xhdGVkTm9kZT4gb3V0Z29pbmcgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIE1hcDxDb25kaXRpb25hbENob2ljZUdlbmVyYXRvciwgSXNvbGF0ZWROb2RlPiBjaG9pY2VHZW5lcmF0b3JzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZEFjY2VzcyhsYWJlbCwgd3JpdGUpOwo=</text>
+        <text encoding="base64">ICAgIG5vZGUub3V0Z29pbmcuYWRkKHRoaXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYoKChJc29sYXRlZE5vZGUpIGN1cnJlbnQpLmluY29taW5nLmlzRW1wdHkoKSkgewoKICAgICAgfSBlbHNlIHsKICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgU2V0PElzb2xhdGVkTm9kZT4gb3V0Z29pbmcgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -660,16 +660,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihjdXJyZW50LnRpZCA9PSBub2RlLnRpZCB8fCBjdXJyZW50LnN5bmMuZ2V0KG5vZGUudGlkKS5pZCA+IG5vZGUuaWQpIHsKICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG5vZGUub3V0Z29pbmcuYWRkKHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgU2V0PElzb2xhdGVkTm9kZT4gb3V0Z29pbmcgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN5bmMucmVtb3ZlKHRpZCk7Cg==</text>
+        <text encoding="base64">ICAgIGFkZEFjY2VzcyhsYWJlbCwgd3JpdGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
