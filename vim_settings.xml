@@ -40,7 +40,7 @@
         <mark key="]" line="43" column="49" />
         <mark key="." line="43" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1550619561819">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1550620056903">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -183,8 +183,8 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" timestamp="1550101642822">
-        <mark key="'" line="90" column="32" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" timestamp="1550620022070">
+        <mark key="'" line="178" column="8" />
         <mark key="[" line="97" column="35" />
         <mark key="]" line="97" column="35" />
         <mark key="." line="97" column="35" />
@@ -299,11 +299,11 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/config/zipperOTF.jpf" timestamp="1550619661865">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/config/zipperOTF.jpf" timestamp="1550619966014">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1550619859643">
         <mark key="[" line="0" column="0" />
@@ -402,11 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="341" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="37" column="59" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="40" column="48" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="41" column="51" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="42" column="46" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="43" column="51" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="44" column="52" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
@@ -425,7 +420,6 @@
       <jump line="54" column="40" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="93" column="19" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="109" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="139" column="42" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="141" column="78" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="144" column="19" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="254" column="24" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
@@ -502,6 +496,12 @@
       <jump line="61" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="75" column="35" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
+      <jump line="147" column="54" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
+      <jump line="149" column="111" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
+      <jump line="174" column="8" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
+      <jump line="176" column="8" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
+      <jump line="178" column="8" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -526,13 +526,13 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>runjpf</text>
+        <text>debug</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSBuZXcgWmlwcGVyT1RGKDAsIHVzZURDKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
+        <text encoding="base64">ZGVidWc9dHJ1ZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -598,19 +598,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKCkgewogICAgdGhpcy5zdGF0ZSA9IG5ldyBaaXBwZXJPVEYoMCwgdXNlREMpOwogIH0KCiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKGJvb2xlYW4gdXNlREMpIHsKICAgIHRoaXMudXNlREMgPSB1c2VEQzsKICAgIHRoaXMuc3RhdGUgPSBuZXcgWmlwcGVyT1RGKDAsIHVzZURDKTsKICB9Cg==</text>
+        <text encoding="base64">ZHBvcj10cnVlCmRjPWZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZENvbnN0cnVjdG9yKG5ldyBDbGFzc1tde2Jvb2xlYW4uY2xhc3N9KQo=</text>
+        <text encoding="base64">CiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKCkgewogICAgdGhpcy5zdGF0ZSA9IG5ldyBaaXBwZXJPVEYoMCwgdXNlREMpOwogIH0KCiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKGJvb2xlYW4gdXNlREMpIHsKICAgIHRoaXMudXNlREMgPSB1c2VEQzsKICAgIHRoaXMuc3RhdGUgPSBuZXcgWmlwcGVyT1RGKDAsIHVzZURDKTsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYmVuY2htYXJrT3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZENvbnN0cnVjdG9yKG5ldyBDbGFzc1tde2Jvb2xlYW4uY2xhc3N9KQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -630,25 +630,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzc1tdIGFyZ3MgPSBuZXcgQ2xhc3NbMV07CiAgICAgICAgYXJnc1swXSA9IGJvb2xlYW4uY2xhc3M7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYmVuY2htYXJrT3V0cHV0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgWmlwcGVyT1RGRGV0ZWN0b3IoKSB7CiAgfQoK</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgRGV0ZWN0b3IoKSB7CiAgfQoKICBwdWJsaWMgRGV0ZWN0b3IoYm9vbGVhbiB1c2VEQykgewogICAgdGhpcy51c2VEQyA9IHVzZURDOwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBDbGFzc1tdIGFyZ3MgPSBuZXcgQ2xhc3NbMV07CiAgICAgICAgYXJnc1swXSA9IGJvb2xlYW4uY2xhc3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>runjpf</last-search>
+      <last-search>debug</last-search>
       <last-offset />
-      <last-pattern>runjpf</last-pattern>
+      <last-pattern>debug</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -656,8 +656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
-        <entry>useDPOR</entry>
         <entry>isDependent</entry>
         <entry>parent</entry>
         <entry>outgoing</entry>
@@ -676,6 +674,8 @@
         <entry>runJPF</entry>
         <entry>benchmarkoutput</entry>
         <entry>runjpf</entry>
+        <entry>debut</entry>
+        <entry>debug</entry>
       </history-search>
       <history-cmd>
         <entry>kkk;w</entry>
