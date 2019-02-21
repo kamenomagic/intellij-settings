@@ -46,7 +46,7 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" timestamp="1550619383394">
-        <mark key="'" line="76" column="35" />
+        <mark key="'" line="75" column="35" />
         <mark key="[" line="10" column="43" />
         <mark key="]" line="10" column="43" />
         <mark key="." line="10" column="43" />
@@ -103,12 +103,23 @@
         <mark key="^" line="59" column="45" />
         <mark key="." line="59" column="45" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Task.java" timestamp="1550707607994">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/HappensBeforeCheck.java" timestamp="1547150640559">
         <mark key="'" line="17" column="16" />
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/ConfigurableBenchmark.java" timestamp="1550707558949">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/util/StructuredParallelRaceDetectorTool.java" timestamp="1547678920139">
         <mark key="[" line="18" column="9" />
@@ -392,12 +403,13 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1549051690107">
+      <file name="/fragment.java" timestamp="1550707565015">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="23" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Configurable.java" timestamp="1550707525448" />
     </filemarks>
     <jumps>
       <jump line="42" column="46" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
@@ -505,8 +517,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwdWJsaWMgVGFzayhXb3JrKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -530,7 +542,7 @@
         <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSBuZXcgWmlwcGVyT1RGKDAsIHVzZURDKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVidWc9dHJ1ZQo=</text>
+        <text encoding="base64">ICBwdWJsaWMgVGFzayhXb3JrKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -596,19 +608,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZHBvcj10cnVlCmRjPWZhbHNlCg==</text>
+        <text encoding="base64">ZGVidWc9dHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
+        <text encoding="base64">ZHBvcj10cnVlCmRjPWZhbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKCkgewogICAgdGhpcy5zdGF0ZSA9IG5ldyBaaXBwZXJPVEYoMCwgdXNlREMpOwogIH0KCiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKGJvb2xlYW4gdXNlREMpIHsKICAgIHRoaXMudXNlREMgPSB1c2VEQzsKICAgIHRoaXMuc3RhdGUgPSBuZXcgWmlwcGVyT1RGKDAsIHVzZURDKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKCkgewogICAgdGhpcy5zdGF0ZSA9IG5ldyBaaXBwZXJPVEYoMCwgdXNlREMpOwogIH0KCiAgcHVibGljIFppcHBlck9URkRldGVjdG9yKGJvb2xlYW4gdXNlREMpIHsKICAgIHRoaXMudXNlREMgPSB1c2VEQzsKICAgIHRoaXMuc3RhdGUgPSBuZXcgWmlwcGVyT1RGKDAsIHVzZURDKTsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZENvbnN0cnVjdG9yKG5ldyBDbGFzc1tde2Jvb2xlYW4uY2xhc3N9KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -628,16 +640,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYmVuY2htYXJrT3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXREZWNsYXJlZENvbnN0cnVjdG9yKG5ldyBDbGFzc1tde2Jvb2xlYW4uY2xhc3N9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYmVuY2htYXJrT3V0cHV0KQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzc1tdIGFyZ3MgPSBuZXcgQ2xhc3NbMV07CiAgICAgICAgYXJnc1swXSA9IGJvb2xlYW4uY2xhc3M7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudXNlREMgPSB1c2VEQzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
