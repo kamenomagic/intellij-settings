@@ -246,11 +246,10 @@
         <mark key="^" line="98" column="28" />
         <mark key="." line="94" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/no/One.java" timestamp="1550718043744">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="46" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/no/One.java" timestamp="1550789027368">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/yes/One.java" timestamp="1550788532192">
         <mark key="'" line="32" column="13" />
@@ -278,12 +277,12 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="29" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" timestamp="1550788282241">
-        <mark key="'" line="7" column="27" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="30" column="24" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" timestamp="1550789516855">
+        <mark key="'" line="24" column="18" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/DotWriter.java" timestamp="1550788661950">
         <mark key="'" line="35" column="33" />
@@ -292,12 +291,10 @@
         <mark key="." line="31" column="45" />
         <mark key="^" line="31" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" timestamp="1550788270552">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="6" column="44" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" timestamp="1550789534271">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/util/graph/Graph.java" timestamp="1547154028283">
         <mark key="'" line="8" column="29" />
@@ -374,11 +371,11 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/config/zipperOTF.jpf" timestamp="1550788318033">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/config/zipperOTF.jpf" timestamp="1550788946359">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFState.java" timestamp="1548874131049">
         <mark key="'" line="30" column="23" />
@@ -481,9 +478,6 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Configurable.java" timestamp="1550707525448" />
     </filemarks>
     <jumps>
-      <jump line="92" column="39" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="76" column="30" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="77" column="8" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="17" column="10" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" />
       <jump line="124" column="12" filename="$USER_HOME$/dev/java/jpf-hj/build.gradle" />
@@ -581,13 +575,16 @@
       <jump line="22" column="10" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/BlockRunner.java" />
       <jump line="33" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/yes/One.java" />
       <jump line="35" column="33" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/DotWriter.java" />
+      <jump line="17" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" />
+      <jump line="24" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" />
+      <jump line="48" column="26" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgaWYobm9kZS5jaGlsZCBpbnN0YW5jZW9mIEpvaW5Ob2RlKSB7Ci8vICAgICAgd3JpdGVFZGdlKG5vZGUsIG5vZGUuY2hpbGQsIGZhbHNlLCB3cml0ZXIpOwovLyAgICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNoYXIgbmV4dFZhcmlhYmxlKCkgewogICAgcmV0dXJuIG5leHRWYXJpYWJsZSsrOwogIH0KCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -602,7 +599,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>'0'</text>
       </register>
       <register name="/" type="4">
         <text>writeEdge</text>
@@ -611,7 +608,7 @@
         <text encoding="base64">ICAgICAgICB3cml0ZUVkZ2UoaW5jb21pbmcsIG5vZGUsIHRydWUsIHdyaXRlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgaWYobm9kZS5jaGlsZCBpbnN0YW5jZW9mIEpvaW5Ob2RlKSB7Ci8vICAgICAgd3JpdGVFZGdlKG5vZGUsIG5vZGUuY2hpbGQsIGZhbHNlLCB3cml0ZXIpOwovLyAgICB9Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGNoYXIgbmV4dFZhcmlhYmxlKCkgewogICAgcmV0dXJuIG5leHRWYXJpYWJsZSsrOwogIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -677,19 +674,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJlbmNobWFya3MuY29uZmlndXJhYmxlLmNvbmZpZ3VyYWJsZS5BY2Nlc3M7Cg==</text>
+        <text encoding="base64">ICBzdGF0aWMgY2hhcltdIHZhcmlhYmxlcyA9IG5ldyBjaGFyWzEwMDAwXTsKICBzdGF0aWMgaW50IGluZGV4ID0gMDsKICBwcml2YXRlIHN0YXRpYyBjaGFyIG5leHRWYXJpYWJsZSA9ICcwJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBpbnQgbmV3VmFyaWFibGUoKSB7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZpbHRlcihzIC0+IHMuY29udGFpbnMoInZhcmlhYmxlcyIpKQogICAgICAgICAgICAubWFwKHMgLT4gcy5zdWJzdHJpbmcocy5pbmRleE9mKCdAJykgPT0gLTEgPyAwIDogcy5pbmRleE9mKCdAJykpKQogICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLmpvaW5pbmcoIiwgIikpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaW5kZXggPSBuZXdWYXJpYWJsZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJsb2NrIG90aGVyID0gQmxvY2suc3RhcnQoKS53cml0ZSgpOwogICAgQmxvY2suc3RhcnQoKS5hc3luYyhvdGhlcikucmVhZChvdGhlci5nZXQoKSkucnVuKCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhbHVlID0gJzAnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgQmxvY2sudmFyaWFibGVzLmFkZChCbG9jay5uZXh0VmFyaWFibGUoKSk7Ci8vICAgIHJldHVybiBCbG9jay52YXJpYWJsZXMuc2l6ZSgpIC0gMTsK</text>
+        <text encoding="base64">ICAgIEJsb2NrLnZhcmlhYmxlc1tCbG9jay5pbmRleF0gPSBCbG9jay5uZXh0VmFyaWFibGUoKTsKICAgIHJldHVybiBCbG9jay5pbmRleCsrOwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -709,16 +706,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oInJlYWQgIiArICgoQWNjZXNzKSBzdGF0ZW1lbnQpLmluZGV4ICsgIiAiICsgKChPYmplY3QpIEJsb2NrLnZhcmlhYmxlc1soKEFjY2Vzcykgc3RhdGVtZW50KS5pbmRleF0pKTsKLy8gICAgICAgIGNoYXIgYyA9IEJsb2NrLnZhcmlhYmxlcy5nZXQoKChBY2Nlc3MpIHN0YXRlbWVudCkuaW5kZXgpOwovLyAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKGMgKyAicmVhZCAiICsgKChBY2Nlc3MpIHN0YXRlbWVudCkuaW5kZXggKyAiICIgKyAoKE9iamVjdCkgQmxvY2sudmFyaWFibGVzLmdldCgoKEFjY2Vzcykgc3RhdGVtZW50KS5pbmRleCkpKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5lcnIucHJpbnRsbigiSEkiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIndyaXRlICIgKyAoKEFjY2Vzcykgc3RhdGVtZW50KS5pbmRleCArICIgIiArICgoT2JqZWN0KSBCbG9jay52YXJpYWJsZXNbKChBY2Nlc3MpIHN0YXRlbWVudCkuaW5kZXhdKSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgaWYobm9kZS5jaGlsZCBpbnN0YW5jZW9mIEpvaW5Ob2RlKSB7Ci8vICAgICAgd3JpdGVFZGdlKG5vZGUsIG5vZGUuY2hpbGQsIGZhbHNlLCB3cml0ZXIpOwovLyAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJsb2NrLnZhcmlhYmxlcy5zZXQoKChBY2Nlc3MpIHN0YXRlbWVudCkuaW5kZXgsIEJsb2NrLm5leHRWYXJpYWJsZSgpKTsKLy8gICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbigid3JpdGUgIiArICgoQWNjZXNzKSBzdGF0ZW1lbnQpLmluZGV4ICsgIiAiICsgKChPYmplY3QpIEJsb2NrLnZhcmlhYmxlcy5nZXQoKChBY2Nlc3MpIHN0YXRlbWVudCkuaW5kZXgpKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJlbmNobWFya3MuY29uZmlndXJhYmxlLmNvbmZpZ3VyYWJsZS5BY2Nlc3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
