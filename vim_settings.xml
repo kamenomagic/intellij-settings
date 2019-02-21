@@ -113,17 +113,24 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/ConfigurableBenchmark.java" timestamp="1550707558949">
-        <mark key="[" line="3" column="41" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/ConfigurableBenchmark.java" timestamp="1550713572476">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/util/StructuredParallelRaceDetectorTool.java" timestamp="1547678920139">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="9" />
         <mark key="." line="18" column="9" />
         <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Program.java" timestamp="1550713325505">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/dev/java/visitor-skeleton/src/test/java/edu/byu/yc/AssignmentVisitorTests.java" timestamp="1550081846938">
         <mark key="'" line="26" column="32" />
@@ -144,11 +151,12 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Synchronization.java" timestamp="1550712221332">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="22" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Synchronization.java" timestamp="1550713448075">
+        <mark key="'" line="7" column="24" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/jpf.properties" timestamp="1547243539523">
         <mark key="[" line="29" column="0" />
@@ -223,6 +231,11 @@
         <mark key="^" line="98" column="28" />
         <mark key="." line="94" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/no/One.java" timestamp="1550713574738">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/util/DataRaceException.java" timestamp="1549051706467">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
@@ -243,17 +256,18 @@
         <mark key="." line="30" column="23" />
         <mark key="^" line="29" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" timestamp="1550711898656">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" timestamp="1550713453500">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" timestamp="1550712367517">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="^" line="5" column="46" />
-        <mark key="." line="30" column="4" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" timestamp="1550713564057">
+        <mark key="[" line="58" column="2" />
+        <mark key="]" line="58" column="2" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="58" column="2" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/util/graph/Graph.java" timestamp="1547154028283">
         <mark key="'" line="8" column="29" />
@@ -346,10 +360,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Isolation.java" timestamp="1550711647179">
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Isolation.java" timestamp="1550713450619">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="39" />
+        <mark key="^" line="6" column="1" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/ZipperRaceDetector.java" timestamp="1548202347273">
@@ -431,7 +445,7 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1550712323754">
+      <file name="/fragment.java" timestamp="1550712882400">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="23" />
@@ -440,11 +454,6 @@
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Configurable.java" timestamp="1550707525448" />
     </filemarks>
     <jumps>
-      <jump line="54" column="40" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="93" column="19" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="109" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="141" column="78" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="144" column="19" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="254" column="24" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="277" column="94" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="351" column="15" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
@@ -540,13 +549,18 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Task.java" />
       <jump line="7" column="25" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Task.java" />
       <jump line="8" column="2" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Task.java" />
+      <jump line="3" column="30" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Synchronization.java" />
+      <jump line="6" column="47" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Program.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Program.java" />
+      <jump line="30" column="4" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Program.java" />
+      <jump line="7" column="24" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Synchronization.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Task</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb2dyYW0ucnVuKCk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -561,16 +575,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>Task</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgcHVibGljIFRhc2sgcmVhZCgpIHsKICAgIHJldHVybiBhY2Nlc3MoZmFsc2UpOwogIH0KCiAgcHVibGljIFRhc2sgcmVhZChTdGF0ZW1lbnQgc3RhdGVtZW50KSB7CiAgICByZXR1cm4gYWNjZXNzKGZhbHNlLCBzdGF0ZW1lbnQpOwogIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIElzb2xhdGlvbigpIHsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTGlzdDxTdGF0ZW1lbnQ+IHN0YXRlbWVudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIHByb2dyYW0ucnVuKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -636,19 +650,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgTGlzdDxTdGF0ZW1lbnQ+IHN0YXRlbWVudHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcHJpdmF0ZSBUYXNrIGFjY2Vzcyhib29sZWFuIHdyaXRlLCBBY2Nlc3MgYWNjZXNzKSB7CiAgICBzdGF0ZW1lbnRzLmFkZChuZXcgQWNjZXNzKHdyaXRlLCBhY2Nlc3MpKTsKICAgIHJldHVybiB0aGlzOwogIH0KCiAgcHJpdmF0ZSBUYXNrIGFjY2Vzcyhib29sZWFuIHdyaXRlKSB7CiAgICBzdGF0ZW1lbnRzLmFkZChuZXcgQWNjZXNzKHdyaXRlKSk7CiAgICByZXR1cm4gdGhpczsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgQWNjZXNzIGFjY2VzcyA9IChBY2Nlc3MpIGFjY2VzczsK</text>
+        <text encoding="base64">CiAgcHVibGljIEJsb2NrIGFzeW5jKCkgewogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJBIHZhcmlhYmxlIGNhbiBub3QgY29uZmxpY3Qgd2l0aCBhIG5vbi1hY2Nlc3Mgb2JqZWN0LS1jaGVjayBDb25maWd1cmFibGVCZW5jaG1hcmsiKTsKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKGFjY2VzcyBpbnN0YW5jZW9mIEFjY2Vzcykgewo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -668,16 +682,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcHVibGljIFRhc2sgd3JpdGUoKSB7CiAgICBzdGF0ZW1lbnRzLmFkZChuZXcgQWNjZXNzKCkpOwogICAgcmV0dXJuIHRoaXM7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudHMuYWRkKG5ldyBBY2Nlc3MoZmFsc2UpKTsKICAgIHJldHVybiB0aGlzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJBIHZhcmlhYmxlIGNhbiBub3QgY29uZmxpY3Qgd2l0aCBhIG5vbi1hY2Nlc3Mgb2JqZWN0LS1jaGVjayBDb25maWd1cmFibGVCZW5jaG1hcmsiKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
