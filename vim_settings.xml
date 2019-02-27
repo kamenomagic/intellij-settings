@@ -311,6 +311,11 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/misc/configurable/BlockRunner.java" timestamp="1551304615752">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/UserService.java" timestamp="1545028151323">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="25" column="0" />
@@ -332,11 +337,12 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/nonisolated/ConfigurableManyAccessesNo.java" timestamp="1551303236978">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/nonisolated/ConfigurableManyAccessesNo.java" timestamp="1551304910640">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/yeti/CompGraphTool.java" timestamp="1547150735118">
         <mark key="'" line="172" column="0" />
@@ -391,11 +397,11 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/java/jpf-hj/config/zipperOTF.jpf" timestamp="1551303251078">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="55" />
-        <mark key="." line="6" column="55" />
-        <mark key="^" line="6" column="55" />
+      <file name="$USER_HOME$/dev/java/jpf-hj/config/zipperOTF.jpf" timestamp="1551304383979">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFState.java" timestamp="1548874131049">
         <mark key="'" line="30" column="23" />
@@ -498,8 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="45" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="122" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="47" column="25" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="50" column="42" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="85" column="25" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
@@ -598,13 +602,15 @@
       <jump line="11" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/DataRaceIsolateLoop.java" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/nonisolated/ConfigurableSimpleYes.java" />
       <jump line="6" column="17" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/nonisolated/ConfigurableSimpleNo.java" />
+      <jump line="10" column="25" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/nonisolated/ConfigurableManyAccessesNo.java" />
+      <jump line="6" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/nonisolated/ConfigurableManyAccessesNo.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>SimpleNo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgbmV4dCA9IEJsb2NrLmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -619,7 +625,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>SimpleNo</text>
+        <text>Block.create()</text>
       </register>
       <register name="/" type="4">
         <text>isolated</text>
@@ -628,7 +634,7 @@
         <text encoding="base64">ICAgIEJsb2NrIHRocmVhZCA9IEJsb2NrLmNyZWF0ZSgpLndyaXRlKCk7CiAgICBCbG9jayBtYWluID0gQmxvY2suY3JlYXRlKCkuYXN5bmModGhyZWFkKTsKICAgIG1haW4ud3JpdGUodGhyZWFkLmdldCgpKS5ydW4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV4dCA9IEJsb2NrLmNyZWF0ZSgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -694,19 +700,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcHJldmlvdXMuYXN5bmMobmV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJsb2NrIG1haW4gPSBCbG9jay5jcmVhdGUoKS5hc3luYyh0aHJlYWQpOwogICAgbWFpbi53cml0ZSh0aHJlYWQuZ2V0KCkpLnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgIEJsb2NrIG5leHQgPSBCbG9jay5jcmVhdGUoKTsKICAgIHByZXZpb3VzLmFzeW5jKG5leHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1haW4ud3JpdGUodGhyZWFkLmdldCgpKS5ydW4oKTsK</text>
+        <text encoding="base64">ICAgICAgcHJlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEJsb2NrLmNyZWF0ZSgpCiAgICAgICAgICAucmVhZCgpCiAgICAgICAgICAucmVhZCgpCiAgICAgICAgICAucmVhZCgpCiAgICAgICAgICAuYXN5bmMoQmxvY2suY3JlYXRlKCkKICAgICAgICAgICAgLnJlYWQoKQogICAgICAgICAgICAud3JpdGUoKQogICAgICAgICAgICAuZmluaXNoKEJsb2NrLmNyZWF0ZSgpCiAgICAgICAgICAgICAgLnJlYWQoKQogICAgICAgICAgICAgIC53cml0ZSgpCiAgICAgICAgICAgICAgLmFzeW5jKEJsb2NrLmNyZWF0ZSgpCiAgICAgICAgICAgICAgICAucmVhZCgpCiAgICAgICAgICAgICAgICAud3JpdGUoKSkKICAgICAgICAgICAgICAuZmluaXNoKEJsb2NrLmNyZWF0ZSgpCiAgICAgICAgICAgICAgICAuYXN5bmMoQmxvY2suY3JlYXRlKCkKICAgICAgICAgICAgICAgICAgLndyaXRlKCkKICAgICAgICAgICAgICAgICAgLnJlYWQoKSkKICAgICAgICAgICAgICAgIC5hc3luYyhCbG9jay5jcmVhdGUoKQogICAgICAgICAgICAgICAgICAud3JpdGUoKQogICAgICAgICAgICAgICAgICAucmVhZCgpKQogICAgICAgICAgICAgICAgLmFzeW5jKEJsb2NrLmNyZWF0ZSgpCiAgICAgICAgICAgICAgICAgIC53cml0ZSgpCiAgICAgICAgICAgICAgICAgIC5yZWFkKCkpCiAgICAgICAgICAgICAgKQogICAgICAgICAgICApKS5ydW4oKTsK</text>
+        <text encoding="base64">ICAgIEJsb2NrIHRocmVhZCA9IDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGJlbmNobWFya3MubWlzYy5jb25maWd1cmFibGUuQWNjZXNzOwo=</text>
+        <text encoding="base64">ICAgICAgQmxvY2sgdGhyZWFkID0gQmxvY2suY3JlYXRlKCk7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -726,19 +732,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBCbG9jayB0aHJlYWQgPSBCbG9jay5jcmVhdGUoKTsKICAgIEFjY2VzcyB3cml0ZSA9IHRocmVhZC53cml0ZSgpLmdldCgpOwogICAgdGhyZWFkLmFzeW5jKEJsb2NrLmNyZWF0ZSgpLndyaXRlKCkpOwogICAgQmxvY2suY3JlYXRlKCkuYXN5bmModGhyZWFkKS53cml0ZSh3cml0ZSkucnVuKCk7CgogICAgQmxvY2sgdGhyZWFkNCA9IEJsb2NrLmNyZWF0ZSgpOwogICAgQmxvY2sgdGhyZWFkMyA9IEJsb2NrLmNyZWF0ZSgpOwogICAgQWNjZXNzIGEgPSB0aHJlYWQ0LndyaXRlKCkuZ2V0KCk7CiAgICB0aHJlYWQzLmFzeW5jKHRocmVhZDQpLndyaXRlKGEpLnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oInJlYWQgIiArICgoQWNjZXNzKSBzdGF0ZW1lbnQpLm9iamVjdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgQmxvY2sgb3RoZXIgPSBCbG9jay5jcmVhdGUoKS53cml0ZSgpOwovLyAgICBCbG9jay5jcmVhdGUoKS5hc3luYyhvdGhlcikud3JpdGUob3RoZXIuZ2V0KCkpLnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIndyaXRlICIgKyAoKEFjY2Vzcykgc3RhdGVtZW50KS5vYmplY3QpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmlzb2xhdGVkKEJsb2NrLmNyZWF0ZSgpCiAgICAgICAgICAgICAgLndyaXRlKCkKICAgICAgICAgICAgICAucmVhZCgpKSkK</text>
+        <text encoding="base64">Ly8gIHByaXZhdGUgc3RhdGljIFNldDxBY2Nlc3MuRHVtbXlPYmplY3Q+IHRyYWNrZXIgPSBuZXcgSGFzaFNldDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -790,10 +796,10 @@
         <entry>1</entry>
         <entry>e</entry>
         <entry>;w</entry>
-        <entry>q</entry>
         <entry>noh</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
