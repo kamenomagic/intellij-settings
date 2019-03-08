@@ -656,7 +656,7 @@
         <text>even</text>
       </register>
       <register name="/" type="4">
-        <text>numberof</text>
+        <text>tostring</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyBOb3JtYWwgZ2FtZSB0aW1lLCB3aXRoIGFkdWx0cywgbWFueSBhbmQgZXZlbiBwbGF5ZXJzCnNlY3JldF9uYXBvbGVvbigxMCwgWzE4LCAxOCwgMTgsIDE4LCAxOCwgMTgsIDE4LCAxOCwgMTgsIDE4XSwgMjAwKS5leHBlY3RzKFs1LCAxLCA0LCA0XSkK</text>
@@ -726,9 +726,9 @@ secret_napoleon</text>
       </register>
     </registers>
     <search>
-      <last-search>numberof</last-search>
+      <last-search>tostring</last-search>
       <last-offset />
-      <last-pattern>numberof</last-pattern>
+      <last-pattern>tostring</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -736,7 +736,6 @@ secret_napoleon</text>
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>task</entry>
         <entry>state</entry>
         <entry>new</entry>
@@ -756,6 +755,7 @@ secret_napoleon</text>
         <entry>halt</entry>
         <entry>i</entry>
         <entry>numberof</entry>
+        <entry>tostring</entry>
       </history-search>
       <history-cmd>
         <entry>kkk;w</entry>
