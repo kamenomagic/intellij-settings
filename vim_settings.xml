@@ -407,6 +407,12 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/java/sand/answer.txt" timestamp="1552027144918">
+        <mark key="[" line="25" column="79" />
+        <mark key="]" line="25" column="80" />
+        <mark key="." line="25" column="80" />
+        <mark key="^" line="25" column="87" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/CompGraphRaceDetector.java" timestamp="1548283672438">
         <mark key="'" line="48" column="24" />
         <mark key="[" line="12" column="13" />
@@ -526,10 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="46" column="35" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="54" column="41" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
       <jump line="49" column="35" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/java/visitor-skeleton/pom.xml" />
@@ -626,13 +628,17 @@
       <jump line="61" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="35" column="3" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="23" column="3" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="6" column="23" filename="$USER_HOME$/dev/java/sand/answer.txt" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>even</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -647,16 +653,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>even</text>
       </register>
       <register name="/" type="4">
         <text>numberof</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gYm9uYXBhcnRpc3RzIFRoZSBudW1iZXIgb2YgQm9uYXBhcnRpc3RzIGFscmVhZHkgYWxsb2NhdGVkIGluIHRoZSBnYW1lCiAgICogQHBhcmFtIHJveWFsaXN0cyBUaGUgbnVtYmVyIG9mIFJveWFsaXN0cyBhbHJlYWR5IGFsbG9jYXRlZCBpbiB0aGUgZ2FtZQo=</text>
+        <text encoding="base64">IyBOb3JtYWwgZ2FtZSB0aW1lLCB3aXRoIGFkdWx0cywgbWFueSBhbmQgZXZlbiBwbGF5ZXJzCnNlY3JldF9uYXBvbGVvbigxMCwgWzE4LCAxOCwgMTgsIDE4LCAxOCwgMTgsIDE4LCAxOCwgMTgsIDE4XSwgMjAwKS5leHBlY3RzKFs1LCAxLCA0LCA0XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gYm9uYXBhcnRpc3RzCiAgICogQHBhcmFtIHJveWFsaXN0cwo=</text>
+        <text encoding="base64">IyBOb3JtYWwgZ2FtZSB0aW1lLCB3aXRoIGFkdWx0cywgZXZlbiBwbGF5ZXJzCnNlY3JldF9uYXBvbGVvbig2LCBbMTgsIDE4LCAxOCwgMTgsIDE4LCAxOF0sIDIwMCkuZXhwZWN0cyhbMywgMSwgMiwgM10pCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,19 +677,20 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gcGxheWVycwo=</text>
+        <text encoding="base64">CiMgU2hvcnQgZ2FtZSwgc29tZSBhZHVsdHMKc2VjcmV0X25hcG9sZW9uKDYsIFsxNCwgMTMsIDE4LCAxOSwgOTksIDEwOV0sIDkwKS5leHBlY3RzKFszLCAxLCAyLCAzXSkKCiMgU2hvcnQgZ2FtZSwgb25lIGFkdWx0cwpzZWNyZXRfbmFwb2xlb24oNiwgWzE0LCAxMywgMTgsIDE3LCA5LCA5XSwgOTApLmV4cGVjdHMoWzMsIDEsIDIsIDNdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gcGxheWVycyBUaGUgbnVtYmVyIG9mIHBsYXllcnMgaW4gdGhlIGdhbWUK</text>
+        <text encoding="base64">bm8K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>Basic all adults
+secret_napoleon</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgdHVybiA9IDQ7CiAgICB9IGVsc2UgewogICAgICB0dXJuID0gNTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKHRpbWUgLyA2MCA8IDIpIHsKICAgICAgcmV0dXJuIDM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gYm9uYXBhcnRpc3RzCiAgICogQHBhcmFtIHJveWFsaXN0cwo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -703,16 +710,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGludCB0dXJuOwo=</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gcGxheWVycwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gcGxheWVycyBUaGUgbnVtYmVyIG9mIHBsYXllcnMgaW4gdGhlIGdhbWUK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
