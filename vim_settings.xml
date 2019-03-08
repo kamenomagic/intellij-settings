@@ -178,12 +178,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/java/sand/src/main/Main.java" timestamp="1552023634028">
-        <mark key="'" line="13" column="15" />
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-        <mark key="." line="9" column="56" />
+      <file name="$USER_HOME$/dev/java/sand/src/main/Main.java" timestamp="1552024904591">
+        <mark key="'" line="32" column="15" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/ricefutures/FuturesTool.java" timestamp="1544130001464">
         <mark key="'" line="99" column="0" />
@@ -632,7 +632,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -647,7 +647,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>halt</text>
@@ -656,7 +656,7 @@
         <text encoding="base64">ICAgIGlmKGRlYnVnKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -722,19 +722,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqZGsubmFzaG9ybi5pbnRlcm5hbC5vYmplY3RzLk5hdGl2ZVJlZ0V4cC50ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqZGsubmFzaG9ybi5pbnRlcm5hbC5vYmplY3RzLk5hdGl2ZVJlZ0V4cC50ZXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -757,16 +757,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -814,7 +814,6 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>vs</entry>
         <entry>wqa</entry>
-        <entry>2</entry>
         <entry>1</entry>
         <entry>e</entry>
         <entry>;w</entry>
@@ -822,6 +821,7 @@
         <entry>noh</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
