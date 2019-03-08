@@ -178,12 +178,12 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/java/sand/src/main/Main.java" timestamp="1552024904591">
-        <mark key="'" line="32" column="15" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="11" />
+      <file name="$USER_HOME$/dev/java/sand/src/main/Main.java" timestamp="1552026380607">
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="54" column="7" />
+        <mark key="]" line="54" column="7" />
+        <mark key="^" line="54" column="7" />
+        <mark key="." line="54" column="7" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/ricefutures/FuturesTool.java" timestamp="1544130001464">
         <mark key="'" line="99" column="0" />
@@ -526,34 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
-      <jump line="216" column="38" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="79" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="66" column="4" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="13" column="108" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/RaceyNode.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="31" column="42" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="23" column="2" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="167" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="48" column="18" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="76" column="4" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
-      <jump line="58" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="90" column="23" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/hb/HBDetector.java" />
-      <jump line="52" column="30" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="20" column="69" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/DisjointIsolated.java" />
-      <jump line="53" column="32" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="37" column="30" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="10" column="20" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
-      <jump line="54" column="10" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
-      <jump line="11" column="9" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ForkNode.java" />
-      <jump line="27" column="12" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="26" column="32" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
-      <jump line="40" column="17" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="44" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
-      <jump line="46" column="17" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="38" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="46" column="35" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="54" column="41" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
@@ -626,13 +598,41 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="55" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="13" column="15" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="54" column="16" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="43" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="45" column="18" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="48" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="49" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="50" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="53" column="117" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="59" column="40" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="60" column="24" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="71" column="27" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="72" column="34" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="73" column="56" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="74" column="26" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="75" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="76" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="77" column="71" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="14" column="34" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="15" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="22" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="26" column="49" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="27" column="47" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="39" column="53" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="11" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="40" column="36" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="61" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="35" column="3" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
+      <jump line="23" column="3" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -647,94 +647,43 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>halt</text>
+        <text>numberof</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmKGRlYnVnKSB7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gYm9uYXBhcnRpc3RzIFRoZSBudW1iZXIgb2YgQm9uYXBhcnRpc3RzIGFscmVhZHkgYWxsb2NhdGVkIGluIHRoZSBnYW1lCiAgICogQHBhcmFtIHJveWFsaXN0cyBUaGUgbnVtYmVyIG9mIFJveWFsaXN0cyBhbHJlYWR5IGFsbG9jYXRlZCBpbiB0aGUgZ2FtZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gYm9uYXBhcnRpc3RzCiAgICogQHBhcmFtIHJveWFsaXN0cwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="79" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="107" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="33" code="0" mods="0" />
           <key char="110" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
           <key char="110" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gcGxheWVycwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gcGxheWVycyBUaGUgbnVtYmVyIG9mIHBsYXllcnMgaW4gdGhlIGdhbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqZGsubmFzaG9ybi5pbnRlcm5hbC5vYmplY3RzLk5hdGl2ZVJlZ0V4cC50ZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+        <text encoding="base64">ICAgIGlmICgpIHsKICAgICAgdHVybiA9IDQ7CiAgICB9IGVsc2UgewogICAgICB0dXJuID0gNTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmKHRpbWUgLyA2MCA8IDIpIHsKICAgICAgcmV0dXJuIDM7CiAgICB9Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -754,7 +703,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCB0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -763,25 +712,23 @@
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>2</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>halt</last-search>
+      <last-search>numberof</last-search>
       <last-offset />
-      <last-pattern>halt</last-pattern>
+      <last-pattern>numberof</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>runjpf</entry>
-        <entry>debut</entry>
         <entry>debug</entry>
         <entry>task</entry>
         <entry>state</entry>
@@ -800,6 +747,8 @@
         <entry>no errors</entry>
         <entry>dot</entry>
         <entry>halt</entry>
+        <entry>i</entry>
+        <entry>numberof</entry>
       </history-search>
       <history-cmd>
         <entry>kkk;w</entry>
@@ -818,10 +767,10 @@
         <entry>e</entry>
         <entry>;w</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>2</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
