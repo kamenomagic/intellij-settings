@@ -178,6 +178,13 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/java/sand/src/main/Main.java" timestamp="1552023634028">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/extensions/ricefutures/FuturesTool.java" timestamp="1544130001464">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="39" column="24" />
@@ -519,7 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="43" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
       <jump line="216" column="38" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="79" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
@@ -619,13 +625,14 @@
       <jump line="80" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
       <jump line="55" column="13" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTFDetector.java" />
+      <jump line="13" column="15" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -640,7 +647,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>useDC</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>halt</text>
@@ -649,7 +656,7 @@
         <text encoding="base64">ICAgIGlmKGRlYnVnKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -715,19 +722,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqZGsubmFzaG9ybi5pbnRlcm5hbC5vYmplY3RzLk5hdGl2ZVJlZ0V4cC50ZXN0Owo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkISIpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWxhcHNlZCB0aW1lOiAgICAgICAwMDowMDo1MAptYXggbWVtb3J5OiAgICAgICAgIDE4MzNNQgoKZGV0ZWN0b3I9ZmFzdHRyYWNrLkZhc3RUcmFja0RldGVjdG9yCmVsYXBzZWQgdGltZTogICAgICAgMDA6MDA6NDIKbWF4IG1lbW9yeTogICAgICAgICAxODI1TUIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhdGVzOiAgICAgICAgICAgICBuZXc9NCx2aXNpdGVkPTAsYmFja3RyYWNrZWQ9NCxlbmQ9MQpzZWFyY2g6ICAgICAgICAgICAgIG1heERlcHRoPTQsY29uc3RyYWludHM9MApjaG9pY2UgZ2VuZXJhdG9yczogIHRocmVhZD00IChzaWduYWw9MCxsb2NrPTEsc2hhcmVkUmVmPTAsdGhyZWFkQXBpPTEscmVzY2hlZHVsZT0yKSwgZGF0YT0wCmhlYXA6ICAgICAgICAgICAgICAgbmV3PTIwNjU1MjcscmVsZWFzZWQ9MjA2MzgwNCxtYXhMaXZlPTUwOSxnY0N5Y2xlcz00Cmluc3RydWN0aW9uczogICAgICAgMTA1NjU1MzQ3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -750,13 +757,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWxhcHNlZCB0aW1lOiAgICAgICAwMDowMDo1MAptYXggbWVtb3J5OiAgICAgICAgIDE4MzNNQgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -769,7 +776,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
