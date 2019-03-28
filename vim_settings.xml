@@ -399,7 +399,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553717955737">
+      <file name="/Dummy.txt" timestamp="1553792357793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Isolation.java" timestamp="1550784087135">
@@ -487,7 +487,7 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1553717955747">
+      <file name="/fragment.java" timestamp="1553792357804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="23" />
@@ -495,7 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/IsolatedNode.java" />
       <jump line="49" column="35" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/java/visitor-skeleton/pom.xml" />
       <jump line="23" column="8" filename="$USER_HOME$/dev/java/visitor-skeleton/pom.xml" />
@@ -595,6 +594,7 @@
       <jump line="7" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
+      <jump line="55" column="6" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/TypeCheckerDynamicTestVisitorTests.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
