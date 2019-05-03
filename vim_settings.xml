@@ -511,7 +511,13 @@
         <mark key="^" line="30" column="16" />
         <mark key="." line="30" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" timestamp="1556815653669" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" timestamp="1556904956995">
+        <mark key="'" line="14" column="2" />
+        <mark key="[" line="3" column="80" />
+        <mark key="]" line="3" column="99" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="80" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/AuthenticationService.java" timestamp="1545027706291">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="63" column="63" />
@@ -527,10 +533,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="15" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/yes/One.java" />
-      <jump line="36" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/node/ZipperNode.java" />
-      <jump line="41" column="31" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/DotWriter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/DotWriter.java" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/DotWriter.java" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/yes/One.java" />
       <jump line="16" column="101" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/BlockRunner.java" />
@@ -627,13 +629,17 @@
       <jump line="57" column="61" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
       <jump line="58" column="37" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/install.sh" />
+      <jump line="71" column="14" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
+      <jump line="72" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
+      <jump line="115" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
+      <jump line="14" column="2" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYSkKICAgIHByaW50bG4oYikKICAgIGJhZy5iID0gIjUiCiAgICB2YWwgKGEyLCBiMikgPSBiYWcKICAgIHByaW50bG4oYTIpCiAgICBwcmludGxuKGIyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>nexusDeployPassword</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -648,13 +654,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text>nexusDeployPassword</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>build</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCAoYSwgYikgPSBiYWcKICAgIHByaW50bG4oYSkKICAgIHByaW50bG4oYikK</text>
+      <register name="0" type="4">
+        <text>artifactoryPassword</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oYSkKICAgIHByaW50bG4oYikKICAgIGJhZy5iID0gIjUiCiAgICB2YWwgKGEyLCBiMikgPSBiYWcKICAgIHByaW50bG4oYTIpCiAgICBwcmludGxuKGIyKQo=</text>
@@ -772,17 +778,16 @@
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>0</entry>
         <entry>write</entry>
         <entry>writeEdge</entry>
         <entry>main</entry>
@@ -802,6 +807,7 @@
         <entry>new</entry>
         <entry>Set.of</entry>
         <entry>node</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>kkk;w</entry>
