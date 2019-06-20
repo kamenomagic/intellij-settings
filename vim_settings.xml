@@ -194,6 +194,13 @@
         <mark key="." line="57" column="4" />
         <mark key="^" line="57" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/api/src/workflows/resources/application.yml" timestamp="1561061876249">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity/router/build.gradle" timestamp="1548274567711">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="9" column="0" />
@@ -363,6 +370,13 @@
         <mark key="^" line="59" column="27" />
         <mark key="." line="59" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/api/src/main/resources/application-local.yml" timestamp="1561062192841">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" timestamp="1550789832580">
         <mark key="'" line="24" column="18" />
         <mark key="[" line="28" column="2" />
@@ -516,7 +530,6 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1561053161424" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/User.java" timestamp="1545019946523">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="51" column="0" />
@@ -558,10 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" />
-      <jump line="7" column="27" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" />
-      <jump line="22" column="10" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/BlockRunner.java" />
-      <jump line="35" column="33" filename="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/DotWriter.java" />
       <jump line="17" column="29" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Access.java" />
       <jump line="48" column="26" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Block.java" />
@@ -658,13 +667,17 @@
       <jump line="18" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/core/Workflow.kt" />
       <jump line="67" column="11" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Page.kt" />
       <jump line="104" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Page.kt" />
+      <jump line="37" column="13" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/workflows/resources/application.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/workflows/resources/application.yml" />
+      <jump line="45" column="36" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/main/resources/application-local.yml" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/main/resources/application-local.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb21waWxlKGdyb3VwOiAnY29tLmluc3RydWN0dXJlLmJyaWRnZScsIG5hbWU6ICdjb20uaW5zdHJ1Y3R1cmUuYnJpZGdlLmdyYWRsZS5wbHVnaW4nLCB2ZXJzaW9uOiAnMC4wLjInLCBleHQ6ICdwb20nKQo=</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtRW5hYmxlZDogZmFsc2UK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -682,13 +695,13 @@
         <text>nexusDeployPassword</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>host</text>
       </register>
       <register name="0" type="4">
         <text>artifactoryPassword</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb21waWxlKGdyb3VwOiAnY29tLmluc3RydWN0dXJlLmJyaWRnZScsIG5hbWU6ICdjb20uaW5zdHJ1Y3R1cmUuYnJpZGdlLmdyYWRsZS5wbHVnaW4nLCB2ZXJzaW9uOiAnMC4wLjInLCBleHQ6ICdwb20nKQo=</text>
+        <text encoding="base64">ICAgIHBsYXRmb3JtRW5hYmxlZDogZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -755,19 +768,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21waWxlKGdyb3VwOiAnY29tLmluc3RydWN0dXJlLmJyaWRnZScsIG5hbWU6ICdjb20uaW5zdHJ1Y3R1cmUuYnJpZGdlLmdyYWRsZS5wbHVnaW4nLCB2ZXJzaW9uOiAnMC4wLjInLCBleHQ6ICdwb20nKQo=</text>
+        <text encoding="base64">IyAgICBjcmVkZW50aWFsczoKIyAgICAgIGxlYXJuOgojICAgICAgICBob3N0VGVtcGxhdGU6IGh0dHBzOi8vPHRlbmFudF9pZD4uc3RhZ2luZy5icmlkZ2VhcHAuY29tLwojICAgICAgICBzdWl0ZVRva2VuOiBRbEpKUkVkRlgweEZRVkpPTDBKYU4yUnJSbkJETldKTVZqTnVUVkkwY0VkNVlUWjJhbVpST0c1UldGbFdSRVpyVVhoRllUUm1VemhLTmpsd1JFSktORmhpYTFsWFIweGxRbkY0UlVRPQojICAgICAgcGVyZm9ybToKIyAgICAgICAgaG9zdFRlbXBsYXRlOiBodHRwczovLzx0ZW5hbnRfaWQ+LnBlcmZvcm0uc3RhZ2UuYnJpZGdlYXBwLmNvbS8KIyAgICAgICAgc3VpdGVUb2tlbjogTWprd09UWmxZelV0TVRnMU5DMDBPREl6TFRsaU1HSXROV1UxTWpkak9HUmpOR1l6T2pabU9URmpNekEwTFRneE9XTXROR000WXkxaE5HUmlMVEppTVRnNU9HUm1NMkU1TkE9PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludGxuIFN5c3RlbS5wcm9wcy5nZXQoJ3VzZXIuaG9tZScpCiAgcHJpbnRsbiBoYXNQcm9wZXJ0eSgnYXJ0aWZhY3RvcnlVc2VybmFtZScpID8gYXJ0aWZhY3RvcnlVc2VybmFtZSA6ICdQcm9wZXJ0eSAiYXJ0aWZhY3RvcnlVc2VybmFtZSIgTm90IEZvdW5kJwogIHByaW50bG4gaGFzUHJvcGVydHkoJ2FydGlmYWN0b3J5UGFzc3dvcmQnKSA/IGFydGlmYWN0b3J5UGFzc3dvcmQgOiAnUHJvcGVydHkgImFydGlmYWN0b3J5UGFzc3dvcmQiIE5vdCBGb3VuZCcK</text>
+        <text encoding="base64">ICAgICAgZGVmYXVsdFVzZXJJZDogOAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oYSkKICAgIHByaW50bG4oYikKICAgIGJhZy5iID0gIjUiCiAgICB2YWwgKGEyLCBiMikgPSBiYWcKICAgIHByaW50bG4oYTIpCiAgICBwcmludGxuKGIyKQo=</text>
+        <text encoding="base64">ICAgIGNyZWRlbnRpYWxzOgogICAgICBsZWFybjoKICAgICAgICBob3N0VGVtcGxhdGU6IGh0dHBzOi8vPHRlbmFudF9pZD4uc3RhZ2luZy5icmlkZ2VhcHAuY29tLwogICAgICAgIHN1aXRlVG9rZW46IFFsSkpSRWRGWDB4RlFWSk9MMEphTjJSclJuQkROV0pNVmpOdVRWSTBjRWQ1WVRaMmFtWlJPRzVSV0ZsV1JFWnJVWGhGWVRSbVV6aEtOamx3UkVKS05GaGlhMWxYUjB4bFFuRjRSVVE9CiAgICAgIHBlcmZvcm06CiAgICAgICAgaG9zdFRlbXBsYXRlOiBodHRwczovLzx0ZW5hbnRfaWQ+LnBlcmZvcm0uc3RhZ2UuYnJpZGdlYXBwLmNvbS8KICAgICAgICBzdWl0ZVRva2VuOiBNamt3T1RabFl6VXRNVGcxTkMwME9ESXpMVGxpTUdJdE5XVTFNamRqT0dSak5HWXpPalptT1RGak16QTBMVGd4T1dNdE5HTTRZeTFoTkdSaUxUSmlNVGc1T0dSbU0yRTVOQT09Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhZy5hID0gIjQiCg==</text>
+        <text encoding="base64">CiAgaW5zdDoKICAgICAgZmVhdHVyZXM6CiAgICAgICAgICBlbnZpcm9ubWVudDogcHJvZHVjdGlvbgogICAgICAgICAgY29uZmlnOiBjbGFzc3BhdGg6ZmVhdHVyZXMueW1sCiAgICAgIGp3dC5wdWJsaWNLZXk6IE1JSUJKakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUk1BTUlJQkRnS0NBUVVNOEgrUVlRV1g3bUpuTlgzVWRxNG91QmhNQVYzclp4VkZ6VUxWd3V0RWFJRXJhb3NBcXNVb0txWjlpRS9oQjl0U00reVZOaVZUTEE4LzI3Y1ZiQktYV0x6Y2s1eVRycFY5T1ArWFFPYkpYMCs3Nmx3NEZFdlUxbG5JdGJVTEhTbGJKdk0wVWlvRzNxZks3WDBBM3NxUjdycm5tTEpCSU9YZUxwMUhNamwxclk4ZVl4NzlGcDlNWWh2N29NU0tpL281VzVEOXZjS3FZT0VzOTcxaDlMQ083NUJwSXVqbUlpNWh2eEhBL0pFTlcwZmpxNmJJcVhVcGlzeW4rMllZeEVBMDF3NXBEQlBuekd4c2lUaU5UMmJBdmIxRDN1REVVVWloZHF0M01QaThEVCtBeTZBcmdxRWNmak9JNm9XQVlNUVVOSEI3YVpMSzhJSUlUS2YzdE9TbUlJMisvK1VDQXdFQUFRPT0KICAgICAgYnJpZGdlLWNhcmVlcjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb21waWxlKGdyb3VwOiAnY29tLmluc3RydWN0dXJlLmJyaWRnZScsIG5hbWU6ICdjb20uaW5zdHJ1Y3R1cmUuYnJpZGdlLmdyYWRsZS5wbHVnaW4nLCB2ZXJzaW9uOiAnMC4wLjInLCBleHQ6ICdwb20nKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -787,25 +800,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGIgPSA1Cg==</text>
+        <text encoding="base64">ICBjb21waWxlKGdyb3VwOiAnY29tLmluc3RydWN0dXJlLmJyaWRnZScsIG5hbWU6ICdjb20uaW5zdHJ1Y3R1cmUuYnJpZGdlLmdyYWRsZS5wbHVnaW4nLCB2ZXJzaW9uOiAnMC4wLjInLCBleHQ6ICdwb20nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">ICBwcmludGxuIFN5c3RlbS5wcm9wcy5nZXQoJ3VzZXIuaG9tZScpCiAgcHJpbnRsbiBoYXNQcm9wZXJ0eSgnYXJ0aWZhY3RvcnlVc2VybmFtZScpID8gYXJ0aWZhY3RvcnlVc2VybmFtZSA6ICdQcm9wZXJ0eSAiYXJ0aWZhY3RvcnlVc2VybmFtZSIgTm90IEZvdW5kJwogIHByaW50bG4gaGFzUHJvcGVydHkoJ2FydGlmYWN0b3J5UGFzc3dvcmQnKSA/IGFydGlmYWN0b3J5UGFzc3dvcmQgOiAnUHJvcGVydHkgImFydGlmYWN0b3J5UGFzc3dvcmQiIE5vdCBGb3VuZCcK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGhpKCkK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oYSkKICAgIHByaW50bG4oYikKICAgIGJhZy5iID0gIjUiCiAgICB2YWwgKGEyLCBiMikgPSBiYWcKICAgIHByaW50bG4oYTIpCiAgICBwcmludGxuKGIyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -813,7 +826,6 @@
     </search>
     <history>
       <history-search>
-        <entry>write</entry>
         <entry>writeEdge</entry>
         <entry>main</entry>
         <entry>isolate</entry>
@@ -833,6 +845,7 @@
         <entry>Set.of</entry>
         <entry>node</entry>
         <entry>build</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry>kkk;w</entry>
