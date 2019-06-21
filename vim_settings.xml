@@ -50,7 +50,7 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/carkit/lib/tasks/scheduler.rake" timestamp="1561134814975">
+      <file name="$USER_HOME$/dev/ruby/carkit/lib/tasks/scheduler.rake" timestamp="1561140366008">
         <mark key="'" line="16" column="27" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -67,6 +67,9 @@
         <mark key="'" line="23" column="0" />
         <mark key="[" line="25" column="47" />
         <mark key="." line="25" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/vehicles_controller.rb" timestamp="1561140273822">
+        <mark key="'" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/dev/ruby/carkit/db/migrate/20190621163426_add_shop_vehicle_to_requests.rb" timestamp="1561134908769">
         <mark key="[" line="2" column="27" />
@@ -171,6 +174,12 @@
         <mark key="]" line="85" column="75" />
         <mark key="^" line="85" column="75" />
         <mark key="." line="85" column="75" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-platform-runtime/dockerup" timestamp="1561139911952">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
       </file>
       <file name="/carkit_dev.public.vehicles [Rails carkit: development]" timestamp="1561135687423">
         <mark key="[" line="0" column="0" />
@@ -289,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="6" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="376" column="0" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="332" column="2" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
       <jump line="310" column="6" filename="$USER_HOME$/dev/java/jpf-hj/src/util/Search.java" />
@@ -389,6 +397,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/instructure/bridge-skills/cypress/support/commands.js" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/instructure/bridge-skills/cypress/integration/perform-skills-spec.js" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/instructure/bridge-skills/cypress/integration/perform-skills-spec.js" />
+      <jump line="6" column="4" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/vehicles_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
