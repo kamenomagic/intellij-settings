@@ -477,6 +477,11 @@
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/java/restorat-backend/build.gradle" timestamp="1561217988246">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1545026061809">
         <mark key="[" line="103" column="34" />
         <mark key="]" line="103" column="34" />
@@ -833,8 +838,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHRlbmFudF9pZD4uc3RhZ2luZy5icmlkZ2VhcHAuY29tLw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAp0YXJnZXRDb21wYXRpYmlsaXR5ID0gMS44Cgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -858,7 +863,7 @@
         <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZGVsZXRlKCctKCkgJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignLSgpICcsICcnKQo=</text>
+        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAp0YXJnZXRDb21wYXRpYmlsaXR5ID0gMS44Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -925,19 +930,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignICcsICcnKQo=</text>
+        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignLSgpICcsICcnKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignICcsICcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHtlcnJvcjogbWVzc2FnZX0sIHN0YXR1czogNDAwICBhbmQgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignICcsICcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAganNvbjoge2Vycm9yOiBtZXNzYWdlfSwgc3RhdHVzOiA0MDAgIGFuZCByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHtlcnJvcjogbWVzc2FnZX0sIHN0YXR1czogNDAwICBhbmQgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHtlcnJvcjogbWVzc2FnZX0sIHN0YXR1czogNDAwICBhbmQgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAganNvbjoge2Vycm9yOiBtZXNzYWdlfSwgc3RhdHVzOiA0MDAgIGFuZCByZXR1cm4K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -957,16 +962,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZXImLnBob25lX3ZlcmlmaWVkJi52YWxpZF9wYXNzd29yZD8ocGFyYW1zWzpwYXNzd29yZF0pCg==</text>
+        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHtlcnJvcjogbWVzc2FnZX0sIHN0YXR1czogNDAwICBhbmQgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5zYXZlCg==</text>
+        <text encoding="base64">ICAgIGlmIHVzZXImLnBob25lX3ZlcmlmaWVkJi52YWxpZF9wYXNzd29yZD8ocGFyYW1zWzpwYXNzd29yZF0pCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgc2VsZi5zYXZlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
