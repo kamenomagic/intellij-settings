@@ -476,6 +476,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ruby/carkit/config/environments/production.rb" timestamp="1561405436534">
+        <mark key="[" line="85" column="72" />
+        <mark key="]" line="85" column="82" />
+        <mark key="." line="85" column="82" />
+        <mark key="^" line="85" column="82" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/services/general/EmailService.java" timestamp="1545026061809">
         <mark key="[" line="103" column="34" />
         <mark key="]" line="103" column="34" />
@@ -829,8 +835,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAp0YXJnZXRDb21wYXRpYmlsaXR5ID0gMS44Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -845,7 +851,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHRlbmFudF9pZD4uc3RhZ2luZy5icmlkZ2VhcHAuY29tLw==</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>ui</text>
