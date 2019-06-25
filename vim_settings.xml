@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" timestamp="1561149805574">
-        <mark key="'" line="68" column="2" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="54" column="7" />
-        <mark key="^" line="64" column="78" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" timestamp="1561493275156">
+        <mark key="'" line="114" column="8" />
+        <mark key="[" line="132" column="81" />
+        <mark key="]" line="132" column="111" />
+        <mark key="^" line="132" column="111" />
+        <mark key="." line="132" column="111" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/main/java/extensions/yeti/YetiDetector.java" timestamp="1547238187279">
         <mark key="'" line="19" column="28" />
@@ -122,6 +122,13 @@
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/carkit/db/seeds/membership_seeds.rb" timestamp="1561494997692">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="18" column="57" />
+        <mark key="]" line="18" column="58" />
+        <mark key="." line="18" column="58" />
+        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/ZipperRaceDetector.java" timestamp="1548202347273">
         <mark key="'" line="33" column="38" />
@@ -242,11 +249,12 @@
       <file name="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" timestamp="1561489804831">
         <mark key="'" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/carkit/config/routes.rb" timestamp="1561148772271">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
-        <mark key="^" line="8" column="28" />
+      <file name="$USER_HOME$/dev/ruby/carkit/config/routes.rb" timestamp="1561495213021">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="76" column="59" />
+        <mark key="]" line="76" column="60" />
+        <mark key="." line="76" column="60" />
+        <mark key="^" line="76" column="60" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity/router/src/main/resources/application.properties" timestamp="1548279012074">
         <mark key="[" line="2" column="0" />
@@ -578,11 +586,12 @@
         <mark key="." line="28" column="8" />
         <mark key="^" line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" timestamp="1561151135777">
-        <mark key="'" line="69" column="37" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" timestamp="1561495177075">
+        <mark key="'" line="26" column="30" />
+        <mark key="[" line="27" column="40" />
+        <mark key="]" line="27" column="61" />
+        <mark key="." line="27" column="61" />
+        <mark key="^" line="27" column="61" />
       </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/SecondaryUserRepository.java" timestamp="1545029168458">
         <mark key="'" line="19" column="10" />
@@ -623,10 +632,10 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561403602591">
+      <file name="/dummy.sql" timestamp="1561495420872">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561153450395">
+      <file name="/Dummy.txt" timestamp="1561495347132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/DisjointIsolated.java" timestamp="1549056935459">
@@ -721,6 +730,9 @@
         <mark key="." line="16" column="50" />
         <mark key="^" line="16" column="50" />
       </file>
+      <file name="/carkit_dev.public.shops [Rails carkit: development]" timestamp="1561495368677">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1561069964180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -732,27 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="49" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="27" column="47" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="34" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="39" column="53" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="11" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="40" column="36" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="61" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="35" column="3" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="23" column="3" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="6" column="23" filename="$USER_HOME$/dev/java/sand/answer.txt" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/java/sand/answer.txt" />
-      <jump line="55" column="6" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/TypeCheckerDynamicTestVisitorTests.java" />
-      <jump line="28" column="18" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
-      <jump line="65" column="6" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
-      <jump line="100" column="60" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
-      <jump line="55" column="4" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
-      <jump line="56" column="56" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
-      <jump line="57" column="61" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
       <jump line="58" column="37" filename="$USER_HOME$/dev/java/labs/src/test/java/edu/byu/yc/LiveVariableTests.java" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/install.sh" />
       <jump line="71" column="14" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
@@ -821,7 +812,6 @@
       <jump line="19" column="26" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="1" column="76" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="2" column="77" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/users_controller.rb" />
-      <jump line="67" column="2" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="69" column="11" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="70" column="15" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="55" column="18" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/users_controller.rb" />
@@ -832,13 +822,35 @@
       <jump line="25" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
       <jump line="24" column="52" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" />
+      <jump line="16" column="45" filename="$USER_HOME$/dev/ruby/carkit/db/seeds/membership_seeds.rb" />
+      <jump line="51" column="30" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="44" column="22" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="47" column="11" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="48" column="6" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="133" column="0" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="155" column="4" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="180" column="0" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="114" column="8" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
+      <jump line="21" column="34" filename="$USER_HOME$/dev/ruby/carkit/db/seeds/membership_seeds.rb" />
+      <jump line="22" column="33" filename="$USER_HOME$/dev/ruby/carkit/db/seeds/membership_seeds.rb" />
+      <jump line="24" column="57" filename="$USER_HOME$/dev/ruby/carkit/db/seeds/membership_seeds.rb" />
+      <jump line="23" column="29" filename="$USER_HOME$/dev/ruby/carkit/db/seeds/membership_seeds.rb" />
+      <jump line="67" column="18" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="53" column="32" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="52" column="10" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="48" column="32" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="47" column="10" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="43" column="62" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="31" column="40" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="26" column="30" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
+      <jump line="8" column="27" filename="$USER_HOME$/dev/ruby/carkit/config/routes.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHQuYm9vbGVhbiAic2FsdmFnZSIKICAgIHQuc3RyaW5nICJkZXNjcmlwdGlvbiIKICAgIHQuaW50ZWdlciAibWlsZWFnZV95ZWFybHkiCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -853,95 +865,44 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>ui</text>
+        <text>business</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHQuYm9vbGVhbiAic2FsdmFnZSIKICAgIHQuc3RyaW5nICJkZXNjcmlwdGlvbiIKICAgIHQuaW50ZWdlciAibWlsZWFnZV95ZWFybHkiCg==</text>
+        <text encoding="base64">ICBwb3N0ICdzdWJzY3JpYmUvaW5kZXBlbmRlbnRfY29udHJhY3RvcicsIHRvOiAnc2hvcHMjc2V0X2luZGVwZW5kZW50X2NvbnRyYWN0b3InCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAp0YXJnZXRDb21wYXRpYmlsaXR5ID0gMS44Cgo=</text>
+        <text encoding="base64">ICAgICAgbWV0YWRhdGE6IHtwbGFuX2RldGFpbHNbMF0gPT4gdHJ1ZX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="72" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
           <key char="104" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="60" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="103" code="0" mods="0" />
-          <key char="62" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="108" code="0" mods="0" />
           <key char="100" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="123" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="76" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="83" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="111" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="10" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignLSgpICcsICcnKQo=</text>
+        <text encoding="base64">ICBpZiBzdHJpcGVfcGxhbiAhPSBuaWwgJiYKICBlbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignICcsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgZW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZ3N1YignICcsICcnKQo=</text>
+        <text encoding="base64">ICAoc3RyaXBlX3BsYW4uYW1vdW50ICE9IHBsYW5bOmFtb3VudF0gfHwgc3RyaXBlX3BsYW4ubmlja25hbWUgIT0gcGxhbls6bmlja25hbWVdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHtlcnJvcjogbWVzc2FnZX0sIHN0YXR1czogNDAwICBhbmQgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAganNvbjoge2Vycm9yOiBtZXNzYWdlfSwgc3RhdHVzOiA0MDAgIGFuZCByZXR1cm4K</text>
+        <text encoding="base64">ICAgZWxzaWYgc3RyaXBlX3BsYW4uYW1vdW50ICE9IHBsYW5bOmFtb3VudF0gfHwKICAgICAgICAgc3RyaXBlX3BsYW4ubmlja25hbWUgIT0gcGxhbls6bmlja25hbWVdCiAgICAgU3RyaXBlOjpQbGFuLnVwZGF0ZShwbGFuX2tleSwgewoKICAgICB9KQogICAgICBwdXRzICdGT1VORCBERUlGRkVSRU5DRScKICAgZW5kCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -961,35 +922,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVuZGVyIGpzb246IHtlcnJvcjogbWVzc2FnZX0sIHN0YXR1czogNDAwICBhbmQgcmV0dXJuCg==</text>
+        <text encoding="base64">cGxhbnNfZGV0YWlscyA9IFtpbmRlcGVuZGVudF9jb250cmFjdG9yX3BsYW5fa2V5LCAnSW5kZXBlbmRlbnQgQ29udHJhY3RvcicsIDI1MDBdLAogICAgICAgICAgICAgICAgW2J1c2luZXNzX3BsYW5fa2V5LCAnQnVzaW5lc3MnLCAxMDEwMF0sCiAgICAgICAgICAgICAgICBbYnVzaW5lc3NfcGx1c19wbGFuX2tleSwgJ0J1c2luZXNzIFBsdXMnLCAyMDAwMF0sCiAgICAgICAgICAgICAgICBbZW50ZXJwcmlzZV9wbGFuX2tleSwgJ0VudGVycHJpc2UnLCAzMDAwMF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZXImLnBob25lX3ZlcmlmaWVkJi52YWxpZF9wYXNzd29yZD8ocGFyYW1zWzpwYXNzd29yZF0pCg==</text>
+        <text encoding="base64">ICAgZW5kCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5zYXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW4K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ui</last-search>
+      <last-search>business</last-search>
       <last-offset />
-      <last-pattern>ui</last-pattern>
+      <last-pattern>business</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>method of</entry>
-        <entry>method\ of</entry>
-        <entry>of</entry>
         <entry>set.of</entry>
         <entry>new</entry>
         <entry>Set.of</entry>
@@ -1007,6 +965,9 @@
         <entry>user</entry>
         <entry>shop</entry>
         <entry>ui</entry>
+        <entry>\=</entry>
+        <entry>=</entry>
+        <entry>business</entry>
       </history-search>
       <history-cmd>
         <entry>kkk;w</entry>
@@ -1026,9 +987,9 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>vs</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
         <entry>w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
