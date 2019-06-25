@@ -104,12 +104,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/vehicles_controller.rb" timestamp="1561145865602">
-        <mark key="'" line="55" column="122" />
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="57" />
-        <mark key="." line="35" column="57" />
-        <mark key="^" line="35" column="57" />
+      <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/vehicles_controller.rb" timestamp="1561477434725">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="18" />
+        <mark key="." line="57" column="18" />
+        <mark key="^" line="56" column="17" />
       </file>
       <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/users_controller.rb" timestamp="1561151133558">
         <mark key="'" line="55" column="18" />
@@ -355,8 +355,10 @@
         <mark key="." line="63" column="63" />
         <mark key="^" line="63" column="122" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/carkit/db/schema.rb" timestamp="1561403369184">
-        <mark key="'" line="253" column="16" />
+      <file name="$USER_HOME$/dev/ruby/carkit/db/schema.rb" timestamp="1561477327605">
+        <mark key="'" line="257" column="34" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="307" column="30" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1549056999979">
         <mark key="'" line="32" column="0" />
@@ -730,8 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="71" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="14" column="34" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="15" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="22" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="26" column="49" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
@@ -830,13 +830,15 @@
       <jump line="71" column="37" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="27" column="1" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
       <jump line="24" column="52" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
+      <jump line="257" column="34" filename="$USER_HOME$/dev/ruby/carkit/db/schema.rb" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/vehicles_controller.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHQuYm9vbGVhbiAic2FsdmFnZSIKICAgIHQuc3RyaW5nICJkZXNjcmlwdGlvbiIKICAgIHQuaW50ZWdlciAibWlsZWFnZV95ZWFybHkiCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -857,7 +859,7 @@
         <text>ui</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3Bob25lID0gY2xlYW5fcGhvbmUuZGVsZXRlKCctKCkgJykK</text>
+        <text encoding="base64">ICAgIHQuYm9vbGVhbiAic2FsdmFnZSIKICAgIHQuc3RyaW5nICJkZXNjcmlwdGlvbiIKICAgIHQuaW50ZWdlciAibWlsZWFnZV95ZWFybHkiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c291cmNlQ29tcGF0aWJpbGl0eSA9IDEuOAp0YXJnZXRDb21wYXRpYmlsaXR5ID0gMS44Cgo=</text>
@@ -1016,7 +1018,6 @@
         <entry>q!</entry>
         <entry>close</entry>
         <entry>;q</entry>
-        <entry>vs</entry>
         <entry>wqa</entry>
         <entry>1</entry>
         <entry>e</entry>
@@ -1026,6 +1027,7 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>noh</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
