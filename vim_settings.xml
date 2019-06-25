@@ -57,7 +57,6 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/.bash_profile" timestamp="1561136733143" />
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperNode.java" timestamp="1548872055697">
         <mark key="'" line="143" column="0" />
         <mark key="[" line="12" column="47" />
@@ -240,7 +239,9 @@
         <mark key="^" line="10" column="51" />
         <mark key="." line="10" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" timestamp="1561153097047" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" timestamp="1561489804831">
+        <mark key="'" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ruby/carkit/config/routes.rb" timestamp="1561148772271">
         <mark key="[" line="8" column="27" />
         <mark key="]" line="8" column="28" />
@@ -276,7 +277,7 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" timestamp="1561153078984">
+      <file name="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" timestamp="1561489756629">
         <mark key="'" line="24" column="52" />
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="22" />
@@ -590,7 +591,6 @@
         <mark key="." line="19" column="59" />
         <mark key="^" line="19" column="59" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/yarn-error.log" timestamp="1561172956996" />
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/configurable/configurable/Task.java" timestamp="1550712550331">
         <mark key="'" line="8" column="2" />
         <mark key="[" line="5" column="13" />
@@ -732,8 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="12" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
-      <jump line="22" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="26" column="49" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="27" column="47" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
       <jump line="34" column="13" filename="$USER_HOME$/dev/java/sand/src/main/Main.java" />
@@ -829,9 +827,11 @@
       <jump line="55" column="18" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/users_controller.rb" />
       <jump line="71" column="37" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="27" column="1" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
-      <jump line="24" column="52" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
       <jump line="257" column="34" filename="$USER_HOME$/dev/ruby/carkit/db/schema.rb" />
       <jump line="24" column="4" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/vehicles_controller.rb" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
+      <jump line="24" column="52" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -973,7 +973,7 @@
         <text encoding="base64">ICAgICAgc2VsZi5zYXZlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -1023,12 +1023,12 @@
         <entry>e</entry>
         <entry>;w</entry>
         <entry>2</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>vs</entry>
+        <entry>noh</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
