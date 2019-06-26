@@ -357,12 +357,11 @@
         <mark key="[" line="305" column="0" />
         <mark key="]" line="307" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561566765275">
-        <mark key="'" line="79" column="13" />
-        <mark key="[" line="38" column="55" />
-        <mark key="]" line="95" column="7" />
-        <mark key="^" line="33" column="40" />
-        <mark key="." line="95" column="7" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561570066716">
+        <mark key="'" line="97" column="47" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1549056999979">
         <mark key="'" line="32" column="0" />
@@ -560,6 +559,7 @@
         <mark key="." line="40" column="45" />
         <mark key="^" line="40" column="45" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instructure.bridge/bridge-spring-kotlin-test/0.1.0/951a9db0de949505c0fc23e60ebe86d4517da8af/bridge-spring-kotlin-test-0.1.0-sources.jar!/com/instructure/bridge/test/workflows/ByDataQA.kt" timestamp="1561568825836" />
       <file name="$USER_HOME$/dev/java/jpf-hj/src/benchmarks/nonisolated/ConfigurableManyAccessesNo.java" timestamp="1551305338199">
         <mark key="'" line="6" column="31" />
         <mark key="[" line="11" column="25" />
@@ -712,6 +712,13 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1561568924151">
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="62" column="55" />
+        <mark key="]" line="62" column="55" />
+        <mark key="." line="62" column="55" />
+        <mark key="^" line="62" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/entities/general/User.java" timestamp="1545019946523">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="51" column="0" />
@@ -739,13 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="2" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
-      <jump line="42" column="13" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/EverestActivitiesTest.kt" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/core/Workflow.kt" />
-      <jump line="67" column="11" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Page.kt" />
-      <jump line="104" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Page.kt" />
-      <jump line="37" column="13" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/workflows/resources/application.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/workflows/resources/application.yml" />
       <jump line="45" column="36" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/main/resources/application-local.yml" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/api/src/main/resources/application-local.yml" />
       <jump line="11" column="40" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/user_requests_controller.rb" />
@@ -839,13 +839,20 @@
       <jump line="96" column="22" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="133" column="8" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="78" column="13" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="62" column="40" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
+      <jump line="34" column="40" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
+      <jump line="19" column="9" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
+      <jump line="51" column="39" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="93" column="7" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="97" column="47" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -860,16 +867,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Create</text>
       </register>
       <register name="/" type="4">
         <text>business</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwb3N0ICdzdWJzY3JpYmUvaW5kZXBlbmRlbnRfY29udHJhY3RvcicsIHRvOiAnc2hvcHMjc2V0X2luZGVwZW5kZW50X2NvbnRyYWN0b3InCg==</text>
+        <text encoding="base64">ICAgICAgTW9jay5zZXR1cChmYWxzZSkgeyBjb25maWd1cmVyIC0+CiAgICAgICAgY29uZmlndXJlcgogICAgICAgICAgLnNldHVwU2VhcmNoU2tpbGxzKFNraWxsUmVzcG9uc2VEdG8oc2tpbGxzTWFwLnZhbHVlcy50b0xpc3QoKSksIGl0LmtleSkKICAgICAgICAgIC5zZXR1cENyZWF0ZURlbGV0ZVJlc3RvcmVVcGRhdGUoaXQudmFsdWUsIHVwZGF0ZWRTa2lsbFJlbGF0aW9uc2hpcER0bywKICAgICAgICAgICAgVXBkYXRlUmVsYXRpb25zaGlwUmVxdWVzdChhdHRyaWJ1dGVzID0gbWFwT2YoImRlc2NyaXB0aW9uIiB0byBza2lsbERlc2NyaXB0aW9uKSkpCiAgICAgICAgICAuc2V0dXBTa2lsbFJlbGF0aW9uc2hpcHMoc2tpbGxSZWxhdGlvbnNoaXBTZWFyY2hEdG8sIHNraWxsUmVsYXRpb25zaGlwRHRvKQogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbWV0YWRhdGE6IHtwbGFuX2RldGFpbHNbMF0gPT4gdHJ1ZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -885,19 +892,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiBzdHJpcGVfcGxhbiAhPSBuaWwgJiYKICBlbmQK</text>
+        <text encoding="base64">Ly8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiU2VsZWN0IGEgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLmFkZFNraWxsKHNraWxsTmFtZSkKLy8gICAgICAgIGFzc2VydFRoYXQoc2tpbGxzUGFnZS5oYXNTa2lsbChza2lsbE5hbWUpLCBJcyh0cnVlKSkKLy8gICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoc3RyaXBlX3BsYW4uYW1vdW50ICE9IHBsYW5bOmFtb3VudF0gfHwgc3RyaXBlX3BsYW4ubmlja25hbWUgIT0gcGxhbls6bmlja25hbWVdKQo=</text>
+        <text encoding="base64">ICAgIHdhaXQoKS51bnRpbCB7IGhhc1NraWxsKHNraWxsTmFtZSkgfQogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZWxzaWYgc3RyaXBlX3BsYW4uYW1vdW50ICE9IHBsYW5bOmFtb3VudF0gfHwKICAgICAgICAgc3RyaXBlX3BsYW4ubmlja25hbWUgIT0gcGxhbls6bmlja25hbWVdCiAgICAgU3RyaXBlOjpQbGFuLnVwZGF0ZShwbGFuX2tleSwgewoKICAgICB9KQogICAgICBwdXRzICdGT1VORCBERUlGRkVSRU5DRScKICAgZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -917,16 +924,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGxhbnNfZGV0YWlscyA9IFtpbmRlcGVuZGVudF9jb250cmFjdG9yX3BsYW5fa2V5LCAnSW5kZXBlbmRlbnQgQ29udHJhY3RvcicsIDI1MDBdLAogICAgICAgICAgICAgICAgW2J1c2luZXNzX3BsYW5fa2V5LCAnQnVzaW5lc3MnLCAxMDEwMF0sCiAgICAgICAgICAgICAgICBbYnVzaW5lc3NfcGx1c19wbGFuX2tleSwgJ0J1c2luZXNzIFBsdXMnLCAyMDAwMF0sCiAgICAgICAgICAgICAgICBbZW50ZXJwcmlzZV9wbGFuX2tleSwgJ0VudGVycHJpc2UnLCAzMDAwMF0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW4K</text>
+        <text encoding="base64">ICAgICAgbWV0YWRhdGE6IHtwbGFuX2RldGFpbHNbMF0gPT4gdHJ1ZX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
