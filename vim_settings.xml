@@ -357,12 +357,12 @@
         <mark key="[" line="305" column="0" />
         <mark key="]" line="307" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561496320902">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="40" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561566765275">
+        <mark key="'" line="79" column="13" />
+        <mark key="[" line="38" column="55" />
+        <mark key="]" line="95" column="7" />
         <mark key="^" line="33" column="40" />
-        <mark key="." line="33" column="40" />
+        <mark key="." line="95" column="7" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1549056999979">
         <mark key="'" line="32" column="0" />
@@ -739,10 +739,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/install.sh" />
-      <jump line="71" column="14" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
-      <jump line="72" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
-      <jump line="115" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
       <jump line="14" column="2" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/build.gradle" />
       <jump line="42" column="13" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/EverestActivitiesTest.kt" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/core/Workflow.kt" />
@@ -839,13 +835,17 @@
       <jump line="26" column="30" filename="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" />
       <jump line="8" column="27" filename="$USER_HOME$/dev/ruby/carkit/config/routes.rb" />
       <jump line="63" column="6" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="96" column="22" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="133" column="8" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="78" column="13" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -860,7 +860,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>business</text>
