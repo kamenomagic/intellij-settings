@@ -356,12 +356,12 @@
         <mark key="." line="63" column="63" />
         <mark key="^" line="63" column="122" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561654993989">
-        <mark key="'" line="41" column="49" />
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561673927992">
+        <mark key="'" line="91" column="7" />
+        <mark key="[" line="94" column="41" />
+        <mark key="]" line="94" column="41" />
+        <mark key="." line="94" column="41" />
+        <mark key="^" line="94" column="41" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1549056999979">
         <mark key="'" line="32" column="0" />
@@ -712,7 +712,7 @@
         <mark key="." line="39" column="23" />
         <mark key="^" line="39" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1561652988651">
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1561674215346">
         <mark key="'" line="19" column="9" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -752,7 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="52" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" />
       <jump line="16" column="45" filename="$USER_HOME$/dev/ruby/carkit/db/seeds/membership_seeds.rb" />
       <jump line="51" column="30" filename="$USER_HOME$/dev/ruby/carkit/app/models/shop.rb" />
@@ -781,15 +780,12 @@
       <jump line="62" column="40" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
       <jump line="34" column="40" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
       <jump line="19" column="9" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
-      <jump line="93" column="7" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="97" column="47" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="43" column="32" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="96" column="8" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="98" column="10" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="99" column="86" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="101" column="39" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="59" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="89" column="6" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="34" column="45" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
@@ -852,13 +848,17 @@
       <jump line="72" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
       <jump line="97" column="6" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
       <jump line="74" column="44" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
+      <jump line="93" column="28" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="101" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="96" column="22" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="91" column="7" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>RelationshipRequest</text>
+        <text>skillName2</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -873,16 +873,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>RelationshipRequest</text>
+        <text>skillName2</text>
       </register>
       <register name="/" type="4">
         <text>custom_skills</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIEJvZHkgdG8gY3JlYXRlIHJlbGF0aW9uc2hpcAogKi8KZGF0YSBjbGFzcyBDcmVhdGVSZWxhdGlvbnNoaXBSZXF1ZXN0KAogIHZhbCBhdHRyaWJ1dGVzOiBNYXA8U3RyaW5nLCBBbnk/PiwKICB2YWwgc2tpbGxJZDogU3RyaW5nLAogIHZhbCB0YWc6IFNraWxsVGFnLAogIHZhbCBza2lsbFRpdGxlOiBTdHJpbmc/ID0gbnVsbAopCg==</text>
+      <register name="0" type="4">
+        <text>customSkillsMap[customSkillName]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludGxuKCkKICBwcmludGxuKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkKICBwcmludGxuKHRvSnNvbihza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3QpKQogIHByaW50bG4oZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQo=</text>
+        <text encoding="base64">Ly8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiUmVzdG9yZSBhIGRlbGV0ZWQgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLnVuZG9EZWxldGUoc2tpbGxOYW1lKQovLyAgICAgICAgYXNzZXJ0VGhhdChza2lsbHNQYWdlLmhhc1NraWxsKHNraWxsTmFtZSksIElzKHRydWUpKQovLyAgICAgIH0sCi8vCi8vICAgICAgRHluYW1pY1Rlc3QuZHluYW1pY1Rlc3QoIkFkZCBhIGRlc2NyaXB0aW9uIikgewovLyAgICAgICAgc2tpbGxzUGFnZS5hZGREZXNjcmlwdGlvbihza2lsbE5hbWUsIHNraWxsRGVzY3JpcHRpb24pCi8vICAgICAgICBhc3NlcnRUaGF0KCJkZXNjcmlwdGlvbiBub3QgYWRkZWQiLAovLyAgICAgICAgICBza2lsbHNQYWdlLmhhc1NraWxsRGVzY3JpcHRpb24oc2tpbGxOYW1lLCBza2lsbERlc2NyaXB0aW9uKSwgSXModHJ1ZSkpCi8vICAgICAgfSwKLy8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiQWRkIGFub3RoZXIgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLmFkZEFub3RoZXJTa2lsbChza2lsbE5hbWUyKQovLyAgICAgICAgYXNzZXJ0VGhhdChza2lsbHNQYWdlLmhhc1NraWxsKHNraWxsTmFtZTIpLCBJcyh0cnVlKSkKLy8gICAgICB9LAovLwovLyAgICAgIER5bmFtaWNUZXN0LmR5bmFtaWNUZXN0KCJEZWxldGUgZmlyc3Qgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLmRlbGV0ZVNraWxsKHNraWxsTmFtZSkKLy8gICAgICAgIGFzc2VydFRoYXQoc2tpbGxzUGFnZS5oYXNTa2lsbChza2lsbE5hbWUpLCBJcyhmYWxzZSkpCi8vICAgICAgfSwKLy8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -901,16 +901,16 @@
         <text encoding="base64">ICBwcmludGxuKCkKICBwcmludGxuKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkKICBwcmludGxuKHRvSnNvbihza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3QpKQogIHByaW50bG4oZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludGxuKHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkK</text>
+        <text encoding="base64">ICBwcmludGxuKCkKICBwcmludGxuKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkKICBwcmludGxuKHRvSnNvbihza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3QpKQogIHByaW50bG4oZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbih0aGlzLnRvSnNvbihza2lsbFJlbGF0aW9uc2hpcER0bykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBza2lsbFJlc3BvbnNlRHRvOiBTa2lsbFJlc3BvbnNlRHRvLAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbih0aGlzLnRvSnNvbihza2lsbFJlbGF0aW9uc2hpcER0bykpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -930,7 +930,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYXJlZXJfZXZlcmVzdF9jdXN0b21fc2tpbGxzOiB0cnVlCg==</text>
+        <text encoding="base64">ICBza2lsbFJlc3BvbnNlRHRvOiBTa2lsbFJlc3BvbnNlRHRvLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBjYXJlZXJfZXZlcmVzdF9jdXN0b21fc2tpbGxzOiB0cnVlCg==</text>
