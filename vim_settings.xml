@@ -356,12 +356,12 @@
         <mark key="." line="63" column="63" />
         <mark key="^" line="63" column="122" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561673927992">
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1561737266844">
         <mark key="'" line="91" column="7" />
-        <mark key="[" line="94" column="41" />
-        <mark key="]" line="94" column="41" />
-        <mark key="." line="94" column="41" />
-        <mark key="^" line="94" column="41" />
+        <mark key="[" line="88" column="39" />
+        <mark key="]" line="88" column="53" />
+        <mark key="." line="88" column="53" />
+        <mark key="^" line="88" column="53" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/build.gradle" timestamp="1549056999979">
         <mark key="'" line="32" column="0" />
@@ -858,7 +858,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>skillName2</text>
+        <text>skillName</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -873,7 +873,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>skillName2</text>
+        <text>skillName</text>
       </register>
       <register name="/" type="4">
         <text>custom_skills</text>
