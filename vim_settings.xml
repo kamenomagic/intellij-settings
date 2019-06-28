@@ -377,11 +377,11 @@
         <mark key="^" line="85" column="75" />
         <mark key="." line="85" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" timestamp="1561655010551">
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" timestamp="1561746857140">
         <mark key="'" line="74" column="44" />
-        <mark key="[" line="74" column="34" />
-        <mark key="]" line="74" column="44" />
-        <mark key="." line="74" column="44" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
         <mark key="^" line="74" column="44" />
       </file>
       <file name="$USER_HOME$/dev/java/jpf-hj/src/graph/zipper/otf/ZipperOTF.java" timestamp="1549672706255">
@@ -857,8 +857,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>skillName</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -882,7 +882,7 @@
         <text>customSkillsMap[customSkillName]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiUmVzdG9yZSBhIGRlbGV0ZWQgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLnVuZG9EZWxldGUoc2tpbGxOYW1lKQovLyAgICAgICAgYXNzZXJ0VGhhdChza2lsbHNQYWdlLmhhc1NraWxsKHNraWxsTmFtZSksIElzKHRydWUpKQovLyAgICAgIH0sCi8vCi8vICAgICAgRHluYW1pY1Rlc3QuZHluYW1pY1Rlc3QoIkFkZCBhIGRlc2NyaXB0aW9uIikgewovLyAgICAgICAgc2tpbGxzUGFnZS5hZGREZXNjcmlwdGlvbihza2lsbE5hbWUsIHNraWxsRGVzY3JpcHRpb24pCi8vICAgICAgICBhc3NlcnRUaGF0KCJkZXNjcmlwdGlvbiBub3QgYWRkZWQiLAovLyAgICAgICAgICBza2lsbHNQYWdlLmhhc1NraWxsRGVzY3JpcHRpb24oc2tpbGxOYW1lLCBza2lsbERlc2NyaXB0aW9uKSwgSXModHJ1ZSkpCi8vICAgICAgfSwKLy8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiQWRkIGFub3RoZXIgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLmFkZEFub3RoZXJTa2lsbChza2lsbE5hbWUyKQovLyAgICAgICAgYXNzZXJ0VGhhdChza2lsbHNQYWdlLmhhc1NraWxsKHNraWxsTmFtZTIpLCBJcyh0cnVlKSkKLy8gICAgICB9LAovLwovLyAgICAgIER5bmFtaWNUZXN0LmR5bmFtaWNUZXN0KCJEZWxldGUgZmlyc3Qgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLmRlbGV0ZVNraWxsKHNraWxsTmFtZSkKLy8gICAgICAgIGFzc2VydFRoYXQoc2tpbGxzUGFnZS5oYXNTa2lsbChza2lsbE5hbWUpLCBJcyhmYWxzZSkpCi8vICAgICAgfSwKLy8K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -898,19 +898,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludGxuKCkKICBwcmludGxuKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkKICBwcmludGxuKHRvSnNvbihza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3QpKQogIHByaW50bG4oZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQo=</text>
+        <text encoding="base64">Ly8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiUmVzdG9yZSBhIGRlbGV0ZWQgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLnVuZG9EZWxldGUoc2tpbGxOYW1lKQovLyAgICAgICAgYXNzZXJ0VGhhdChza2lsbHNQYWdlLmhhc1NraWxsKHNraWxsTmFtZSksIElzKHRydWUpKQovLyAgICAgIH0sCi8vCi8vICAgICAgRHluYW1pY1Rlc3QuZHluYW1pY1Rlc3QoIkFkZCBhIGRlc2NyaXB0aW9uIikgewovLyAgICAgICAgc2tpbGxzUGFnZS5hZGREZXNjcmlwdGlvbihza2lsbE5hbWUsIHNraWxsRGVzY3JpcHRpb24pCi8vICAgICAgICBhc3NlcnRUaGF0KCJkZXNjcmlwdGlvbiBub3QgYWRkZWQiLAovLyAgICAgICAgICBza2lsbHNQYWdlLmhhc1NraWxsRGVzY3JpcHRpb24oc2tpbGxOYW1lLCBza2lsbERlc2NyaXB0aW9uKSwgSXModHJ1ZSkpCi8vICAgICAgfSwKLy8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiQWRkIGFub3RoZXIgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLmFkZEFub3RoZXJTa2lsbChza2lsbE5hbWUyKQovLyAgICAgICAgYXNzZXJ0VGhhdChza2lsbHNQYWdlLmhhc1NraWxsKHNraWxsTmFtZTIpLCBJcyh0cnVlKSkKLy8gICAgICB9LAovLwovLyAgICAgIER5bmFtaWNUZXN0LmR5bmFtaWNUZXN0KCJEZWxldGUgZmlyc3Qgc2tpbGwiKSB7Ci8vICAgICAgICBza2lsbHNQYWdlLmRlbGV0ZVNraWxsKHNraWxsTmFtZSkKLy8gICAgICAgIGFzc2VydFRoYXQoc2tpbGxzUGFnZS5oYXNTa2lsbChza2lsbE5hbWUpLCBJcyhmYWxzZSkpCi8vICAgICAgfSwKLy8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICBwcmludGxuKCkKICBwcmludGxuKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkKICBwcmludGxuKHRvSnNvbihza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3QpKQogIHByaW50bG4oZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludGxuKHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkK</text>
+        <text encoding="base64">ICBwcmludGxuKCkKICBwcmludGxuKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkKICBwcmludGxuKHRvSnNvbihza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3QpKQogIHByaW50bG4oZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcmludGxuKHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbih0aGlzLnRvSnNvbihza2lsbFJlbGF0aW9uc2hpcER0bykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -930,10 +930,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBza2lsbFJlc3BvbnNlRHRvOiBTa2lsbFJlc3BvbnNlRHRvLAo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbih0aGlzLnRvSnNvbihza2lsbFJlbGF0aW9uc2hpcER0bykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYXJlZXJfZXZlcmVzdF9jdXN0b21fc2tpbGxzOiB0cnVlCg==</text>
+        <text encoding="base64">ICBza2lsbFJlc3BvbnNlRHRvOiBTa2lsbFJlc3BvbnNlRHRvLAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
