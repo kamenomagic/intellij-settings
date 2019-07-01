@@ -265,7 +265,6 @@
         <mark key="^" line="21" column="35" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/c++/madlib/madlib10.cpp" timestamp="1561955745744" />
       <file name="$USER_HOME$/dev/ruby/carkit/db/migrate/20190511211716_change_maintenance_service_to_subservice.rb" timestamp="1561142495600">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="7" />
@@ -324,7 +323,13 @@
       <file name="/carkit_dev.public.shops [Rails carkit: development]" timestamp="1561495368677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1561754200973">
+      <file name="$USER_HOME$/dev/c++/madlib/Makefile" timestamp="1561956097085">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="/fragment.java" timestamp="1561956155737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="23" />
@@ -440,8 +445,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYoY3kuZ2V0KCcqW2RhdGEtcWE9ZGVzaXJlZFNraWxsVGl0bGUnKS5jb250YWlucygibmV0ZmxpeCIpKSB7CiAgICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxEZWxldGVCdXR0b25dJykuY2xpY2soKQogICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -456,7 +461,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>custom skill</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>netflix</text>
