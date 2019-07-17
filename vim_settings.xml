@@ -531,7 +531,7 @@
         <text encoding="base64">ICAgICAgaWYoY3kuZ2V0KCcqW2RhdGEtcWE9ZGVzaXJlZFNraWxsVGl0bGUnKS5jb250YWlucygibmV0ZmxpeCIpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -541,7 +541,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -585,8 +585,8 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
