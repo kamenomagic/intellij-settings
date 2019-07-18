@@ -45,13 +45,6 @@
         <mark key="." line="25" column="80" />
         <mark key="^" line="25" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" timestamp="1563473741401">
-        <mark key="'" line="40" column="31" />
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="41" column="31" />
-      </file>
       <file name="$USER_HOME$/dev/ruby/carkit/db/migrate/20190621184114_change_maintenances_to_attach_to_vehicles.rb" timestamp="1561142524586">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="56" />
@@ -304,13 +297,6 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1563478033850">
-        <mark key="'" line="53" column="13" />
-        <mark key="[" line="64" column="24" />
-        <mark key="]" line="64" column="24" />
-        <mark key="." line="64" column="24" />
-        <mark key="^" line="64" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/UserRepository.java" timestamp="1545029157686">
         <mark key="[" line="16" column="47" />
         <mark key="]" line="16" column="50" />
@@ -343,7 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="377" column="9" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
       <jump line="459" column="23" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
       <jump line="469" column="18" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
       <jump line="538" column="9" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
@@ -393,7 +378,6 @@
       <jump line="62" column="4" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="56" column="37" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="57" column="4" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="98" column="5" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="94" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
@@ -443,13 +427,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="53" column="13" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
       <jump line="40" column="31" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
+      <jump line="127" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
+      <jump line="95" column="58" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50XScpLmNvbnRhaW5zKCJjdXN0b20gc2tpbGwiKS5zaG91bGQoJ2JlLnZpc2libGUnKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -467,13 +453,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>skilllocator</text>
+        <text>custom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZpbmRFbGVtZW50KGFub3RoZXJTa2lsbEJ1dHRvbikuY2xpY2soKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50XScpLmNvbnRhaW5zKCJjdXN0b20gc2tpbGwiKS5zaG91bGQoJ2JlLnZpc2libGUnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -489,19 +475,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50JykuY29udGFpbnMoImN1c3RvbSBza2lsbCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IHNlYXJjaE5ld1NraWxsc1N0dWIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy8iKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJzZWFyY2giLCBXaXJlTW9jay5lcXVhbFRvKHNlYXJjaENyaXRlcmlhKSA/OiBXaXJlTW9jay5tYXRjaGluZygiLioiKSkKICAgICAgLndpbGxSZXR1cm4oCiAgICAgICAgYVJlc3BvbnNlKCkKICAgICAgICAgIC53aXRoQm9keSh0aGlzLnRvSnNvbih7fSkpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IHNlYXJjaE5ld1NraWxsc1N0dWIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy8iKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJzZWFyY2giLCBXaXJlTW9jay5lcXVhbFRvKHNlYXJjaENyaXRlcmlhKSA/OiBXaXJlTW9jay5tYXRjaGluZygiLioiKSkKICAgICAgLndpbGxSZXR1cm4oCiAgICAgICAgYVJlc3BvbnNlKCkKICAgICAgICAgIC53aXRoQm9keSh0aGlzLnRvSnNvbih7fSkpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -521,35 +507,34 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlYXJjaE5ld1NraWxsc1N0dWIgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZVMK</text>
+        <text encoding="base64">ICAgICAgdmFyIHNlYXJjaE5ld1NraWxsc1N0dWIgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skilllocator</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>skilllocator</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>business</entry>
         <entry>it</entry>
-        <entry>custom</entry>
         <entry>everest</entry>
         <entry>career_everest_overview</entry>
         <entry>skillmap</entry>
@@ -567,6 +552,7 @@
         <entry>addanotherC</entry>
         <entry>addCustomSkil</entry>
         <entry>skilllocator</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>;</entry>
