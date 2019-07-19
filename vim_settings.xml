@@ -57,11 +57,10 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" timestamp="1563567775763">
-        <mark key="[" line="81" column="46" />
-        <mark key="]" line="81" column="47" />
-        <mark key="." line="81" column="47" />
-        <mark key="^" line="81" column="52" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" timestamp="1563570655500">
+        <mark key="[" line="83" column="43" />
+        <mark key="]" line="83" column="43" />
+        <mark key="." line="83" column="43" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" timestamp="1561587287454">
         <mark key="'" line="373" column="0" />
@@ -441,7 +440,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>h1</text>
+        <text>.type(&quot;custom skill&quot;)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -456,13 +455,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>h1</text>
+        <text>.type(&quot;custom skill&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbmRFbGVtZW50KGFub3RoZXJTa2lsbEJ1dHRvbikuY2xpY2soKQo=</text>
+        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9YXV0b2NvbXBsZXRlSW5wdXQnKS50eXBlKCJjdXN0b20gc2tpbGwiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9YW5vdGhlclNraWxsQnV0dG9uXScpLmNsaWNrKCkK</text>
