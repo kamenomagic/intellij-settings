@@ -57,7 +57,8 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" timestamp="1563570655500">
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" timestamp="1563572307753">
+        <mark key="'" line="121" column="44" />
         <mark key="[" line="83" column="43" />
         <mark key="]" line="83" column="43" />
         <mark key="." line="83" column="43" />
@@ -334,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="23" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
       <jump line="469" column="18" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
       <jump line="538" column="9" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
@@ -434,6 +434,7 @@
       <jump line="40" column="31" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
       <jump line="127" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="95" column="58" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
+      <jump line="121" column="44" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
