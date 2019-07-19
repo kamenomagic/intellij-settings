@@ -57,6 +57,12 @@
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" timestamp="1563567775763">
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="81" column="47" />
+        <mark key="." line="81" column="47" />
+        <mark key="^" line="81" column="52" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" timestamp="1561587287454">
         <mark key="'" line="373" column="0" />
         <mark key="[" line="534" column="0" />
@@ -434,8 +440,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50XScpLmNvbnRhaW5zKCJjdXN0b20gc2tpbGwiKS5zaG91bGQoJ2JlLnZpc2libGUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>h1</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -450,7 +456,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h1</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
@@ -459,7 +465,7 @@
         <text encoding="base64">ICAgIGZpbmRFbGVtZW50KGFub3RoZXJTa2lsbEJ1dHRvbikuY2xpY2soKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50XScpLmNvbnRhaW5zKCJjdXN0b20gc2tpbGwiKS5zaG91bGQoJ2JlLnZpc2libGUnKQo=</text>
+        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9YW5vdGhlclNraWxsQnV0dG9uXScpLmNsaWNrKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -475,19 +481,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50JykuY29udGFpbnMoImN1c3RvbSBza2lsbCIpCg==</text>
+        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50XScpLmNvbnRhaW5zKCJjdXN0b20gc2tpbGwiKS5zaG91bGQoJ2JlLnZpc2libGUnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgY3kuZ2V0KCcqW2RhdGEtcWE9c2tpbGxzT3ZlcnZpZXdDb250ZW50JykuY29udGFpbnMoImN1c3RvbSBza2lsbCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IHNlYXJjaE5ld1NraWxsc1N0dWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy8iKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJzZWFyY2giLCBXaXJlTW9jay5lcXVhbFRvKHNlYXJjaENyaXRlcmlhKSA/OiBXaXJlTW9jay5tYXRjaGluZygiLioiKSkKICAgICAgLndpbGxSZXR1cm4oCiAgICAgICAgYVJlc3BvbnNlKCkKICAgICAgICAgIC53aXRoQm9keSh0aGlzLnRvSnNvbih7fSkpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
+        <text encoding="base64">bGV0IHNlYXJjaE5ld1NraWxsc1N0dWIK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -507,7 +513,7 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy8iKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJzZWFyY2giLCBXaXJlTW9jay5lcXVhbFRvKHNlYXJjaENyaXRlcmlhKSA/OiBXaXJlTW9jay5tYXRjaGluZygiLioiKSkKICAgICAgLndpbGxSZXR1cm4oCiAgICAgICAgYVJlc3BvbnNlKCkKICAgICAgICAgIC53aXRoQm9keSh0aGlzLnRvSnNvbih7fSkpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -516,7 +522,7 @@
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHNlYXJjaE5ld1NraWxsc1N0dWIgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
