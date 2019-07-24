@@ -10,15 +10,15 @@
         <mark key="^" line="132" column="111" />
         <mark key="." line="132" column="111" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/cypress/integration/cdp-spec.js" timestamp="1563911469055">
-        <mark key="'" line="77" column="4" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/cypress/integration/cdp-spec.js" timestamp="1564006355672">
+        <mark key="'" line="120" column="0" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="43" />
         <mark key="^" line="88" column="38" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1563473716690">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1564006436084">
+        <mark key="'" line="81" column="22" />
         <mark key="[" line="93" column="68" />
         <mark key="]" line="93" column="68" />
         <mark key="." line="93" column="68" />
@@ -310,7 +310,7 @@
         <mark key="." line="2" column="44" />
         <mark key="^" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1563904379080" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1564006445309" />
       <file name="$USER_HOME$/dev/java/restorat/src/main/java/restorat/repositories/general/UserRepository.java" timestamp="1545029157686">
         <mark key="[" line="16" column="47" />
         <mark key="]" line="16" column="50" />
@@ -343,8 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
-      <jump line="373" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/main/resources/features.yml" />
       <jump line="91" column="2" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
       <jump line="114" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
@@ -443,6 +441,8 @@
       <jump line="72" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/cypress/integration/cdp-spec.js" />
       <jump line="79" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/cypress/integration/cdp-spec.js" />
       <jump line="77" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/cypress/integration/cdp-spec.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/cypress/integration/cdp-spec.js" />
+      <jump line="81" column="22" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -467,7 +467,7 @@
         <text>Focus</text>
       </register>
       <register name="/" type="4">
-        <text>skill</text>
+        <text>custom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGN5LmdldCgnKltkYXRhLXFhPXNraXBCdXR0b25dJykuY2xpY2soKQo=</text>
@@ -537,9 +537,9 @@
       </register>
     </registers>
     <search>
-      <last-search>skill</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>skill</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -563,10 +563,10 @@
         <entry>addanotherC</entry>
         <entry>addCustomSkil</entry>
         <entry>skilllocator</entry>
-        <entry>custom</entry>
         <entry>runiffeature</entry>
         <entry>delete</entry>
         <entry>skill</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>;</entry>
