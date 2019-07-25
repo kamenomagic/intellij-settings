@@ -10,7 +10,7 @@
         <mark key="^" line="103" column="5" />
         <mark key="." line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1564075285589">
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1564093960138">
         <mark key="'" line="47" column="6" />
         <mark key="[" line="94" column="30" />
         <mark key="]" line="94" column="62" />
@@ -247,8 +247,8 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564092781266">
-        <mark key="'" line="190" column="45" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564094412313">
+        <mark key="'" line="126" column="0" />
         <mark key="[" line="190" column="45" />
         <mark key="]" line="190" column="59" />
         <mark key="^" line="190" column="59" />
@@ -343,8 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
-      <jump line="97" column="4" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="58" column="8" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="76" column="24" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
       <jump line="87" column="24" filename="$USER_HOME$/dev/instructure/bridge-career-everest/cypress/integration/everest-spec.js" />
@@ -443,6 +441,8 @@
       <jump line="184" column="24" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
       <jump line="31" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" />
       <jump line="190" column="45" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="160" column="33" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="126" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
