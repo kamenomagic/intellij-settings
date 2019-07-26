@@ -10,8 +10,8 @@
         <mark key="^" line="103" column="5" />
         <mark key="." line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1564176511502">
-        <mark key="'" line="40" column="72" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1564179931113">
+        <mark key="'" line="25" column="46" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="95" />
         <mark key="." line="32" column="0" />
@@ -34,14 +34,11 @@
         <mark key="]" line="76" column="82" />
         <mark key="." line="83" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" timestamp="1564168756681">
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" timestamp="1564180100108">
+        <mark key="'" line="53" column="19" />
         <mark key="[" line="53" column="19" />
         <mark key="]" line="53" column="19" />
         <mark key="." line="53" column="19" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instructure.bridge/bridge-spring-kotlin/12.0.0/4a85cff2ea7580e1eaf54fcad12655d5b133f157/bridge-spring-kotlin-12.0.0-sources.jar!/com/instructure/bridge/rest/Meta.kt" timestamp="1564167335801">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" timestamp="1564175998080">
         <mark key="'" line="75" column="0" />
@@ -80,37 +77,45 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" timestamp="1564168752955">
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="63" column="19" />
-        <mark key="." line="63" column="19" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" timestamp="1564180278704">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="163" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" timestamp="1564168762970">
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="19" />
-        <mark key="." line="58" column="19" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" timestamp="1564179969008">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" timestamp="1564178945377">
-        <mark key="'" line="46" column="12" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" timestamp="1564179888881">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" timestamp="1564173254098">
         <mark key="'" line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564179064222">
-        <mark key="'" line="34" column="6" />
-        <mark key="[" line="95" column="92" />
-        <mark key="]" line="95" column="91" />
-        <mark key="." line="95" column="91" />
-        <mark key="^" line="95" column="91" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/DatabaseCleanupServiceTest.kt" timestamp="1564179917239">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" timestamp="1564178627185">
-        <mark key="'" line="76" column="23" />
-        <mark key="[" line="77" column="23" />
-        <mark key="]" line="77" column="22" />
-        <mark key="." line="77" column="22" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564180201238">
+        <mark key="'" line="135" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="119" column="113" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" timestamp="1564180607446">
+        <mark key="'" line="95" column="17" />
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="66" />
+        <mark key="." line="116" column="0" />
         <mark key="^" line="77" column="22" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/services/focusSkills/FocusSkillService.kt" timestamp="1564178862882" />
@@ -136,39 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/learn/TagStubs.kt" />
-      <jump line="42" column="13" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="47" column="11" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="49" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="27" column="44" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
-      <jump line="63" column="7" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="20" column="12" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillRelationshipController.kt" />
-      <jump line="15" column="11" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillDto.kt" />
-      <jump line="31" column="15" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
-      <jump line="18" column="16" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
-      <jump line="7" column="3" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="28" column="29" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillRelationshipController.kt" />
-      <jump line="33" column="41" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="30" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="31" column="38" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="52" column="34" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
-      <jump line="4" column="28" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="39" column="15" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="52" column="35" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="40" column="19" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
-      <jump line="50" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="48" column="73" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="41" column="54" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="52" column="8" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="39" column="23" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="27" column="18" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
       <jump line="49" column="24" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="110" column="2" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
@@ -230,19 +202,52 @@
       <jump line="110" column="53" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
       <jump line="42" column="44" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
-      <jump line="94" column="35" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
       <jump line="93" column="19" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
       <jump line="30" column="8" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
       <jump line="95" column="114" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
       <jump line="34" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
       <jump line="76" column="23" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
+      <jump line="51" column="68" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" />
+      <jump line="24" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/DatabaseCleanupServiceTest.kt" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/DatabaseCleanupServiceTest.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/DatabaseCleanupServiceTest.kt" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/DatabaseCleanupServiceTest.kt" />
+      <jump line="64" column="20" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="25" column="46" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="94" column="8" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
+      <jump line="63" column="5" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="190" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="174" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="109" column="8" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="41" column="25" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="150" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="53" column="19" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="97" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="104" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="109" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="120" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="135" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="162" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="142" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="167" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="106" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="165" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
+      <jump line="95" column="17" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhSZXF1ZXN0Qm9keShtYXRjaGluZ0pzb25QYXRoKCIkLnNraWxsSWQiLCBlcXVhbFRvKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdC5za2lsbElkLnRvU3RyaW5nKCkpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIFdpcmVNb2NrLm1hdGNoaW5nKCIoWzAtOV0rKSIpKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -257,16 +262,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>put</text>
+        <text>focusSkillService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhSZXF1ZXN0Qm9keShtYXRjaGluZ0pzb25QYXRoKCIkLnNraWxsSWQiLCBlcXVhbFRvKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdC5za2lsbElkLnRvU3RyaW5nKCkpKSkK</text>
+        <text encoding="base64">ICAgICAgLndpdGhRdWVyeVBhcmFtKCJhc191c2VyX2lkIiwgV2lyZU1vY2subWF0Y2hpbmcoIihbMC05XSspIikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAud2l0aFF1ZXJ5UGFyYW0oImFzX3VzZXJfaWQiLCBXaXJlTW9jay5tYXRjaGluZygiKFswLTldKykiKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIFdpcmVNb2NrLm1hdGNoaW5nKCIoWzAtOV0rKSIpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -282,19 +287,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldHVwU2VhcmNoU2tpbGxzKGxpc3RPZihpdC52YWx1ZSksIGl0LnZhbHVlLnRpdGxlKQogICAgICAgICAgICAuc2V0dXBDcmVhdGVEZWxldGVSZXN0b3JlVXBkYXRlKGl0LnZhbHVlLCB1cGRhdGVkU2tpbGxSZWxhdGlvbnNoaXBEdG8sCiAgICAgICAgICAgICAgVXBkYXRlUmVsYXRpb25zaGlwUmVxdWVzdChhdHRyaWJ1dGVzID0gbWFwT2YoImRlc2NyaXB0aW9uIiB0byBza2lsbERlc2NyaXB0aW9uKSkpCiAgICAgICAgICAgIC5zZXR1cFNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIFdpcmVNb2NrLm1hdGNoaW5nKCIoWzAtOV0rKSIpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGVtcHR5U2tpbGxSZWxhdGlvbnNoaXBEdG8gPSAK</text>
+        <text encoding="base64">ICAgICAgICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIFdpcmVNb2NrLm1hdGNoaW5nKCIoWzAtOV0rKSIpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB1c2VySUQ6IFN0cmluZwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBmb2N1c1NraWxsQWN0aXZpdHlTZXJ2aWNlID0gRm9jdXNTa2lsbEFjdGl2aXR5U2VydmljZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhRdWVyeVBhcmFtKCJhc191c2VyX2lkIiwgV2lyZU1vY2subWF0Y2hpbmcoIihbMC05XSspIikpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGZvY3VzU2tpbGxBY3Rpdml0eVNlcnZpY2UuZ2V0QWxsKGdldEZvY3VzU2tpbGxCeVNraWxsSWQoKSwgdXNlcklkKQogICAgICAgICAgLm1hcCB7IChpdCBhcyBHb2FsKS5kZXNjcmlwdGlvbiB9LmNvbnRhaW5zKGdvYWxUd28ubmFtZSksIElzKHRydWUpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdChpc0dvYWxDb21wbGV0ZShnb2FsVHdvLm5hbWUpLCBJcyhmYWxzZSkpCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -314,25 +319,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuIE1vY2suU3R1YkNvbmZpZ3VyZXIuc2V0dXBHZXRFbXBsb3llZVNraWxscygKICBza2lsbFJlbGF0aW9uc2hpcER0bzogUmVsYXRpb25zaGlwUmVzcG9uc2UsCiAgdXNlcklEOiBTdHJpbmcpOiBNb2NrLlN0dWJDb25maWd1cmVyIHsKICBjb250ZXh0LmFkZCgKICAgIHN0dWJGb3IoV2lyZU1vY2suZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy9yZWxhdGlvbnNoaXBzIikpCiAgICAgIC53aXRoUXVlcnlQYXJhbXMobXV0YWJsZU1hcE9mKAogICAgICAgICJ0YWciIHRvIFdpcmVNb2NrLmVxdWFsVG8oIkZPQ1VTIiksCiAgICAgICAgInVzZXJJZCIgdG8gV2lyZU1vY2suZXF1YWxUbyh1c2VySUQpKSkKICAgICAgLndpbGxSZXR1cm4oCiAgICAgICAgYVJlc3BvbnNlKCkKICAgICAgICAgIC53aXRoQm9keSh0aGlzLnRvSnNvbihza2lsbFJlbGF0aW9uc2hpcER0bykpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCiAgKQogIHJldHVybiB0aGlzCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdChpc0dvYWxDb21wbGV0ZShnb2FsVHdvLm5hbWUpLCBJcyh0cnVlKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdChpc0dvYWxDcmVhdGVkKGdvYWxUaHJlZS5uYW1lKSwgSXModHJ1ZSkpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhRdWVyeVBhcmFtcyhtdXRhYmxlTWFwT2YoCiAgICAgICAgInRhZyIgdG8gV2lyZU1vY2suZXF1YWxUbygiRk9DVVMiKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGlzR29hbENyZWF0ZWQoZ29hbFR3by5uYW1lKSwgSXMoZmFsc2UpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>put</last-search>
+      <last-search>focusSkillService</last-search>
       <last-offset />
-      <last-pattern>put</last-pattern>
+      <last-pattern>focusSkillService</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -340,7 +345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>skill</entry>
         <entry>custom</entry>
         <entry>ui</entry>
@@ -360,6 +364,7 @@
         <entry>get</entry>
         <entry>user</entry>
         <entry>put</entry>
+        <entry>focusSkillService</entry>
       </history-search>
       <history-cmd>
         <entry>;</entry>
@@ -377,10 +382,10 @@
         <entry>bn</entry>
         <entry>sv</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>noh</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
