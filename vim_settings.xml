@@ -92,11 +92,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" timestamp="1564425116151">
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" timestamp="1564426372654">
         <mark key="'" line="25" column="44" />
-        <mark key="[" line="44" column="46" />
-        <mark key="]" line="44" column="51" />
-        <mark key="." line="44" column="51" />
+        <mark key="[" line="44" column="52" />
+        <mark key="]" line="44" column="52" />
+        <mark key="." line="44" column="52" />
         <mark key="^" line="44" column="51" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" timestamp="1564173254098">
@@ -250,7 +250,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>it.value</text>
+        <text>.toString()</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -265,7 +265,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>it.value</text>
+        <text>.toString()</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
