@@ -17,6 +17,21 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="94" column="62" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" timestamp="1564453219173">
+        <mark key="'" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" timestamp="1564611463132">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" timestamp="1564447225324">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="167" column="53" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/SkillsTest.kt" timestamp="1564169261871">
         <mark key="'" line="50" column="40" />
         <mark key="[" line="41" column="0" />
@@ -42,8 +57,33 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" timestamp="1564447193883">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="29" column="25" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" timestamp="1561495177075">
+        <mark key="'" line="26" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" timestamp="1564455626026">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock-standalone/2.18.0/b8936124eb9509d948778eb33bcd41954b5ed5d6/wiremock-standalone-2.18.0-sources.jar!/com/github/tomakehurst/wiremock/client/WireMock.java" timestamp="1561586062250">
         <mark key="'" line="165" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" timestamp="1564611470188">
+        <mark key="'" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-cdp-api/src/main/resources/application-dev.yml" timestamp="1564163488202">
+        <mark key="[" line="10" column="45" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="43" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" timestamp="1564451376182">
         <mark key="'" line="45" column="0" />
@@ -63,64 +103,10 @@
         <mark key="^" line="56" column="44" />
         <mark key="." line="56" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillDto.kt" timestamp="1564154715335">
-        <mark key="'" line="15" column="11" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="32" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillRelationshipDto.kt" timestamp="1564170091322">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="74" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" timestamp="1564610043791">
-        <mark key="'" line="35" column="53" />
-        <mark key="[" line="86" column="71" />
-        <mark key="]" line="86" column="74" />
-        <mark key="^" line="86" column="74" />
-        <mark key="." line="86" column="74" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" timestamp="1564453219173">
-        <mark key="'" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" timestamp="1564608841347">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" timestamp="1564447225324">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="167" column="53" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" timestamp="1564447193883">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="29" column="25" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/ruby/carkit/app/controllers/shops_controller.rb" timestamp="1561495177075">
-        <mark key="'" line="26" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" timestamp="1564455626026">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-cdp-api/src/main/resources/application-dev.yml" timestamp="1564163488202">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="43" />
-        <mark key="^" line="10" column="43" />
-        <mark key="." line="10" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564610144696">
-        <mark key="'" line="182" column="37" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="35" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564611429923">
+        <mark key="'" line="171" column="16" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="171" column="17" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="18" column="60" />
       </file>
@@ -129,8 +115,23 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/services/focusSkills/FocusSkillService.kt" timestamp="1564178862882" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-engine/5.3.2/3d1af92523b01820ee1f99fad188ae361172d089/junit-jupiter-engine-5.3.2-sources.jar!/org/junit/jupiter/engine/descriptor/JupiterTestDescriptor.java" timestamp="1564446322099" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillDto.kt" timestamp="1564154715335">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="32" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" timestamp="1564612132842">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="73" column="57" />
+        <mark key="^" line="69" column="12" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillRelationshipDto.kt" timestamp="1564170091322">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="74" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1564452424667">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="53" column="0" />
@@ -138,12 +139,19 @@
         <mark key="^" line="50" column="51" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" timestamp="1564454368453">
-        <mark key="'" line="60" column="32" />
-        <mark key="[" line="99" column="11" />
-        <mark key="]" line="99" column="11" />
-        <mark key="." line="99" column="11" />
-        <mark key="^" line="99" column="11" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" timestamp="1564612021891">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="44" column="25" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" timestamp="1564610984392">
+        <mark key="'" line="68" column="31" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="42" />
+        <mark key="^" line="54" column="42" />
+        <mark key="." line="54" column="42" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillRelationshipController.kt" timestamp="1564453187327">
         <mark key="'" line="29" column="13" />
@@ -158,32 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
-      <jump line="63" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="75" column="12" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
-      <jump line="46" column="14" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="47" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="57" column="31" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="58" column="22" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="25" column="44" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" />
-      <jump line="53" column="20" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="70" column="30" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" />
-      <jump line="55" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" />
-      <jump line="53" column="62" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" />
-      <jump line="61" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
-      <jump line="64" column="10" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
-      <jump line="34" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/GoalManagementTest.kt" />
-      <jump line="34" column="14" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
-      <jump line="76" column="28" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
-      <jump line="73" column="41" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="51" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="66" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="68" column="10" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
-      <jump line="40" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
-      <jump line="41" column="23" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
       <jump line="74" column="19" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
       <jump line="75" column="28" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" />
@@ -258,13 +240,39 @@
       <jump line="35" column="53" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
       <jump line="181" column="37" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
       <jump line="182" column="37" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="43" column="21" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
+      <jump line="64" column="31" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="177" column="15" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="34" column="75" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="54" column="58" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="153" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="171" column="16" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" />
+      <jump line="55" column="8" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
+      <jump line="9" column="29" filename="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" />
+      <jump line="86" column="2" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="98" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="117" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="19" column="24" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="36" column="15" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="49" column="40" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="68" column="79" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="79" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="66" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="74" column="12" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="10" column="2" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="65" column="16" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="100" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uaW5zdHJ1Y3R1cmUuYnJpZGdlLmNhcmVlci53b3JrZmxvd3MudXRpbC5zdHVicy5wZXJmb3JtCgppbXBvcnQgY29tLmdpdGh1Yi50b21ha2VodXJzdC53aXJlbW9jay5jbGllbnQuV2lyZU1vY2sKaW1wb3J0IGNvbS5naXRodWIudG9tYWtlaHVyc3Qud2lyZW1vY2suY2xpZW50LldpcmVNb2NrLioKaW1wb3J0IGNvbS5naXRodWIudG9tYWtlaHVyc3Qud2lyZW1vY2suc3R1YmJpbmcuU3R1Yk1hcHBpbmcKaW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UudGVzdC53b3JrZmxvd3MuTW9jawppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBIZWFkZXJzCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuSHR0cFN0YXR1cwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLk1lZGlhVHlwZQoKbGF0ZWluaXQgdmFyIHNlYXJjaE5ld1NraWxsc1N0dWI6IFN0dWJNYXBwaW5nCgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cEdldEN1cnJlbnRTa2lsbHMoCiAgc2tpbGxSZWxhdGlvbnNoaXBEdG86IFJlbGF0aW9uc2hpcFJlc3BvbnNlKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLmdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcyIpKQogICAgICAud2l0aFF1ZXJ5UGFyYW1zKG11dGFibGVNYXBPZigKICAgICAgICAidGFnIiB0byBXaXJlTW9jay5lcXVhbFRvKCJGT0NVUyIpKSkKICAgICAgLndpbGxSZXR1cm4oCiAgICAgICAgYVJlc3BvbnNlKCkKICAgICAgICAgIC53aXRoQm9keSh0aGlzLnRvSnNvbihza2lsbFJlbGF0aW9uc2hpcER0bykpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCiAgKQogIHJldHVybiB0aGlzCn0KCmZ1biBNb2NrLlN0dWJDb25maWd1cmVyLnNldHVwR2V0RW1wbG95ZWVTa2lsbHMoCiAgc2tpbGxSZWxhdGlvbnNoaXBEdG86IFJlbGF0aW9uc2hpcFJlc3BvbnNlLAogIHVzZXJJRDogU3RyaW5nKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLmdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcyIpKQogICAgICAud2l0aFF1ZXJ5UGFyYW1zKG11dGFibGVNYXBPZigKICAgICAgICAidGFnIiB0byBXaXJlTW9jay5lcXVhbFRvKCJGT0NVUyIpLAogICAgICAgICJ1c2VySWQiIHRvIFdpcmVNb2NrLmVxdWFsVG8odXNlcklEKSkpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodGhpcy50b0pzb24oc2tpbGxSZWxhdGlvbnNoaXBEdG8pKQogICAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgICAgLndpdGhIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikpKQogICkKICByZXR1cm4gdGhpcwp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cFNlYXJjaE5ld1NraWxscygKICBzZWFyY2hDcml0ZXJpYTogU3RyaW5nKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgc2VhcmNoTmV3U2tpbGxzU3R1YiA9IHN0dWJGb3IoV2lyZU1vY2suZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy8iKSkKICAgIC53aXRoUXVlcnlQYXJhbSgic2VhcmNoIiwgV2lyZU1vY2suZXF1YWxUbyhzZWFyY2hDcml0ZXJpYSkgPzogV2lyZU1vY2subWF0Y2hpbmcoIi4qIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oInBhZ2UiLCBtYXRjaGluZygiLioiKSkKICAgIC53aXRoUXVlcnlQYXJhbSgicGFnZVNpemUiLCBtYXRjaGluZygiLioiKSkKICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIG1hdGNoaW5nKCIuKiIpKQogICAgLndpbGxSZXR1cm4oCiAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHt9KSkKICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgLndpdGhIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikpKQogIGNvbnRleHQuYWRkKHNlYXJjaE5ld1NraWxsc1N0dWIpCiAgcmV0dXJuIHRoaXMKfQoKZnVuIE1vY2suU3R1YkNvbmZpZ3VyZXIuc2V0dXBTZWFyY2hTa2lsbHMoCiAgc2tpbGxSZXNwb25zZUR0bzogU2tpbGxSZXNwb25zZUR0bywKICBzZWFyY2hDcml0ZXJpYTogU3RyaW5nKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLmdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvIikpCiAgICAgIC53aXRoUXVlcnlQYXJhbSgic2VhcmNoIiwgV2lyZU1vY2suZXF1YWxUbyhzZWFyY2hDcml0ZXJpYSkgPzogV2lyZU1vY2subWF0Y2hpbmcoIi4qIikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodGhpcy50b0pzb24oc2tpbGxSZXNwb25zZUR0bykpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCiAgKQogIHJldHVybiB0aGlzCn0KCmZ1biBNb2NrLlN0dWJDb25maWd1cmVyLnNldHVwU2VhcmNoU2tpbGxzKAogIHNraWxsczogTGlzdDxTa2lsbER0bz4sCiAgc2VhcmNoQ3JpdGVyaWE6IFN0cmluZwopOiBNb2NrLlN0dWJDb25maWd1cmVyIHsKICBzdHViRm9yKGdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oInNlYXJjaCIsIGVxdWFsVG8oc2VhcmNoQ3JpdGVyaWEpKQogICAgLndpdGhRdWVyeVBhcmFtKCJwYWdlIiwgbWF0Y2hpbmcoIi4qIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oInBhZ2VTaXplIiwgbWF0Y2hpbmcoIi4qIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oImFzX3VzZXJfaWQiLCBtYXRjaGluZygiLioiKSkKICAgIC53aWxsUmV0dXJuKAogICAgICBhUmVzcG9uc2UoKQogICAgICAgIC53aXRoQm9keSh0b0pzb24obWFwT2YoInNraWxscyIgdG8gc2tpbGxzKSkpCiAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICByZXR1cm4gdGhpcwp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cFNlYXJjaFNraWxsc0J5Sm9iKAogIHNraWxsczogTGlzdDxTa2lsbER0bz4sCiAgam9iQ3JpdGVyaWE6IFN0cmluZz8gPSBudWxsCik6IE1vY2suU3R1YkNvbmZpZ3VyZXIgewogIHN0dWJGb3IoZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscyIpKQogICAgLndpdGhRdWVyeVBhcmFtcyhtdXRhYmxlTWFwT2YoCiAgICAgICJzZWFyY2giIHRvIChqb2JDcml0ZXJpYT8ubGV0IHsgZXF1YWxUbyhpdCkgfSA/OiBtYXRjaGluZygiLioiKSksCiAgICAgICJieV9qb2IiIHRvIGVxdWFsVG8odHJ1ZS50b1N0cmluZygpKQogICAgKSkKICAgIC53aWxsUmV0dXJuKAogICAgICBhUmVzcG9uc2UoKQogICAgICAgIC53aXRoQm9keSh0b0pzb24obWFwT2YoInNraWxscyIgdG8gc2tpbGxzKSkpCiAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICByZXR1cm4gdGhpcwp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cFNraWxsUmVsYXRpb25zaGlwcygKICBza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3Q6IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QsCiAgc2tpbGxSZWxhdGlvbnNoaXBEdG86IFJlbGF0aW9uc2hpcFJlc3BvbnNlKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLnBvc3QodXJsUGF0aEVxdWFsVG8oIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMiKSkKLy8gICAgICAud2l0aFJlcXVlc3RCb2R5KG1hdGNoaW5nSnNvblBhdGgoIiQuc2tpbGxJZCIsIGVxdWFsVG8oc2tpbGxSZWxhdGlvbnNoaXBSZXF1ZXN0LnNraWxsSWQudG9TdHJpbmcoKSkpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICApCiAgcmV0dXJuIHRoaXMKfQoKZnVuIHJlbW92ZVNlYXJjaE5ld1NraWxsc1N0dWIoKSB7CiAgcmVtb3ZlU3R1YihzZWFyY2hOZXdTa2lsbHNTdHViKQp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcygKICBza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3Q6IENyZWF0ZUN1c3RvbVNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCwKICBza2lsbFJlbGF0aW9uc2hpcER0bzogUmVsYXRpb25zaGlwUmVzcG9uc2UpOiBNb2NrLlN0dWJDb25maWd1cmVyIHsKICBjb250ZXh0LmFkZCgKICAgIHN0dWJGb3IoV2lyZU1vY2sucG9zdCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcyIpKQovLyAgICAgIC53aXRoUmVxdWVzdEJvZHkoZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICApCiAgcmV0dXJuIHRoaXMKfQoKZnVuIE1vY2suU3R1YkNvbmZpZ3VyZXIuc2V0dXBDcmVhdGVEZWxldGVSZXN0b3JlVXBkYXRlKAogIHNraWxsRHRvOiBTa2lsbER0bywKICBza2lsbFJlbGF0aW9uc2hpcER0bzogUmVsYXRpb25zaGlwUmVzcG9uc2UsCiAgdXBkYXRlUmVxdWVzdDogVXBkYXRlUmVsYXRpb25zaGlwUmVxdWVzdAopOiBNb2NrLlN0dWJDb25maWd1cmVyIHsKICBjb250ZXh0LmFkZEFsbChsaXN0T2YoCiAgICBzdHViRm9yKFdpcmVNb2NrLnB1dCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcy8ke3NraWxsUmVsYXRpb25zaGlwRHRvLnJlbGF0aW9uc2hpcHMuZmlyc3QoKS51c2VySWR9IikpCiAgICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIFdpcmVNb2NrLm1hdGNoaW5nKCIoWzAtOV0rKSIpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSksCiAgICBzdHViRm9yKFdpcmVNb2NrLnBvc3QodXJsUGF0aEVxdWFsVG8oIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMiKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJhc191c2VyX2lkIiwgV2lyZU1vY2subWF0Y2hpbmcoIihbMC05XSspIikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodG9Kc29uKHNraWxsRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKEh0dHBIZWFkZXJzLkNPTlRFTlRfVFlQRSwgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVkFMVUUpKSksCiAgICBzdHViRm9yKFdpcmVNb2NrLmRlbGV0ZSh1cmxQYXRoRXF1YWxUbygKICAgICAgIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMvJHtza2lsbFJlbGF0aW9uc2hpcER0by5yZWxhdGlvbnNoaXBzLmZpcnN0KCkuaWR9IikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpLAogICAgc3R1YkZvcihXaXJlTW9jay5wb3N0KHVybFBhdGhFcXVhbFRvKAogICAgICAiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcy8ke3NraWxsUmVsYXRpb25zaGlwRHRvLnJlbGF0aW9uc2hpcHMuZmlyc3QoKS5pZH0vcmVzdG9yZSIpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSksCiAgICBzdHViRm9yKFdpcmVNb2NrLnB1dCh1cmxQYXRoRXF1YWxUbygKICAgICAgIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMvJHtza2lsbFJlbGF0aW9uc2hpcER0by5yZWxhdGlvbnNoaXBzLmZpcnN0KCkuaWR9IikpCiAgICAgIC53aXRoUmVxdWVzdEJvZHkoZXF1YWxUb0pzb24odG9Kc29uKHVwZGF0ZVJlcXVlc3QpKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJhc191c2VyX2lkIiwgV2lyZU1vY2subWF0Y2hpbmcoIihbMC05XSspIikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodGhpcy50b0pzb24oc2tpbGxSZWxhdGlvbnNoaXBEdG8pKQogICAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgICAgLndpdGhIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikpKQogICkpCiAgcmV0dXJuIHRoaXMKfQo=</text>
+        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZGVsZXRlKHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy9yZWxhdGlvbnNoaXBzLyR7aW5wdXQucmVsYXRpb25zaGlwSWR9IikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -279,16 +287,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>DESIRED</text>
+        <text>.toLong()</text>
       </register>
       <register name="/" type="4">
-        <text>setupgetemplou</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uaW5zdHJ1Y3R1cmUuYnJpZGdlLmNhcmVlci53b3JrZmxvd3MudXRpbC5zdHVicy5wZXJmb3JtCgppbXBvcnQgY29tLmdpdGh1Yi50b21ha2VodXJzdC53aXJlbW9jay5jbGllbnQuV2lyZU1vY2sKaW1wb3J0IGNvbS5naXRodWIudG9tYWtlaHVyc3Qud2lyZW1vY2suY2xpZW50LldpcmVNb2NrLioKaW1wb3J0IGNvbS5naXRodWIudG9tYWtlaHVyc3Qud2lyZW1vY2suc3R1YmJpbmcuU3R1Yk1hcHBpbmcKaW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UudGVzdC53b3JrZmxvd3MuTW9jawppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBIZWFkZXJzCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuSHR0cFN0YXR1cwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLk1lZGlhVHlwZQoKbGF0ZWluaXQgdmFyIHNlYXJjaE5ld1NraWxsc1N0dWI6IFN0dWJNYXBwaW5nCgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cEdldEN1cnJlbnRTa2lsbHMoCiAgc2tpbGxSZWxhdGlvbnNoaXBEdG86IFJlbGF0aW9uc2hpcFJlc3BvbnNlKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLmdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcyIpKQogICAgICAud2l0aFF1ZXJ5UGFyYW1zKG11dGFibGVNYXBPZigKICAgICAgICAidGFnIiB0byBXaXJlTW9jay5lcXVhbFRvKCJGT0NVUyIpKSkKICAgICAgLndpbGxSZXR1cm4oCiAgICAgICAgYVJlc3BvbnNlKCkKICAgICAgICAgIC53aXRoQm9keSh0aGlzLnRvSnNvbihza2lsbFJlbGF0aW9uc2hpcER0bykpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCiAgKQogIHJldHVybiB0aGlzCn0KCmZ1biBNb2NrLlN0dWJDb25maWd1cmVyLnNldHVwR2V0RW1wbG95ZWVTa2lsbHMoCiAgc2tpbGxSZWxhdGlvbnNoaXBEdG86IFJlbGF0aW9uc2hpcFJlc3BvbnNlLAogIHVzZXJJRDogU3RyaW5nKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLmdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcyIpKQogICAgICAud2l0aFF1ZXJ5UGFyYW1zKG11dGFibGVNYXBPZigKICAgICAgICAidGFnIiB0byBXaXJlTW9jay5lcXVhbFRvKCJGT0NVUyIpLAogICAgICAgICJ1c2VySWQiIHRvIFdpcmVNb2NrLmVxdWFsVG8odXNlcklEKSkpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodGhpcy50b0pzb24oc2tpbGxSZWxhdGlvbnNoaXBEdG8pKQogICAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgICAgLndpdGhIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikpKQogICkKICByZXR1cm4gdGhpcwp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cFNlYXJjaE5ld1NraWxscygKICBzZWFyY2hDcml0ZXJpYTogU3RyaW5nKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgc2VhcmNoTmV3U2tpbGxzU3R1YiA9IHN0dWJGb3IoV2lyZU1vY2suZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy8iKSkKICAgIC53aXRoUXVlcnlQYXJhbSgic2VhcmNoIiwgV2lyZU1vY2suZXF1YWxUbyhzZWFyY2hDcml0ZXJpYSkgPzogV2lyZU1vY2subWF0Y2hpbmcoIi4qIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oInBhZ2UiLCBtYXRjaGluZygiLioiKSkKICAgIC53aXRoUXVlcnlQYXJhbSgicGFnZVNpemUiLCBtYXRjaGluZygiLioiKSkKICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIG1hdGNoaW5nKCIuKiIpKQogICAgLndpbGxSZXR1cm4oCiAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHt9KSkKICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgLndpdGhIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikpKQogIGNvbnRleHQuYWRkKHNlYXJjaE5ld1NraWxsc1N0dWIpCiAgcmV0dXJuIHRoaXMKfQoKZnVuIE1vY2suU3R1YkNvbmZpZ3VyZXIuc2V0dXBTZWFyY2hTa2lsbHMoCiAgc2tpbGxSZXNwb25zZUR0bzogU2tpbGxSZXNwb25zZUR0bywKICBzZWFyY2hDcml0ZXJpYTogU3RyaW5nKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLmdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvIikpCiAgICAgIC53aXRoUXVlcnlQYXJhbSgic2VhcmNoIiwgV2lyZU1vY2suZXF1YWxUbyhzZWFyY2hDcml0ZXJpYSkgPzogV2lyZU1vY2subWF0Y2hpbmcoIi4qIikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodGhpcy50b0pzb24oc2tpbGxSZXNwb25zZUR0bykpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCiAgKQogIHJldHVybiB0aGlzCn0KCmZ1biBNb2NrLlN0dWJDb25maWd1cmVyLnNldHVwU2VhcmNoU2tpbGxzKAogIHNraWxsczogTGlzdDxTa2lsbER0bz4sCiAgc2VhcmNoQ3JpdGVyaWE6IFN0cmluZwopOiBNb2NrLlN0dWJDb25maWd1cmVyIHsKICBzdHViRm9yKGdldCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oInNlYXJjaCIsIGVxdWFsVG8oc2VhcmNoQ3JpdGVyaWEpKQogICAgLndpdGhRdWVyeVBhcmFtKCJwYWdlIiwgbWF0Y2hpbmcoIi4qIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oInBhZ2VTaXplIiwgbWF0Y2hpbmcoIi4qIikpCiAgICAud2l0aFF1ZXJ5UGFyYW0oImFzX3VzZXJfaWQiLCBtYXRjaGluZygiLioiKSkKICAgIC53aWxsUmV0dXJuKAogICAgICBhUmVzcG9uc2UoKQogICAgICAgIC53aXRoQm9keSh0b0pzb24obWFwT2YoInNraWxscyIgdG8gc2tpbGxzKSkpCiAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICByZXR1cm4gdGhpcwp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cFNlYXJjaFNraWxsc0J5Sm9iKAogIHNraWxsczogTGlzdDxTa2lsbER0bz4sCiAgam9iQ3JpdGVyaWE6IFN0cmluZz8gPSBudWxsCik6IE1vY2suU3R1YkNvbmZpZ3VyZXIgewogIHN0dWJGb3IoZ2V0KHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscyIpKQogICAgLndpdGhRdWVyeVBhcmFtcyhtdXRhYmxlTWFwT2YoCiAgICAgICJzZWFyY2giIHRvIChqb2JDcml0ZXJpYT8ubGV0IHsgZXF1YWxUbyhpdCkgfSA/OiBtYXRjaGluZygiLioiKSksCiAgICAgICJieV9qb2IiIHRvIGVxdWFsVG8odHJ1ZS50b1N0cmluZygpKQogICAgKSkKICAgIC53aWxsUmV0dXJuKAogICAgICBhUmVzcG9uc2UoKQogICAgICAgIC53aXRoQm9keSh0b0pzb24obWFwT2YoInNraWxscyIgdG8gc2tpbGxzKSkpCiAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICByZXR1cm4gdGhpcwp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cFNraWxsUmVsYXRpb25zaGlwcygKICBza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3Q6IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QsCiAgc2tpbGxSZWxhdGlvbnNoaXBEdG86IFJlbGF0aW9uc2hpcFJlc3BvbnNlKTogTW9jay5TdHViQ29uZmlndXJlciB7CiAgY29udGV4dC5hZGQoCiAgICBzdHViRm9yKFdpcmVNb2NrLnBvc3QodXJsUGF0aEVxdWFsVG8oIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMiKSkKLy8gICAgICAud2l0aFJlcXVlc3RCb2R5KG1hdGNoaW5nSnNvblBhdGgoIiQuc2tpbGxJZCIsIGVxdWFsVG8oc2tpbGxSZWxhdGlvbnNoaXBSZXF1ZXN0LnNraWxsSWQudG9TdHJpbmcoKSkpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICApCiAgcmV0dXJuIHRoaXMKfQoKZnVuIHJlbW92ZVNlYXJjaE5ld1NraWxsc1N0dWIoKSB7CiAgcmVtb3ZlU3R1YihzZWFyY2hOZXdTa2lsbHNTdHViKQp9CgpmdW4gTW9jay5TdHViQ29uZmlndXJlci5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcygKICBza2lsbFJlbGF0aW9uc2hpcFJlcXVlc3Q6IENyZWF0ZUN1c3RvbVNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCwKICBza2lsbFJlbGF0aW9uc2hpcER0bzogUmVsYXRpb25zaGlwUmVzcG9uc2UpOiBNb2NrLlN0dWJDb25maWd1cmVyIHsKICBjb250ZXh0LmFkZCgKICAgIHN0dWJGb3IoV2lyZU1vY2sucG9zdCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcyIpKQovLyAgICAgIC53aXRoUmVxdWVzdEJvZHkoZXF1YWxUb0pzb24odG9Kc29uKHNraWxsUmVsYXRpb25zaGlwUmVxdWVzdCkpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSkKICApCiAgcmV0dXJuIHRoaXMKfQoKZnVuIE1vY2suU3R1YkNvbmZpZ3VyZXIuc2V0dXBDcmVhdGVEZWxldGVSZXN0b3JlVXBkYXRlKAogIHNraWxsRHRvOiBTa2lsbER0bywKICBza2lsbFJlbGF0aW9uc2hpcER0bzogUmVsYXRpb25zaGlwUmVzcG9uc2UsCiAgdXBkYXRlUmVxdWVzdDogVXBkYXRlUmVsYXRpb25zaGlwUmVxdWVzdAopOiBNb2NrLlN0dWJDb25maWd1cmVyIHsKICBjb250ZXh0LmFkZEFsbChsaXN0T2YoCiAgICBzdHViRm9yKFdpcmVNb2NrLnB1dCh1cmxQYXRoRXF1YWxUbygiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcy8ke3NraWxsUmVsYXRpb25zaGlwRHRvLnJlbGF0aW9uc2hpcHMuZmlyc3QoKS51c2VySWR9IikpCiAgICAgIC53aXRoUXVlcnlQYXJhbSgiYXNfdXNlcl9pZCIsIFdpcmVNb2NrLm1hdGNoaW5nKCIoWzAtOV0rKSIpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSksCiAgICBzdHViRm9yKFdpcmVNb2NrLnBvc3QodXJsUGF0aEVxdWFsVG8oIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMiKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJhc191c2VyX2lkIiwgV2lyZU1vY2subWF0Y2hpbmcoIihbMC05XSspIikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodG9Kc29uKHNraWxsRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKEh0dHBIZWFkZXJzLkNPTlRFTlRfVFlQRSwgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVkFMVUUpKSksCiAgICBzdHViRm9yKFdpcmVNb2NrLmRlbGV0ZSh1cmxQYXRoRXF1YWxUbygKICAgICAgIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMvJHtza2lsbFJlbGF0aW9uc2hpcER0by5yZWxhdGlvbnNoaXBzLmZpcnN0KCkuaWR9IikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpLAogICAgc3R1YkZvcihXaXJlTW9jay5wb3N0KHVybFBhdGhFcXVhbFRvKAogICAgICAiL2FwaS9za2lsbHMvcmVsYXRpb25zaGlwcy8ke3NraWxsUmVsYXRpb25zaGlwRHRvLnJlbGF0aW9uc2hpcHMuZmlyc3QoKS5pZH0vcmVzdG9yZSIpKQogICAgICAud2lsbFJldHVybigKICAgICAgICBhUmVzcG9uc2UoKQogICAgICAgICAgLndpdGhCb2R5KHRoaXMudG9Kc29uKHNraWxsUmVsYXRpb25zaGlwRHRvKSkKICAgICAgICAgIC53aXRoU3RhdHVzKEh0dHBTdGF0dXMuT0sudmFsdWUoKSkKICAgICAgICAgIC53aXRoSGVhZGVyKCJDb250ZW50LVR5cGUiLCAiYXBwbGljYXRpb24vanNvbiIpKSksCiAgICBzdHViRm9yKFdpcmVNb2NrLnB1dCh1cmxQYXRoRXF1YWxUbygKICAgICAgIi9hcGkvc2tpbGxzL3JlbGF0aW9uc2hpcHMvJHtza2lsbFJlbGF0aW9uc2hpcER0by5yZWxhdGlvbnNoaXBzLmZpcnN0KCkuaWR9IikpCiAgICAgIC53aXRoUmVxdWVzdEJvZHkoZXF1YWxUb0pzb24odG9Kc29uKHVwZGF0ZVJlcXVlc3QpKSkKICAgICAgLndpdGhRdWVyeVBhcmFtKCJhc191c2VyX2lkIiwgV2lyZU1vY2subWF0Y2hpbmcoIihbMC05XSspIikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aEJvZHkodGhpcy50b0pzb24oc2tpbGxSZWxhdGlvbnNoaXBEdG8pKQogICAgICAgICAgLndpdGhTdGF0dXMoSHR0cFN0YXR1cy5PSy52YWx1ZSgpKQogICAgICAgICAgLndpdGhIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikpKQogICkpCiAgcmV0dXJuIHRoaXMKfQo=</text>
+        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZGVsZXRlKHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy9yZWxhdGlvbnNoaXBzLyR7aW5wdXQucmVsYXRpb25zaGlwSWR9IikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBza2lsbERlc2NyaXB0aW9uID0gIkEgZmFudGFzdGljIHNraWxsIgo=</text>
+        <text encoding="base64">ICB2YWwgcmVxdWVzdCA9IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QoCiAgICBtYXBPZigic3VjY2Vzc0RlZmluaXRpb24iIHRvIGlucHV0LnN1Y2Nlc3NEZWZpbml0aW9uKSwKICAgIGlucHV0LnNraWxsSWQudG9TdHJpbmcoKSwKICAgIFNraWxsVGFnLkZPQ1VTLCBpbnB1dC5uYW1lCiAgKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -304,19 +312,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZURlbGV0ZVJlc3RvcmVVcGRhdGUoU2tpbGxEdG8oc2tpbGxJZCwgc2tpbGxOYW1lKSwgdXBkYXRlZFNraWxsUmVsYXRpb25zaGlwRHRvLAovLyAgICAgICAgICBVcGRhdGVSZWxhdGlvbnNoaXBSZXF1ZXN0KGF0dHJpYnV0ZXMgPSBtYXBPZigiZGVzY3JpcHRpb24iIHRvIHNraWxsRGVzY3JpcHRpb24pKSkKLy8gICAgICAgIC5zZXR1cFNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCi8vICAgICAgICAuc2V0dXBTZWFyY2hTa2lsbHMoc2tpbGxzLCBza2lsbE5hbWUpCi8vICAgICAgICAuc2V0dXBTZWFyY2hTa2lsbHMoc2tpbGxzLCAiIikKLy8gICAgICAgIC5zZXR1cFRhZ3MoKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBza2lsbERlc2NyaXB0aW9uID0gIkEgZGVzY3JpcHRpb24gdGhhdCBpcyBub3Rld29ydGh5Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG5hdmlnYXRlKCJodHRwOi8vbG9jYWxob3N0OjkwMDAvY2FyZWVyL2RldmVsb3BtZW50LXBsYW4iKQovLyAgICAgICAgZGV2ZWxvcG1lbnRQbGFuID0gRGV2ZWxvcG1lbnRQbGFuKCkKLy8gICAgICAgIGRldmVsb3BtZW50UGxhbi5hZGRGb2N1c1NraWxsQnlTZWFyY2goc2tpbGxOYW1lLCBza2lsbE5hbWUpCi8vICAgICAgICBhc3NlcnRUaGF0KGRldmVsb3BtZW50UGxhbi5oYXNGb2N1c1NraWxsKHNraWxsTmFtZSksIElzKHRydWUpKQoK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHNraWxsUmVsYXRpb25zaGlwU2VhcmNoRHRvID0gQ3JlYXRlQ3VzdG9tU2tpbGxSZWxhdGlvbnNoaXBSZXF1ZXN0KCAvLyAgICAgIGF0dHJpYnV0ZXMgPSBtYXBPZjxTdHJpbmcsIEludD4oKSwgc2tpbGxJZCA9IHNraWxsSWQudG9TdHJpbmcoKSwgdGFnID0gU2tpbGxUYWcuRk9DVVMpCi8vICAgIHZhbCBza2lsbFJlbGF0aW9uc2hpcER0byA9IGNyZWF0ZVJlbGF0aW9uc2hpcFJlc3BvbnNlKAovLyAgICAgIHNraWxsSWQudG9TdHJpbmcoKSwgc2tpbGxJZC50b1N0cmluZygpLCB1c2VySWQudG9TdHJpbmcoKSwgc2tpbGxOYW1lKQovLyAgICB2YWwgdXBkYXRlZFNraWxsUmVsYXRpb25zaGlwRHRvID0gY3JlYXRlUmVsYXRpb25zaGlwUmVzcG9uc2UoCi8vICAgICAgc2tpbGxJZC50b1N0cmluZygpLCBza2lsbElkLnRvU3RyaW5nKCksIHVzZXJJZC50b1N0cmluZygpLAovLyAgICAgIHNraWxsTmFtZSwgbWFwT2YoImRlc2NyaXB0aW9uIiB0byBza2lsbERlc2NyaXB0aW9uKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZXMgPSBtYXBPZjxTdHJpbmcsIEludD4oKSwgc2tpbGxJZCA9IHNraWxsSWQudG9TdHJpbmcoKSwgdGFnID0gU2tpbGxUYWcuREVTSVJFRCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uU2tpbGxEdG8KaW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uc2V0dXBTZWFyY2hTa2lsbHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0byA9IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QoCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cGRhdGVkU2tpbGxSZWxhdGlvbnNoaXBEdG8gPSBjcmVhdGVSZWxhdGlvbnNoaXBSZXNwb25zZSgKICAgICAgc2tpbGxJZC50b1N0cmluZygpLCBza2lsbElkLnRvU3RyaW5nKCksIGRpcmVjdFJlcG9ydElkLnRvU3RyaW5nKCksCiAgICAgIHNraWxsTmFtZSwgbWFwT2YoImRlc2NyaXB0aW9uIiB0byBza2lsbCkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -336,38 +344,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBza2lsbHMgPSBsaXN0T2Yoc2tpbGwpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuc2V0dXBHZXRFbXBsb3llZVNraWxscyhza2lsbFJlbGF0aW9uc2hpcER0bywgZGlyZWN0UmVwb3J0SWQudG9TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgIC53aXRoUmVxdWVzdEJvZHkobWF0Y2hpbmdKc29uUGF0aCgiJC5za2lsbFRpdGxlIiwgZXF1YWxUbyhpbnB1dC5uYW1lKSkpCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgcmVxdWVzdCA9IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QoCiAgICBtYXBPZigic3VjY2Vzc0RlZmluaXRpb24iIHRvIGlucHV0LnN1Y2Nlc3NEZWZpbml0aW9uKSwKICAgIGlucHV0LnNraWxsSWQudG9TdHJpbmcoKSwKICAgIFNraWxsVGFnLkZPQ1VTLCBpbnB1dC5uYW1lCiAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setupgetemplou</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>setupgetemplou</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>focusSkillService</entry>
-        <entry>put</entry>
-        <entry>skills</entry>
-        <entry>all</entry>
-        <entry>skillObject</entry>
-        <entry>focusSkill</entry>
         <entry>employeeId</entry>
         <entry>userId</entry>
         <entry>skillspage</entry>
@@ -382,6 +384,12 @@
         <entry>setupSearchSkills</entry>
         <entry>searchskill</entry>
         <entry>setupgetemplou</entry>
+        <entry>loadInput</entry>
+        <entry>ui</entry>
+        <entry>user_id</entry>
+        <entry>relationships</entry>
+        <entry>request</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>/newRow</entry>
@@ -399,10 +407,10 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>j/all</entry>
         <entry>;w</entry>
         <entry>noh</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
