@@ -20,6 +20,9 @@
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" timestamp="1564453219173">
         <mark key="'" line="3" column="54" />
       </file>
+      <file name="/a.dummy" timestamp="1564636847369">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" timestamp="1564611463132">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -53,10 +56,6 @@
         <mark key="]" line="76" column="82" />
         <mark key="." line="83" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillResponseDto.kt" timestamp="1564451919923">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="54" />
-      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" timestamp="1564447193883">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="4" column="0" />
@@ -79,12 +78,11 @@
       <file name="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" timestamp="1564611470188">
         <mark key="'" line="9" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/python/synchrotweetcity/example.py" timestamp="1564634369477">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/dev/python/synchrotweetcity/example.py" timestamp="1564636804819">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="10" />
+        <mark key="^" line="25" column="10" />
+        <mark key="." line="25" column="10" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-cdp-api/src/main/resources/application-dev.yml" timestamp="1564163488202">
         <mark key="[" line="10" column="45" />
@@ -99,16 +97,15 @@
         <mark key="." line="53" column="62" />
         <mark key="^" line="51" column="62" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instructure.bridge/bridge-spring-kotlin/12.0.0/4a85cff2ea7580e1eaf54fcad12655d5b133f157/bridge-spring-kotlin-12.0.0-sources.jar!/com/instructure/bridge/rest/Meta.kt" timestamp="1564167335801">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" timestamp="1564445280103">
         <mark key="'" line="74" column="19" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="31" column="52" />
         <mark key="^" line="56" column="44" />
         <mark key="." line="56" column="44" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564637114079">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564611429923">
         <mark key="'" line="171" column="16" />
@@ -121,6 +118,13 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="40" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" timestamp="1564637801294">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillDto.kt" timestamp="1564154715335">
         <mark key="'" line="15" column="11" />
@@ -138,6 +142,13 @@
         <mark key="'" line="4" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="37" column="74" />
+      </file>
+      <file name="$USER_HOME$/dev/python/synchrotweetcity/twitter.py" timestamp="1564637426445">
+        <mark key="'" line="13" column="38" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1564452424667">
         <mark key="'" line="10" column="0" />
@@ -173,11 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="28" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" />
-      <jump line="73" column="42" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
-      <jump line="117" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
-      <jump line="158" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
       <jump line="31" column="49" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" />
       <jump line="39" column="19" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" />
       <jump line="42" column="70" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ManagerViewTest.kt" />
@@ -273,13 +279,18 @@
       <jump line="100" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
       <jump line="114" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
       <jump line="9" column="9" filename="$USER_HOME$/dev/python/synchrotweetcity/example.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/example.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/example.py" />
+      <jump line="12" column="38" filename="$USER_HOME$/dev/python/synchrotweetcity/twitter.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -294,16 +305,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>sys</text>
+        <text>Train</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZGVsZXRlKHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy9yZWxhdGlvbnNoaXBzLyR7aW5wdXQucmVsYXRpb25zaGlwSWR9IikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
+        <text encoding="base64">ZGVmIHRyYWluKCk6CiAgICBwcmludCgnVHJhaW4nKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc3lzLmV4aXQobWFpbihzeXMuYXJndikpICMgdXNlZCB0byBnaXZlIGEgYmV0dGVyIGxvb2sgdG8gZXhpc3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -319,19 +330,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyB0aGlzIGlzIHRoZSBzdGFuZGFyZCBib2lsZXJwbGF0ZSB0aGF0IGNhbGxzIHRoZSBtYWluKCkgZnVuY3Rpb24K</text>
+        <text encoding="base64">ICAgIHR3ZWV0cyA9IHR3aXR0ZXIuZ2V0X3R3ZWV0cygpCiAgICBmb3IgdHdlZXQgaW4gdHdlZXRzOgogICAgICAgIHByaW50KHR3ZWV0LnRleHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBpZiBsZW4oc3lzLmFyZ3YpID49IDI6CiAgICAgICAgICAgIG5hbWUgPSBzeXMuYXJndlsxXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5hbWUgPSAnV29ybGQnCiAgICAgICAgcHJpbnQgJ0hlbGxvJywgbmFtZQoKICAgICAgICBwcmludCAnVHlwZSBzb21ldGhpbmcgdG8gZGlzcGxheSBpdHMgdHlwZSBhbmQgdmFsdWUuJwogICAgICAgIHVzZXJJbnB1dCA9IHJhd19pbnB1dCgpCiAgICAgICAgcHJpbnQgJ1VzZXIgaW5wdXQgLSB0eXBlOiAlcywgdmFsdWU6ICVzJyAlICh0eXBlKHVzZXJJbnB1dCksIHVzZXJJbnB1dCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6CiAgICAgICAgcHJpbnQgZXgubWVzc2FnZQogICAgICAgIHJldHVybiAxICMgaW5kaWNhdGVzIGVycm9yLCBidXQgbm90IG5lY2Vzc2FyeQogICAgZWxzZToKICAgICAgICByZXR1cm4gMCAjIHJldHVybiAwICMgaW5kaWNhdGVzIGVycm9ybGVzc2x5IGV4aXQsIGJ1dCBub3QgbmVjZXNzYXJ5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgcmVxdWVzdCA9IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QoCiAgICBtYXBPZigic3VjY2Vzc0RlZmluaXRpb24iIHRvIGlucHV0LnN1Y2Nlc3NEZWZpbml0aW9uKSwKICAgIGlucHV0LnNraWxsSWQudG9TdHJpbmcoKSwKICAgIFNraWxsVGFnLkZPQ1VTLCBpbnB1dC5uYW1lCiAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBza2lsbERlc2NyaXB0aW9uID0gIkEgZGVzY3JpcHRpb24gdGhhdCBpcyBub3Rld29ydGh5Igo=</text>
+        <text encoding="base64">CgpkZWYgdHJhaW4oKToKICAgIHByaW50KCdUcmFpbicpCgoKZGVmIHRlc3QoKToKICAgIHByaW50KCdUZXN0JykKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNraWxsUmVsYXRpb25zaGlwU2VhcmNoRHRvID0gQ3JlYXRlQ3VzdG9tU2tpbGxSZWxhdGlvbnNoaXBSZXF1ZXN0KCAvLyAgICAgIGF0dHJpYnV0ZXMgPSBtYXBPZjxTdHJpbmcsIEludD4oKSwgc2tpbGxJZCA9IHNraWxsSWQudG9TdHJpbmcoKSwgdGFnID0gU2tpbGxUYWcuRk9DVVMpCi8vICAgIHZhbCBza2lsbFJlbGF0aW9uc2hpcER0byA9IGNyZWF0ZVJlbGF0aW9uc2hpcFJlc3BvbnNlKAovLyAgICAgIHNraWxsSWQudG9TdHJpbmcoKSwgc2tpbGxJZC50b1N0cmluZygpLCB1c2VySWQudG9TdHJpbmcoKSwgc2tpbGxOYW1lKQovLyAgICB2YWwgdXBkYXRlZFNraWxsUmVsYXRpb25zaGlwRHRvID0gY3JlYXRlUmVsYXRpb25zaGlwUmVzcG9uc2UoCi8vICAgICAgc2tpbGxJZC50b1N0cmluZygpLCBza2lsbElkLnRvU3RyaW5nKCksIHVzZXJJZC50b1N0cmluZygpLAovLyAgICAgIHNraWxsTmFtZSwgbWFwT2YoImRlc2NyaXB0aW9uIiB0byBza2lsbERlc2NyaXB0aW9uKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -351,16 +362,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uU2tpbGxEdG8KaW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uc2V0dXBTZWFyY2hTa2lsbHMK</text>
+        <text encoding="base64">ZGVmIHRlc3QoKToKICAgIHByaW50KCdUZXN0JykKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
+        <text encoding="base64">ZGVmIHJ1bigpOgoK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -399,7 +410,6 @@
         <entry>delete</entry>
       </history-search>
       <history-cmd>
-        <entry>/newRow</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>w[</entry>
         <entry>q!</entry>
@@ -418,6 +428,7 @@
         <entry>;w</entry>
         <entry>noh</entry>
         <entry>wq</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
