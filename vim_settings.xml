@@ -79,6 +79,13 @@
       <file name="$USER_HOME$/dev/instructure/bridge-career/scripts/workflows_up" timestamp="1564611470188">
         <mark key="'" line="9" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/python/synchrotweetcity/example.py" timestamp="1564634369477">
+        <mark key="'" line="12" column="9" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-cdp-api/src/main/resources/application-dev.yml" timestamp="1564163488202">
         <mark key="[" line="10" column="45" />
         <mark key="]" line="10" column="43" />
@@ -166,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="19" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/ActivityManagementTest.kt" />
       <jump line="75" column="28" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" />
       <jump line="73" column="42" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" />
@@ -266,13 +272,14 @@
       <jump line="65" column="16" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
       <jump line="100" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
       <jump line="114" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
+      <jump line="9" column="9" filename="$USER_HOME$/dev/python/synchrotweetcity/example.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZGVsZXRlKHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy9yZWxhdGlvbnNoaXBzLyR7aW5wdXQucmVsYXRpb25zaGlwSWR9IikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>sys</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -287,7 +294,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>.toLong()</text>
+        <text>sys</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -296,7 +303,7 @@
         <text encoding="base64">ICAgIHN0dWJGb3IoV2lyZU1vY2suZGVsZXRlKHVybFBhdGhFcXVhbFRvKCIvYXBpL3NraWxscy9yZWxhdGlvbnNoaXBzLyR7aW5wdXQucmVsYXRpb25zaGlwSWR9IikpCiAgICAgIC53aWxsUmV0dXJuKAogICAgICAgIGFSZXNwb25zZSgpCiAgICAgICAgICAud2l0aFN0YXR1cyhIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCiAgICAgICAgICAud2l0aEhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb24iKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgcmVxdWVzdCA9IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QoCiAgICBtYXBPZigic3VjY2Vzc0RlZmluaXRpb24iIHRvIGlucHV0LnN1Y2Nlc3NEZWZpbml0aW9uKSwKICAgIGlucHV0LnNraWxsSWQudG9TdHJpbmcoKSwKICAgIFNraWxsVGFnLkZPQ1VTLCBpbnB1dC5uYW1lCiAgKQo=</text>
+        <text encoding="base64">ICAgICMgc3lzLmV4aXQobWFpbihzeXMuYXJndikpICMgdXNlZCB0byBnaXZlIGEgYmV0dGVyIGxvb2sgdG8gZXhpc3RzCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -312,19 +319,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBza2lsbERlc2NyaXB0aW9uID0gIkEgZGVzY3JpcHRpb24gdGhhdCBpcyBub3Rld29ydGh5Igo=</text>
+        <text encoding="base64">IyB0aGlzIGlzIHRoZSBzdGFuZGFyZCBib2lsZXJwbGF0ZSB0aGF0IGNhbGxzIHRoZSBtYWluKCkgZnVuY3Rpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNraWxsUmVsYXRpb25zaGlwU2VhcmNoRHRvID0gQ3JlYXRlQ3VzdG9tU2tpbGxSZWxhdGlvbnNoaXBSZXF1ZXN0KCAvLyAgICAgIGF0dHJpYnV0ZXMgPSBtYXBPZjxTdHJpbmcsIEludD4oKSwgc2tpbGxJZCA9IHNraWxsSWQudG9TdHJpbmcoKSwgdGFnID0gU2tpbGxUYWcuRk9DVVMpCi8vICAgIHZhbCBza2lsbFJlbGF0aW9uc2hpcER0byA9IGNyZWF0ZVJlbGF0aW9uc2hpcFJlc3BvbnNlKAovLyAgICAgIHNraWxsSWQudG9TdHJpbmcoKSwgc2tpbGxJZC50b1N0cmluZygpLCB1c2VySWQudG9TdHJpbmcoKSwgc2tpbGxOYW1lKQovLyAgICB2YWwgdXBkYXRlZFNraWxsUmVsYXRpb25zaGlwRHRvID0gY3JlYXRlUmVsYXRpb25zaGlwUmVzcG9uc2UoCi8vICAgICAgc2tpbGxJZC50b1N0cmluZygpLCBza2lsbElkLnRvU3RyaW5nKCksIHVzZXJJZC50b1N0cmluZygpLAovLyAgICAgIHNraWxsTmFtZSwgbWFwT2YoImRlc2NyaXB0aW9uIiB0byBza2lsbERlc2NyaXB0aW9uKSkK</text>
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBpZiBsZW4oc3lzLmFyZ3YpID49IDI6CiAgICAgICAgICAgIG5hbWUgPSBzeXMuYXJndlsxXQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG5hbWUgPSAnV29ybGQnCiAgICAgICAgcHJpbnQgJ0hlbGxvJywgbmFtZQoKICAgICAgICBwcmludCAnVHlwZSBzb21ldGhpbmcgdG8gZGlzcGxheSBpdHMgdHlwZSBhbmQgdmFsdWUuJwogICAgICAgIHVzZXJJbnB1dCA9IHJhd19pbnB1dCgpCiAgICAgICAgcHJpbnQgJ1VzZXIgaW5wdXQgLSB0eXBlOiAlcywgdmFsdWU6ICVzJyAlICh0eXBlKHVzZXJJbnB1dCksIHVzZXJJbnB1dCkKICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXg6CiAgICAgICAgcHJpbnQgZXgubWVzc2FnZQogICAgICAgIHJldHVybiAxICMgaW5kaWNhdGVzIGVycm9yLCBidXQgbm90IG5lY2Vzc2FyeQogICAgZWxzZToKICAgICAgICByZXR1cm4gMCAjIHJldHVybiAwICMgaW5kaWNhdGVzIGVycm9ybGVzc2x5IGV4aXQsIGJ1dCBub3QgbmVjZXNzYXJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uU2tpbGxEdG8KaW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uc2V0dXBTZWFyY2hTa2lsbHMK</text>
+        <text encoding="base64">ICB2YWwgcmVxdWVzdCA9IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QoCiAgICBtYXBPZigic3VjY2Vzc0RlZmluaXRpb24iIHRvIGlucHV0LnN1Y2Nlc3NEZWZpbml0aW9uKSwKICAgIGlucHV0LnNraWxsSWQudG9TdHJpbmcoKSwKICAgIFNraWxsVGFnLkZPQ1VTLCBpbnB1dC5uYW1lCiAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBza2lsbERlc2NyaXB0aW9uID0gIkEgZGVzY3JpcHRpb24gdGhhdCBpcyBub3Rld29ydGh5Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIHNraWxsUmVsYXRpb25zaGlwU2VhcmNoRHRvID0gQ3JlYXRlQ3VzdG9tU2tpbGxSZWxhdGlvbnNoaXBSZXF1ZXN0KCAvLyAgICAgIGF0dHJpYnV0ZXMgPSBtYXBPZjxTdHJpbmcsIEludD4oKSwgc2tpbGxJZCA9IHNraWxsSWQudG9TdHJpbmcoKSwgdGFnID0gU2tpbGxUYWcuRk9DVVMpCi8vICAgIHZhbCBza2lsbFJlbGF0aW9uc2hpcER0byA9IGNyZWF0ZVJlbGF0aW9uc2hpcFJlc3BvbnNlKAovLyAgICAgIHNraWxsSWQudG9TdHJpbmcoKSwgc2tpbGxJZC50b1N0cmluZygpLCB1c2VySWQudG9TdHJpbmcoKSwgc2tpbGxOYW1lKQovLyAgICB2YWwgdXBkYXRlZFNraWxsUmVsYXRpb25zaGlwRHRvID0gY3JlYXRlUmVsYXRpb25zaGlwUmVzcG9uc2UoCi8vICAgICAgc2tpbGxJZC50b1N0cmluZygpLCBza2lsbElkLnRvU3RyaW5nKCksIHVzZXJJZC50b1N0cmluZygpLAovLyAgICAgIHNraWxsTmFtZSwgbWFwT2YoImRlc2NyaXB0aW9uIiB0byBza2lsbERlc2NyaXB0aW9uKSkK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -344,16 +351,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uU2tpbGxEdG8KaW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uc2V0dXBTZWFyY2hTa2lsbHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC53aXRoUmVxdWVzdEJvZHkobWF0Y2hpbmdKc29uUGF0aCgiJC5za2lsbFRpdGxlIiwgZXF1YWxUbyhpbnB1dC5uYW1lKSkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgcmVxdWVzdCA9IENyZWF0ZVJlbGF0aW9uc2hpcFJlcXVlc3QoCiAgICBtYXBPZigic3VjY2Vzc0RlZmluaXRpb24iIHRvIGlucHV0LnN1Y2Nlc3NEZWZpbml0aW9uKSwKICAgIGlucHV0LnNraWxsSWQudG9TdHJpbmcoKSwKICAgIFNraWxsVGFnLkZPQ1VTLCBpbnB1dC5uYW1lCiAgKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIC5zZXR1cENyZWF0ZVNraWxsUmVsYXRpb25zaGlwcyhza2lsbCkKLy8gICAgICAgIC5zZXR1cEN1c3RvbVNraWxsUmVsYXRpb25zaGlwcyhza2lsbFJlbGF0aW9uc2hpcFNlYXJjaER0bywgc2tpbGxSZWxhdGlvbnNoaXBEdG8pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -366,7 +373,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
