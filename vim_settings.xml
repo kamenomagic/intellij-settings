@@ -10,10 +10,10 @@
         <mark key="^" line="103" column="5" />
         <mark key="." line="103" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1564453183260">
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1564786459219">
         <mark key="'" line="40" column="49" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="58" column="5" />
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="64" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="94" column="62" />
       </file>
@@ -26,8 +26,12 @@
       <file name="/a.dummy" timestamp="1564636847369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1564774567972">
-        <mark key="'" line="27" column="36" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1564786467863">
+        <mark key="'" line="28" column="36" />
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="54" />
+        <mark key="^" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/docker-compose.workflows.yml" timestamp="1564611463132">
         <mark key="[" line="14" column="0" />
@@ -110,7 +114,7 @@
         <mark key="^" line="56" column="44" />
         <mark key="." line="56" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564773908578">
+      <file name="/Dummy.txt" timestamp="1564786778165">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564611429923">
@@ -179,7 +183,7 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="22" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1564774543101">
+      <file name="/fragment.java" timestamp="1564786749412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="23" />
@@ -293,7 +297,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>skills</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -308,13 +312,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>skills</text>
       </register>
       <register name="/" type="4">
         <text>max_mo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0LnNhdmVfbW9kZWwoKQo=</text>
+      <register name="0" type="4">
+        <text>[FeatureFlag(&quot;career_everest_custom_skills&quot;, true)]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
