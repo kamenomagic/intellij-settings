@@ -122,12 +122,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" timestamp="1564679285063">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="21" column="22" />
+      <file name="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" timestamp="1564712694054">
+        <mark key="'" line="23" column="10" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="10" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillDto.kt" timestamp="1564154715335">
         <mark key="'" line="15" column="11" />
@@ -164,12 +164,12 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/python/synchrotweetcity/net.py" timestamp="1564676198493">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="24" />
-        <mark key="." line="38" column="24" />
-        <mark key="^" line="38" column="24" />
+      <file name="$USER_HOME$/dev/python/synchrotweetcity/net.py" timestamp="1564713683370">
+        <mark key="'" line="58" column="32" />
+        <mark key="[" line="58" column="43" />
+        <mark key="]" line="58" column="43" />
+        <mark key="." line="58" column="43" />
+        <mark key="^" line="59" column="64" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillRelationshipController.kt" timestamp="1564453187327">
         <mark key="'" line="29" column="13" />
@@ -184,30 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="18" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="52" column="2" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="81" column="8" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="94" column="6" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="115" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="78" column="22" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="79" column="22" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="80" column="33" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="71" column="49" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="86" column="43" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="52" column="2" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillDto.kt" />
-      <jump line="81" column="30" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
-      <jump line="78" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" />
-      <jump line="60" column="28" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="25" column="44" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="67" column="47" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="68" column="57" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" />
-      <jump line="83" column="30" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/skillStubs.kt" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/SkillStubs.kt" />
-      <jump line="57" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="80" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
-      <jump line="92" column="19" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="69" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" />
       <jump line="103" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/pages/DevelopmentPlan.kt" />
@@ -274,23 +250,47 @@
       <jump line="12" column="38" filename="$USER_HOME$/dev/python/synchrotweetcity/twitter.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="28" column="26" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="14" column="10" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="5" column="20" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="27" column="17" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="42" column="14" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="38" column="24" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="32" column="24" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="26" column="22" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="21" column="14" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="22" column="17" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="23" column="10" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="46" column="25" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="4" column="25" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="48" column="36" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="50" column="33" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="52" column="33" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="7" column="27" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="2" column="4" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="53" column="21" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="55" column="27" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="59" column="81" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="54" column="44" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="58" column="32" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>model_</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -305,16 +305,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>model_</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>model_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
+        <text encoding="base64">ICAgIGRlZiBjYWxjdWxhdGVfbG9zcyhzZWxmLCB5LCB0YXJnZXQpOgogICAgICAgIHJldHVybiBzZWxmLmNyaXRlcmlvbih5LCB0YXJnZXQpCgogICAgZGVmIGdldF9vcHRpbWl6ZXIoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYub3B0aW1pemVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCBsb3NzKQogICAgICAgIHByaW50KHgpCiAgICAgICAgcHJpbnQoeSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4obW9kZWxzKSA+IDAgZWxzZSAwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -330,19 +330,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpLCBsb3NzKQogICAgICAgIHByaW50KHgpCiAgICAgICAgcHJpbnQoeSkK</text>
+        <text encoding="base64">ICAgICAgICBudW1iZXIgPSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4obW9kZWxzKSA+IDA6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4obW9kZWxzKSA+IDA6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBudW1iZXIgPSBsYXRlc3RfbW9kZWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgaW5wdXQgPSB0b3JjaC5yYW5kbigxLCAxLCAzMiwgMzIpCiAgICAjIG91dCA9IG5ldChpbnB1dCkKICAgICMgbmV0Lnplcm9fZ3JhZCgpCiAgICAjIG91dC5iYWNrd2FyZCh0b3JjaC5yYW5kbigxLCAxMCkpCiAgICAjIHByaW50KG91dCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFzdF9tb2RlbCA9IG1vZGVsc1stMV0K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -362,25 +362,25 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb3NzW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtYmVyIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh4KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBudW1iZXIgPSBvcy5saXN0ZGlyKG1vZGVsc19kaXJlY3RvcnkpLnNvcnQoKVstMV0uc3BsaXQoJy5tb2RlbCcpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>model_</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>model_</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
@@ -388,9 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>employeeId</entry>
-        <entry>userId</entry>
-        <entry>skillspage</entry>
         <entry>hasSkill</entry>
         <entry>customskillname</entry>
         <entry>stub</entry>
@@ -408,6 +405,9 @@
         <entry>relationships</entry>
         <entry>request</entry>
         <entry>delete</entry>
+        <entry>ex</entry>
+        <entry>models_</entry>
+        <entry>model_</entry>
       </history-search>
       <history-cmd>
         <entry>w[</entry>
