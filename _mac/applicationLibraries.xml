@@ -5965,6 +5965,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Remote Python 3.6.9 (sftp://kamenomagic@192.168.2.9:22/home/kamenomagic/.pyenv/shims/python3.6) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="representable (v3.0.4, RVM: ruby-2.5.3 [carkit]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />

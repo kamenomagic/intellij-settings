@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b55dd18b-dc44-4ce4-8c9a-95e4b79335ef" name="Synchronicity" url="https://192.168.2.9">
+        <fileTransfer host="192.168.2.9" port="22" rootFolder="/home/kamenomagic/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
