@@ -124,12 +124,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="40" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" timestamp="1564811702085">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="12" />
-        <mark key="." line="94" column="12" />
-        <mark key="^" line="94" column="60" />
+      <file name="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" timestamp="1564813091287">
+        <mark key="'" line="57" column="29" />
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="42" column="14" />
+        <mark key="^" line="79" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/skillsService/SkillDto.kt" timestamp="1564154715335">
         <mark key="'" line="15" column="11" />
@@ -192,11 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="4" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
-      <jump line="114" column="0" filename="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/util/stubs/crafty/CraftyStubs.kt" />
-      <jump line="9" column="9" filename="$USER_HOME$/dev/python/synchrotweetcity/example.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/example.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/example.py" />
       <jump line="12" column="38" filename="$USER_HOME$/dev/python/synchrotweetcity/twitter.py" />
       <jump line="17" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="12" column="14" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
@@ -284,7 +279,6 @@
       <jump line="48" column="12" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="35" column="4" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="55" column="24" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="37" column="4" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="54" column="34" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="68" column="26" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
@@ -292,13 +286,19 @@
       <jump line="53" column="8" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="47" column="66" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="12" column="22" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="63" column="14" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
+      <jump line="57" column="29" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, device</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -313,7 +313,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>, device</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>extract_number</text>
@@ -322,7 +322,7 @@
         <text encoding="base64">ICAgIHRyYWluc2V0ID0gdG9yY2h2aXNpb24uZGF0YXNldHMuQ0lGQVIxMCgKICAgICAgICByb290PScuL2RhdGEnLCB0cmFpbj1UcnVlLCBkb3dubG9hZD1UcnVlLCB0cmFuc2Zvcm09dHJhbnNmb3JtCiAgICApCiAgICB0cmFpbmxvYWRlciA9IHRvcmNoLnV0aWxzLmRhdGEuRGF0YUxvYWRlcih0cmFpbnNldCwgYmF0Y2hfc2l6ZT00LCBzaHVmZmxlPVRydWUsIG51bV93b3JrZXJzPTIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdHcm91bmRUcnV0aDogJywgJyAnLmpvaW4oKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -341,16 +341,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWlubG9hZGVyLmN1ZGEoKQo=</text>
+        <text encoding="base64">CiMgQXNzdW1pbmcgdGhhdCB3ZSBhcmUgb24gYSBDVURBIG1hY2hpbmUsIHRoaXMgc2hvdWxkIHByaW50IGEgQ1VEQSBkZXZpY2U6Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRlc3Rsb2FkZXIuY3VkYSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdHcm91bmRUcnV0aDogJywgJyAnLmpvaW4oKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldC5jdWRhKCkK</text>
+        <text encoding="base64">ICAgIHRyYWlubG9hZGVyLmN1ZGEoKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -370,16 +370,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3Rsb2FkZXIuY3VkYSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHRvcmNoLmN1ZGEuaXNfYXZhaWxhYmxlKCk6CiAgICAgICAgcHJpbnQoJ1J1bm5pbmcgb24gR1BVJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVtX2ZlYXR1cmVzCg==</text>
+        <text encoding="base64">ICAgIG5ldC5jdWRhKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
