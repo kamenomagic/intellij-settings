@@ -321,8 +321,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -337,7 +337,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>wemo.port=</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>ARP</text>
