@@ -24,9 +24,6 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1564950262575">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/wemo/Wemo.java" timestamp="1564875785408">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="0" />
@@ -47,11 +44,10 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/build.gradle" timestamp="1564953812710">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/build.gradle" timestamp="1564954618294">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/synchrotweet/Dockerfile" timestamp="1564875216348">
         <mark key="'" line="2" column="27" />
@@ -119,10 +115,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/dash/requirements.txt" timestamp="1564949179078">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/dash/Dockerfile" timestamp="1564873763814">
         <mark key="'" line="4" column="17" />
         <mark key="[" line="0" column="12" />
@@ -143,19 +135,19 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/dash/Dockerfile" timestamp="1564949261171">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="49" />
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/wemo/Wemo.java" timestamp="1564954900568">
+        <mark key="'" line="88" column="2" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+        <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/ml/tweet/trainer.py" timestamp="1564950453600">
+      <file name="$USER_HOME$/dev/synchronicity-home/python/ml/tweet/trainer.py" timestamp="1564956436019">
         <mark key="'" line="95" column="0" />
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-      </file>
-      <file name="/Python Console" timestamp="1564949060060">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="12" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="19" column="12" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1564788359364">
         <mark key="'" line="34" column="7" />
@@ -181,14 +173,29 @@
         <mark key="^" line="167" column="53" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/tweet/synchrotweet.py" timestamp="1564945705029">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="140" column="10" />
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/main.kt" timestamp="1564955039986">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" timestamp="1564949769211">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" timestamp="1564956356085">
+        <mark key="'" line="4" column="18" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/main.kt" timestamp="1564954734855">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/Chromecast.java" timestamp="1564954979515">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/TaskManagementTest.kt" timestamp="1564447193883">
         <mark key="'" line="156" column="0" />
@@ -197,14 +204,19 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1564869366113">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main.kt" timestamp="1564953305804">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="8" />
         <mark key="^" line="1" column="8" />
         <mark key="." line="1" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/wemo/main.kt" timestamp="1564954840946">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="o" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-cdp-api/src/main/resources/application-dev.yml" timestamp="1564163488202">
         <mark key="[" line="10" column="45" />
@@ -212,18 +224,10 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564948465648">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/tweet/requirements.txt" timestamp="1564949243700">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/dependenciesbuildgradle" timestamp="1564946626730">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="36" column="45" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/SkillManagementTest.kt" timestamp="1564611429923">
         <mark key="'" line="171" column="16" />
@@ -232,17 +236,27 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/Dockerfile" timestamp="1564953290982">
-        <mark key="[" line="6" column="13" />
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastRequest.java" timestamp="1564954950062">
+        <mark key="'" line="55" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="50" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/Dockerfile" timestamp="1564955420743">
+        <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/dash/dash.py" timestamp="1564949534395">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/kotlin-old/build.gradle" timestamp="1564954598549">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/.gitignore" timestamp="1564956540034">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" timestamp="1564951096274">
         <mark key="[" line="9" column="19" />
@@ -263,6 +277,13 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" timestamp="1564954799221">
+        <mark key="'" line="9" column="26" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1564788344055">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="53" column="0" />
@@ -275,12 +296,24 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/main.kt" timestamp="1564955002395">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/tweet/main.py" timestamp="1564949341722">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/ml/.gitignore" timestamp="1564956534075">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/python/synchrotweetcity/net.py" timestamp="1564811606282">
         <mark key="'" line="12" column="22" />
@@ -289,7 +322,7 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1564945403018">
+      <file name="/fragment.java" timestamp="1564954207933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="23" />
@@ -297,22 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="46" column="24" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="29" column="22" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="23" column="50" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="5" column="26" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="56" column="14" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="48" column="12" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="55" column="24" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="54" column="34" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="68" column="26" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="48" column="26" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="47" column="66" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="12" column="22" filename="$USER_HOME$/dev/python/synchrotweetcity/net.py" />
       <jump line="74" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
@@ -397,13 +414,29 @@
       <jump line="5" column="13" filename="$USER_HOME$/dev/synchronicity-home/python/ml/tweet/trainer.py" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/ml/tweet/trainer.py" />
       <jump line="18" column="7" filename="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" />
+      <jump line="27" column="24" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
+      <jump line="44" column="2" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
+      <jump line="9" column="26" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/wemo/main.kt" />
+      <jump line="88" column="2" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/wemo/Wemo.java" />
+      <jump line="47" column="4" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastRequest.java" />
+      <jump line="7" column="25" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/Chromecast.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/main.kt" />
+      <jump line="4" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" />
+      <jump line="3" column="18" filename="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaWRlYScK</text>
+        <text encoding="base64">VVNFUiByb290ClJVTiBzdWRvIGFwdC1nZXQgdXBkYXRlCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -418,16 +451,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>requests</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBzY2FweS5hbGwgaW1wb3J0ICoKZnJvbSBzY2FweS5sYXllcnMubDIgaW1wb3J0IEFSUApidXR0b25zID0geydibGFjayc6ICc3NDpjMjo0NjoxZDo0YToxMSd9CgoKZGVmIG1haW4oKToKICAgIHByaW50KCdEYXNoIGxpc3RlbmVyIGxvYWRlZCB3aXRoIGJ1dHRvbnM6JykKICAgIGZvciBidXR0b24sIG1hYyBpbiBidXR0b25zLml0ZW1zKCk6CiAgICAgICAgcHJpbnQoZidcdHtidXR0b259OiB7bWFjfScpCiAgICBwcmludChzbmlmZihwcm49YXJwX2Rpc3BsYXksIGZpbHRlcj0iYXJwIiwgc3RvcmU9MCwgY291bnQ9MCkpCgoKZGVmIGFycF9kaXNwbGF5KHBrdCk6CiAgICBpZiBwa3QuaGFzbGF5ZXIoQVJQKToKICAgICAgICBpZiBwa3RbQVJQXS5vcCA9PSAxOgogICAgICAgICAgICBmb3IgYnV0dG9uLCBtYWMgaW4gYnV0dG9ucy5pdGVtcygpOgogICAgICAgICAgICAgICAgaWYgcGt0W0FSUF0uaHdzcmMgPT0gbWFjOgogICAgICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoZid7YnV0dG9ufSBwcmVzc2VkJykKICAgICAgICAgICAgICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKDUpCgoKaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICBDaHJvbWVjYXN0KCkudGVzdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaWRlYScK</text>
+        <text encoding="base64">VVNFUiByb290ClJVTiBzdWRvIGFwdC1nZXQgdXBkYXRlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -443,19 +476,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaWRlYScK</text>
+        <text encoding="base64">ZGF0YQptb2RlbHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q01EIFsiLi9ncmFkbGV3IiwgImJvb3RSdW4iXQo=</text>
+        <text encoding="base64">UlVOIGxzIG1sL3R3ZWV0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RlJPTSBqYXZhOjgK</text>
+        <text encoding="base64">UlVOIHN1ZG8gYXB0LWdldCB1cGRhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgd2ViY2FtczoKIyAgICBidWlsZDogJ3dlYmNhbXMnCiMgICAgbmV0d29ya19tb2RlOiAnaG9zdCcKIyAgICBwcml2aWxlZ2VkOiA6IHRydWUKIyAgICByZXN0YXJ0OiAnYWx3YXlzJwojICB3ZW1vOgojICAgIGJ1aWxkOiAnd2VtbycKIyAgICBuZXR3b3JrX21vZGU6ICdob3N0JwojICAgIHByaXZpbGVnZWQ6IDogdHJ1ZQojICAgIHJlc3RhcnQ6ICdhbHdheXMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgY2hyb21lY2FzdDoKIyAgICBidWlsZDogJ2Nocm9tZWNhc3QnCiMgICAgbmV0d29ya19tb2RlOiAnaG9zdCcKIyAgICBwcml2aWxlZ2VkOiA6IHRydWUKIyAgICByZXN0YXJ0OiAnYWx3YXlzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -475,19 +508,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgdXBkYXRlICYmIGFwdC1nZXQgaW5zdGFsbCAteSB0Y3BkdW1wCg==</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1xIG51bXB5ICYmIFwKICAgIHBpcCBpbnN0YWxsIC0tYWxsb3ctYWxsLWV4dGVybmFsIFwKICAgIFB5WD09MC4xMi4xIHB5Y3J5cHRvIFwKICAgIC0tYWxsb3ctdW52ZXJpZmllZCBnbnVwbG90LXB5IGdudXBsb3QtcHkKQUREIGh0dHA6Ly9zY2FweS5uZXQvc2NhcHktbGF0ZXN0LnppcCAvdXNyL2xvY2FsL2Jpbi9zY2FweQpSVU4gY2htb2QgK3ggL3Vzci9sb2NhbC9iaW4vc2NhcHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkYXNoLm1haW4gaW1wb3J0IG1haW4gYXMgcnVuX2Rhc2gKZnJvbSB0d2VldC5tYWluIGltcG9ydCBtYWluIGFzIHJ1bl90d2VldAo=</text>
+        <text encoding="base64">ICAgIGFwdC1nZXQgY2xlYW4K</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgbWFpbigpCg==</text>
+        <text encoding="base64">ICAgIHN3aWcgcHl0aG9uLWNyeXB0byBsaWJwY2FwMC43IGxpYnBjYXAtZGV2ICYmIFwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -497,7 +530,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -527,7 +560,6 @@
         <entry>q!</entry>
         <entry>close</entry>
         <entry>;q</entry>
-        <entry>wqa</entry>
         <entry>1</entry>
         <entry>e</entry>
         <entry>2</entry>
@@ -539,10 +571,11 @@
         <entry>w'</entry>
         <entry>vs</entry>
         <entry>w';w</entry>
-        <entry>q</entry>
         <entry>noh</entry>
-        <entry>wq</entry>
+        <entry>wqa</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
