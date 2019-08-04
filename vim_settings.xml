@@ -53,11 +53,10 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1564958967294">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="45" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1564960564552">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/LearnableManagementTest.kt" timestamp="1564451376182">
         <mark key="'" line="45" column="0" />
@@ -130,6 +129,9 @@
       <file name="/Python Console" timestamp="1564958738109">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" timestamp="1564961117742">
+        <mark key="'" line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1564788359364">
         <mark key="'" line="34" column="7" />
         <mark key="[" line="58" column="21" />
@@ -197,7 +199,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="o" line="3" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564958765345">
+      <file name="/Dummy.txt" timestamp="1564960422244">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/tweet/requirements.txt" timestamp="1564949243700">
@@ -225,10 +227,6 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/kotlin-old/build.gradle" timestamp="1564954598549">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="16" column="65" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/.gitignore" timestamp="1564956540034">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -255,12 +253,12 @@
         <mark key="^" line="50" column="51" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/dash/main.py" timestamp="1564958874939">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/dash/main.py" timestamp="1564960318620">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/main.kt" timestamp="1564955002395">
         <mark key="'" line="7" column="0" />
@@ -290,8 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
-      <jump line="63" column="14" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="57" column="29" filename="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" />
       <jump line="8" column="2" filename="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" />
@@ -390,13 +386,15 @@
       <jump line="3" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/dash/main.py" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/dash/main.py" />
       <jump line="13" column="10" filename="$USER_HOME$/dev/synchronicity-home/python/dash/main.py" />
+      <jump line="10" column="23" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhc2guc3RhcnQoKQogICAgdHdlZXQuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdDaGFuZ2UnKQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -420,7 +418,7 @@
         <text encoding="base64">ICBDaHJvbWVjYXN0KCkudGVzdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhc2guc3RhcnQoKQogICAgdHdlZXQuc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCdDaGFuZ2UnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -436,19 +434,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJ1bl9kYXNoKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHBrdFtBUlBdLmh3c3JjKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIGRhc2guc3RhcnQoKQogICAgdHdlZXQuc3RhcnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgpkZWYgbWFpbigpOgogICAgcHJpbnQoJ0Rhc2ggbGlzdGVuZXIgbG9hZGVkIHdpdGggYnV0dG9uczonKQogICAgZm9yIGJ1dHRvbiwgbWFjIGluIGJ1dHRvbnMuaXRlbXMoKToKICAgICAgICBwcmludChmJ1x0e2J1dHRvbn06IHttYWN9JykKICAgIHByaW50KHNuaWZmKHBybj1hcnBfZGlzcGxheSwgZmlsdGVyPSJhcnAiLCBzdG9yZT0wLCBjb3VudD0wKSkK</text>
+        <text encoding="base64">ICAgIHJ1bl9kYXNoKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhc2gubWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -468,16 +466,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5UaHJlYWQuc2xlZXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKCkK</text>
+        <text encoding="base64">CgpkZWYgbWFpbigpOgogICAgcHJpbnQoJ0Rhc2ggbGlzdGVuZXIgbG9hZGVkIHdpdGggYnV0dG9uczonKQogICAgZm9yIGJ1dHRvbiwgbWFjIGluIGJ1dHRvbnMuaXRlbXMoKToKICAgICAgICBwcmludChmJ1x0e2J1dHRvbn06IHttYWN9JykKICAgIHByaW50KHNuaWZmKHBybj1hcnBfZGlzcGxheSwgZmlsdGVyPSJhcnAiLCBzdG9yZT0wLCBjb3VudD0wKSkK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGRhc2gubWFpbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -490,7 +488,7 @@
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -531,10 +529,10 @@
         <entry>w'</entry>
         <entry>vs</entry>
         <entry>w';w</entry>
-        <entry>noh</entry>
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
