@@ -185,11 +185,11 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/Dockerfile" timestamp="1564980430588">
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/Dockerfile" timestamp="1564981063134">
         <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="$USER_HOME$/dev/python/synchrotweetcity/synchrotweet.py" timestamp="1564813091287">
         <mark key="'" line="57" column="29" />
@@ -399,7 +399,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>build</text>
+        <text>bootRun</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -414,7 +414,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>bootRun</text>
       </register>
       <register name="/" type="4">
         <text>wemo</text>
