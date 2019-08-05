@@ -27,9 +27,6 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1564950262575">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/wemo/Wemo.java" timestamp="1564875785408">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="0" />
@@ -150,11 +147,17 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/main.py" timestamp="1564988838099">
+      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/main.py" timestamp="1564990850388">
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/device/motion.py" timestamp="1564989989533">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/ml/tweet/trainer.py" timestamp="1564956436019">
         <mark key="'" line="95" column="0" />
@@ -162,9 +165,6 @@
         <mark key="]" line="19" column="12" />
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
-      </file>
-      <file name="/Python Console" timestamp="1564958738109">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" timestamp="1564961117742">
         <mark key="'" line="99" column="0" />
@@ -198,8 +198,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" timestamp="1564989184306">
-        <mark key="'" line="2" column="18" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" timestamp="1564990007303">
+        <mark key="'" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/main.kt" timestamp="1564977695256">
         <mark key="[" line="4" column="13" />
@@ -220,17 +220,21 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1564869366113">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/device/switch.py" timestamp="1564989984567">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/device/bridge.py" timestamp="1564990000342">
+        <mark key="[" line="0" column="5" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/wemo/main.kt" timestamp="1564983094439">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1564960422244">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/tweet/requirements.txt" timestamp="1564949243700">
         <mark key="[" line="8" column="0" />
@@ -287,12 +291,12 @@
         <mark key="^" line="50" column="51" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/requirements.txt" timestamp="1564989418249">
+      <file name="$USER_HOME$/dev/synchronicity-home/python/requirements.txt" timestamp="1564990072986">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-        <mark key="^" line="9" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/dash/main.py" timestamp="1564960318620">
         <mark key="'" line="12" column="10" />
@@ -300,12 +304,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/main.kt" timestamp="1564977448052">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/tweet/main.py" timestamp="1564949341722">
         <mark key="'" line="6" column="4" />
@@ -326,9 +324,12 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/device/maker.py" timestamp="1564989992744">
+        <mark key="[" line="1" column="5" />
+        <mark key="." line="1" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/dev/synchronicity-home/kotlin/dependenciesbuildgradle" />
       <jump line="132" column="17" filename="$USER_HOME$/dev/synchronicity-home/python/tweet/train.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/tweet/train.py" />
       <jump line="131" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/tweet/train.py" />
@@ -428,13 +429,14 @@
       <jump line="20" column="6" filename="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/config.py" />
       <jump line="23" column="39" filename="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/config.py" />
       <jump line="24" column="33" filename="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/config.py" />
+      <jump line="2" column="10" filename="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
+        <text encoding="base64">cHl5YW1sCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -458,7 +460,7 @@
         <text encoding="base64">b3VpbWVhdXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
+        <text encoding="base64">cHl5YW1sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -474,19 +476,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUREIHJlcXVpcmVtZW50cy50eHQgcmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">cmVxdWVzdHMgPj0gMi4zLjAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGxzIHdlbW8K</text>
+        <text encoding="base64">Z2V2ZW50ID49IDEuMy4wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0aHJlYWQgeyB3ZW1vLnJ1bigpIH0K</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cm1haW4oKQo=</text>
+        <text encoding="base64">QUREIHJlcXVpcmVtZW50cy50eHQgcmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGVudi5saXN0X3N3aXRjaGVzKCkpCg==</text>
+        <text encoding="base64">UlVOIGxzIHdlbW8K</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -506,16 +508,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3VpbWVhdXgK</text>
+        <text encoding="base64">ICB0aHJlYWQgeyB3ZW1vLnJ1bigpIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3VpbWVhdXgK</text>
+        <text encoding="base64">Cm1haW4oKQo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9zeXBob3h5L291aW1lYXV4LmdpdAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGVudi5saXN0X3N3aXRjaGVzKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
