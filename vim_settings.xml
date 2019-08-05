@@ -60,6 +60,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="30" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/3.6.9/lib/python3.6/site-packages/ouimeaux/subscribe.py" timestamp="1564987198025">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1564984720014">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="13" />
@@ -127,11 +133,10 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/main.py" timestamp="1564984883547">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="17" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/main.py" timestamp="1564987685317">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/ml/tweet/trainer.py" timestamp="1564956436019">
         <mark key="'" line="95" column="0" />
@@ -265,11 +270,10 @@
         <mark key="^" line="50" column="51" />
         <mark key="." line="50" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/requirements.txt" timestamp="1564985077329">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/requirements.txt" timestamp="1564987413234">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/dash/main.py" timestamp="1564960318620">
         <mark key="'" line="12" column="10" />
@@ -410,8 +414,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>wemo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KGVudi5saXN0X3N3aXRjaGVzKCkpCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -426,16 +430,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>wemo</text>
+        <text encoding="base64">aW5zdGFsbCA=</text>
       </register>
       <register name="/" type="4">
         <text>wemo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtbC50d2VldC5tYWluIGltcG9ydCBtYWluIGFzIHJ1bl90d2VldAo=</text>
+        <text encoding="base64">b3VpbWVhdXgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd3ZW1vJykK</text>
+        <text encoding="base64">ICAgIHByaW50KGVudi5saXN0X3N3aXRjaGVzKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -451,19 +455,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG91aW1lYXV4Cg==</text>
+        <text encoding="base64">b3VpbWVhdXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGkK</text>
+        <text encoding="base64">b3VpbWVhdXgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9zeXBob3h5L291aW1lYXV4LmdpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5wYWxvbWlub2xhYnMud2Vtbzp3ZW1vOjEuMC1TTkFQU0hPVCcK</text>
+        <text encoding="base64">Z2l0K2h0dHBzOi8vZ2l0aHViLmNvbS9zeXBob3h5L291aW1lYXV4LmdpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgICB1cmwgJ2h0dHBzOi8vb3NzLnNvbmF0eXBlLm9yZy9jb250ZW50L3JlcG9zaXRvcmllcy9zbmFwc2hvdHMvJwogICAgfQo=</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2thbWVub21hZ2ljL291aW1lYXV4Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -483,16 +487,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGtvdGxpbmMgLiAtaW5jbHVkZS1ydW50aW1lIC1kIGtvdGxpbi5qYXIK</text>
+        <text encoding="base64">Z2V2ZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOCg==</text>
+        <text encoding="base64">b3VpbWVhdXgK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">b3VpbWVhdXhbc2VydmVyXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
