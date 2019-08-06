@@ -27,6 +27,9 @@
         <mark key="." line="25" column="35" />
         <mark key="^" line="25" column="35" />
       </file>
+      <file name="/a.dummy" timestamp="1565066212391">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/wemo/Wemo.java" timestamp="1564875785408">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="0" />
@@ -133,6 +136,12 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/config/routes.rb" timestamp="1565065666634">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career/workflows/src/main/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillManagementTest.kt" timestamp="1564612021891">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="0" />
@@ -165,6 +174,9 @@
         <mark key="]" line="19" column="12" />
         <mark key="^" line="19" column="12" />
         <mark key="." line="19" column="12" />
+      </file>
+      <file name="/Python Console" timestamp="1564958738109">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" timestamp="1564961117742">
         <mark key="'" line="99" column="0" />
@@ -227,6 +239,9 @@
         <mark key="^" line="29" column="25" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1564869366113">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/device/switch.py" timestamp="1564989984567">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="2" column="9" />
@@ -242,6 +257,9 @@
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1564960422244">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/tweet/requirements.txt" timestamp="1564949243700">
         <mark key="[" line="8" column="0" />
@@ -290,6 +308,12 @@
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="22" />
         <mark key="^" line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events.rb" timestamp="1565066258719">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1564788344055">
         <mark key="'" line="38" column="0" />
@@ -442,8 +466,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBza2lwCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;my_channel_#{current_user.id}&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -463,11 +487,11 @@
       <register name="/" type="4">
         <text>wemo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">b3VpbWVhdXgK</text>
+      <register name="0" type="4">
+        <text>&quot;my_channel_#{current_user.id}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBza2lwCg==</text>
+        <text encoding="base64">ICBnZXQgJy8nLCB0bzogcmVkaXJlY3QoJy9pbmRleC5odG1sJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -483,19 +507,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aHJlYWQgeyBjaHJvbWVjYXN0LnJ1bigpIH0K</text>
+        <text encoding="base64">ICAgICAgICBza2lwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHl5YW1sCg==</text>
+        <text encoding="base64">ICB0aHJlYWQgeyBjaHJvbWVjYXN0LnJ1bigpIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWVzdHMgPj0gMi4zLjAK</text>
+        <text encoding="base64">cHl5YW1sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2V2ZW50ID49IDEuMy4wCg==</text>
+        <text encoding="base64">cmVxdWVzdHMgPj0gMi4zLjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
+        <text encoding="base64">Z2V2ZW50ID49IDEuMy4wCg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -515,16 +539,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUREIHJlcXVpcmVtZW50cy50eHQgcmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIGxzIHdlbW8K</text>
+        <text encoding="base64">QUREIHJlcXVpcmVtZW50cy50eHQgcmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0aHJlYWQgeyB3ZW1vLnJ1bigpIH0K</text>
+        <text encoding="base64">UlVOIGxzIHdlbW8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
