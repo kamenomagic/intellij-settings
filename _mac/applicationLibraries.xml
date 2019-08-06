@@ -2134,6 +2134,26 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3@carkit/gems/debase-0.2.2/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.2.3.beta5, RVM: ruby-2.5.3 [carkit]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2154,6 +2174,26 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3@carkit/gems/debase-0.2.3.beta5/test" />
       </excluded>
     </library>
+    <library name="debase (v0.2.3.beta5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-0.2.3.beta5/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.5, RVM: ruby-2.5.3 [carkit]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2164,6 +2204,18 @@
       <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3@carkit/gems/debase-ruby_core_source-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-ruby_core_source-0.10.5/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/debase-ruby_core_source-0.10.5/lib" />
       </SOURCES>
     </library>
     <library name="declarative (v0.0.10, RVM: ruby-2.5.3 [carkit]) [gem]" type="rubylib">
@@ -6809,6 +6861,26 @@
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3@carkit/gems/ruby-debug-ide-0.7.0.beta7/bin" />
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3@carkit/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.7.0.beta7, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/ruby-debug-ide-0.7.0.beta7/ext" />
       </excluded>
     </library>
     <library name="ruby-graphviz (v1.2.4, RVM: ruby-2.5.3 [carkit]) [gem]" type="rubylib">
