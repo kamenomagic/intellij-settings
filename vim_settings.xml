@@ -214,11 +214,11 @@
       <file name="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" timestamp="1564990007303">
         <mark key="'" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/ssp/synchronicity_socket.py" timestamp="1565028145656">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/ssp/synchronicity_socket.py" timestamp="1565068084719">
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="20" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/main.kt" timestamp="1564977695256">
         <mark key="[" line="4" column="13" />
@@ -272,6 +272,12 @@
         <mark key="]" line="171" column="17" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="18" column="60" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/application_cable/connection.rb" timestamp="1565068365318">
+        <mark key="[" line="1" column="50" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastRequest.java" timestamp="1564954950062">
         <mark key="'" line="55" column="4" />
@@ -361,7 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="17" filename="$USER_HOME$/dev/synchronicity-home/python/tweet/train.py" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/tweet/train.py" />
       <jump line="131" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/tweet/train.py" />
       <jump line="58" column="20" filename="$USER_HOME$/dev/synchronicity-home/python/tweet/train.py" />
@@ -461,13 +466,14 @@
       <jump line="23" column="39" filename="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/config.py" />
       <jump line="24" column="33" filename="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/config.py" />
       <jump line="2" column="10" filename="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" />
+      <jump line="5" column="12" filename="$USER_HOME$/dev/synchronicity-home/python/ssp/synchronicity_socket.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;my_channel_#{current_user.id}&quot;</text>
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -482,7 +488,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5zdGFsbCA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>wemo</text>
@@ -491,7 +497,7 @@
         <text>&quot;my_channel_#{current_user.id}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXQgJy8nLCB0bzogcmVkaXJlY3QoJy9pbmRleC5odG1sJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -507,19 +513,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBza2lwCg==</text>
+        <text encoding="base64">ICAgICAgICBzLmxpc3RlbigpCiAgICAgICAgY29ubiwgYWRkciA9IHMuYWNjZXB0KCkKICAgICAgICB3aXRoIGNvbm46CiAgICAgICAgICAgIHByaW50KCdDb25uZWN0ZWQgYnknLCBhZGRyKQogICAgICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICAgICAgZGF0YSA9IGNvbm4ucmVjdigxMDI0KQogICAgICAgICAgICAgICAgaWYgbm90IGRhdGE6CiAgICAgICAgICAgICAgICAgICAgYnJlYWsKICAgICAgICAgICAgICAgIGNvbm4uc2VuZGFsbChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aHJlYWQgeyBjaHJvbWVjYXN0LnJ1bigpIH0K</text>
+        <text encoding="base64">ICAgIHByaW50KCdodCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHl5YW1sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVxdWVzdHMgPj0gMi4zLjAK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2V2ZW50ID49IDEuMy4wCg==</text>
+        <text encoding="base64">ICBnZXQgJy8nLCB0bzogcmVkaXJlY3QoJy9pbmRleC5odG1sJykK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -539,16 +545,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQK</text>
+        <text encoding="base64">ICAgICAgICBza2lwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QUREIHJlcXVpcmVtZW50cy50eHQgcmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">ICB0aHJlYWQgeyBjaHJvbWVjYXN0LnJ1bigpIH0K</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGxzIHdlbW8K</text>
+        <text encoding="base64">cHl5YW1sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
