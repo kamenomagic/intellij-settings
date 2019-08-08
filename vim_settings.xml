@@ -171,8 +171,8 @@
         <mark key="^" line="44" column="25" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" timestamp="1565220163513">
-        <mark key="'" line="29" column="59" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" timestamp="1565276944078">
+        <mark key="'" line="20" column="17" />
         <mark key="[" line="37" column="3" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -361,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="24" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
       <jump line="44" column="2" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
       <jump line="152" column="0" filename="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/Webcams.java" />
@@ -461,6 +460,7 @@
       <jump line="18" column="80" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
       <jump line="252" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/ouimeaux/environment.py" />
       <jump line="10" column="48" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
+      <jump line="20" column="17" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
