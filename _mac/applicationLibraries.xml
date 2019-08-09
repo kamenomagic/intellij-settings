@@ -1257,6 +1257,28 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoparse-0.3.3/tasks" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.6.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/spec" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/vendor" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/.github" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/spec" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/vendor" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/spec" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.6.1/.github" />
+      </excluded>
+    </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2010,6 +2032,43 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/ext" />
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/.github" />
       </excluded>
+    </library>
+    <library name="bootstrap (v4.3.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/tasks" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-4.3.1/assets" />
+      </excluded>
+    </library>
+    <library name="bootstrap-datepicker-rails (v1.8.0.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-datepicker-rails-1.8.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-datepicker-rails-1.8.0.1/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-datepicker-rails-1.8.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/bootstrap-datepicker-rails-1.8.0.1/vendor" />
+      </SOURCES>
     </library>
     <library name="brakeman (v4.3.0, RVM: ruby-2.5.5) [gem]" type="rubylib">
       <properties>
@@ -6841,6 +6900,23 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.5.5/gems/pg-1.1.4/spec" />
       </excluded>
     </library>
+    <library name="popper_js (v1.14.5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/popper_js-1.14.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/popper_js-1.14.5/assets" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/popper_js-1.14.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/popper_js-1.14.5/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/popper_js-1.14.5/assets" />
+      </excluded>
+    </library>
     <library name="power_assert (v1.1.1, RVM: ruby-2.5.3 [carkit]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8983,6 +9059,48 @@
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sass-rails-5.0.7/lib" />
       </SOURCES>
+    </library>
+    <library name="sassc (v2.0.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/2.0.1" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/sassc/2.0.1" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/ext" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-2.0.1/test" />
+      </excluded>
+    </library>
+    <library name="sassc-rails (v2.1.2, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sassc-rails-2.1.2/gemfiles" />
+      </excluded>
     </library>
     <library name="selenium-webdriver (v3.142.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
