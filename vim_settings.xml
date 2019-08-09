@@ -78,9 +78,9 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" timestamp="1565331532194">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="6" column="3" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" timestamp="1565380190259">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="55" />
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="3" />
       </file>
@@ -189,12 +189,12 @@
       <file name="/a.sql" timestamp="1564869366113">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/client_channel.rb" timestamp="1565331545492">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/client_channel.rb" timestamp="1565380281760">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/application_cable/channel.rb" timestamp="1565331609492">
         <mark key="[" line="2" column="0" />
@@ -245,12 +245,12 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" timestamp="1565331799924">
-        <mark key="'" line="59" column="40" />
-        <mark key="[" line="55" column="75" />
-        <mark key="]" line="55" column="76" />
-        <mark key="." line="55" column="75" />
-        <mark key="^" line="55" column="63" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" timestamp="1565380453067">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events.rb" timestamp="1565066258719">
         <mark key="[" line="2" column="9" />
@@ -269,9 +269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
-      <jump line="16" column="42" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" />
       <jump line="2" column="28" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/application_controller.rb" />
       <jump line="13" column="25" filename="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable/channel/broadcasting.rb" />
       <jump line="14" column="72" filename="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable/channel/broadcasting.rb" />
@@ -345,10 +342,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="84" column="90" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/synchronicity-home/jvm/.env" />
-      <jump line="50" column="19" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="53" column="21" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="55" column="18" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="58" column="40" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="10" column="13" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/client_channel.rb" />
       <jump line="9" column="4" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/views/health/health.html.erb" />
@@ -369,13 +364,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/db/seeds.rb" />
       <jump line="66" column="15" filename="$USER_HOME$/dev/ruby/synchronicity-hub/Gemfile" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/Gemfile" />
+      <jump line="50" column="35" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="90" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="58" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="42" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QWRtaW4uY3JlYXRlIShlbWFpbDogJ2FkbWluQGV4YW1wbGUuY29tJywgcGFzc3dvcmQ6ICdwYXNzd29yZCcsIHBhc3N3b3JkX2NvbmZpcm1hdGlvbjogJ3Bhc3N3b3JkJykgaWYgUmFpbHMuZW52LmRldmVsb3BtZW50Pwo=</text>
+      <register name="&quot;" type="4">
+        <text>device</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -393,35 +393,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>device</text>
       </register>
       <register name="/" type="4">
         <text>jquery</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8JT0gbGFiZWxfdGFnKDp3ZWlnaHQsICJXZWlnaHQ6IikgJT4K</text>
+        <text encoding="base64">ICAgIEFjdGlvbkNhYmxlLnNlcnZlci5icm9hZGNhc3Qoc2VsZi5jbGFzcy5uYW1lLCBkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRtaW4uY3JlYXRlIShlbWFpbDogJ2FkbWluQGV4YW1wbGUuY29tJywgcGFzc3dvcmQ6ICdwYXNzd29yZCcsIHBhc3N3b3JkX2NvbmZpcm1hdGlvbjogJ3Bhc3N3b3JkJykgaWYgUmFpbHMuZW52LmRldmVsb3BtZW50Pwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f'f-ldt-pldt'F-hpf'f'xf'x0j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbnMsIEFjdGl2ZUFkbWluOjpEZXZpc2UuY29uZgo=</text>
+        <text encoding="base64">ICBkZWYK</text>
       </register>
-      <register name="3" type="4">
-        <text>ig
-  # devise_for :admins, ActiveAdmin::Devise.config</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBY3RpdmVBZG1pbi5yb3V0ZXMoc2VsZikK</text>
+        <text encoding="base64">ICBkZWYgY2xpZW50X25hbWUKICAgICIje3NlbGYuY2xhc3MubmFtZX06I3tjbGllbnQuY2xpZW50X2lkfSIKICBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbnMsIEFjdGl2ZUFkbWluOjpEZXZpc2UuY29uZmlnCg==</text>
+        <text encoding="base64">QWRtaW4uY3JlYXRlIShlbWFpbDogJ2FkbWluQGV4YW1wbGUuY29tJywgcGFzc3dvcmQ6ICdwYXNzd29yZCcsIHBhc3N3b3JkX2NvbmZpcm1hdGlvbjogJ3Bhc3N3b3JkJykgaWYgUmFpbHMuZW52LmRldmVsb3BtZW50Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIEluY2x1ZGUgZGVmYXVsdCBkZXZpc2UgbW9kdWxlcy4gT3RoZXJzIGF2YWlsYWJsZSBhcmU6CiAgIyA6Y29uZmlybWFibGUsIDpsb2NrYWJsZSwgOnRpbWVvdXRhYmxlLCA6dHJhY2thYmxlIGFuZCA6b21uaWF1dGhhYmxlCiAgZGV2aXNlIDpkYXRhYmFzZV9hdXRoZW50aWNhdGFibGUsIAogICAgICAgICA6cmVjb3ZlcmFibGUsIDpyZW1lbWJlcmFibGUsIDp2YWxpZGF0YWJsZQo=</text>
+        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbnMsIEFjdGl2ZUFkbWluOjpEZXZpc2UuY29uZgo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -440,17 +439,18 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbl91c2VycywgQWN0aXZlQWRtaW46OkRldmlzZS5jb25maWcK</text>
+      <register name="7" type="4">
+        <text>ig
+  # devise_for :admins, ActiveAdmin::Devise.config</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbl91c2VycywgQWN0aXZlQWRtaW46OkRldmlzZS5jb25maWcK</text>
+        <text encoding="base64">ICBBY3RpdmVBZG1pbi5yb3V0ZXMoc2VsZikK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZGF0ZXBpY2tlcl9pbnB1dCBmb3JtLCBmaWVsZAogICAgY29udGVudF90YWcgOnRkLCA6ZGF0YSA9PiB7OnByb3ZpZGUgPT4gJ2RhdGVwaWNrZXInLCAnZGF0ZS1mb3JtYXQnID0+ICd5eXl5LW1tLWRkJywgJ2RhdGUtYXV0b2Nsb3NlJyA9PiAndHJ1ZSd9IGRvCiAgICAgIGZvcm0udGV4dF9maWVsZCBmaWVsZCwgY2xhc3M6ICdmb3JtLWNvbnRyb2wnLCBwbGFjZWhvbGRlcjogJ1lZWVktTU0tREQnCiAgICBlbmQKICBlbmQK</text>
+        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbnMsIEFjdGl2ZUFkbWluOjpEZXZpc2UuY29uZmlnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
