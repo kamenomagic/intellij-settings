@@ -245,12 +245,11 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" timestamp="1565380453067">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" timestamp="1565382503780">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events.rb" timestamp="1565066258719">
         <mark key="[" line="2" column="9" />
@@ -374,8 +373,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>device</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -402,25 +401,25 @@
         <text encoding="base64">ICAgIEFjdGlvbkNhYmxlLnNlcnZlci5icm9hZGNhc3Qoc2VsZi5jbGFzcy5uYW1lLCBkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f'f-ldt-pldt'F-hpf'f'xf'x0j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgY2xpZW50X25hbWUKICAgICIje3NlbGYuY2xhc3MubmFtZX06I3tjbGllbnQuY2xpZW50X2lkfSIKICBlbmQK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QWRtaW4uY3JlYXRlIShlbWFpbDogJ2FkbWluQGV4YW1wbGUuY29tJywgcGFzc3dvcmQ6ICdwYXNzd29yZCcsIHBhc3N3b3JkX2NvbmZpcm1hdGlvbjogJ3Bhc3N3b3JkJykgaWYgUmFpbHMuZW52LmRldmVsb3BtZW50Pwo=</text>
+        <text encoding="base64">ICBkZWYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbnMsIEFjdGl2ZUFkbWluOjpEZXZpc2UuY29uZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -439,18 +438,17 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text>ig
-  # devise_for :admins, ActiveAdmin::Devise.config</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBkZWYgY2xpZW50X25hbWUKICAgICIje3NlbGYuY2xhc3MubmFtZX06I3tjbGllbnQuY2xpZW50X2lkfSIKICBlbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBBY3RpdmVBZG1pbi5yb3V0ZXMoc2VsZikK</text>
+        <text encoding="base64">QWRtaW4uY3JlYXRlIShlbWFpbDogJ2FkbWluQGV4YW1wbGUuY29tJywgcGFzc3dvcmQ6ICdwYXNzd29yZCcsIHBhc3N3b3JkX2NvbmZpcm1hdGlvbjogJ3Bhc3N3b3JkJykgaWYgUmFpbHMuZW52LmRldmVsb3BtZW50Pwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbnMsIEFjdGl2ZUFkbWluOjpEZXZpc2UuY29uZmlnCg==</text>
+        <text encoding="base64">ICBkZXZpc2VfZm9yIDphZG1pbnMsIEFjdGl2ZUFkbWluOjpEZXZpc2UuY29uZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
