@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/dashboard_controller.rb" timestamp="1565332749438">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/main.kt" timestamp="1565296209098">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="5" column="23" />
@@ -43,6 +49,11 @@
         <mark key="]" line="7" column="11" />
         <mark key="^" line="7" column="11" />
         <mark key="." line="7" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/views/layouts/application.html.erb" timestamp="1565332807718">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/ssp.kt" timestamp="1565296023617">
         <mark key="[" line="0" column="9" />
@@ -120,10 +131,10 @@
         <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/config/routes.rb" timestamp="1565326346058">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" timestamp="1565276944078">
         <mark key="'" line="20" column="17" />
@@ -152,7 +163,7 @@
       <file name="/Python Console" timestamp="1565331801934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1565331634493">
+      <file name="/Ruby Console" timestamp="1565332675526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1565220215428">
@@ -370,8 +381,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDwlIGlmIHVzZXJfc2lnbmVkX2luPyAlPgogICAgICA8JT0gbGlua190bygnbG9nb3V0JywgZGVzdHJveV91c2VyX3Nlc3Npb25fcGF0aCwgbWV0aG9kOiA6ZGVsZXRlKSAlPgogICAgPCUgZWxzZSAlPgogICAgICA8JT0gbGlua190bygnbG9naW4nLCBuZXdfdXNlcl9zZXNzaW9uX3BhdGgpICU+CiAgICA8JSBlbmQgJT4K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -386,7 +397,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">PGgxPkV4YW1wbGU8L2gxPg==</text>
       </register>
       <register name="/" type="4">
         <text>type</text>
@@ -395,7 +406,7 @@
         <text encoding="base64">ICAgICAgICBzdWJzY3JpYmUoJ0V2ZW50c0NoYW5uZWwnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24oJ2NsaWVudHMnKQo=</text>
+        <text encoding="base64">ICAgIDwlIGlmIHVzZXJfc2lnbmVkX2luPyAlPgogICAgICA8JT0gbGlua190bygnbG9nb3V0JywgZGVzdHJveV91c2VyX3Nlc3Npb25fcGF0aCwgbWV0aG9kOiA6ZGVsZXRlKSAlPgogICAgPCUgZWxzZSAlPgogICAgICA8JT0gbGlua190bygnbG9naW4nLCBuZXdfdXNlcl9zZXNzaW9uX3BhdGgpICU+CiAgICA8JSBlbmQgJT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -411,19 +422,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBjaGFubmVsX25hbWUgPSBzZWxmLmNsYXNzLm5hbWUuZGVtb2R1bGl6ZQogICAgQEBjbGllbnRzID0gU2V0W10KCiAgICBkZWYgZXZlbnRfY2xpZW50cygpCgogICAgZW5kCgogICAgZGVmIGNsaWVudHMoZGF0YSkKICAgICAgQWN0aW9uQ2FibGUuc2VydmVyLmJyb2FkY2FzdChkYXRhWydjaGFubmVsX25hbWUnXSwge2NsaWVudHM6IEBAY2xpZW50c30uYXNfanNvbikKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb24oJ2NsaWVudHMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBAY2xpZW50cyAtIFtjbGllbnRdCg==</text>
+        <text encoding="base64">ICAgIEBjaGFubmVsX25hbWUgPSBzZWxmLmNsYXNzLm5hbWUuZGVtb2R1bGl6ZQogICAgQEBjbGllbnRzID0gU2V0W10KCiAgICBkZWYgZXZlbnRfY2xpZW50cygpCgogICAgZW5kCgogICAgZGVmIGNsaWVudHMoZGF0YSkKICAgICAgQWN0aW9uQ2FibGUuc2VydmVyLmJyb2FkY2FzdChkYXRhWydjaGFubmVsX25hbWUnXSwge2NsaWVudHM6IEBAY2xpZW50c30uYXNfanNvbikKICAgIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBAY2xpZW50cy5hZGQoY2xpZW50KQo=</text>
+        <text encoding="base64">ICAgIEBAY2xpZW50cyAtIFtjbGllbnRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBAZXZlbnRfY2xpZW50cy5hZGQoY2xpZW50KQo=</text>
+        <text encoding="base64">ICAgIEBAY2xpZW50cy5hZGQoY2xpZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBAZXZlbnRfY2xpZW50cyAtIFtjbGllbnRdCg==</text>
+        <text encoding="base64">ICAgIEBAZXZlbnRfY2xpZW50cy5hZGQoY2xpZW50KQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -443,19 +454,19 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcgo=</text>
+        <text encoding="base64">ICAgIEBAZXZlbnRfY2xpZW50cyAtIFtjbGllbnRdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFjdGlvbkNhYmxlLnNlcnZlci5vcAo=</text>
+        <text encoding="base64">ICAgIHNlcgo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIGNsaWVudF9uYW1lCiAgICAiI3tAQGNoYW5uZWxfbmFtZX06I3tjbGllbnQuY2xpZW50X2lkfSIKICBlbmQK</text>
+        <text encoding="base64">ICAgIEFjdGlvbkNhYmxlLnNlcnZlci5vcAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -509,8 +520,8 @@
         <entry>ww</entry>
         <entry>noh</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
