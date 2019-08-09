@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/config.py" timestamp="1564989331300">
+        <mark key="'" line="24" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/dashboard_controller.rb" timestamp="1565364241700">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="36" />
@@ -78,7 +81,8 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" timestamp="1565383954006">
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" timestamp="1565385663393">
+        <mark key="'" line="0" column="42" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="6" column="3" />
@@ -155,6 +159,9 @@
       <file name="/Python Console" timestamp="1565383967993">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" timestamp="1564961117742">
+        <mark key="'" line="99" column="0" />
+      </file>
       <file name="/Ruby Console" timestamp="1565383964887">
         <mark key="[" line="0" column="0" />
       </file>
@@ -174,6 +181,9 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" timestamp="1564990007303">
+        <mark key="'" line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/main.kt" timestamp="1564977695256">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="19" />
@@ -186,6 +196,12 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable.rb" timestamp="1565385702493">
+        <mark key="'" line="45" column="9" />
+      </file>
+      <file name="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable/channel/broadcasting.rb" timestamp="1565318550691">
+        <mark key="'" line="14" column="72" />
+      </file>
       <file name="/a.sql" timestamp="1564869366113">
         <mark key="[" line="0" column="0" />
       </file>
@@ -196,7 +212,8 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/application_cable/channel.rb" timestamp="1565331609492">
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/application_cable/channel.rb" timestamp="1565385667778">
+        <mark key="'" line="1" column="28" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -268,9 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="28" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/application_controller.rb" />
-      <jump line="13" column="25" filename="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable/channel/broadcasting.rb" />
-      <jump line="14" column="72" filename="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable/channel/broadcasting.rb" />
       <jump line="55" column="8" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
       <jump line="58" column="12" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
@@ -368,6 +382,9 @@
       <jump line="58" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="42" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="0" column="42" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" />
+      <jump line="1" column="28" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/application_cable/channel.rb" />
+      <jump line="45" column="9" filename="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable.rb" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -493,7 +510,6 @@
         <entry>w'</entry>
         <entry>vs</entry>
         <entry>wqa</entry>
-        <entry>q</entry>
         <entry>wa</entry>
         <entry>w';w</entry>
         <entry encoding="base64">dyA=</entry>
@@ -506,6 +522,7 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz53cQ==</entry>
         <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
