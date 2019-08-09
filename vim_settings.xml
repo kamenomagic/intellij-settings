@@ -65,12 +65,12 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1565318022241">
+      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1565320992293">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="25" column="60" />
-        <mark key="]" line="25" column="66" />
-        <mark key="." line="25" column="66" />
-        <mark key="^" line="25" column="66" />
+        <mark key="[" line="65" column="0" />
+        <mark key="m" line="57" column="24" />
+        <mark key="]" line="65" column="12" />
+        <mark key="." line="65" column="12" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/main.py" timestamp="1565241803670">
         <mark key="[" line="2" column="18" />
@@ -134,19 +134,19 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/application_controller.rb" timestamp="1565319371483">
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="47" />
-        <mark key="." line="2" column="47" />
-        <mark key="^" line="2" column="47" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/application_controller.rb" timestamp="1565320296726">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="61" />
+        <mark key="^" line="2" column="61" />
       </file>
-      <file name="/Python Console" timestamp="1565318936551">
+      <file name="/Python Console" timestamp="1565321008808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" timestamp="1564961117742">
         <mark key="'" line="99" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1565318887077">
+      <file name="/Ruby Console" timestamp="1565320294755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1565220215428">
@@ -349,7 +349,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEV2ZW50c0NoYW5uZWwuYnJvYWRjYXN0X3RvKHt9LCAndGVzdHRsaycpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -373,7 +373,7 @@
         <text encoding="base64">a2V5PSR7a2V5fSZpZD0ke1VSTEVuY29kZXIuZW5jb2RlKGlkKX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEV2ZW50c0NoYW5uZWwuYnJvYWRjYXN0X3RvKHt9LCAndGVzdHRsaycpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -389,19 +389,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1cnJlbnQK</text>
+        <text encoding="base64">ICAgIGlmIG1lc3NhZ2VbJ2lkZW50aWZpZXInXToKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCAK</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2UuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNvY2tldC5zZW5kCg==</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHV1aWQuZ2V0bm9kZSgpKQo=</text>
+        <text encoding="base64">ICAgIEV2ZW50c0NoYW5uZWwuYnJvYWRjYXN0X3RvKHt9LCAndGVzdHRsaycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cK</text>
+        <text encoding="base64">ICAgIGN1cnJlbnQK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -421,16 +421,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBkb3RlbnYgPSAK</text>
+        <text encoding="base64">ICAgIGNsaWVudCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGNsYXNzIE1lc3NhZ2UodmFsIHR5cGU6IFN0cmluZywgdmFsIG1lc3NhZ2U6IFN0cmluZykK</text>
+        <text encoding="base64">ICAgIHNvY2tldC5zZW5kCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubmV0LlVSTAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHV1aWQuZ2V0bm9kZSgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
