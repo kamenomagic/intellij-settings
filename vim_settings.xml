@@ -99,7 +99,7 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1565484138806">
+      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1565485796100">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="21" />
@@ -120,11 +120,11 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/.env" timestamp="1565484259909">
+      <file name="$USER_HOME$/dev/synchronicity-home/python/.env" timestamp="1565486074081">
         <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="33" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/environment.py" timestamp="1564989219495">
         <mark key="[" line="16" column="5" />
@@ -344,12 +344,12 @@
         <mark key="[" line="220" column="18" />
         <mark key="]" line="220" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" timestamp="1565483722320">
-        <mark key="'" line="19" column="5" />
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="4" />
+      <file name="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" timestamp="1565486687665">
+        <mark key="'" line="17" column="18" />
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="20" />
+        <mark key="^" line="19" column="19" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/dash.example.yml" timestamp="1565484559564">
         <mark key="[" line="3" column="3" />
@@ -374,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="20" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="94" column="12" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
@@ -474,13 +473,14 @@
       <jump line="19" column="5" filename="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/modules/wemo/main.py" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
+      <jump line="16" column="18" filename="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>mac address here</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSAnNTQzMjI6NTQzMjInCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -498,13 +498,13 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>mac address here</text>
+        <text>54322</text>
       </register>
       <register name="/" type="4">
         <text>on</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1dHMgcGFyYW1zLmluc3BlY3QK</text>
+        <text encoding="base64">ICAgICAgLSAnNTQzMjI6NTQzMjInCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSB1dGlscy5vdWltZWF1eC5lbnZpcm9ubWVudCBpbXBvcnQgRW52aXJvbm1lbnQK</text>
