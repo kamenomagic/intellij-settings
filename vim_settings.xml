@@ -33,7 +33,7 @@
         <mark key="." line="55" column="30" />
         <mark key="^" line="55" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1565484116414">
+      <file name="/a.dummy" timestamp="1565494687965">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/events_controller.rb" timestamp="1565483054271">
@@ -207,6 +207,12 @@
       <file name="$USER_HOME$/dev/synchronicity-home/python/utils/ouimeaux/device/__init__.py" timestamp="1565477554770">
         <mark key="'" line="40" column="42" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub_facade.py" timestamp="1565494590276">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="/Python Console" timestamp="1565488456331">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,6 +250,13 @@
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/Dockerfile" timestamp="1564990007303">
         <mark key="'" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub_modules.py" timestamp="1565495196596">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="54" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/ssp/synchronicity_socket.py" timestamp="1565241269205">
         <mark key="'" line="33" column="4" />
@@ -328,23 +341,23 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" timestamp="1565482037254">
-        <mark key="'" line="83" column="8" />
-        <mark key="[" line="61" column="29" />
-        <mark key="]" line="61" column="29" />
-        <mark key="." line="61" column="29" />
-        <mark key="^" line="99" column="62" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" timestamp="1565495096707">
+        <mark key="'" line="39" column="17" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/utils/ouimeaux/environment.py" timestamp="1565478064289">
         <mark key="'" line="63" column="8" />
         <mark key="[" line="220" column="18" />
         <mark key="]" line="220" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" timestamp="1565488813319">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="20" />
+      <file name="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" timestamp="1565495335153">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="14" column="20" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/dash.example.yml" timestamp="1565484559564">
         <mark key="[" line="3" column="3" />
@@ -369,31 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="90" column="26" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="58" column="20" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="10" column="19" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="102" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="73" column="30" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="11" column="31" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
-      <jump line="7" column="37" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="16" column="18" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="52" column="18" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="55" column="18" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="59" column="22" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="63" column="22" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="78" column="19" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="79" column="19" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="87" column="19" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
-      <jump line="13" column="14" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/main.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" />
-      <jump line="19" column="18" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" />
       <jump line="41" column="31" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" />
       <jump line="45" column="19" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" />
       <jump line="56" column="18" filename="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" />
@@ -446,7 +434,6 @@
       <jump line="18" column="57" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
       <jump line="34" column="15" filename="$USER_HOME$/dev/synchronicity-home/python/modules/wemo/main.py" />
       <jump line="25" column="24" filename="$USER_HOME$/dev/synchronicity-home/python/modules/wemo/main.py" />
-      <jump line="65" column="23" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="14" column="23" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="36" column="13" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="53" column="8" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
@@ -469,13 +456,39 @@
       <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
       <jump line="16" column="18" filename="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" />
       <jump line="23" column="25" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
+      <jump line="64" column="31" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="17" column="25" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="32" column="21" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="42" column="26" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="30" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="18" column="27" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="45" column="28" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="82" column="16" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="16" column="12" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="104" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="108" column="4" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="21" column="11" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="112" column="6" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="15" column="17" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="39" column="17" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub_modules.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub_modules.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAnMTUwMDA6MTUwMDAnCg==</text>
+        <text encoding="base64">CiAgICBkZWYgaGFuZGxlX2V2ZW50KHNlbGYsIG1lc3NhZ2UpOgogICAgICAgIGlmIHNlbGYubW9kdWxlX2xvYWRlZCgnd2VtbycpIGFuZCAnd2VtbycgaW4gbWVzc2FnZVsnZXZlbnQnXSBhbmQgJ25hbWUnIGluIG1lc3NhZ2U6CiAgICAgICAgICAgIHNlbGYuaGFuZGxlX3dlbW8obWVzc2FnZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnZXIuaW5mbyhmJ1VuaGFuZGxlZCBldmVudDoge21lc3NhZ2V9JykK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -493,34 +506,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>15000</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>on</text>
+        <text>hubs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAnMTUwMDA6MTUwMDAnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oZidVbmhhbmRsZWQgZXZlbnQ6IHttZXNzYWdlfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSAnMTUwMDA6MTUwMDAnCg==</text>
+        <text encoding="base64">CiAgICBkZWYgaGFuZGxlX2V2ZW50KHNlbGYsIG1lc3NhZ2UpOgogICAgICAgIGlmIHNlbGYubW9kdWxlX2xvYWRlZCgnd2VtbycpIGFuZCAnd2VtbycgaW4gbWVzc2FnZVsnZXZlbnQnXSBhbmQgJ25hbWUnIGluIG1lc3NhZ2U6CiAgICAgICAgICAgIHNlbGYuaGFuZGxlX3dlbW8obWVzc2FnZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBsb2dnZXIuaW5mbyhmJ1VuaGFuZGxlZCBldmVudDoge21lc3NhZ2V9JykK</text>
       </register>
       <register name="q" type="4">
         <text>f'f-ldt-pldt'F-hpf'f'xf'x0j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSAnODc0MicK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXI6IHJvb3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbWVzc2FnZVsnZXZlbnQnXSA9PSAnd2Vtby10b2dnbGUnOgogICAgICAgICAgICAgICAgc2VsZi5tb2R1bGVzWyd3ZW1vJ10udG9nZ2xlKG1lc3NhZ2VbJ25hbWUnXSkKICAgICAgICAgICAgZWxpZiBtZXNzYWdlWydldmVudCddID09ICd3ZW1vLW9uJzoKICAgICAgICAgICAgICAgIHNlbGYubW9kdWxlc1snd2VtbyddLm9uKG1lc3NhZ2VbJ25hbWUnXSkKICAgICAgICAgICAgZWxpZiBtZXNzYWdlWydldmVudCddID09ICd3ZW1vLW9mZic6CiAgICAgICAgICAgICAgICBzZWxmLm1vZHVsZXNbJ3dlbW8nXS5vZmYobWVzc2FnZVsnbmFtZSddKQogICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5vdWltZWF1eC5lbnZpcm9ubWVudCBpbXBvcnQgRW52aXJvbm1lbnQK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CmZyb20gdXRpbHMuaHViLmh1Yl9mYWNhZGUgaW1wb3J0IEh1YkZhY2FkZQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHcK</text>
+        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfZXZlbnQoc2VsZiwgbWVzc2FnZSk6CiAgICAgICAgaWYgc2VsZi5tb2R1bGVfbG9hZGVkKCd3ZW1vJykgYW5kICd3ZW1vJyBpbiBtZXNzYWdlWydldmVudCddIGFuZCAnbmFtZScgaW4gbWVzc2FnZToKICAgICAgICAgICAgaWYgbWVzc2FnZVsnZXZlbnQnXSA9PSAnd2Vtby10b2dnbGUnOgogICAgICAgICAgICAgICAgc2VsZi5tb2R1bGVzWyd3ZW1vJ10udG9nZ2xlKG1lc3NhZ2VbJ25hbWUnXSkKICAgICAgICAgICAgZWxpZiBtZXNzYWdlWydldmVudCddID09ICd3ZW1vLW9uJzoKICAgICAgICAgICAgICAgIHNlbGYubW9kdWxlc1snd2VtbyddLm9uKG1lc3NhZ2VbJ25hbWUnXSkKICAgICAgICAgICAgZWxpZiBtZXNzYWdlWydldmVudCddID09ICd3ZW1vLW9mZic6CiAgICAgICAgICAgICAgICBzZWxmLm1vZHVsZXNbJ3dlbW8nXS5vZmYobWVzc2FnZVsnbmFtZSddKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBsb2dnZXIuaW5mbyhmJ1VuaGFuZGxlZCBldmVudDoge21lc3NhZ2V9JykKCiAgICBkZWYgbW9kdWxlX2xvYWRlZChzZWxmLCBtb2R1bGUpOgogICAgICAgIGlmIG1vZHVsZSBpbiBzZWxmLm1vZHVsZXM6CiAgICAgICAgICAgIHJldHVybiBUcnVlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKGYnTW9kdWxlICJ7bW9kdWxlfSIgbm90IGxvYWRlZCcpCiAgICAgICAgICAgIHJldHVybiBGYWxzZQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -540,34 +553,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfZXZlbnQoc2VsZiwgbWVzc2FnZSk6CiAgICAgICAgaWYgc2VsZi5tb2R1bGVfbG9hZGVkKCd3ZW1vJykgYW5kICd3ZW1vJyBpbiBtZXNzYWdlWydldmVudCddIGFuZCAnbmFtZScgaW4gbWVzc2FnZToKICAgICAgICAgICAgaWYgbWVzc2FnZVsnZXZlbnQnXSA9PSAnd2Vtby10b2dnbGUnOgogICAgICAgICAgICAgICAgc2VsZi5tb2R1bGVzWyd3ZW1vJ10udG9nZ2xlKG1lc3NhZ2VbJ25hbWUnXSkKICAgICAgICAgICAgZWxpZiBtZXNzYWdlWydldmVudCddID09ICd3ZW1vLW9uJzoKICAgICAgICAgICAgICAgIHNlbGYubW9kdWxlc1snd2VtbyddLm9uKG1lc3NhZ2VbJ25hbWUnXSkKICAgICAgICAgICAgZWxpZiBtZXNzYWdlWydldmVudCddID09ICd3ZW1vLW9mZic6CiAgICAgICAgICAgICAgICBzZWxmLm1vZHVsZXNbJ3dlbW8nXS5vZmYobWVzc2FnZVsnbmFtZSddKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBsb2dnZXIuaW5mbyhmJ1VuaGFuZGxlZCBldmVudDoge21lc3NhZ2V9JykKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1dHMgcGFyYW1zLmluc3BlY3QKICAgIHB1dHMgQEBrZXkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1vZHVsZXMgPSBtb2R1bGVzCg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcHJvdGVjdGVkCgogIGRlZiB0ZXN0CiAgICBoZWFkKDp1bmF1dGhvcml6ZWQpCiAgICAjIHJhaXNlIEV4Y2VwdGlvbgogIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmh1Yl9mYWNhZGUgPSBIdWJGYWNhZGUoc2VsZikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>on</last-search>
+      <last-search>hubs</last-search>
       <last-offset />
-      <last-pattern>on</last-pattern>
+      <last-pattern>hubs</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>requests</entry>
-        <entry>ins</entry>
         <entry>wemo</entry>
         <entry>roleName2</entry>
         <entry>roleDescription</entry>
@@ -586,6 +597,8 @@
         <entry>ping</entry>
         <entry>binary</entry>
         <entry>on</entry>
+        <entry>modules</entry>
+        <entry>hubs</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
