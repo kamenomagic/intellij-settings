@@ -99,12 +99,12 @@
         <mark key="." line="4" column="39" />
         <mark key="^" line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1565485796100">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="21" />
-        <mark key="^" line="4" column="21" />
-        <mark key="." line="4" column="21" />
+      <file name="$USER_HOME$/dev/synchronicity-home/python/main.py" timestamp="1565488280423">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="37" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="8" column="37" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/main.py" timestamp="1565475574820">
         <mark key="'" line="17" column="14" />
@@ -211,7 +211,7 @@
       <file name="$USER_HOME$/dev/synchronicity-home/python/utils/ouimeaux/device/__init__.py" timestamp="1565477554770">
         <mark key="'" line="40" column="42" />
       </file>
-      <file name="/Python Console" timestamp="1565482135615">
+      <file name="/Python Console" timestamp="1565488456331">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/chromecast/ChromecastOld.java" timestamp="1564961117742">
@@ -344,12 +344,11 @@
         <mark key="[" line="220" column="18" />
         <mark key="]" line="220" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" timestamp="1565486687665">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="21" column="19" />
+      <file name="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" timestamp="1565488813319">
+        <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="20" />
-        <mark key="^" line="19" column="19" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/dash.example.yml" timestamp="1565484559564">
         <mark key="[" line="3" column="3" />
@@ -374,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="12" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
       <jump line="99" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" />
@@ -474,13 +472,14 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/modules/wemo/main.py" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
       <jump line="16" column="18" filename="$USER_HOME$/dev/synchronicity-home/docker-compose.yml" />
+      <jump line="23" column="25" filename="$USER_HOME$/dev/synchronicity-home/python/main.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAnNTQzMjI6NTQzMjInCg==</text>
+        <text encoding="base64">ICAgICAgLSAnMTUwMDA6MTUwMDAnCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -498,34 +497,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>54322</text>
+        <text>15000</text>
       </register>
       <register name="/" type="4">
         <text>on</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLSAnNTQzMjI6NTQzMjInCg==</text>
+        <text encoding="base64">ICAgICAgLSAnMTUwMDA6MTUwMDAnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5vdWltZWF1eC5lbnZpcm9ubWVudCBpbXBvcnQgRW52aXJvbm1lbnQK</text>
+        <text encoding="base64">ICAgICAgLSAnMTUwMDA6MTUwMDAnCg==</text>
       </register>
       <register name="q" type="4">
         <text>f'f-ldt-pldt'F-hpf'f'xf'x0j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAnODc0MicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHcK</text>
+        <text encoding="base64">ICAgIHVzZXI6IHJvb3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5vdWltZWF1eC5lbnZpcm9ubWVudCBpbXBvcnQgRW52aXJvbm1lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1dHMgcGFyYW1zLmluc3BlY3QKICAgIHB1dHMgQEBrZXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgcHJvdGVjdGVkCgogIGRlZiB0ZXN0CiAgICBoZWFkKDp1bmF1dGhvcml6ZWQpCiAgICAjIHJhaXNlIEV4Y2VwdGlvbgogIGVuZAo=</text>
+        <text encoding="base64">ICAgIHcK</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -545,16 +544,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBza2lwX2JlZm9yZV9maWx0ZXIgOnZlcmlmeV9hdXRoZW50aWNpdHlfdG9rZW4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1dHMgJ1JBSVNFJwo=</text>
+        <text encoding="base64">ICAgIHB1dHMgcGFyYW1zLmluc3BlY3QKICAgIHB1dHMgQEBrZXkK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZAo=</text>
+        <text encoding="base64">CiAgcHJvdGVjdGVkCgogIGRlZiB0ZXN0CiAgICBoZWFkKDp1bmF1dGhvcml6ZWQpCiAgICAjIHJhaXNlIEV4Y2VwdGlvbgogIGVuZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
