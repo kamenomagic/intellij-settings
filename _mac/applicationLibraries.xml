@@ -7512,6 +7512,23 @@
         <root url="file:///usr/local/rvm/gems/ruby-2.5.5/gems/rack-2.0.7/example" />
       </excluded>
     </library>
+    <library name="rack-proxy (v0.6.5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rack-proxy-0.6.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rack-proxy-0.6.5/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rack-proxy-0.6.5/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rack-proxy-0.6.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rack-proxy-0.6.5/test" />
+      </excluded>
+    </library>
     <library name="rack-test (v0.6.3, RVM: ruby-2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8371,6 +8388,18 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.5.5/lib/ruby/2.5.0/rdoc/markdown" />
         <root url="file:///usr/local/rvm/rubies/ruby-2.5.5/lib/ruby/2.5.0/rdoc/generator" />
       </excluded>
+    </library>
+    <library name="react-rails (v2.6.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/react-rails-2.6.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/react-rails-2.6.0/lib" />
+      </SOURCES>
     </library>
     <library name="redis (v4.1.2, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
@@ -10050,6 +10079,32 @@
       <SOURCES>
         <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/web-console-3.7.0/lib" />
       </SOURCES>
+    </library>
+    <library name="webpacker (v4.0.7, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/docs" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/package" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/docs" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/package" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/docs" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/test" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/package" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/webpacker-4.0.7/gemfiles" />
+      </excluded>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.3 [carkit]) [gem]" type="rubylib">
       <properties>
