@@ -94,11 +94,12 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-list.js" timestamp="1565588336220">
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-list.js" timestamp="1565590113657">
         <mark key="'" line="17" column="12" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="47" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="47" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" timestamp="1565471675249">
         <mark key="'" line="0" column="42" />
@@ -185,12 +186,12 @@
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" timestamp="1565589386560">
-        <mark key="'" line="15" column="15" />
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="40" />
-        <mark key="." line="34" column="39" />
-        <mark key="^" line="34" column="42" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" timestamp="1565591048056">
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="35" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="/Python Console" timestamp="1565544841877">
         <mark key="[" line="0" column="0" />
@@ -488,19 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="2" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="49" column="22" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="38" column="13" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="17" column="31" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="96" column="2" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/config/environments/production.rb" />
-      <jump line="46" column="40" filename="$USER_HOME$/dev/ruby/synchronicity-hub/config/environments/production.rb" />
-      <jump line="48" column="8" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
-      <jump line="40" column="10" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
       <jump line="75" column="2" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
       <jump line="8" column="7" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
       <jump line="14" column="10" filename="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" />
@@ -582,19 +570,32 @@
       <jump line="40" column="5" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
       <jump line="17" column="17" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
       <jump line="25" column="17" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
-      <jump line="26" column="13" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
       <jump line="27" column="40" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
       <jump line="2" column="30" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
       <jump line="3" column="36" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
-      <jump line="9" column="21" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
       <jump line="15" column="15" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="35" column="62" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="37" column="14" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="52" column="6" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="36" column="10" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="13" column="52" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="41" column="44" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="48" column="23" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="30" column="67" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="9" column="9" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
+      <jump line="19" column="9" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>startDate</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -612,16 +613,16 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>startDate</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaGFuZGxlQ2hhbmdlRGF0ZSA9IHRoaXMuaGFuZGxlQ2hhbmdlRGF0ZS5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gPGgyPkFkZCB3ZWlnaHQ8L2gyPgogIC8vIHsvKiAgPCU9IGZvcm1fdGFnKCcvaGVhbHRoL3dlaWdodHMnLCBtZXRob2Q6ICdwb3N0JykgZG8gJT4qL30KICAvLyB7Lyo8JT0gbGFiZWxfdGFnKDpkYXRlLCAiRGF0ZToiKSAlPiovfQogIC8vIHsvKjxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLXByb3ZpZGU9J2RhdGVwaWNrZXInID4qL30KICAvLyB7Lyo8JT0gbGFiZWxfdGFnKDp3ZWlnaHQsICJXZWlnaHQ6IikgJT4qL30KICAvLyB7Lyo8JT0gdGV4dF9maWVsZF90YWcoOndlaWdodCkgJT4qL30KICAvLyB7Lyo8JT0gc3VibWl0X3RhZygiQWRkIikgJT4qL30KICAvLyB7Lyo8JSBlbmQgJT4qL30K</text>
+        <text encoding="base64">ICAgICAgc3RhcnREYXRlOiBkYXRlLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -666,19 +667,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgd2VpZ2h0OiB3ZWlnaHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Ly8gPGgyPkFkZCB3ZWlnaHQ8L2gyPgogIC8vIHsvKiAgPCU9IGZvcm1fdGFnKCcvaGVhbHRoL3dlaWdodHMnLCBtZXRob2Q6ICdwb3N0JykgZG8gJT4qL30KICAvLyB7Lyo8JT0gbGFiZWxfdGFnKDpkYXRlLCAiRGF0ZToiKSAlPiovfQogIC8vIHsvKjxpbnB1dCB0eXBlPSJ0ZXh0IiBkYXRhLXByb3ZpZGU9J2RhdGVwaWNrZXInID4qL30KICAvLyB7Lyo8JT0gbGFiZWxfdGFnKDp3ZWlnaHQsICJXZWlnaHQ6IikgJT4qL30KICAvLyB7Lyo8JT0gdGV4dF9maWVsZF90YWcoOndlaWdodCkgJT4qL30KICAvLyB7Lyo8JT0gc3VibWl0X3RhZygiQWRkIikgJT4qL30KICAvLyB7Lyo8JSBlbmQgJT4qL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -698,34 +699,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sprocket</entry>
-        <entry>jquery</entry>
         <entry>ping</entry>
         <entry>binary</entry>
         <entry>on</entry>
@@ -744,6 +743,8 @@
         <entry>health</entry>
         <entry>square</entry>
         <entry>date</entry>
+        <entry>strat</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>sv</entry>
