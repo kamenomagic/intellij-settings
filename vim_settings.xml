@@ -432,12 +432,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" timestamp="1565633338851">
-        <mark key="'" line="67" column="6" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" timestamp="1565634660132">
+        <mark key="'" line="86" column="8" />
+        <mark key="[" line="96" column="18" />
+        <mark key="]" line="96" column="22" />
+        <mark key="^" line="96" column="22" />
+        <mark key="." line="96" column="22" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/javascripts/application.js" timestamp="1565629552212">
         <mark key="'" line="0" column="0" />
@@ -502,8 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/WeightsList.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/WeightsList.js" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/health.scss" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health.js" />
       <jump line="9" column="13" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health.js" />
@@ -602,13 +600,15 @@
       <jump line="64" column="18" filename="$USER_HOME$/dev/instructure/bridge-career-everest/ui/packages/everest-ui/src/components/NavLink/index.js" />
       <jump line="6" column="10" filename="$USER_HOME$/dev/instructure/bridge-career-everest/ui/packages/everest-ui/src/components/NavLink/index.js" />
       <jump line="61" column="20" filename="$USER_HOME$/dev/instructure/bridge-career-everest/ui/packages/everest-ui/src/components/NavLink/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
+      <jump line="86" column="8" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgd2VpZ2h0czogcHJvcHMud2VpZ2h0cwogICAgfQogIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>props</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -626,7 +626,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>state</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
@@ -635,7 +635,7 @@
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgV2VpZ2h0cyBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgd2VpZ2h0czogcHJvcHMud2VpZ2h0cwogICAgfQogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICA8V2VpZ2h0c0xpc3Qgd2VpZ2h0cz17dGhpcy5zdGF0ZS53ZWlnaHRzfS8+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -680,19 +680,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgY29tcG9uZW50V2lsbFJlY2VpdmVQcm9wcyh7cHJvcHN9KSB7CiAgICB0aGlzLnNldFN0YXRlKHtwcm9wcy53ZWlnaHRzOiB3ZWlnaHRzfSkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8aDI+V2VpZ2h0czwvaDI+CiAgICAgICAgPHRhYmxlPgogICAgICAgICAgPHRib2R5PgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGg+RGF0ZTwvdGg+CiAgICAgICAgICAgIDx0aD5XZWlnaHQ8L3RoPgogICAgICAgICAgPC90cj4KICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICB7dGhpcy5wcm9wcy53ZWlnaHRzLm1hcCh3ZWlnaHQgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDx0ciBrZXk9e3dlaWdodC5pZH0+CiAgICAgICAgICAgICAgICA8dGQga2V5PXsnZGF0ZS0nICsgd2VpZ2h0LmlkfT57d2VpZ2h0LmRhdGV9PC90ZD4KICAgICAgICAgICAgICAgIDx0ZCBrZXk9eyd3ZWlnaHQtJyArIHdlaWdodC5pZH0+e3dlaWdodC53ZWlnaHR9PC90ZD4KICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICApCiAgICAgICAgICB9KX0KICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgc3VwZXIocHJvcHMpOwogICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgd2VpZ2h0czogcHJvcHMud2VpZ2h0cwogICAgfQogIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29tcG9uZW50V2lsbFJlY2VpdmVQcm9wcyh7cHJvcHN9KSB7CiAgICB0aGlzLnNldFN0YXRlKHtwcm9wcy53ZWlnaHRzOiB3ZWlnaHRzfSkKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCByZXNwb25zZSAgPSBheGlvcy5nZXQoJy9oZWFsdGgvd2VpZ2h0cycpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHdlaWdodDogJycsCiAgICAgIHdlaWdodHM6IHJlc3BvbnNlLmRhdGEKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -712,16 +712,16 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGFzcyBXZWlnaHRzTGlzdCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPGRpdj4KICAgICAgICAgIDxoMj5XZWlnaHRzPC9oMj4KICAgICAgICAgIDx0YWJsZT4KICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgPHRoPkRhdGU8L3RoPgogICAgICAgICAgICAgIDx0aD5XZWlnaHQ8L3RoPgogICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgIHt0aGlzLnByb3BzLndlaWdodHMubWFwKHdlaWdodCA9PiB7CiAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDx0ciBrZXk9e3dlaWdodC5pZH0+CiAgICAgICAgICAgICAgICAgIDx0ZCBrZXk9eydkYXRlLScgKyB3ZWlnaHQuaWR9Pnt3ZWlnaHQuZGF0ZX08L3RkPgogICAgICAgICAgICAgICAgICA8dGQga2V5PXsnd2VpZ2h0LScgKyB3ZWlnaHQuaWR9Pnt3ZWlnaHQud2VpZ2h0fTwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICkKICAgICAgICAgICAgfSl9CiAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICA8L3RhYmxlPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGxldCByZXNwb25zZSAgPSBheGlvcy5nZXQoJy9oZWFsdGgvd2VpZ2h0cycpOwogICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIHdlaWdodDogJycsCiAgICAgIHdlaWdodHM6IHJlc3BvbnNlLmRhdGEKICAgIH0pOwo=</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGFzcyBXZWlnaHRzTGlzdCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CiAgICByZW5kZXIoKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgPGRpdj4KICAgICAgICAgIDxoMj5XZWlnaHRzPC9oMj4KICAgICAgICAgIDx0YWJsZT4KICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgPHRoPkRhdGU8L3RoPgogICAgICAgICAgICAgIDx0aD5XZWlnaHQ8L3RoPgogICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICA8dGJvZHk+CiAgICAgICAgICAgIHt0aGlzLnByb3BzLndlaWdodHMubWFwKHdlaWdodCA9PiB7CiAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDx0ciBrZXk9e3dlaWdodC5pZH0+CiAgICAgICAgICAgICAgICAgIDx0ZCBrZXk9eydkYXRlLScgKyB3ZWlnaHQuaWR9Pnt3ZWlnaHQuZGF0ZX08L3RkPgogICAgICAgICAgICAgICAgICA8dGQga2V5PXsnd2VpZ2h0LScgKyB3ZWlnaHQuaWR9Pnt3ZWlnaHQud2VpZ2h0fTwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICkKICAgICAgICAgICAgfSl9CiAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgICA8L3RhYmxlPgogICAgICAgIDwvZGl2PgogICAgICApOwogICAgfQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
