@@ -55,12 +55,12 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/health_controller.rb" timestamp="1565664039931">
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/health_controller.rb" timestamp="1565731084221">
         <mark key="'" line="9" column="39" />
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="5" column="29" />
+        <mark key="[" line="18" column="75" />
+        <mark key="]" line="18" column="75" />
+        <mark key="." line="18" column="75" />
+        <mark key="^" line="18" column="75" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/modules/webcams/main.kt" timestamp="1565504555738">
         <mark key="'" line="16" column="0" />
@@ -614,8 +614,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGFzaExpbmsgfSBmcm9tICdyZWFjdC1yb3V0ZXItZG9tJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cnMg</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -633,7 +633,7 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>Hash</text>
+        <text encoding="base64">cnMg</text>
       </register>
       <register name="/" type="4">
         <text>=</text>
