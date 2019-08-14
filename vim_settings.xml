@@ -275,11 +275,12 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" timestamp="1565818184486">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="38" column="0" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" timestamp="1565822848877">
+        <mark key="'" line="30" column="32" />
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="55" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" timestamp="1565815535330">
         <mark key="'" line="52" column="1" />
@@ -336,12 +337,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1565818535107">
-        <mark key="'" line="57" column="24" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="37" column="51" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1565822838916">
+        <mark key="'" line="41" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="35" column="51" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/config/environments/development.rb" timestamp="1565510039709">
         <mark key="'" line="0" column="0" />
@@ -515,8 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="8" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="83" column="26" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
       <jump line="65" column="8" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
       <jump line="67" column="2" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
       <jump line="104" column="21" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
@@ -615,13 +614,15 @@
       <jump line="73" column="22" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
       <jump line="63" column="32" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" />
       <jump line="57" column="24" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" />
+      <jump line="43" column="2" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" />
+      <jump line="30" column="32" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgd2FpdCgpLnVudGlsIHsgaGFzUm9sZShyb2xlTmFtZSkgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uc2V0dXBSb2xlcwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -648,25 +649,25 @@
         <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgd2FpdCgpLnVudGlsIHsgaGFzUm9sZShyb2xlTmFtZSkgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLndvcmtmbG93cy51dGlsLnN0dWJzLnBlcmZvcm0uc2V0dXBSb2xlcwo=</text>
       </register>
       <register name="q" type="4">
         <text>xhr:n</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQoZXZlcmVzdE92ZXJ2aWV3Lmhhc1JvbGUoY3VzdG9tUm9sZSksIElzKHRydWUpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5pbnN0cnVjdHVyZS5icmlkZ2UuY2FyZWVyLmZ1dHVyZVJvbGVzLmRvbWFpbi5Sb2xlU2VydmljZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiRmlsdGVyIGEgZHVwbGljYXRlIHJvbGUiKSB7Ci8vICAgICAgICByb2xlc1BhZ2UudW5kb0RlbGV0ZShjdXN0b21Sb2xlKQovLyAgICAgICAgYXNzZXJ0VGhhdChyb2xlc1BhZ2UuaGFzUm9sZShjdXN0b21Sb2xlKSwgSXModHJ1ZSkpCi8vICAgICAgfSwKLy8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiRGVsZXRlIGEgcm9sZSIpIHsKLy8gICAgICAgIHJvbGVzUGFnZS5kZWxldGVSb2xlKGN1c3RvbVJvbGUpCi8vICAgICAgICBhc3NlcnRUaGF0KHJvbGVzUGFnZS5oYXNSb2xlKGN1c3RvbVJvbGUpLCBJcyhmYWxzZSkpCi8vICAgICAgfSwKCg==</text>
+        <text encoding="base64">Ly8gICAgd2FpdCgpLnVudGlsIHsgaGFzUm9sZShyb2xlTmFtZSkgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQocm9sZXNQYWdlLmhhc1JvbGUoY3VzdG9tUm9sZSksIElzKHRydWUpKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQoZXZlcmVzdE92ZXJ2aWV3Lmhhc1JvbGUoY3VzdG9tUm9sZSksIElzKHRydWUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
+        <text encoding="base64">Ly8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiRmlsdGVyIGEgZHVwbGljYXRlIHJvbGUiKSB7Ci8vICAgICAgICByb2xlc1BhZ2UudW5kb0RlbGV0ZShjdXN0b21Sb2xlKQovLyAgICAgICAgYXNzZXJ0VGhhdChyb2xlc1BhZ2UuaGFzUm9sZShjdXN0b21Sb2xlKSwgSXModHJ1ZSkpCi8vICAgICAgfSwKLy8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiRGVsZXRlIGEgcm9sZSIpIHsKLy8gICAgICAgIHJvbGVzUGFnZS5kZWxldGVSb2xlKGN1c3RvbVJvbGUpCi8vICAgICAgICBhc3NlcnRUaGF0KHJvbGVzUGFnZS5oYXNSb2xlKGN1c3RvbVJvbGUpLCBJcyhmYWxzZSkpCi8vICAgICAgfSwKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwIDI1cHg7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQocm9sZXNQYWdlLmhhc1JvbGUoY3VzdG9tUm9sZSksIElzKHRydWUpKQo=</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -686,10 +687,10 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOmNlbnRlcjsK</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwIDI1cHg7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
