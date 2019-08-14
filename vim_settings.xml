@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/trainer.py" timestamp="1565473513754">
+        <mark key="'" line="88" column="22" />
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="12" />
+        <mark key="." line="88" column="22" />
+        <mark key="^" line="45" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/dashboard_controller.rb" timestamp="1565543980047">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="36" />
@@ -14,8 +21,39 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" timestamp="1565818075085">
+        <mark key="'" line="73" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/main.kt" timestamp="1565510596732">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/packs/application.js" timestamp="1565756717425">
         <mark key="'" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Roles.kt" timestamp="1565818537209">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/jvm/.env" timestamp="1565506937347">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="33" />
+        <mark key="." line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/events_controller.rb" timestamp="1565544903521">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/utils/ouimeaux/subscribe.py" timestamp="1565242760057">
         <mark key="[" line="9" column="26" />
@@ -29,11 +67,25 @@
         <mark key="." line="26" column="10" />
         <mark key="^" line="26" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/modules/webcams/main.kt" timestamp="1565504555738">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
+      </file>
       <file name="/usr/local/rvm/gems/ruby-2.5.3/gems/actioncable-5.2.3/lib/action_cable/connection/subscriptions.rb" timestamp="1565074640830">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="20" />
         <mark key="^" line="31" column="20" />
         <mark key="." line="31" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/modules/wemo/main.py" timestamp="1565483859995">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="51" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/modules/module.kt" timestamp="1565504563746">
         <mark key="[" line="2" column="0" />
@@ -87,11 +139,46 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/modules/webcams/webcams.kt" timestamp="1565541499978">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-list.js" timestamp="1565630645234">
+        <mark key="'" line="3" column="47" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="30" column="1" />
+        <mark key="." line="21" column="47" />
+        <mark key="^" line="21" column="47" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/modules/tweet/main.py" timestamp="1565475574820">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/events_channel.rb" timestamp="1565471675249">
+        <mark key="'" line="0" column="42" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/.env" timestamp="1565486074081">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub.kt" timestamp="1565544762957">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="65" column="13" />
+        <mark key="]" line="65" column="14" />
+        <mark key="." line="65" column="14" />
+        <mark key="^" line="65" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/health.js" timestamp="1565811065548">
         <mark key="'" line="7" column="0" />
@@ -106,6 +193,13 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/db/seeds.rb" timestamp="1565379335372">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="467" column="0" />
+        <mark key="]" line="467" column="0" />
+        <mark key="." line="467" column="0" />
+        <mark key="^" line="466" column="66" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub.kt" timestamp="1565296189144">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -117,11 +211,32 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/webcams/main.kt" timestamp="1565504179034">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/ssp/ssp.py" timestamp="1565322411242">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/dash.yml" timestamp="1565484419260">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/jvm/src/main/kotlin/hub/hub_modules.kt" timestamp="1565541657595">
+        <mark key="'" line="8" column="56" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/views/index.html.erb" timestamp="1565670723528">
         <mark key="[" line="13" column="0" />
@@ -135,12 +250,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/dashboard/dashboard.js" timestamp="1565812466884">
-        <mark key="'" line="28" column="6" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="12" />
-        <mark key="^" line="21" column="21" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/dashboard/dashboard.js" timestamp="1565816995537">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/config/routes.rb" timestamp="1565754292666">
         <mark key="'" line="18" column="4" />
@@ -161,24 +275,25 @@
         <mark key="^" line="30" column="23" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" timestamp="1565276944078">
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/util/stubs/perform/RolesHelper.kt" timestamp="1565818184486">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+        <mark key="^" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" timestamp="1565812221830">
-        <mark key="'" line="10" column="17" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-        <mark key="^" line="2" column="27" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" timestamp="1565815535330">
+        <mark key="'" line="52" column="1" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" timestamp="1565812300516">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" timestamp="1565817460785">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="30" column="18" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/main.py" timestamp="1564990850388">
         <mark key="[" line="9" column="31" />
@@ -192,32 +307,85 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/application_controller.rb" timestamp="1565665443964">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weight-form.js" timestamp="1565630599581">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="77" column="47" />
+        <mark key="." line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub_facade.py" timestamp="1565494590276">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="2" column="21" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/Ruby Console" timestamp="1565802545392">
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/RolesTest.kt" timestamp="1565818062575">
+        <mark key="'" line="36" column="8" />
+      </file>
+      <file name="/Ruby Console" timestamp="1565815431643">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1565220215428">
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="51" />
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" timestamp="1565818535107">
+        <mark key="'" line="57" column="24" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
         <mark key="^" line="37" column="51" />
-        <mark key="." line="37" column="51" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/config/environments/development.rb" timestamp="1565510039709">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="77" />
+        <mark key="^" line="61" column="76" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/controllers/clients_controller.rb" timestamp="1565544287201">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/Gemfile" timestamp="1565756703282">
         <mark key="'" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/main.kt" timestamp="1565293566217">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/views/dashboard/dashboard.html.erb" timestamp="1565755251586">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
         <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub_modules.py" timestamp="1565541665500">
+        <mark key="'" line="5" column="16" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/ssp/synchronicity_socket.py" timestamp="1565241269205">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="20" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/src/main/kotlin/webcams/main.kt" timestamp="1564977695256">
         <mark key="[" line="4" column="13" />
@@ -231,13 +399,31 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health.js" timestamp="1565631190386">
+        <mark key="'" line="14" column="1" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/index.js" timestamp="1565587371618">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="44" column="14" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/channels/client_channel.rb" timestamp="1565470339990">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1565751589405">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/WeightsList.js" timestamp="1565584392920">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/tmp/pids/server.pid" timestamp="1565751519867" />
       <file name="$USER_HOME$/dev/synchronicity-home/python/wemo/ouimeaux/device/switch.py" timestamp="1564989984567">
@@ -271,8 +457,12 @@
         <mark key="." line="155" column="29" />
         <mark key="^" line="155" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1565735881035">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/Health.js" timestamp="1565630624563">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/kotlin/Dockerfile" timestamp="1565293830100">
         <mark key="[" line="6" column="14" />
@@ -280,17 +470,24 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/synchronicity-home/python/utils/hub/hub.py" timestamp="1565544695596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="55" />
+        <mark key="^" line="39" column="57" />
+        <mark key="." line="39" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/synchronicity-home/jvm/Dockerfile" timestamp="1565511594673">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
         <mark key="^" line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/health.scss" timestamp="1565809751154">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/health.scss" timestamp="1565815801302">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/dev/synchronicity-home/dash.example.yml" timestamp="1565484559564">
         <mark key="[" line="3" column="3" />
@@ -309,37 +506,15 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/pages/Skills.kt" timestamp="1565818124583" />
       <file name="$USER_HOME$/dev/ruby/synchronicity-hub/db/migrate/20190809052353_create_clients.rb" timestamp="1565328326015">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1565725887257">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="11" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/dashboard/dashboard.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/health.js" />
-      <jump line="42" column="6" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="18" column="16" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights-list.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights-list.js" />
-      <jump line="27" column="40" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="95" column="4" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="89" column="2" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="97" column="21" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="91" column="10" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="99" column="24" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="86" column="4" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/Gemfile" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/packs/application.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
-      <jump line="59" column="23" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
       <jump line="78" column="8" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
       <jump line="83" column="26" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
       <jump line="65" column="8" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
@@ -420,13 +595,33 @@
       <jump line="3" column="19" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" />
       <jump line="135" column="12" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/health/weights.js" />
       <jump line="10" column="17" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" />
+      <jump line="52" column="1" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/application.scss" />
+      <jump line="4" column="43" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/dashboard/dashboard.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/health.scss" />
+      <jump line="10" column="13" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="9" column="13" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="19" column="12" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="19" column="33" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/javascript/components/dashboard/dashboard.js" />
+      <jump line="25" column="1" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="14" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="18" column="0" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="24" column="2" filename="$USER_HOME$/dev/ruby/synchronicity-hub/app/assets/stylesheets/dashboard.scss" />
+      <jump line="36" column="8" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/RolesTest.kt" />
+      <jump line="73" column="22" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomSkillsTest.kt" />
+      <jump line="63" column="32" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" />
+      <jump line="57" column="24" filename="$USER_HOME$/dev/instructure/bridge-career-everest/api/src/workflows/kotlin/com/instructure/bridge/career/workflows/tests/CustomRolesTest.kt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICh0Zi5zcXJ0KHRhcmdldFs6LCA6LCAxOjJdKSAtIHRmLnNxcnQob3V0cHV0WzosIDosIDE6Ml0pKSAqKiAyKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Ly8gICAgd2FpdCgpLnVudGlsIHsgaGFzUm9sZShyb2xlTmFtZSkgfQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -444,34 +639,34 @@
         <text>jk</text>
       </register>
       <register name="-" type="4">
-        <text>di</text>
+        <text>Dto</text>
       </register>
       <register name="/" type="4">
-        <text>old</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgd2FpdCgpLnVudGlsIHsgaGFzUm9sZShyb2xlTmFtZSkgfQo=</text>
       </register>
       <register name="q" type="4">
         <text>xhr:n</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L05hdi5JdGVtPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQoZXZlcmVzdE92ZXJ2aWV3Lmhhc1JvbGUoY3VzdG9tUm9sZSksIElzKHRydWUpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TmF2Lkl0ZW0+Cg==</text>
+        <text encoding="base64">Ly8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiRmlsdGVyIGEgZHVwbGljYXRlIHJvbGUiKSB7Ci8vICAgICAgICByb2xlc1BhZ2UudW5kb0RlbGV0ZShjdXN0b21Sb2xlKQovLyAgICAgICAgYXNzZXJ0VGhhdChyb2xlc1BhZ2UuaGFzUm9sZShjdXN0b21Sb2xlKSwgSXModHJ1ZSkpCi8vICAgICAgfSwKLy8KLy8gICAgICBEeW5hbWljVGVzdC5keW5hbWljVGVzdCgiRGVsZXRlIGEgcm9sZSIpIHsKLy8gICAgICAgIHJvbGVzUGFnZS5kZWxldGVSb2xlKGN1c3RvbVJvbGUpCi8vICAgICAgICBhc3NlcnRUaGF0KHJvbGVzUGFnZS5oYXNSb2xlKGN1c3RvbVJvbGUpLCBJcyhmYWxzZSkpCi8vICAgICAgfSwKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L05hdi5JdGVtPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQocm9sZXNQYWdlLmhhc1JvbGUoY3VzdG9tUm9sZSksIElzKHRydWUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TmF2Lkl0ZW0+Cg==</text>
+        <text encoding="base64">ICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L05hdj4K</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAwIDI1cHg7Cg==</text>
       </register>
       <register name="v" type="4">
         <keys>
@@ -491,34 +686,32 @@
         </keys>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TmF2IGNsYXNzTmFtZT0iTmF2Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPE5hdmJhci5Db2xsYXBzZSBpZD0iYmFzaWMtbmF2YmFyLW5hdiI+Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOmNlbnRlcjsK</text>
       </register>
       <register name="x" type="4">
         <text>null</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9OYXZiYXIuQ29sbGFwc2U+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>old</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>old</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace encoding="base64">PGJyPg==</last-replace>
       <last-substitute encoding="base64">PFwvYnI+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
-        <entry>message</entry>
         <entry>run</entry>
         <entry>health</entry>
         <entry>square</entry>
@@ -537,6 +730,8 @@
         <entry>Date.now</entry>
         <entry>console</entry>
         <entry>old</entry>
+        <entry>import</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -552,12 +747,12 @@
         <entry>e</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5x</entry>
-        <entry>noh</entry>
         <entry>vs</entry>
-        <entry>q</entry>
         <entry>2</entry>
-        <entry>wq</entry>
         <entry>sv</entry>
+        <entry>q</entry>
+        <entry>wq</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
