@@ -10509,6 +10509,26 @@
         <root url="file:///usr/local/rvm/rubies/ruby-2.5.5/lib/ruby/2.5.0/rdoc/generator" />
       </excluded>
     </library>
+    <library name="rdoc (v6.1.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/exe" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/rdoc-6.1.1/exe" />
+      </excluded>
+    </library>
     <library name="react-rails (v2.6.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -11842,6 +11862,26 @@
       </SOURCES>
       <excluded>
         <root url="file:///usr/local/rvm/gems/ruby-2.5.5/gems/scorm_engine-0.7.3/spec" />
+      </excluded>
+    </library>
+    <library name="sdoc (v1.0.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/lib" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/bin" />
+        <root url="file:///usr/local/rvm/gems/ruby-2.5.3/gems/sdoc-1.0.0/spec" />
       </excluded>
     </library>
     <library name="selenium-webdriver (v3.141.0, RVM: ruby-2.5.5) [gem]" type="rubylib">
